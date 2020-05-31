@@ -9,7 +9,7 @@ import java.util.Properties;
 public class FRLConfiguration 
 {
    // # 1.- Software System General Information #	
-   public String propertiesFilePath = "/Users/fannyriveraortiz/eclipse-workspace/ForensicReadyLogger/resources/frlconfig.properties";
+   public String propertiesFilePath = "/Users/fanny/eclipse-workspace/ForensicReadyLogger/resources/frlconfig.properties";
    public String projectName;
    public String jarFileName;
    public String jarFullFilePath;
@@ -298,12 +298,6 @@ public class FRLConfiguration
 		 
 		 // Printing the values that contains the configuration file
 		 
-		 /*
-		 this.propertiesFilePath ="/Users/fanny/Input/frlconfig.properties";
-		 this.projectInputDir ="/Users/fanny/Desktop/Input/";
-		 this.projectOutputDir ="/Users/fanny/Desktop/Output/";
-		 */
-
 		 format = this.tabDelimiter1;
 		 System.out.println("");
 		 System.out.println("For the Project: "+this.projectName ); 

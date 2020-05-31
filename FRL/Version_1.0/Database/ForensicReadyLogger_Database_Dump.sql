@@ -1,8 +1,8 @@
 CREATE DATABASE  IF NOT EXISTS `ForensicReadyLogger` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */;
 USE `ForensicReadyLogger`;
 
-/*USERS*/
 /*Create the Admin User*/
+DROP USER IF EXISTS 'admin_frl'@'localhost';
 CREATE USER 'admin_frl'@'localhost' IDENTIFIED BY 'eL9V4-tx$B';
 GRANT ALL PRIVILEGES ON ForensicReadyLogger.* TO 'admin_frl'@'localhost' WITH GRANT OPTION;
 FLUSH PRIVILEGES;
@@ -16,7 +16,7 @@ FLUSH PRIVILEGES;
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
- SET NAMES utf8 ;
+ SET NAMES utf8mb4 ;
 /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
 /*!40103 SET TIME_ZONE='+00:00' */;
 /*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
@@ -834,6 +834,71 @@ DELIMITER ;
 /*!50003 SET character_set_client  = @saved_cs_client */ ;
 /*!50003 SET character_set_results = @saved_cs_results */ ;
 /*!50003 SET collation_connection  = @saved_col_connection */ ;
+/*!50003 DROP PROCEDURE IF EXISTS `create_structure_text_file_properties` */;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8mb4 */ ;
+/*!50003 SET character_set_results = utf8mb4 */ ;
+/*!50003 SET collation_connection  = utf8mb4_0900_ai_ci */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION' */ ;
+DELIMITER ;;
+CREATE DEFINER=`root`@`localhost` PROCEDURE `create_structure_text_file_properties`()
+BEGIN
+
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,1,'textFilePackageName','frl','String','Component');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,2,'methodName1','nonPrimitiveDataType','String','Method');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,3,'textFileName1','FrlDatabaseMethods','String','Component');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,4,'projectName','HRMApplication','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,5,'projectOutputDir','/Users/fannyriveraortiz/Desktop/Output/','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,6,'umlSeqDiagTextFileName1','IncidentSequenceDiagram.txt','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,7,'methodName3','guiLibs','String','Method');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,8,'bluePrintObject1','class','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,9,'objectOrientedDelimiter1','.','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,10,'startParameters','(','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,11,'endParameters',')','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,12,'newLine1','%n','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,13,'whiteSpaceWordsDelimiter1','\" \"','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,14,'guiLibDelimiter',';','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,15,'invalidSpecialCharacter','$','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,16,'validSpecialCharacter','_','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,17,'member1','actor','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,18,'member2','participant','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,19,'startSendMessage','->','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,20,'endSendMessage',':','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,21,'userName','User','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,22,'startNote','note left of','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,23,'endNote','end note','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,24,'colorDelimiter','#','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,25,'colorNote','aqua','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,26,'position','order','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,27,'space','||20||','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,28,'startDivision','== Connects to the','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,29,'endDivision','==','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,30,'pointCutName1a','databaseMethods','String','Component');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,31,'methodName2','databaseMethods','String','Method');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,32,'pointCutName1b','connect','String','Component');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (1,33,'methodName6','connectProjectMethod','String','Method');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (2,1,'textFilePackageName','frl','String','Component');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (2,2,'textFileName2','FrlStart','String','Component');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (2,3,'projectOutputDir','/Users/fannyriveraortiz/Desktop/Output/','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (2,4,'umlSeqDiagTextFileName1','IncidentSequenceDiagram.txt','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (2,5,'umlSeqDiagPngFileName1','IncidentSequenceDiagram.png','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (2,6,'newLine1','%n','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (2,7,'startUMLSeqDiagram','@startuml','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (2,8,'endUMLSeqDiagram','@enduml','String','Attribute');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (2,9,'pointCutName2a','start','String','Component');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (2,10,'methodName4','startApplication','String','Method');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (2,11,'pointCutName2b','end','String','Component');
+   INSERT INTO `text_file_properties` (`tfh_id`,`tfp_id`,`tfp_property_name`,`tfp_property_value`,`tfp_data_type`,`tfp_type`) VALUES (2,12,'methodName5','endApplication','String','Method');
+
+END ;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
@@ -844,4 +909,4 @@ DELIMITER ;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-05-31  9:36:37
+-- Dump completed on 2020-05-31 13:02:13

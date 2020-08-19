@@ -28,7 +28,7 @@ public aspect FrlStart
 
    after(): start()
    {
-	  System.out.println("Message FRL: Welcome to the Forensic-Ready Logger Tool ...");
+	  System.out.println("Message FRL: Welcome to the Forensic-Ready Logger ...");
 	   
 	  // Delete UML Sequence Diagram previous Files
 	  deleteFiles();
@@ -183,7 +183,7 @@ public aspect FrlStart
   	  // Print on the screen Informative Messages
 	  System.out.println("Message FRL: UML Sequence Diagram Text File created: "+umlSeqDiagTextFile);
 	  System.out.println("Message FRL: UML Sequence Diagram PNG File created : "+umlSeqDiagPngFile);
-      System.out.println("Message FRL: Good Bye to the Forensic-Ready Logger Tool.");
+      System.out.println("Message FRL: Good Bye to the Forensic-Ready Logger.");
 	  
    }  
    

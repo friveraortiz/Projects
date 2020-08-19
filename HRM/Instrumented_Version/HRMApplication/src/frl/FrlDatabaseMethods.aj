@@ -32,7 +32,7 @@ public aspect FrlDatabaseMethods
    String startNote="note left of";
    String endNote="end note";
    String colorDelimiter="#";
-   String colorNote="aqua";
+   String colorNote="lightskyblue";
    String position="order";
    String space="||20||";
    String startDivision="== Connects to the";
@@ -54,6 +54,10 @@ public aspect FrlDatabaseMethods
                             call(void model.ModuleDatabase.saveModules(..)) || 
                             call(void controller.ModuleController.saveModules(..)) || 
                             call(void test.TestModuleDb.main(..)) || 
+                            call(String model.ModuleDatabase.getModules(..)) || 
+                            call(String controller.ModuleController.getModules(..)) || 
+                            call(String model.ModuleDatabase.getSubModules(..)) || 
+                            call(String controller.ModuleController.getSubModules(..)) || 
                             call(void model.EmployeeDatabase.loadEmployee(..)) || 
                             call(void test.TestEmployeeDb.main(..)) || 
                             call(void controller.EmployeeController.loadEmployee(..)) || 
@@ -66,6 +70,7 @@ public aspect FrlDatabaseMethods
                             call(boolean model.EmployeeDatabase.validateDeleteEmployee2(..)) || 
                             call(boolean controller.EmployeeController.validateDeleteEmployee2(..)) || 
                             call(ArrayList<model.Employee> model.EmployeeDatabase.loadSupervisors(..)) || 
+                            call(ArrayList<model.Employee> controller.EmployeeController.loadSupervisors(..)) || 
                             call(boolean model.EmployeeDatabase.validateDeleteEmployee1(..)) || 
                             call(boolean controller.EmployeeController.validateDeleteEmployee1(..)) || 
                             call(void model.EmployeeDatabase.save(..)) || 
@@ -83,13 +88,16 @@ public aspect FrlDatabaseMethods
                             call(boolean controller.UserController.validateEmployee(..)) || 
                             call(boolean model.UserDatabase.validateUser(..)) || 
                             call(model.UserLevel model.UserDatabase.getUserLevel(..)) || 
-                            call(boolean controller.UserController.validateUser(..)) || 
+                            call(model.UserLevel controller.UserController.getUserLevel(..)) || 
+                            call(void test.TestLoginDb.main(..)) || 
                             call(void model.UserDatabase.save(..)) || 
                             call(void controller.UserController.save(..)) || 
                             call(boolean model.UserDatabase.validateUser(..)) || 
+                            call(boolean controller.UserController.validateUser(..)) || 
                             call(void model.UserDatabase.loadUser(..)) || 
                             call(void controller.UserController.loadUser(..)) || 
                             call(ArrayList<model.Employee> model.UserDatabase.loadFullNameEmployees(..)) || 
+                            call(ArrayList<model.Employee> controller.UserController.loadFullNameEmployees(..)) || 
                             call(void model.UserDatabase.delete(..)) || 
                             call(void controller.UserController.delete(..)) || 
                             call(void model.TravelRequestDatabase.loadTravelRequest(..)) || 
@@ -102,6 +110,7 @@ public aspect FrlDatabaseMethods
                             call(void model.TravelRequestDatabase.save(..)) || 
                             call(void controller.TravelRequestController.save(..)) || 
                             call(ArrayList<model.Employee> model.TravelRequestDatabase.loadFullNameEmployees(..)) || 
+                            call(ArrayList<model.Employee> controller.TravelRequestController.loadFullNameEmployees(..)) || 
                             call(void model.TravelRequestDatabase.delete(..)) || 
                             call(void controller.TravelRequestController.delete(..));
 
@@ -189,7 +198,7 @@ public aspect FrlDatabaseMethods
       
       line    = inputNote;
       content = content + line;
-      
+
       // Increase the methods Counter
       methodsCounter ++;
       
@@ -210,7 +219,7 @@ public aspect FrlDatabaseMethods
    
    pointcut connect(): 
    	                      execution(gui.LoginFrame.new(..));
-
+      
    before(): connect()
    {
    	   

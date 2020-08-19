@@ -148,7 +148,7 @@ CREATE TABLE `travel_requests` (
 
 LOCK TABLES `travel_requests` WRITE;
 /*!40000 ALTER TABLE `travel_requests` DISABLE KEYS */;
-INSERT INTO `travel_requests` VALUES (2,'T000000001',1,'Airplane','Business','Madrid, Spain','Rome, Italy','2020-05-31','2020-06-04','','Euros',1500.00,'Approved','Business Trip Purpose Reviewed.');
+INSERT INTO `travel_requests` VALUES (2,'T000000001',1,'Airplane','Business','Madrid, Spain','Rome, Italy','2020-05-31','2020-06-04','','Euros',1500.00,'Approved','Business Trip Purpose Reviewed.'),(3,'T000000002',1,'Airplane','Business','Dublin, Ireland','Madrid, Spain','2020-07-28','2020-07-29','','Euros',500.00,'Approved','Travel Request Approved.'),(4,'T000000003',1,'Airplane','business','dublin, ireland','madrid, spain','2020-07-28','2020-07-29','','Euros',500.00,'Approved','TR approved');
 /*!40000 ALTER TABLE `travel_requests` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -181,8 +181,9 @@ LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
 insert into users(`user_id`, `username`, `password`, `key_string`, `email`, `user_level`, `employee_id`) 
 values (1, 'hsmith', aes_encrypt('12345', unhex(sha2('12345',512))), unhex(sha2('12345',512)), 'hsmith@hotmail.com', 'Admin', 1);
+
 insert into users(`user_id`, `username`, `password`, `key_string`, `email`, `user_level`, `employee_id`) 
-values (2, 'ajones', aes_encrypt('123', unhex(sha2('123',512))), unhex(sha2('123',512)), 'ajones@hotmail.com', 'Manager', 2);
+values (2, 'ajones', aes_encrypt('123', unhex(sha2('123',512))), unhex(sha2('123',512)), 'ajones@hotmail.com', 'Manager', 1);
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -203,4 +204,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-05-30 20:20:46
+-- Dump completed on 2020-07-30 13:37:46

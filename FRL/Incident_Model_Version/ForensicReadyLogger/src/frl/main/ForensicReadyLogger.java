@@ -47,7 +47,6 @@ public class ForensicReadyLogger
 	  return currentDate.toString();
    }
    
-   
    public static void main(String[] args) //3
    {
 
@@ -89,6 +88,7 @@ public class ForensicReadyLogger
   		    // Validate the Input Method Configuration Parameter
   		    if(frlCon.inputMethod.equals(frlCon.dataInputMethod ))
   		    {
+  		    	
   		       // Create a new Database object	
   			   db = new Database(frlCon);
   			   

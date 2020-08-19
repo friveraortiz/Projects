@@ -5,11 +5,10 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
-
 public class FRLConfiguration 
 {
    // # 1.- Software System General Information #	
-   public String propertiesFilePath = "/Users/fanny/eclipse-workspace/ForensicReadyLogger/resources/frlconfig.properties";
+   public String propertiesFilePath = "/Users/fannyriveraortiz/eclipse-workspace/ForensicReadyLogger/resources/frlconfig.properties";
    public String projectName;
    public String jarFileName;
    public String jarFullFilePath;
@@ -46,6 +45,8 @@ public class FRLConfiguration
    public String methodNameException;
    public String printMessage;
    public String startLineNum;
+   public String startArray;
+   public String endArray;
    
    //# 3.- Forensic-Ready Logger Database Information
    public String database;
@@ -71,6 +72,7 @@ public class FRLConfiguration
    public String replacePattern;
    public String findPLPattern2;
    public String findClassPattern2;
+   public String findClassPattern3;
    public String findInterfacePattern2;
    public String findListPattern2;
    public String findArrayListPattern2;
@@ -202,6 +204,8 @@ public class FRLConfiguration
 		 this.methodNameException      = prop.getProperty("methodNameException");
 		 this.printMessage             = prop.getProperty("printMessage");
 		 this.startLineNum             = prop.getProperty("startLineNum");
+		 this.startArray               = prop.getProperty("startArray");
+		 this.endArray                 = prop.getProperty("endArray");
 		 
 		 // # 3.- Forensic-Ready Logger Database Information
 		 this.database                 = prop.getProperty("database");
@@ -227,6 +231,7 @@ public class FRLConfiguration
 		 this.replacePattern           = prop.getProperty("replacePattern");
 		 this.findPLPattern2           = prop.getProperty("findPLPattern2");
 		 this.findClassPattern2        = prop.getProperty("findClassPattern2");
+		 this.findClassPattern3        = prop.getProperty("findClassPattern3");
 		 this.findInterfacePattern2    = prop.getProperty("findInterfacePattern2");
 		 this.findListPattern2         = prop.getProperty("findListPattern2");
 		 this.findArrayListPattern2    = prop.getProperty("findArrayListPattern2");
@@ -349,6 +354,8 @@ public class FRLConfiguration
 		 System.out.println("Method Name Exception               :"+this.methodNameException);
 		 System.out.println("Print Message Instruction           :"+this.printMessage);
 		 System.out.println("Start Line Number                   :"+this.startLineNum);
+		 System.out.println("Start Array                         :"+this.startArray);
+		 System.out.println("End Array                           :"+this.endArray);
 
 		 // # 3.- Forensic-Ready Logger Database Information
 		 System.out.println("");
@@ -382,6 +389,7 @@ public class FRLConfiguration
 		 System.out.println("Replaces Pattern                    :"+this.replacePattern);
 		 System.out.println("Finds PL Pattern 2                  :"+this.findPLPattern2);
 		 System.out.println("Finds Class Pattern 2               :"+this.findClassPattern2);
+		 System.out.println("Finds Class Pattern 3               :"+this.findClassPattern3);
 		 System.out.println("Finds Interface Pattern 2           :"+this.findInterfacePattern2);
 		 System.out.println("Finds List Pattern 2                :"+this.findListPattern2);
 		 System.out.println("Finds ArrayList Pattern 2           :"+this.findArrayListPattern2);

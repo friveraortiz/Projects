@@ -8,6 +8,7 @@ import java.io.IOException;
 import java.io.Writer;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;
+import java.lang.reflect.Modifier;
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
@@ -19,6 +20,7 @@ import java.util.StringTokenizer;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 import org.apache.commons.io.FileUtils;
+
 import frl.controller.ClassMethodController;
 import frl.model.ClassMethod;
 
@@ -481,60 +483,238 @@ public class JavaClasses
       return found;	   
    }  
    
-   public static String getFinalMethodName(String packageName, String className, String methodName, FRLConfiguration frlCon) //13
+   public static String validateArrayListType_1(String inputReturnType, FRLConfiguration frlCon)
+   {
+      String initialReturnType = "", outputReturnType="", element="", part1="";
+      boolean libFound1=false, libFound2=false;
+      StringTokenizer stokenizer1;
+      String[] parts;
+
+      stokenizer1 = new StringTokenizer(inputReturnType, frlCon.objectOrientedDelimiter1);
+
+      outputReturnType = "";
+
+      while(stokenizer1.hasMoreElements()) 
+      {
+         // returns the next token
+         element    = (String) stokenizer1.nextElement();
+         
+         libFound1 = element.contains(frlCon.startClassList);
+         libFound2 = element.contains(frlCon.endClassList);
+
+         if(libFound1 == true)
+         {	 
+               initialReturnType = outputReturnType + element;
+        	   parts = initialReturnType.split(frlCon.startClassList);
+        	   part1 = parts[0];
+        	   outputReturnType = part1 + frlCon.startClassList;
+         }   
+         else 
+            if (libFound2 == true)
+               outputReturnType = outputReturnType + element;
+      } 
+
+      return outputReturnType;
+
+   } 
+ 
+   public static String validateClassType_1(String inputReturnType, long times, FRLConfiguration frlCon)
+   {
+      String outputReturnType1="", outputReturnType2="", element="", tok1="", tok2="";
+      int c;
+      boolean libFound1=false;
+      StringTokenizer stokenizer1, stokenizer2;
+
+      stokenizer1 = new StringTokenizer(inputReturnType, frlCon.whiteSpaceWordsDelimiter1);	
+      
+      while(stokenizer1.hasMoreElements()) 
+      {
+         // returns the next token
+         tok1 = (String) stokenizer1.nextElement();
+         
+         element = tok1;
+         
+         // Validate if the "[" delimiter is present in the token
+         libFound1 = tok1.contains(frlCon.startArray);
+         
+         if(libFound1 == true)
+         { 
+        	 
+        	stokenizer2 = new StringTokenizer(inputReturnType, frlCon.objectOrientedDelimiter1);
+        	
+            while(stokenizer2.hasMoreElements()) 
+            {
+               // returns the next token
+               tok2 = (String) stokenizer2.nextElement();
+                
+               element = tok2;
+               
+               if(element.contains(frlCon.endStatementDelimiter))
+               {	   
+                  outputReturnType1  = element.replace(frlCon.endStatementDelimiter, "");
+               }  
+               
+            }  
+        	 
+         }
+
+      } 
+      
+      outputReturnType2 = outputReturnType1;
+      
+      // Add the start and end brackets [] of the Array
+      for (c = 0; c < times; c++) 
+      { 
+          outputReturnType2 = outputReturnType2 + frlCon.startArray + frlCon.endArray;
+      } 
+      
+
+      return outputReturnType2;
+
+   }
+
+   public static String validateClassType_2(String inputReturnType, FRLConfiguration frlCon)
+   {
+      String outputReturnType="", element="", tok1="", tok2="";
+	  boolean libFound1=false;
+	  StringTokenizer stokenizer1, stokenizer2;
+
+	  stokenizer1 = new StringTokenizer(inputReturnType, frlCon.whiteSpaceWordsDelimiter1);	
+	      
+	  while(stokenizer1.hasMoreElements()) 
+	  {
+	     // returns the next token
+	     tok1 = (String) stokenizer1.nextElement();
+	         
+	     element = tok1;
+	         
+	     // Validate if the "." delimiter is present in the token
+	     libFound1 = tok1.contains(frlCon.objectOrientedDelimiter1);
+	         
+	     if(libFound1 == true)
+	     { 
+	        	 
+	        stokenizer2 = new StringTokenizer(inputReturnType, frlCon.objectOrientedDelimiter1);
+	        	
+	        while(stokenizer2.hasMoreElements()) 
+	        {
+	           // returns the next token
+	           tok2 = (String) stokenizer2.nextElement();
+	                
+	           element = tok2;
+	               
+	        }  
+	        	 
+	     }
+
+	  } 
+	  
+	  outputReturnType = element;
+
+      return outputReturnType;
+
+   }
+
+   public static String validateInterfacePLType(String inputReturnType, FRLConfiguration frlCon)
    {
 	   
-      String finalMethodName = methodName;
-      String element = "", tok1 = "", tok2 = "";
-      boolean libFound1 = false, libFound2;
-      Pattern libPattern = Pattern.compile(frlCon.findPLPattern2);
-      
-      libFound1 = libPattern.matcher(methodName).find();
-      
-      if (libFound1 == true) 
-      {
-    	  // For example: Initial Method Name: public java.util.ArrayList<Employee> loadFullNameEmployees(
-    	  StringTokenizer stokenizer1 = new StringTokenizer(methodName, " ");
-    	  
-       	  finalMethodName = "";
-       	           
-          while(stokenizer1.hasMoreElements()) 
-          {
-             // returns the next token
-             tok1    = (String) stokenizer1.nextElement();
-             element = "";
-             
-             libFound2 = tok1.contains(frlCon.objectOrientedDelimiter1);
-             
-             if(libFound2 == true)
-             {	 
-            	 
-                StringTokenizer stokenizer2 = new StringTokenizer(tok1, frlCon.objectOrientedDelimiter1);
+      String outputReturnType="", element="", tok1="", tok2="";
+      boolean libFound1=false;
+      StringTokenizer stokenizer1, stokenizer2;
 
-                while(stokenizer2.hasMoreElements()) 
-                {
-                   // returns the next token
-                   tok2 = (String) stokenizer2.nextElement();
-                } 
-                
-                element = tok2;
-                
-             }
-             else
-             {	 
-                element = tok1;
-             }   
-               
-             finalMethodName = finalMethodName + " " + element;
-  
-          } 
-    	  
-      }
+	  stokenizer1 = new StringTokenizer(inputReturnType, frlCon.whiteSpaceWordsDelimiter1);
+	  
+	  outputReturnType = "";
+	           
+      while(stokenizer1.hasMoreElements()) 
+      {
+         // returns the next token
+         tok1    = (String) stokenizer1.nextElement();
+         element = "";
       
-      return finalMethodName;
+         libFound1 = tok1.contains(frlCon.objectOrientedDelimiter1);
+      
+      
+         if(libFound1 == true)
+         {	 
+     	 
+            stokenizer2 = new StringTokenizer(tok1, frlCon.objectOrientedDelimiter1);
+         
+            while(stokenizer2.hasMoreElements()) 
+            {
+               // returns the next token
+               tok2 = (String) stokenizer2.nextElement();
+            }
+         
+            element = tok2;
+         
+         }
+         else
+            element = tok1;
+        
+         outputReturnType = element;
+      
+      } 
+ 
+      return outputReturnType;	   
+   }
+
+ 
+   public static String getFinalReturnType_1(String returnType, FRLConfiguration frlCon) //13
+   {
+      String finalReturnType;
+      char startArray;
+      long times = 0;
+      boolean libFound0=false, libFound1=false, libFound2=false, libFound3=false, libFound4=false;
+      Pattern 
+         libPattern1 = Pattern.compile(frlCon.findPLPattern2), 
+         libPattern2 = Pattern.compile(frlCon.findClassPattern2),
+         libPattern3 = Pattern.compile(frlCon.findArrayListPattern2),
+	     libPattern4 = Pattern.compile(frlCon.findListPattern2);
+
+      libFound0 = returnType.contains(frlCon.findClassPattern3);
+      
+      if(libFound0 == false)
+      {	 
+         libFound3 = libPattern3.matcher(returnType).find();
+
+         if (libFound3 == false)
+         {	
+            libFound4 = libPattern4.matcher(returnType).find();
+             
+            if (libFound4 == false)
+            { 	
+               libFound2 = libPattern2.matcher(returnType).find();
+             
+               if (libFound2 == false)
+                  libFound1 = libPattern1.matcher(returnType).find();
+            }   
+         }
+      }
+      else
+      {
+         startArray = frlCon.startArray.charAt(0);  
+         times = returnType.chars().filter(c -> c == startArray).count(); 
+      }
+
+      if (libFound0 == true) 
+         finalReturnType = validateClassType_1(returnType, times, frlCon);	  
+      else 
+         if (libFound1 == true) 
+            finalReturnType = validateInterfacePLType(returnType, frlCon);   
+         else
+    	    if(libFound2 == true)
+    	       finalReturnType = validateClassType_2(returnType, frlCon);
+    	    else
+               if (libFound3 == true || libFound4 == true) 
+	              finalReturnType = validateArrayListType_1(returnType, frlCon);
+               else 
+                  finalReturnType = returnType;
+      
+      return finalReturnType;
 	   
    }
-   
+ 
    public static String getFinalConstructorShortName(String packageName, String shortConsName, String objectOrientedDelimiter1) //14
    {
 	   
@@ -571,23 +751,22 @@ public class JavaClasses
    {
 	  // Get the Full Name of the Constructors and the Methods of the Class
 	   
-      String errorMessage; 
-	  String inputClassName = packageName + frlCon.objectOrientedDelimiter1 + className;	
+ 	  String inputClassName = packageName + frlCon.objectOrientedDelimiter1 + className;	
 
+      String errorMessage="", modifierStr="", shortMethodName="", fullMethodName="";
+      String finalMethodName="", returnTypeMethod1="",returnTypeMethod2="";
+	  String shortConsName="", fullConsName="", initialConsName="", finalConsName1="";
+	  String finalConsName2="", replaceStr="", str="", substr="", before="";
+	  
+	  int modifierInt;
+	  boolean exceptionFound;
+	  
       Method[] classMethods;
-      String shortMethodName = null, fullMethodName1 = null, fullMethodName2 =null;
-      String initialMethodName = null, finalMethodName = null;
-      String returnTypeMethod = null;
-      
-	  String shortConsName = null, fullConsName = null, initialConsName = null, finalConsName1 = null;
-	  String finalConsName2 = null, replaceStr = null, str = null, substr = null, before = null;
 	  String[] parts;
-      
 	  Constructor<?>[] classCons = null;
 	  Class<?> newClass = null;
 	  ArrayList<String> classConsMethods = new ArrayList<String>();
-	  boolean exceptionFound;
-	  
+		
 	  // Initialize the ArrayList
 	  classConsMethods.clear();
 	  
@@ -606,7 +785,7 @@ public class JavaClasses
 	  // Get the constructor(s) of the class
 	  classCons = newClass.getDeclaredConstructors();
 
-	  // Constructor Loop
+	  // Build the constructor name that can be found in the Java File
 	  for(int i = 0; i < classCons.length; i++)
 	  {
 	     fullConsName  = classCons[i].toGenericString();   
@@ -626,26 +805,29 @@ public class JavaClasses
 	     
 	     finalConsName2 = getFinalConstructorShortName(packageName, shortConsName, frlCon.objectOrientedDelimiter1);
 	     
-	     returnTypeMethod = frlCon.initializeObjectName;
-	     fullMethodName2 = finalConsName1 + frlCon.objectOrientedDelimiter2 + finalConsName2 + frlCon.objectOrientedDelimiter2 + returnTypeMethod;
-	     classConsMethods.add(fullMethodName2);
+	     returnTypeMethod1 = frlCon.initializeObjectName;
+	     fullMethodName = finalConsName1 + frlCon.objectOrientedDelimiter2 + finalConsName2 + frlCon.objectOrientedDelimiter2 + returnTypeMethod1;
+	     classConsMethods.add(fullMethodName);
 	    
 	   }
-	    
-	   // Get the declared methods for this class
+	  
+	   // Get the declared methods of the class
 	   classMethods = newClass.getDeclaredMethods();
 	  
 	   exceptionFound = false;
 	   
-	   // Build the method name that can be found in the Java file
+	   // Build the method name that can be found in the Java File
 	   for(int i = 0; i < classMethods.length; i++)
 	   {
-		  
+		  // Get the short method name 
 	      shortMethodName  = classMethods[i].getName();
-		  fullMethodName1  = classMethods[i].toGenericString();
+	      
+		  // Get the return type of the method
+		  returnTypeMethod1  = classMethods[i].getGenericReturnType().toString();
 		  
-		  // Get the Return Type Method
-		  returnTypeMethod  = classMethods[i].getGenericReturnType().toString();
+		  // Get the modifier
+		  modifierInt = classMethods[i].getModifiers();
+		  modifierStr = Modifier.toString(modifierInt);
 		  
 		  // Verify if the shortMethodName corresponds to an Exception
 		  exceptionFound = verifyProjectException(frlCon.methodNameException, shortMethodName);
@@ -654,27 +836,42 @@ public class JavaClasses
 		  // Add to the list of the Class Methods
 		  if(exceptionFound == false)
 		  {	  
-	         str     = fullMethodName1;
-	         substr  = inputClassName + frlCon.objectOrientedDelimiter1;
-	         parts   = str.split(substr);
-	         before  = parts[0];
-	     
-	         // Assign an initial format for the method
-	         initialMethodName = before + shortMethodName;
-	     
-             // Replace every occurrence of "package." 
-	         replaceStr        = packageName + frlCon.objectOrientedDelimiter1;
-	         initialMethodName = initialMethodName.replace(replaceStr, "");
-	         finalMethodName = getFinalMethodName(packageName, className, initialMethodName, frlCon);
-	      
+			 
+			 // Get the final return Type for the method
+			 returnTypeMethod2 = getFinalReturnType_1(returnTypeMethod1, frlCon);
+			  
+			 // Build the final method name 
+			 finalMethodName = modifierStr + " " + returnTypeMethod2 + " " + shortMethodName;
+			  
 	         // Return final MethodName, shortMethodName and returnType of the Method
-	         fullMethodName2 = finalMethodName + frlCon.objectOrientedDelimiter2 + shortMethodName + frlCon.objectOrientedDelimiter2 + returnTypeMethod;
-	         classConsMethods.add(fullMethodName2);
+	         fullMethodName = finalMethodName + frlCon.objectOrientedDelimiter2 + 
+	                          shortMethodName + frlCon.objectOrientedDelimiter2 + 
+	                          returnTypeMethod1;
 	         
+	         classConsMethods.add(fullMethodName);
+	         
+	         /*
+			  if(className.contains("Listener"))
+			  {	
+				 System.out.println("Package Name         : " + packageName);
+				 System.out.println("Class Name           : " + className);
+			     System.out.println("Short Method Name    : " + shortMethodName);
+			     System.out.println("Final Method Name    : " + finalMethodName);
+			     System.out.println("Return Type Method 1 : " + returnTypeMethod1);
+			     System.out.println("Return Type Method 2 : " + returnTypeMethod2);
+			     System.out.println("Modifier    Method   : " + modifierStr); 
+			     
+			     System.out.println("Full Method Name   1 : " + fullMethodName1);
+			     System.out.println("Full Method Name   2 : " + fullMethodName2);
+			     System.out.println("Full Method Name   3 : " + classMethods[i].toString());
+			     
+			     
+			  }
+			  */
+
 		  }
-	     
 	   }
-	   	  
+	   
       return classConsMethods;
 		   
    }
@@ -712,7 +909,7 @@ public class JavaClasses
       return outputReturnType2;	   
    }
    
-   public static String validateArrayListType(String inputReturnType,
+   public static String validateArrayListType_2(String inputReturnType,
                                               FRLConfiguration frlCon)
    {
       String outputReturnType="", element="";
@@ -743,53 +940,7 @@ public class JavaClasses
       
    }
    
-   public static String validateInterfacePLType(String inputReturnType,
-                                                FRLConfiguration frlCon)
-   {
-	   
-      String outputReturnType="", element="", tok1="", tok2="";
-      boolean libFound1=false;
-      StringTokenizer stokenizer1, stokenizer2;
-
-	  stokenizer1 = new StringTokenizer(inputReturnType, frlCon.whiteSpaceWordsDelimiter1);
-	  
-   	  outputReturnType = "";
-   	           
-      while(stokenizer1.hasMoreElements()) 
-      {
-         // returns the next token
-         tok1    = (String) stokenizer1.nextElement();
-         element = "";
-         
-         libFound1 = tok1.contains(frlCon.objectOrientedDelimiter1);
-         
-         
-         if(libFound1 == true)
-         {	 
-        	 
-            stokenizer2 = new StringTokenizer(tok1, frlCon.objectOrientedDelimiter1);
-            
-            while(stokenizer2.hasMoreElements()) 
-            {
-               // returns the next token
-               tok2 = (String) stokenizer2.nextElement();
-            }
-            
-            element = tok2;
-            
-         }
-         else
-            element = tok1;
-           
-         outputReturnType = element;
-         
-      } 
-    
-      return outputReturnType;	   
-   }
-   
-   public static String validateClassType(String inputReturnType,
-		                                  FRLConfiguration frlCon)
+   public static String validateClassType_3(String inputReturnType, FRLConfiguration frlCon)
    {
       String outputReturnType="", element="", tok1="";
 	  StringTokenizer stokenizer1;
@@ -809,7 +960,7 @@ public class JavaClasses
       
    }
    
-   public static String getFinalReturnType(String inputReturnType, FRLConfiguration frlCon) //13
+   public static String getFinalReturnType_2(String inputReturnType, FRLConfiguration frlCon) //13
    {
 
       String outputReturnType="", lastChar;
@@ -848,10 +999,10 @@ public class JavaClasses
          outputReturnType = validateInterfacePLType(inputReturnType, frlCon);   
       else
     	  if(libFound3 == true)
-    	     outputReturnType = validateClassType(inputReturnType, frlCon);
+    	     outputReturnType = validateClassType_3(inputReturnType, frlCon);
     	  else 
     	     if (libFound4 == true || libFound5 == true) 
-	    	    outputReturnType = validateArrayListType(inputReturnType, frlCon);
+	    	    outputReturnType = validateArrayListType_2(inputReturnType, frlCon);
              else
                 outputReturnType = inputReturnType;
 
@@ -922,12 +1073,24 @@ public class JavaClasses
     	 // Get the package name of the file
     	 packageName = fileNameSec[fileNameSec.length - 2];
     	 
-    	 
          // Get the Full Method Names of the Input Class File Names
 		 initialFullMethodsNames = getClassConstructorsFullMethodsNames(packageName, className, projExcepList, frlCon);
 		 
+    	 /*if(className.equals("TravelRequestController"))
+    	 {
+    	    System.out.println("Class Name: "+className);
+    	    System.out.println("Initial Methods Names: ");
+            System.out.println(Arrays.toString(initialFullMethodsNames.toArray()));
+    	 }*/
+		 
     	 // Remove duplicate values from the Full Method Names of the Input Class File Names
     	 fullMethodsNames = (ArrayList<String>) initialFullMethodsNames.stream().distinct().collect(Collectors.toList());
+    	 
+    	 /*if(className.equals("TravelRequestController"))
+    	 {
+    	    System.out.println("Final Methods Names: ");
+            System.out.println(Arrays.toString(fullMethodsNames.toArray()));
+    	 }*/
     	 
     	 // For every Method Loop 
          for(int j = 0; j < fullMethodsNames.size(); j++) 
@@ -939,7 +1102,7 @@ public class JavaClasses
         	returnType      = method[2];
         	
         	// Get the final returnType
-        	finalReturnType = getFinalReturnType(returnType, frlCon);   
+        	finalReturnType = getFinalReturnType_2(returnType, frlCon);   
         	
         	// Get the finalReturnType divided in two fields by ~
         	parts = finalReturnType.split(frlCon.objectOrientedDelimiter2);

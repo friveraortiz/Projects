@@ -495,19 +495,28 @@ public class Utilities
 		     
    }  
 
-	   
 	   /*
      // Calling the methods from the Utilities class:
- 
 	   Utilities ut = new Utilities(); 
-	   
 	   
 	   // Uploads the 2 Aspect Oriented Programming Text Files into the Database
 	   ut.uploadTextFilesDb(frlCon);
-	    
-	   // Creates the Structure for the Text_File_Details for headers=1,2,3
-	   // Calling the stored procedures from the database
+
+	   // Run Manually the following stored procedures in the 
+	   //Forensic-Ready Logger Database
 	   
+	   create_structure_text_file_properties, 
+	   create_structure_text_file_header_1, 
+	   create_structure_text_file_header_2, 
+	   create_structure_text_file_header_3
+	   
+	   
+	   // Update the Line Numbers in the Header = 1
+	   ut.updateTextFileLineNumbers(frlCon, frlCon.textFileNameExt1);
+	   
+   
+   // Creates the Structure for the Text_File_Details for headers=1,2,3
+	   // Calling the stored procedures from the database
 	   String errorMessage="";
 	   TextFileController tfpCon = new TextFileController();
      try 
@@ -519,22 +528,7 @@ public class Utilities
         errorMessage = e.getMessage();
         System.out.println("Error XXX: Occurred while executing the stored procedure in the Database. " + "Error Message: " + errorMessage);
      }
-
-
-	   // Run Manually the following stored procedures in the 
-	   //Forensic-Ready Logger Database
-	   /*
-	   create_structure_text_file_properties, 
-	   create_structure_text_file_header_1, 
-	   create_structure_text_file_header_2, 
-	   create_structure_text_file_header_3
-	   
-	   
-	   // Update the Line Numbers in the Header = 1
-	   ut.updateTextFileLineNumbers(frlCon, frlCon.textFileNameExt1);
-	   
-	    
-	   /*
+     
 	   // Modify an specific Line into the text_file_details table
 	   Integer propId;
 	   
@@ -548,12 +542,10 @@ public class Utilities
 	                         FieldType.valueOf(frlCon.textFileLineType),
 	                         propId
 	                        );
-	   
-	   
-	   
+
 	   // Delete an specific line from the text_file_details table
 	   ut.deleteTextFileLine(frlCon, frlCon.textFileNameExt1, frlCon.textFileLineSearch);
-	   */
-   
+	   */	   
+
    
 }

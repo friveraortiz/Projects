@@ -517,7 +517,6 @@ public class AspectOrientedFiles
 	  TextFileController textFileCon;
       ArrayList<TextFileDetails> textFileDets = new ArrayList<>();	
       
-
 	  // Create a new object of TextFileController class
 	  textFileCon = new TextFileController();
 			  
@@ -590,8 +589,7 @@ public class AspectOrientedFiles
 	      errorMessage = e.getMessage();
 		  System.out.println("Error XXXX: Occurred while creating a new Aspect File: "+filePath + "Error Message: " + errorMessage);
 	   }
-	   
-	   
+
 	   // Loop through the textFileDetails ArrayList
 	   for (i = 0; i < textFileDets.size(); i++) 
 	   {
@@ -601,6 +599,12 @@ public class AspectOrientedFiles
 		  type       = textFileDets.get(i).getType();
 		  propertyId = textFileDets.get(i).getPropertyId();
 		   
+		  /*
+		  System.out.println("Type       : "+type.name());
+		  System.out.println("Text       : "+text);
+		  System.out.println("Property Id: "+propertyId);
+          */
+		  
 		  // Validate if the field type is equal to "Personalized"
 		  if (type.name().equals(frlCon.fieldType1))
 		     // Get the final value of the line from the Text File Properties
@@ -610,34 +614,36 @@ public class AspectOrientedFiles
 		     // Validate if the field type is equal to "Fixed"	
 		     if (type.name().equals(frlCon.fieldType2))
 		        line = text;
+
+		  //System.out.println("Line: "+line);
+		  
+	      // Write in the text file
+	      try 
+	      {
+		     fw.append(line);
+		     fw.append(frlCon.newLine2);
+		  } 
+	      catch (IOException e) 
+	      {
+	         errorMessage = e.getMessage();
+	    	 System.out.println("Error XXXX: Occurred while writing the content to the new Aspect File: "+filePath + "Error Message: " + errorMessage);
 	
-	         // Write in the text file
-	         try 
-	         {
-		        fw.append(line);
-		        fw.append(frlCon.newLine2);
-			 } 
-	         catch (IOException e) 
-	         {
-	    	    errorMessage = e.getMessage();
-	    	    System.out.println("Error XXXX: Occurred while writing the content to the new Aspect File: "+filePath + "Error Message: " + errorMessage);
+	      }
 	
-			 }
-	
-	    } 
+      } 
 	   
-	    // Close text file
-	    try 
-	    {
-		   bw.close();
-		} 
-	    catch (IOException e) 
-	    {
-	 	   errorMessage = e.getMessage();
-	 	   System.out.println("Error XXXX: Occurred while closing the buffer writter. " + "Error Message: " + errorMessage);
-		}
+	  // Close text file
+	  try 
+	  {
+	     bw.close();
+	  } 
+	  catch (IOException e) 
+	  {
+	     errorMessage = e.getMessage();
+	 	 System.out.println("Error XXXX: Occurred while closing the buffer writter. " + "Error Message: " + errorMessage);
+	  }
 	    
-	    textFileCon.disconnect();
+      textFileCon.disconnect();
    
    } 
    

@@ -8,7 +8,7 @@ import java.util.Properties;
 public class FRLConfiguration 
 {
    // # 1.- Software System General Information #	
-   public String propertiesFilePath = "/Users/fannyriveraortiz/eclipse-workspace/ForensicReadyLogger/resources/frlconfig.properties";
+   public String propertiesFilePath = "/Users/fanny/eclipse-workspace/ForensicReadyLogger/resources/frlconfig.properties";
    public String projectName;
    public String jarFileName;
    public String jarFullFilePath;

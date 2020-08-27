@@ -3,7 +3,7 @@ This repository contains the applications that I have develop in collaboration w
 
 To use our projects FRL and HRM:
 First, visit the FRL branch. 
-Later, go the Incident Model branch.
+Later, go the Incident Model Version branch.
 Then, visit the README.md File.
 Finally, visit the FRL_Instructions.pdf File.
 

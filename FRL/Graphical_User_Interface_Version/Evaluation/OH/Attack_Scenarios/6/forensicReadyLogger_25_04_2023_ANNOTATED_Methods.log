@@ -1,0 +1,336 @@
+25/04/2023 05:45:32 PM MDT INFO  UserBrowsingManager:1441 - OS Name             : Windows Server 2016
+25/04/2023 05:45:32 PM MDT INFO  UserBrowsingManager:1442 - OS Current Time     : 25/04/2023 05:45:32 PM MDT
+25/04/2023 05:45:32 PM MDT INFO  UserBrowsingManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+25/04/2023 05:45:32 PM MDT INFO  UserBrowsingManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+25/04/2023 05:45:32 PM MDT INFO  UserBrowsingManager:1445 - OS UserName         : friverao
+25/04/2023 05:45:32 PM MDT INFO  UserBrowsingManager:1446 - Annotation Type     : Parameter
+25/04/2023 05:45:32 PM MDT INFO  UserBrowsingManager:1447 - Method Name         : org.isf.menu.manager.UserBrowsingManager.getMenu
+25/04/2023 05:45:32 PM MDT INFO  UserBrowsingManager:1448 - Method Return Type  : java.util.ArrayList
+25/04/2023 05:45:32 PM MDT INFO  UserBrowsingManager:1449 - Method Return Value : 
+25/04/2023 05:45:32 PM MDT INFO  UserBrowsingManager:900 - Parameter Name  : aUser
+25/04/2023 05:45:32 PM MDT INFO  UserBrowsingManager:901 - Parameter Type  :  org.isf.menu.model.User
+25/04/2023 05:45:32 PM MDT INFO  UserBrowsingManager:902 - Parameter Value : doctor
+25/04/2023 05:45:32 PM MDT INFO  UserBrowsingManager:907 - Attribute Name  : userName
+25/04/2023 05:45:32 PM MDT INFO  UserBrowsingManager:908 - Attribute Type  : java.lang.String
+25/04/2023 05:45:32 PM MDT INFO  UserBrowsingManager:909 - Attribute Value : doctor
+25/04/2023 05:47:23 PM MDT INFO  ConfigurationProperties:91 - File sms.properties loaded.
+25/04/2023 05:47:23 PM MDT INFO  Webcam:1048 - WebcamDefaultDriver capture driver will be used
+25/04/2023 05:47:24 PM MDT WARN  Webcam:964 - No webcam has been detected!
+25/04/2023 05:49:15 PM MDT INFO  AdmissionBrowserManager:1441 - OS Name             : Windows Server 2016
+25/04/2023 05:49:15 PM MDT INFO  AdmissionBrowserManager:1442 - OS Current Time     : 25/04/2023 05:49:15 PM MDT
+25/04/2023 05:49:15 PM MDT INFO  AdmissionBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+25/04/2023 05:49:15 PM MDT INFO  AdmissionBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+25/04/2023 05:49:15 PM MDT INFO  AdmissionBrowserManager:1445 - OS UserName         : friverao
+25/04/2023 05:49:15 PM MDT INFO  AdmissionBrowserManager:1446 - Annotation Type     : Method
+25/04/2023 05:49:15 PM MDT INFO  AdmissionBrowserManager:1447 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+25/04/2023 05:49:15 PM MDT INFO  AdmissionBrowserManager:1448 - Method Return Type  : org.isf.admission.model.AdmittedPatient
+25/04/2023 05:49:15 PM MDT INFO  AdmissionBrowserManager:1449 - Method Return Value : org.isf.admission.model.AdmittedPatient@478a48a9
+25/04/2023 05:49:15 PM MDT INFO  AdmissionBrowserManager:1327 - Parameter Name  : patientId
+25/04/2023 05:49:15 PM MDT INFO  AdmissionBrowserManager:1328 - Parameter Type  : java.lang.String
+25/04/2023 05:49:15 PM MDT INFO  AdmissionBrowserManager:1329 - Parameter Value : 125
+25/04/2023 05:50:09 PM MDT INFO  AdmissionBrowserManager:1441 - OS Name             : Windows Server 2016
+25/04/2023 05:50:09 PM MDT INFO  AdmissionBrowserManager:1442 - OS Current Time     : 25/04/2023 05:50:09 PM MDT
+25/04/2023 05:50:09 PM MDT INFO  AdmissionBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+25/04/2023 05:50:09 PM MDT INFO  AdmissionBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+25/04/2023 05:50:09 PM MDT INFO  AdmissionBrowserManager:1445 - OS UserName         : friverao
+25/04/2023 05:50:09 PM MDT INFO  AdmissionBrowserManager:1446 - Annotation Type     : Method
+25/04/2023 05:50:09 PM MDT INFO  AdmissionBrowserManager:1447 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+25/04/2023 05:50:09 PM MDT INFO  AdmissionBrowserManager:1448 - Method Return Type  : org.isf.admission.model.AdmittedPatient
+25/04/2023 05:50:09 PM MDT INFO  AdmissionBrowserManager:1449 - Method Return Value : org.isf.admission.model.AdmittedPatient@131075e6
+25/04/2023 05:50:09 PM MDT INFO  AdmissionBrowserManager:1327 - Parameter Name  : patientId
+25/04/2023 05:50:09 PM MDT INFO  AdmissionBrowserManager:1328 - Parameter Type  : java.lang.String
+25/04/2023 05:50:09 PM MDT INFO  AdmissionBrowserManager:1329 - Parameter Value : 125
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:1441 - OS Name             : Windows Server 2016
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:1442 - OS Current Time     : 25/04/2023 05:50:26 PM MDT
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:1445 - OS UserName         : friverao
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:1446 - Annotation Type     : ReturnType
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:1447 - Method Name         : org.isf.accounting.manager.BillBrowserManager.newBill
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:1448 - Method Return Type  : java.lang.Boolean
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:1449 - Method Return Value : true
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:1237 - Parameter Name : newBill
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:1238 - Parameter Type : org.isf.accounting.model.Bill
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:1267 - The Parameter: newBill has 14 Attributes
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - Attribute Name  : id
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - Attribute Type  : int
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - Attribute Value : 24
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - Attribute Name  : date
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - Attribute Type  : java.time.LocalDateTime
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - Attribute Value : 2023-04-25T17:50:09.402
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - Attribute Name  : update
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - Attribute Type  : java.time.LocalDateTime
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - Attribute Value : 2023-04-25T17:50:09.402
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - Attribute Name  : isList
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - Attribute Type  : boolean
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - Attribute Value : true
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:642 - Attribute Name : list
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:643 - Attribute Type : org.isf.priceslist.model.PriceList
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:688 - The Attribute: list has 14 SubAttributes
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : id
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : int
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : 1
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : code
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : LIST001
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : name
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : Basic
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : description
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : Basic price list
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : currency
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : 
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - Attribute Name  : listName
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - Attribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - Attribute Value : Basic
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - Attribute Name  : isPatient
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - Attribute Type  : boolean
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - Attribute Value : true
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:642 - Attribute Name : billPatient
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:643 - Attribute Type : org.isf.patient.model.Patient
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:688 - The Attribute: billPatient has 14 SubAttributes
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : code
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : 125
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : firstName
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : Valentina
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : secondName
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : Guzman Perez
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : name
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : Valentina Guzman Perez
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : birthDate
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.time.LocalDate
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : 1973-04-25
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : age
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : int
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : 50
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : agetype
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : 
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : sex
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : char
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : F
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : address
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : 9 Grafton Street
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : city
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : Dublin, Ireland
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : nextKin
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : 1
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : telephone
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : +39123456
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : note
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : 
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : motherName
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : Maria
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : mother
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : char
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : A
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : fatherName
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : Juan
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : father
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : char
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : A
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : bloodType
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : 0+
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : hasInsurance
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : char
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : Y
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : parentTogether
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : char
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : Y
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : taxCode
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : 
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : maritalStatus
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : married
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : profession
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : medicine
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - SubAttribute Name  : deleted
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - SubAttribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - SubAttribute Value : N
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - Attribute Name  : patName
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - Attribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - Attribute Value : Valentina Guzman Perez
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - Attribute Name  : status
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - Attribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - Attribute Value : O
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - Attribute Name  : user
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - Attribute Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - Attribute Value : doctor
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:716 - Attribute Name  : hashCode
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:717 - Attribute Type  : int
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:718 - Attribute Value : 3083
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:1327 - Parameter Name  : billItems
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:1328 - Parameter Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:1329 - Parameter Value : [org.isf.accounting.model.BillItems@c2f, org.isf.accounting.model.BillItems@c30, org.isf.accounting.model.BillItems@c31, org.isf.accounting.model.BillItems@c32]
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:1327 - Parameter Name  : billPayments
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:1328 - Parameter Type  : java.lang.String
+25/04/2023 05:50:26 PM MDT INFO  BillBrowserManager:1329 - Parameter Value : []
+25/04/2023 05:52:39 PM MDT INFO  PatientBrowserManager:1441 - OS Name             : Windows Server 2016
+25/04/2023 05:52:39 PM MDT INFO  PatientBrowserManager:1442 - OS Current Time     : 25/04/2023 05:52:39 PM MDT
+25/04/2023 05:52:39 PM MDT INFO  PatientBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+25/04/2023 05:52:39 PM MDT INFO  PatientBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+25/04/2023 05:52:39 PM MDT INFO  PatientBrowserManager:1445 - OS UserName         : friverao
+25/04/2023 05:52:39 PM MDT INFO  PatientBrowserManager:1446 - Annotation Type     : Method
+25/04/2023 05:52:39 PM MDT INFO  PatientBrowserManager:1447 - Method Name         : org.isf.patient.manager.PatientBrowserManager.getPatientById
+25/04/2023 05:52:39 PM MDT INFO  PatientBrowserManager:1448 - Method Return Type  : org.isf.patient.model.Patient
+25/04/2023 05:52:39 PM MDT INFO  PatientBrowserManager:1449 - Method Return Value : Juan Perez Guzman
+25/04/2023 05:52:39 PM MDT INFO  PatientBrowserManager:1327 - Parameter Name  : code
+25/04/2023 05:52:39 PM MDT INFO  PatientBrowserManager:1328 - Parameter Type  : java.lang.String
+25/04/2023 05:52:39 PM MDT INFO  PatientBrowserManager:1329 - Parameter Value : 128
+25/04/2023 05:53:01 PM MDT INFO  MainMenu:315 - 
+
+=====================
+ Open Hospital closed 
+=====================
+
+25/04/2023 06:00:24 PM MDT INFO  UserBrowsingManager:1441 - OS Name             : Windows Server 2016
+25/04/2023 06:00:24 PM MDT INFO  UserBrowsingManager:1442 - OS Current Time     : 25/04/2023 06:00:24 PM MDT
+25/04/2023 06:00:24 PM MDT INFO  UserBrowsingManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+25/04/2023 06:00:24 PM MDT INFO  UserBrowsingManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+25/04/2023 06:00:24 PM MDT INFO  UserBrowsingManager:1445 - OS UserName         : friverao
+25/04/2023 06:00:24 PM MDT INFO  UserBrowsingManager:1446 - Annotation Type     : Parameter
+25/04/2023 06:00:24 PM MDT INFO  UserBrowsingManager:1447 - Method Name         : org.isf.menu.manager.UserBrowsingManager.getMenu
+25/04/2023 06:00:24 PM MDT INFO  UserBrowsingManager:1448 - Method Return Type  : java.util.ArrayList
+25/04/2023 06:00:24 PM MDT INFO  UserBrowsingManager:1449 - Method Return Value : 
+25/04/2023 06:00:24 PM MDT INFO  UserBrowsingManager:900 - Parameter Name  : aUser
+25/04/2023 06:00:24 PM MDT INFO  UserBrowsingManager:901 - Parameter Type  :  org.isf.menu.model.User
+25/04/2023 06:00:24 PM MDT INFO  UserBrowsingManager:902 - Parameter Value : admin
+25/04/2023 06:00:24 PM MDT INFO  UserBrowsingManager:907 - Attribute Name  : userName
+25/04/2023 06:00:24 PM MDT INFO  UserBrowsingManager:908 - Attribute Type  : java.lang.String
+25/04/2023 06:00:24 PM MDT INFO  UserBrowsingManager:909 - Attribute Value : admin
+25/04/2023 06:00:58 PM MDT INFO  AdmissionBrowserManager:1441 - OS Name             : Windows Server 2016
+25/04/2023 06:00:58 PM MDT INFO  AdmissionBrowserManager:1442 - OS Current Time     : 25/04/2023 06:00:58 PM MDT
+25/04/2023 06:00:58 PM MDT INFO  AdmissionBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+25/04/2023 06:00:58 PM MDT INFO  AdmissionBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+25/04/2023 06:00:58 PM MDT INFO  AdmissionBrowserManager:1445 - OS UserName         : friverao
+25/04/2023 06:00:58 PM MDT INFO  AdmissionBrowserManager:1446 - Annotation Type     : Method
+25/04/2023 06:00:58 PM MDT INFO  AdmissionBrowserManager:1447 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+25/04/2023 06:00:58 PM MDT INFO  AdmissionBrowserManager:1448 - Method Return Type  : org.isf.admission.model.AdmittedPatient
+25/04/2023 06:00:58 PM MDT INFO  AdmissionBrowserManager:1449 - Method Return Value : org.isf.admission.model.AdmittedPatient@51dcda02
+25/04/2023 06:00:58 PM MDT INFO  AdmissionBrowserManager:1327 - Parameter Name  : patientId
+25/04/2023 06:00:58 PM MDT INFO  AdmissionBrowserManager:1328 - Parameter Type  : java.lang.String
+25/04/2023 06:00:58 PM MDT INFO  AdmissionBrowserManager:1329 - Parameter Value : 128
+25/04/2023 06:01:15 PM MDT INFO  AdmissionBrowserManager:1441 - OS Name             : Windows Server 2016
+25/04/2023 06:01:15 PM MDT INFO  AdmissionBrowserManager:1442 - OS Current Time     : 25/04/2023 06:01:15 PM MDT
+25/04/2023 06:01:15 PM MDT INFO  AdmissionBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+25/04/2023 06:01:15 PM MDT INFO  AdmissionBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+25/04/2023 06:01:15 PM MDT INFO  AdmissionBrowserManager:1445 - OS UserName         : friverao
+25/04/2023 06:01:15 PM MDT INFO  AdmissionBrowserManager:1446 - Annotation Type     : Method
+25/04/2023 06:01:15 PM MDT INFO  AdmissionBrowserManager:1447 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+25/04/2023 06:01:15 PM MDT INFO  AdmissionBrowserManager:1448 - Method Return Type  : org.isf.admission.model.AdmittedPatient
+25/04/2023 06:01:15 PM MDT INFO  AdmissionBrowserManager:1449 - Method Return Value : org.isf.admission.model.AdmittedPatient@709efffe
+25/04/2023 06:01:15 PM MDT INFO  AdmissionBrowserManager:1327 - Parameter Name  : patientId
+25/04/2023 06:01:15 PM MDT INFO  AdmissionBrowserManager:1328 - Parameter Type  : java.lang.String
+25/04/2023 06:01:15 PM MDT INFO  AdmissionBrowserManager:1329 - Parameter Value : 128
+25/04/2023 06:02:50 PM MDT INFO  PatientBrowserManager:1441 - OS Name             : Windows Server 2016
+25/04/2023 06:02:50 PM MDT INFO  PatientBrowserManager:1442 - OS Current Time     : 25/04/2023 06:02:50 PM MDT
+25/04/2023 06:02:50 PM MDT INFO  PatientBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+25/04/2023 06:02:50 PM MDT INFO  PatientBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+25/04/2023 06:02:50 PM MDT INFO  PatientBrowserManager:1445 - OS UserName         : friverao
+25/04/2023 06:02:50 PM MDT INFO  PatientBrowserManager:1446 - Annotation Type     : Method
+25/04/2023 06:02:50 PM MDT INFO  PatientBrowserManager:1447 - Method Name         : org.isf.patient.manager.PatientBrowserManager.getPatientById
+25/04/2023 06:02:50 PM MDT INFO  PatientBrowserManager:1448 - Method Return Type  : org.isf.patient.model.Patient
+25/04/2023 06:02:50 PM MDT INFO  PatientBrowserManager:1449 - Method Return Value : Genaro Rodriguez Suarez
+25/04/2023 06:02:50 PM MDT INFO  PatientBrowserManager:1327 - Parameter Name  : code
+25/04/2023 06:02:50 PM MDT INFO  PatientBrowserManager:1328 - Parameter Type  : java.lang.String
+25/04/2023 06:02:50 PM MDT INFO  PatientBrowserManager:1329 - Parameter Value : 126
+25/04/2023 06:04:31 PM MDT INFO  AdmissionBrowserManager:1441 - OS Name             : Windows Server 2016
+25/04/2023 06:04:31 PM MDT INFO  AdmissionBrowserManager:1442 - OS Current Time     : 25/04/2023 06:04:31 PM MDT
+25/04/2023 06:04:31 PM MDT INFO  AdmissionBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+25/04/2023 06:04:31 PM MDT INFO  AdmissionBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+25/04/2023 06:04:31 PM MDT INFO  AdmissionBrowserManager:1445 - OS UserName         : friverao
+25/04/2023 06:04:31 PM MDT INFO  AdmissionBrowserManager:1446 - Annotation Type     : Method
+25/04/2023 06:04:31 PM MDT INFO  AdmissionBrowserManager:1447 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+25/04/2023 06:04:31 PM MDT INFO  AdmissionBrowserManager:1448 - Method Return Type  : org.isf.admission.model.AdmittedPatient
+25/04/2023 06:04:31 PM MDT INFO  AdmissionBrowserManager:1449 - Method Return Value : org.isf.admission.model.AdmittedPatient@bf54ed9
+25/04/2023 06:04:31 PM MDT INFO  AdmissionBrowserManager:1327 - Parameter Name  : patientId
+25/04/2023 06:04:31 PM MDT INFO  AdmissionBrowserManager:1328 - Parameter Type  : java.lang.String
+25/04/2023 06:04:31 PM MDT INFO  AdmissionBrowserManager:1329 - Parameter Value : 125
+25/04/2023 06:04:32 PM MDT INFO  PatientBrowserManager:1441 - OS Name             : Windows Server 2016
+25/04/2023 06:04:32 PM MDT INFO  PatientBrowserManager:1442 - OS Current Time     : 25/04/2023 06:04:32 PM MDT
+25/04/2023 06:04:32 PM MDT INFO  PatientBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+25/04/2023 06:04:32 PM MDT INFO  PatientBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+25/04/2023 06:04:32 PM MDT INFO  PatientBrowserManager:1445 - OS UserName         : friverao
+25/04/2023 06:04:32 PM MDT INFO  PatientBrowserManager:1446 - Annotation Type     : Method
+25/04/2023 06:04:32 PM MDT INFO  PatientBrowserManager:1447 - Method Name         : org.isf.patient.manager.PatientBrowserManager.getPatientById
+25/04/2023 06:04:32 PM MDT INFO  PatientBrowserManager:1448 - Method Return Type  : org.isf.patient.model.Patient
+25/04/2023 06:04:32 PM MDT INFO  PatientBrowserManager:1449 - Method Return Value : Valentina Guzman Perez
+25/04/2023 06:04:32 PM MDT INFO  PatientBrowserManager:1327 - Parameter Name  : code
+25/04/2023 06:04:32 PM MDT INFO  PatientBrowserManager:1328 - Parameter Type  : java.lang.String
+25/04/2023 06:04:32 PM MDT INFO  PatientBrowserManager:1329 - Parameter Value : 125
+25/04/2023 06:05:51 PM MDT INFO  AdmissionBrowserManager:1441 - OS Name             : Windows Server 2016
+25/04/2023 06:05:51 PM MDT INFO  AdmissionBrowserManager:1442 - OS Current Time     : 25/04/2023 06:05:51 PM MDT
+25/04/2023 06:05:51 PM MDT INFO  AdmissionBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+25/04/2023 06:05:51 PM MDT INFO  AdmissionBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+25/04/2023 06:05:51 PM MDT INFO  AdmissionBrowserManager:1445 - OS UserName         : friverao
+25/04/2023 06:05:51 PM MDT INFO  AdmissionBrowserManager:1446 - Annotation Type     : Method
+25/04/2023 06:05:51 PM MDT INFO  AdmissionBrowserManager:1447 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+25/04/2023 06:05:51 PM MDT INFO  AdmissionBrowserManager:1448 - Method Return Type  : org.isf.admission.model.AdmittedPatient
+25/04/2023 06:05:51 PM MDT INFO  AdmissionBrowserManager:1449 - Method Return Value : org.isf.admission.model.AdmittedPatient@12dc942f
+25/04/2023 06:05:51 PM MDT INFO  AdmissionBrowserManager:1327 - Parameter Name  : patientId
+25/04/2023 06:05:51 PM MDT INFO  AdmissionBrowserManager:1328 - Parameter Type  : java.lang.String
+25/04/2023 06:05:51 PM MDT INFO  AdmissionBrowserManager:1329 - Parameter Value : 125
+25/04/2023 06:05:53 PM MDT INFO  PatientBrowserManager:1441 - OS Name             : Windows Server 2016
+25/04/2023 06:05:53 PM MDT INFO  PatientBrowserManager:1442 - OS Current Time     : 25/04/2023 06:05:53 PM MDT
+25/04/2023 06:05:53 PM MDT INFO  PatientBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+25/04/2023 06:05:53 PM MDT INFO  PatientBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+25/04/2023 06:05:53 PM MDT INFO  PatientBrowserManager:1445 - OS UserName         : friverao
+25/04/2023 06:05:53 PM MDT INFO  PatientBrowserManager:1446 - Annotation Type     : Method
+25/04/2023 06:05:53 PM MDT INFO  PatientBrowserManager:1447 - Method Name         : org.isf.patient.manager.PatientBrowserManager.getPatientById
+25/04/2023 06:05:53 PM MDT INFO  PatientBrowserManager:1448 - Method Return Type  : org.isf.patient.model.Patient
+25/04/2023 06:05:53 PM MDT INFO  PatientBrowserManager:1449 - Method Return Value : Valentina Guzman Perez
+25/04/2023 06:05:53 PM MDT INFO  PatientBrowserManager:1327 - Parameter Name  : code
+25/04/2023 06:05:53 PM MDT INFO  PatientBrowserManager:1328 - Parameter Type  : java.lang.String
+25/04/2023 06:05:53 PM MDT INFO  PatientBrowserManager:1329 - Parameter Value : 125
+25/04/2023 06:05:56 PM MDT INFO  BillBrowserManager:1441 - OS Name             : Windows Server 2016
+25/04/2023 06:05:56 PM MDT INFO  BillBrowserManager:1442 - OS Current Time     : 25/04/2023 06:05:56 PM MDT
+25/04/2023 06:05:56 PM MDT INFO  BillBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+25/04/2023 06:05:56 PM MDT INFO  BillBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+25/04/2023 06:05:56 PM MDT INFO  BillBrowserManager:1445 - OS UserName         : friverao
+25/04/2023 06:05:56 PM MDT INFO  BillBrowserManager:1446 - Annotation Type     : Parameter
+25/04/2023 06:05:56 PM MDT INFO  BillBrowserManager:1447 - Method Name         : org.isf.accounting.manager.BillBrowserManager.updateBill
+25/04/2023 06:05:56 PM MDT INFO  BillBrowserManager:1448 - Method Return Type  : java.lang.Boolean
+25/04/2023 06:05:56 PM MDT INFO  BillBrowserManager:1449 - Method Return Value : Valentina Guzman Perez
+25/04/2023 06:05:56 PM MDT INFO  BillBrowserManager:900 - Parameter Name  : updateBill
+25/04/2023 06:05:56 PM MDT INFO  BillBrowserManager:901 - Parameter Type  :  org.isf.accounting.model.Bill
+25/04/2023 06:05:56 PM MDT INFO  BillBrowserManager:902 - Parameter Value : org.isf.accounting.model.Bill@c0b
+25/04/2023 06:05:56 PM MDT INFO  BillBrowserManager:907 - Attribute Name  : status
+25/04/2023 06:05:56 PM MDT INFO  BillBrowserManager:908 - Attribute Type  : java.lang.String
+25/04/2023 06:05:56 PM MDT INFO  BillBrowserManager:909 - Attribute Value : C
+25/04/2023 06:05:56 PM MDT INFO  ConfigurationProperties:91 - File txtPrinter.properties loaded.
+25/04/2023 06:05:56 PM MDT WARN  ConfigurationProperties:122 - TXT_CHAR_HEIGHT property not found: default is 10
+25/04/2023 06:05:56 PM MDT WARN  ConfigurationProperties:122 - TXT_CHAR_WIDTH property not found: default is 10
+25/04/2023 06:06:24 PM MDT INFO  AdmissionBrowserManager:1441 - OS Name             : Windows Server 2016
+25/04/2023 06:06:24 PM MDT INFO  AdmissionBrowserManager:1442 - OS Current Time     : 25/04/2023 06:06:24 PM MDT
+25/04/2023 06:06:24 PM MDT INFO  AdmissionBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+25/04/2023 06:06:24 PM MDT INFO  AdmissionBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+25/04/2023 06:06:24 PM MDT INFO  AdmissionBrowserManager:1445 - OS UserName         : friverao
+25/04/2023 06:06:24 PM MDT INFO  AdmissionBrowserManager:1446 - Annotation Type     : Method
+25/04/2023 06:06:24 PM MDT INFO  AdmissionBrowserManager:1447 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+25/04/2023 06:06:24 PM MDT INFO  AdmissionBrowserManager:1448 - Method Return Type  : org.isf.admission.model.AdmittedPatient
+25/04/2023 06:06:24 PM MDT INFO  AdmissionBrowserManager:1449 - Method Return Value : org.isf.admission.model.AdmittedPatient@4b4bcf5d
+25/04/2023 06:06:24 PM MDT INFO  AdmissionBrowserManager:1327 - Parameter Name  : patientId
+25/04/2023 06:06:24 PM MDT INFO  AdmissionBrowserManager:1328 - Parameter Type  : java.lang.String
+25/04/2023 06:06:24 PM MDT INFO  AdmissionBrowserManager:1329 - Parameter Value : 128
+25/04/2023 06:08:34 PM MDT INFO  MainMenu:315 - 
+
+=====================
+ Open Hospital closed 
+=====================
+

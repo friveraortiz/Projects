@@ -1,0 +1,167 @@
+@startuml
+skinparam backgroundColor #EEEBDC
+skinparam sequence {
+ArrowColor DarkBlue
+ActorBorderColor DarkBlue
+LifeLineBorderColor blue
+LifeLineBackgroundColor DarkBlue
+ParticipantBorderColor DarkBlue
+ParticipantBackgroundColor DarkBlue
+ParticipantFontName Impact
+ParticipantFontSize 17
+ParticipantFontColor #A9DCDF
+ActorBackgroundColor DarkBlue
+ActorFontColor DarkBlue
+ActorFontSize 17
+ActorFontName Aapex
+}
+== Connects to the OpenHospital ==
+actor User_1 order 1
+participant org.isf.menu.gui.Login order 2
+note left of User_1 #lightskyblue 
+org.isf.menu.gui.Login
+end note
+User_1 ->org.isf.menu.gui.Login: 1.acceptPwd()
+||20||
+actor User_1 order 3
+participant org.isf.menu.manager.UserBrowsingManager order 4
+note left of User_1 #lightskyblue 
+org.isf.menu.gui.MainMenu
+end note
+User_1 ->org.isf.menu.manager.UserBrowsingManager: 2.getMenu()
+||20||
+actor User_1 order 5
+participant org.isf.exa.manager.ExamBrowsingManager order 6
+note left of User_1 #lightskyblue 
+org.isf.lab.gui.LabBrowser
+end note
+User_1 ->org.isf.exa.manager.ExamBrowsingManager: 3.getExams()
+||20||
+actor User_1 order 7
+participant org.isf.lab.manager.LabManager order 8
+note left of User_1 #lightskyblue 
+org.isf.lab.gui.LabBrowser
+end note
+User_1 ->org.isf.lab.manager.LabManager: 4.getLaboratory()
+||20||
+actor User_1 order 9
+participant org.isf.exa.manager.ExamBrowsingManager order 10
+note left of User_1 #lightskyblue 
+org.isf.lab.gui.LabNew
+end note
+User_1 ->org.isf.exa.manager.ExamBrowsingManager: 5.getExams()
+||20||
+actor User_1 order 11
+participant org.isf.patient.manager.PatientBrowserManager order 12
+note left of User_1 #lightskyblue 
+org.isf.patient.gui.SelectPatient
+end note
+User_1 ->org.isf.patient.manager.PatientBrowserManager: 6.getPatientsByOneOfFieldsLike()
+||20||
+actor User_1 order 13
+participant org.isf.patient.manager.PatientBrowserManager order 14
+note left of User_1 #lightskyblue 
+org.isf.patient.gui.SelectPatient
+end note
+User_1 ->org.isf.patient.manager.PatientBrowserManager: 7.getPatientById()
+||20||
+actor User_1 order 15
+participant org.isf.admission.manager.AdmissionBrowserManager order 16
+note left of User_1 #lightskyblue 
+org.isf.lab.gui.LabNew
+end note
+User_1 ->org.isf.admission.manager.AdmissionBrowserManager: 8.getCurrentAdmission()
+||20||
+actor User_1 order 17
+participant org.isf.exa.manager.ExamRowBrowsingManager order 18
+note left of User_1 #lightskyblue 
+org.isf.lab.gui.LabNew
+end note
+User_1 ->org.isf.exa.manager.ExamRowBrowsingManager: 9.getExamRowByExamCode()
+||20||
+actor User_1 order 19
+participant org.isf.lab.manager.LabManager order 20
+note left of User_1 #lightskyblue 
+org.isf.lab.gui.LabNew
+end note
+User_1 ->org.isf.lab.manager.LabManager: 10.newLaboratory2()
+||20||
+actor User_1 order 21
+participant org.isf.lab.manager.LabManager order 22
+note left of User_1 #lightskyblue 
+org.isf.lab.gui.LabBrowser
+end note
+User_1 ->org.isf.lab.manager.LabManager: 11.getLaboratory()
+||20||
+== Connects to the OpenHospital ==
+actor User_2 order 1
+participant org.isf.menu.gui.Login order 2
+note left of User_2 #lightskyblue 
+org.isf.menu.gui.Login
+end note
+User_2 ->org.isf.menu.gui.Login: 1.acceptPwd()
+||20||
+actor User_2 order 3
+participant org.isf.menu.manager.UserBrowsingManager order 4
+note left of User_2 #lightskyblue 
+org.isf.menu.gui.MainMenu
+end note
+User_2 ->org.isf.menu.manager.UserBrowsingManager: 2.getMenu()
+||20||
+actor User_2 order 5
+participant org.isf.exa.manager.ExamBrowsingManager order 6
+note left of User_2 #lightskyblue 
+org.isf.lab.gui.LabBrowser
+end note
+User_2 ->org.isf.exa.manager.ExamBrowsingManager: 3.getExams()
+||20||
+actor User_2 order 7
+participant org.isf.lab.manager.LabManager order 8
+note left of User_2 #lightskyblue 
+org.isf.lab.gui.LabBrowser
+end note
+User_2 ->org.isf.lab.manager.LabManager: 4.getLaboratory()
+||20||
+actor User_2 order 9
+participant org.isf.exa.manager.ExamBrowsingManager order 10
+note left of User_2 #lightskyblue 
+org.isf.lab.gui.LabEditExtended
+end note
+User_2 ->org.isf.exa.manager.ExamBrowsingManager: 5.getExams()
+||20||
+actor User_2 order 11
+participant org.isf.patient.manager.PatientBrowserManager order 12
+note left of User_2 #lightskyblue 
+org.isf.lab.gui.LabEditExtended
+end note
+User_2 ->org.isf.patient.manager.PatientBrowserManager: 6.getPatientAll()
+||20||
+actor User_2 order 13
+participant org.isf.exa.manager.ExamRowBrowsingManager order 14
+note left of User_2 #lightskyblue 
+org.isf.lab.gui.LabEditExtended
+end note
+User_2 ->org.isf.exa.manager.ExamRowBrowsingManager: 7.getExamRowByExamCode()
+||20||
+actor User_2 order 15
+participant org.isf.lab.manager.LabManager order 16
+note left of User_2 #lightskyblue 
+org.isf.lab.gui.LabEditExtended
+end note
+User_2 ->org.isf.lab.manager.LabManager: 8.updateLaboratory()
+||20||
+actor User_2 order 17
+participant org.isf.lab.manager.LabManager order 18
+note left of User_2 #lightskyblue 
+org.isf.lab.gui.LabBrowser
+end note
+User_2 ->org.isf.lab.manager.LabManager: 9.getLaboratory()
+||20||
+actor User_2 order 19
+participant org.isf.lab.manager.LabManager order 20
+note left of User_2 #lightskyblue 
+org.isf.lab.gui.LabBrowser
+end note
+User_2 ->org.isf.lab.manager.LabManager: 10.deleteLaboratory()
+||20||
+@enduml

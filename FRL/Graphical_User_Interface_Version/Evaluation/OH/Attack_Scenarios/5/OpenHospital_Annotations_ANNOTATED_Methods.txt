@@ -1,0 +1,7 @@
+Parameter,1,org.isf.menu.manager.UserBrowsingManager.getMenu,org.isf.menu.manager.UserBrowsingManager,getMenu,aUser.userName = doctor,userName,=,doctor;
+Parameter,2,org.isf.menu.manager.UserBrowsingManager.getMenu,org.isf.menu.manager.UserBrowsingManager,getMenu,aUser.userName = admin,userName,=,admin;
+Method,3,org.isf.admission.manager.AdmissionBrowserManager.getCurrentAdmission,org.isf.admission.manager.AdmissionBrowserManager,getCurrentAdmission,Method = org.isf.admission.manager.AdmissionBrowserManager.getCurrentAdmission,Method,=,org.isf.admission.manager.AdmissionBrowserManager.getCurrentAdmission;
+Method,4,org.isf.admission.manager.AdmissionBrowserManager.getAdmissionType,org.isf.admission.manager.AdmissionBrowserManager,getAdmissionType,Method = org.isf.admission.manager.AdmissionBrowserManager.getAdmissionType,Method,=,org.isf.admission.manager.AdmissionBrowserManager.getAdmissionType;
+Method,5,org.isf.admission.manager.AdmissionBrowserManager.getDischargeType,org.isf.admission.manager.AdmissionBrowserManager,getDischargeType,Method = org.isf.admission.manager.AdmissionBrowserManager.getDischargeType,Method,=,org.isf.admission.manager.AdmissionBrowserManager.getDischargeType;
+ReturnType,6,org.isf.admission.manager.AdmissionBrowserManager.newAdmissionReturnKey,org.isf.admission.manager.AdmissionBrowserManager,newAdmissionReturnKey,int > 0,int,>,0;
+ReturnType,7,org.isf.admission.manager.AdmissionBrowserManager.updateAdmission,org.isf.admission.manager.AdmissionBrowserManager,updateAdmission,boolean = true,boolean,=,true;

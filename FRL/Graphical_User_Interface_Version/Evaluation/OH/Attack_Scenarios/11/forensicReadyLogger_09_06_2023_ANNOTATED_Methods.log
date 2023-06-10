@@ -1,0 +1,333 @@
+09/06/2023 06:45:55 PM MDT INFO  UserBrowsingManager:1441 - OS Name             : Windows Server 2016
+09/06/2023 06:45:55 PM MDT INFO  UserBrowsingManager:1442 - OS Current Time     : 09/06/2023 06:45:55 PM MDT
+09/06/2023 06:45:55 PM MDT INFO  UserBrowsingManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+09/06/2023 06:45:55 PM MDT INFO  UserBrowsingManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+09/06/2023 06:45:55 PM MDT INFO  UserBrowsingManager:1445 - OS UserName         : friverao
+09/06/2023 06:45:55 PM MDT INFO  UserBrowsingManager:1446 - Annotation Type     : Parameter
+09/06/2023 06:45:55 PM MDT INFO  UserBrowsingManager:1447 - Method Name         : org.isf.menu.manager.UserBrowsingManager.getMenu
+09/06/2023 06:45:55 PM MDT INFO  UserBrowsingManager:1448 - Method Return Type  : java.util.ArrayList
+09/06/2023 06:45:55 PM MDT INFO  UserBrowsingManager:1449 - Method Return Value : 
+09/06/2023 06:45:55 PM MDT INFO  UserBrowsingManager:900 - Parameter Name  : aUser
+09/06/2023 06:45:55 PM MDT INFO  UserBrowsingManager:901 - Parameter Type  :  org.isf.menu.model.User
+09/06/2023 06:45:55 PM MDT INFO  UserBrowsingManager:902 - Parameter Value : doctor
+09/06/2023 06:45:55 PM MDT INFO  UserBrowsingManager:907 - Attribute Name  : userName
+09/06/2023 06:45:55 PM MDT INFO  UserBrowsingManager:908 - Attribute Type  : java.lang.String
+09/06/2023 06:45:55 PM MDT INFO  UserBrowsingManager:909 - Attribute Value : doctor
+09/06/2023 06:47:47 PM MDT INFO  ConfigurationProperties:91 - File txtPrinter.properties loaded.
+09/06/2023 06:47:47 PM MDT WARN  ConfigurationProperties:122 - TXT_CHAR_HEIGHT property not found: default is 10
+09/06/2023 06:47:47 PM MDT WARN  ConfigurationProperties:122 - TXT_CHAR_WIDTH property not found: default is 10
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:1441 - OS Name             : Windows Server 2016
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:1442 - OS Current Time     : 09/06/2023 06:48:55 PM MDT
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:1445 - OS UserName         : friverao
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:1446 - Annotation Type     : Method
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:1447 - Method Name         : org.isf.visits.manager.VisitManager.newVisit
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:1448 - Method Return Type  : org.isf.visits.model.Visit
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:1449 - Method Return Value : SURGERY -  - 09/06/23 - 18:48:00
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:1237 - Parameter Name : visit
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:1238 - Parameter Type : org.isf.visits.model.Visit
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:1267 - The Parameter: visit has 9 Attributes
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - Attribute Name  : visitID
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - Attribute Type  : int
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - Attribute Value : 15
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:642 - Attribute Name : patient
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:643 - Attribute Type : org.isf.patient.model.Patient
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:688 - The Attribute: patient has 9 SubAttributes
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : code
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.Integer
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : 125
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : firstName
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : Valentina
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : secondName
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : Guzman Perez
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : name
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : Valentina Guzman Perez
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : birthDate
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.time.LocalDate
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : 1973-04-25
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : age
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : int
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : 50
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : agetype
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : 
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : sex
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : char
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : F
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : address
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : 9 Grafton Street
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : city
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : Dublin, Ireland
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : nextKin
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : 1
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : telephone
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : +39123456
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : note
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : 
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : motherName
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : Maria
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : mother
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : char
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : A
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : fatherName
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : Juan
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : father
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : char
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : A
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : bloodType
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : 0+
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : hasInsurance
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : char
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : Y
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : parentTogether
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : char
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : Y
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : taxCode
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : 
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : maritalStatus
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : married
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : profession
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : medicine
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : deleted
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : N
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:642 - Attribute Name : ward
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:643 - Attribute Type : org.isf.ward.model.Ward
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:688 - The Attribute: ward has 9 SubAttributes
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : code
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : S
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : description
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : SURGERY
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : telephone
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : 234/52544
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : fax
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : 54324/5424
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : email
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : surgery@stluke.org
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : beds
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.Integer
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : 20
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : nurs
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.Integer
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : 3
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : docs
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.Integer
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : 2
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : isPharmacy
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : boolean
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : true
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : isMale
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : boolean
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : true
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : isFemale
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : boolean
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : true
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : visitDuration
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : int
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : 30
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - SubAttribute Name  : lock
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.Integer
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - SubAttribute Value : 1
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - Attribute Name  : date
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - Attribute Type  : java.time.LocalDateTime
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - Attribute Value : 2023-06-09T18:48
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - Attribute Name  : duration
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - Attribute Type  : java.lang.Integer
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - Attribute Value : 30
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - Attribute Name  : service
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - Attribute Type  : java.lang.String
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - Attribute Value : 
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:716 - Attribute Name  : sms
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:717 - Attribute Type  : boolean
+09/06/2023 06:48:55 PM MDT INFO  VisitManager:718 - Attribute Value : false
+09/06/2023 06:52:52 PM MDT INFO  MainMenu:315 - 
+
+=====================
+ Open Hospital closed 
+=====================
+
+09/06/2023 06:57:38 PM MDT INFO  UserBrowsingManager:1441 - OS Name             : Windows Server 2016
+09/06/2023 06:57:38 PM MDT INFO  UserBrowsingManager:1442 - OS Current Time     : 09/06/2023 06:57:38 PM MDT
+09/06/2023 06:57:38 PM MDT INFO  UserBrowsingManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+09/06/2023 06:57:38 PM MDT INFO  UserBrowsingManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+09/06/2023 06:57:38 PM MDT INFO  UserBrowsingManager:1445 - OS UserName         : friverao
+09/06/2023 06:57:38 PM MDT INFO  UserBrowsingManager:1446 - Annotation Type     : Parameter
+09/06/2023 06:57:38 PM MDT INFO  UserBrowsingManager:1447 - Method Name         : org.isf.menu.manager.UserBrowsingManager.getMenu
+09/06/2023 06:57:38 PM MDT INFO  UserBrowsingManager:1448 - Method Return Type  : java.util.ArrayList
+09/06/2023 06:57:38 PM MDT INFO  UserBrowsingManager:1449 - Method Return Value : 
+09/06/2023 06:57:38 PM MDT INFO  UserBrowsingManager:900 - Parameter Name  : aUser
+09/06/2023 06:57:38 PM MDT INFO  UserBrowsingManager:901 - Parameter Type  :  org.isf.menu.model.User
+09/06/2023 06:57:38 PM MDT INFO  UserBrowsingManager:902 - Parameter Value : admin
+09/06/2023 06:57:38 PM MDT INFO  UserBrowsingManager:907 - Attribute Name  : userName
+09/06/2023 06:57:38 PM MDT INFO  UserBrowsingManager:908 - Attribute Type  : java.lang.String
+09/06/2023 06:57:38 PM MDT INFO  UserBrowsingManager:909 - Attribute Value : admin
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:1441 - OS Name             : Windows Server 2016
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:1442 - OS Current Time     : 09/06/2023 06:59:26 PM MDT
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:1445 - OS UserName         : friverao
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:1446 - Annotation Type     : Method
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:1447 - Method Name         : org.isf.visits.manager.VisitManager.deleteVisit
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:1448 - Method Return Type  : void
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:1449 - Method Return Value : 
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:1237 - Parameter Name : visit
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:1238 - Parameter Type : org.isf.visits.model.Visit
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:1267 - The Parameter: visit has 9 Attributes
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - Attribute Name  : visitID
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - Attribute Type  : int
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - Attribute Value : 15
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:642 - Attribute Name : patient
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:643 - Attribute Type : org.isf.patient.model.Patient
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:688 - The Attribute: patient has 9 SubAttributes
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : code
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.Integer
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : 125
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : firstName
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : Valentina
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : secondName
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : Guzman Perez
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : name
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : Valentina Guzman Perez
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : birthDate
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.time.LocalDate
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : 1973-04-25
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : age
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : int
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : 50
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : agetype
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : 
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : sex
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : char
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : F
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : address
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : 9 Grafton Street
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : city
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : Dublin, Ireland
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : nextKin
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : 1
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : telephone
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : +39123456
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : note
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : 
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : motherName
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : Maria
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : mother
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : char
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : A
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : fatherName
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : Juan
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : father
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : char
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : A
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : bloodType
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : 0+
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : hasInsurance
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : char
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : Y
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : parentTogether
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : char
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : Y
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : taxCode
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : 
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : maritalStatus
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : married
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : profession
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : medicine
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : deleted
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : N
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:642 - Attribute Name : ward
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:643 - Attribute Type : org.isf.ward.model.Ward
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:688 - The Attribute: ward has 9 SubAttributes
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : code
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : S
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : description
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : SURGERY
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : telephone
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : 234/52544
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : fax
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : 54324/5424
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : email
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : surgery@stluke.org
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : beds
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.Integer
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : 20
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : nurs
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.Integer
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : 3
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : docs
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.Integer
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : 2
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : isPharmacy
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : boolean
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : true
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : isMale
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : boolean
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : true
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : isFemale
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : boolean
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : true
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : visitDuration
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : int
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : 30
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - SubAttribute Name  : lock
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - SubAttribute Type  : java.lang.Integer
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - SubAttribute Value : 1
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - Attribute Name  : date
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - Attribute Type  : java.time.LocalDateTime
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - Attribute Value : 2023-06-09T18:48
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - Attribute Name  : duration
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - Attribute Type  : java.lang.Integer
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - Attribute Value : 30
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - Attribute Name  : service
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - Attribute Type  : java.lang.String
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - Attribute Value : 
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:716 - Attribute Name  : sms
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:717 - Attribute Type  : boolean
+09/06/2023 06:59:26 PM MDT INFO  VisitManager:718 - Attribute Value : false
+09/06/2023 07:04:10 PM MDT INFO  MainMenu:315 - 
+
+=====================
+ Open Hospital closed 
+=====================
+

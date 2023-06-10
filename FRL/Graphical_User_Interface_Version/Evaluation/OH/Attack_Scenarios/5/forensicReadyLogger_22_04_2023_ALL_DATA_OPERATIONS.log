@@ -1,0 +1,1303 @@
+22/04/2023 06:04:00 PM MDT INFO  Login:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:04:00 PM MDT INFO  Login:1413 - OS Current Time     : 22/04/2023 06:04:00 PM MDT
+22/04/2023 06:04:00 PM MDT INFO  Login:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:04:00 PM MDT INFO  Login:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:04:00 PM MDT INFO  Login:1416 - OS UserName         : friverao
+22/04/2023 06:04:00 PM MDT INFO  Login:1417 - Annotation Type     : Method
+22/04/2023 06:04:00 PM MDT INFO  Login:1418 - Method Name         : org.isf.menu.gui.Login.acceptPwd
+22/04/2023 06:04:00 PM MDT INFO  Login:1419 - Method Return Type  : void
+22/04/2023 06:04:00 PM MDT INFO  Login:1420 - Method Return Value : 
+22/04/2023 06:04:00 PM MDT INFO  Login:1655 - The Method: acceptPwd DOEST NOT have any INPUT Parameters
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:1413 - OS Current Time     : 22/04/2023 06:04:01 PM MDT
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:1416 - OS UserName         : friverao
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:1417 - Annotation Type     : Method
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:1418 - Method Name         : org.isf.menu.manager.UserBrowsingManager.getMenu
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:1420 - Method Return Value : [Types, Admission Type, New, New, Pharmaceuticals, New, New Patient, Users, New, New Bill, Edit Patient, Cashier's Filter, Edit, Pharmaceutical Stock, Examination, Edit, OPD, Edit, Examination, Groups, Edit, Examination, Charge, New Bill, Bill Manager, OPD Chart, Edit, Rectify, Examination, Edit Patient, Exams List, Discharge Type, Hospital, Merge, Report, Delete patient, Operation, Ward, Discharge, Delete, Edit Bill, Admission Chart, Admission/Patient, Delete, Disease List, Pharmaceutical Stock Ward, Delivery Type, Delete, Delete, Delete, Operation, Launch Report , Disease, Delivery Result Type, Data, Laboratory, Malnutrition control, Operation List, Edit Closed Bills, Excel, Exams, Delete Bill, Bill, Pharmacy, Disease Type, Admission, DICOM Patient, Exam Type, OPD, Vaccines, Operation, Report, Accounting, Receipt, Medicals Stock Mov Type, Vaccine, Therapy, Clinical sheet, Price Lists, Medicals Type, Worksheet, Statistics, Supplier, Operation Type, Reports, SMS Manager, Pregnant Treatment, Other Prices, Communication, Users & Groups, Settings, Age Type, Help, Vaccine Type, DICOM Type]
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:1208 - Parameter Name : aUser
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:1209 - Parameter Type : org.isf.menu.model.User
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:1238 - The Parameter: aUser has 5 Attributes
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:716 - Attribute Name  : userName
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:718 - Attribute Value : doctor
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:642 - Attribute Name : userGroupName
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:643 - Attribute Type : org.isf.menu.model.UserGroup
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:688 - The Attribute: userGroupName has 5 SubAttributes
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:716 - SubAttribute Name  : code
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:718 - SubAttribute Value : admin
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:716 - SubAttribute Name  : desc
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:718 - SubAttribute Value : User with all the privileges
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:716 - Attribute Name  : passwd
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:718 - Attribute Value : $2a$10$GQ6U5sqXGSfsQ8OQdGLTfO01L8kY29uF1E4pY6rvB5/MuiiVgMAiS
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:716 - Attribute Name  : desc
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:04:01 PM MDT INFO  UserBrowsingManager:718 - Attribute Value : Doctor of the Clinic
+22/04/2023 06:05:24 PM MDT INFO  AdmissionBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:05:24 PM MDT INFO  AdmissionBrowserManager:1413 - OS Current Time     : 22/04/2023 06:05:24 PM MDT
+22/04/2023 06:05:24 PM MDT INFO  AdmissionBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:05:24 PM MDT INFO  AdmissionBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:05:24 PM MDT INFO  AdmissionBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:05:24 PM MDT INFO  AdmissionBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:05:24 PM MDT INFO  AdmissionBrowserManager:1418 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getAdmittedPatients
+22/04/2023 06:05:24 PM MDT INFO  AdmissionBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:05:24 PM MDT INFO  AdmissionBrowserManager:1420 - Method Return Value : [org.isf.admission.model.AdmittedPatient@241aa9c6, org.isf.admission.model.AdmittedPatient@37a9200b]
+22/04/2023 06:05:24 PM MDT INFO  AdmissionBrowserManager:1655 - The Method: getAdmittedPatients DOEST NOT have any INPUT Parameters
+22/04/2023 06:05:24 PM MDT INFO  WardBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:05:24 PM MDT INFO  WardBrowserManager:1413 - OS Current Time     : 22/04/2023 06:05:24 PM MDT
+22/04/2023 06:05:24 PM MDT INFO  WardBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:05:24 PM MDT INFO  WardBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:05:24 PM MDT INFO  WardBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:05:24 PM MDT INFO  WardBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:05:24 PM MDT INFO  WardBrowserManager:1418 - Method Name         : org.isf.ward.manager.WardBrowserManager.getWards
+22/04/2023 06:05:24 PM MDT INFO  WardBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:05:24 PM MDT INFO  WardBrowserManager:1420 - Method Return Value : [INTERNAL MEDICINE, MATERNITY, NURSERY, SURGERY]
+22/04/2023 06:05:24 PM MDT INFO  WardBrowserManager:1655 - The Method: getWards DOEST NOT have any INPUT Parameters
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1413 - OS Current Time     : 22/04/2023 06:05:33 PM MDT
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1418 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1419 - Method Return Type  : org.isf.admission.model.AdmittedPatient
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1420 - Method Return Value : org.isf.admission.model.AdmittedPatient@156c637c
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1298 - Parameter Name  : patientId
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1299 - Parameter Type  : java.lang.String
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1300 - Parameter Value : 116
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1413 - OS Current Time     : 22/04/2023 06:05:33 PM MDT
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1418 - Method Name         : org.isf.disease.manager.DiseaseBrowserManager.getDiseaseIpdOut
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1420 - Method Return Value : [Abscess of anal and rectal regions, Absent, scanty and rare menstruation, Acne, Acquired deformities of fingers and toes, Acute and transient psychotic disorders, Acute appendicitis, Acute bronchiolitis, Acute bronchitis, Acute hepatitis B, Acute hepatitis C, Acute laryngitis and tracheitis, Acute myocardial infarction, Acute nasopharyngitis [common cold], Acute pharyngitis, Acute poliomyelitis, Acute posthaemorrhagic anaemia, Acute renal failure, Acute sinusitis, Acute tonsillitis, Adult respiratory distress syndrome, Adverse effects, not elsewhere classified, Allergic contact dermatitis, Alopecia areata, Alzheimer disease, Amebiasis, Anaemia in chronic diseases classified elsewhere, Anaphylactic shock, unspecified, Angina pectoris, Angioneurotic oedema, Ankylosing spondylitis, Anogenital herpesviral [herpes simplex] infection, Ascariasis, Asthma, Bacterial pneumonia, not elsewhere classified, Bacterial sepsis of newborn, Benign neoplasm of breast, Benign neoplasm of colon, rectum, anus and anal canal, Benign neoplasm of male genital organs, Benign neoplasm of other and unspecified sites, Benign neoplasm of ovary, Benign neoplasm of thyroid gland, Birth asphyxia, Bitten by rat, Bitten or struck by other mammals, Bitten or stung by nonvenomous insect and other nonvenomous arthropods, Burn and corrosion, body region unspecified, Burns and corrosions of multiple body regions, Calculus of kidney and ureter, Calculus of lower urinary tract, Candidiasis, Cardiac arrest, Cardiomiopatia, Cerebral infarction, Cerebral palsy, Chancroid, Chlamydial lymphogranuloma (venereum), Cholecystitis, Cholelithiasis, Chronic kidney disease, Chronic rhinitis, nasopharyngitis and pharyngitis, Chronic sinusitis, Cleft lip, Conductive and sensorineural hearing loss, Congenital iodine-deficiency syndrome, Congenital malformations of spine and bony thorax, Congenital syphilis, Conjunctivitis, Contact with marine animal, Corneal scars and opacities, Coxarthrosis [arthrosis of hip], Cranial nerve disorders in diseases classified elsewhere, Cutaneous abscess, furuncle and carbuncle, Cysticercosis, Cystitis, Decubitus ulcer and pressure area, Dental caries, Diabetes mellitus in pregnancy, Diaper [napkin] dermatitis, Diarrhea and gastroenteritis of presumed infectious origin, Diphtheria, Diseases of pulp and periapical tissues, Diseases of salivary glands, Diseases of spleen, Diseases of tongue, Disorders of vestibular function, Disorders related to long gestation and high birth weight, Diverticular disease of intestine, Dorsalgia, Down syndrome, Duodenal ulcer, Early syphilis, Eating disorders, Echinococcosis, Eclampsia, Ectopic pregnancy, Effects of other external causes, Embedded and impacted teeth, Emphysema, Encephalitis, myelitis and encephalomyelitis, Endometriosis, Epilepsy, Essential (primary) hypertension, Examination and observation for other reasons, Excessive, frequent and irregular menstruation, Exfoliative dermatitis, Failed attempted abortion, Female genital prolapse, Female infertility, Fetal death of unspecified cause, Fetus and newborn affected by complications of placenta, cord and membranes, Fetus and newborn affected by noxious influences transmitted via placenta or breast milk, Fetus and newborn affected by other complications of labour and delivery, Fever of other and unknown origin, Fibrosis and cirrhosis of liver, Filariasis, Fissure and fistula of anal and rectal regions, Fistulae involving female genital tract, Follicular cysts of skin and subcutaneous tissue, Gastric ulcer, Gastritis and duodenitis, Gastroenteritis and colitis of unspecified origin, General examination and investigation of persons without complaint and reported diagnosis, Gestational [pregnancy-induced] hypertension, Giardiasis [lambliasis], Gingivitis and periodontal diseases, Glaucoma, Gonarthrosis [arthrosis of knee], Gonococcal infection, Gout, Habitual aborter, Haemangioma and lymphangioma, any site, Haemorrhoids and perianal venous thrombosis, Headache, Heart failure, Hereditary and idiopathic neuropathy, Herpesviral [herpes simplex] infections, Hordeolum and chalazion, Hydrocele and spermatocele, Hydrocephalus, Hyperkinetic disorders, Hyperplasia of prostate, Hypertensive heart disease, Hypertensive renal disease, Hypertrophic disorders of skin, Hypertrophy of breast, Hypospadias, Hypotension, Hypothermia of newborn, Infections of genitourinary tract in pregnancy, Inflammatory diseases of prostate, Inflammatory disorders of breast, Inflammatory disorders of male genital organs, not elsewhere classified, Influenza with pneumonia, seasonal influenza virus identified, Influenza, virus not identified, Inguinal hernia, Injury of intra-abdominal organs, Injury of unspecified body region, Intestinal malabsorption, Juvenile arthritis, Kernicterus, Labour and delivery complicated by intrapartum haemorrhage, not elsewhere classified, Lactose intolerance, Late syphilis, Leiomyoma of uterus, Leprosy [Hansen disease], Long labour, Lupus erythematosus, Male infertility, Malignant melanoma of skin, Malignant neoplasm of breast, Malignant neoplasm of cervix uteri, Malignant neoplasm of colon, Malignant neoplasm of corpus uteri, Malignant neoplasm of gallbladder, Malignant neoplasm of kidney, except renal pelvis, Malignant neoplasm of other and ill-defined digestive organs, Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx, Malignant neoplasm of other and unspecified male genital organs, Malignant neoplasm of ovary, Malignant neoplasm of small intestine, Malignant neoplasm of stomach, Malignant neoplasm of testis, Malignant neoplasm of thyroid gland, Malignant neoplasm of ureter, Malignant neoplasm, without specification of site, Measles, Meconium ileus in cystic fibrosis, Medical abortion, Melanocytic naevi, Meningitis due to other and unspecified causes, Meningitis in other infectious and parasitic diseases classified elsewhere, Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, Mental and behavioural disorders due to use of alcohol, Microcephaly, Migraine, Miliary tuberculosis, Multiple delivery, Multiple gestation, Mumps, Mycetoma, Myositis, Neonatal jaundice from other and unspecified causes, Nephrotic syndrome, Nerve root and plexus disorders, Neuromuscular dysfunction of bladder, not elsewhere classified, Nondiabetic hypoglycaemic coma, Nonspecific lymphadenitis, Nutritional deficiency, unspecified, Obstetric death of unspecified cause, Obstructive and reflux uropathy, Oesophageal varices, Onchocerciasis, Open wound of abdomen, lower back and pelvis, Open wound of head, Open wound of thorax, Orchitis and epididymitis, Osteomyelitis, Other abdominal hernia, Other abnormal uterine and vaginal bleeding, Other acquired deformities of musculoskeletal system and connective tissue, Other acute viral hepatitis, Other anaemias, Other and unspecified infectious diseases, Other and unspecified injuries of abdomen, lower back and pelvis, Other and unspecified injuries of ankle and foot, Other and unspecified injuries of forearm, Other and unspecified injuries of hip and thigh, Other and unspecified injuries of lower leg, Other and unspecified injuries of neck, Other and unspecified injuries of shoulder and upper arm, Other and unspecified injuries of thorax, Other and unspecified injuries of wrist and hand, Other aneurysm and dissection, Other anxiety disorders, Other arthritis, Other arthrosis, Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence, Other benign neoplasms of skin, Other birth injuries, Other bullous disorders, Other cardiac arrhythmias, Other congenital infectious and parasitic diseases, Other congenital malformations of circulatory system, Other congenital malformations of digestive system, Other congenital malformations of ear, Other congenital malformations of eye, Other congenital malformations of face and neck, Other congenital malformations of female genitalia, Other congenital malformations of heart, Other congenital malformations of intestine, Other congenital malformations of kidney, Other congenital malformations of limb(s), Other congenital malformations of male genital organs, Other congenital malformations of peripheral vascular system, Other congenital malformations of respiratory system, Other congenital malformations of skull and face bones, Other congenital malformations of tongue, mouth and pharynx, Other congenital malformations of urinary system, Other congenital malformations, not elsewhere classified, Other dermatitis, Other diseases of blood and blood-forming organs, Other diseases of digestive system, Other diseases of lip and oral mucosa, Other diseases of upper respiratory tract, Other disorders of adrenal gland, Other disorders of amniotic fluid and membranes, Other disorders of bone, Other disorders of breast, Other disorders of breast and lactation associated with childbirth, Other disorders of ear, not elsewhere classified, Other disorders of eye and adnexa, Other disorders of kidney and ureter, not elsewhere classified, Other disorders of middle ear and mastoid, Other disorders of thyroid, Other disorders of urethra, Other disorders of white blood cells, Other erythematous conditions, Other female pelvic inflammatory diseases, Other functional intestinal disorders, Other headache syndromes, Other helminthiases, Other hereditary haemolytic anaemias, Other hypothyroidism, Other inflammation of vagina and vulva, Other inflammatory liver diseases, Other malignant neoplasms of skin, Other mosquito-borne viral fevers, Other neonatal haemorrhages, Other noninflammatory disorders of uterus, except cervix, Other nutritional anaemias, Other obstetric trauma, Other papulosquamous disorders, Other parasitologically confirmed malaria, Other perinatal haematological disorders, Other pleural conditions, Other predominantly sexually transmitted diseases, not elsewhere classified, Other protozoal intestinal diseases, Other pulmonary heart diseases, Other respiratory disorders, Other rheumatoid arthritis, Other sexually transmitted chlamydial diseases, Other specific joint derangements, Other strabismus, Other tetanus, Other venous embolism and thrombosis, Other zoonotic bacterial diseases, not elsewhere classified, Otitis externa, Paralytic ileus and intestinal obstruction without hernia, Parkinson disease, Paroxysmal tachycardia, Pediculosis and phthiriasis, Pemphigus, Perforation of tympanic membrane, Perineal laceration during delivery, Peritonitis, Peritonsillar abscess, Phlebitis and thrombophlebitis, Placenta praevia, Plague, Pleural effusion, not elsewhere classified, Pneumonia due to other infectious organisms, not elsewhere classified, Pneumothorax, Poisoning by diuretics and other and unspecified drugs, medicaments and biological substances, Polyarthrosis, Polyneuropathy in diseases classified elsewhere, Polyp of female genital tract, Postpartum haemorrhage, Postpolio syndrome, Pre-existing hypertension complicating pregnancy, childbirth and the puerperium, Premature rupture of membranes, Premature separation of placenta [abruptio placentae], Preterm labour and delivery, Primary disorders of muscles, Pulmonary embolism, Pulmonary oedema, Pyogenic arthritis, Pyothorax, Recurrent and persistent haematuria, Redundant prepuce, phimosis and paraphimosis, Respiratory distress of newborn, Respiratory failure, not elsewhere classified, Respiratory tuberculosis, bacteriologically and histologically confirmed, Respiratory tuberculosis, not confirmed bacteriologically or histologically, Retained placenta and membranes, without haemorrhage, Retarded development following protein-energy malnutrition, Retention of urine, Rheumatic fever without mention of heart involvement, Rubella [German measles], Salpingitis and oophoritis, Scabies, Scarlet fever, Schistosomiasis [bilharziasis], Schizophrenia, Scoliosis, Seborrhoeic dermatitis, Seborrhoeic keratosis, Secondary hypertension, Senile cataract, Sequelae of hyperalimentation, Sexual dysfunction, not caused by organic disorder or disease, Shoulder lesions, Single delivery by caesarean section, Single spontaneous delivery, Sleep disorders, Slow fetal growth and fetal malnutrition, Soft tissue disorders related to use, overuse and pressure, Somatoform disorders, Somnolence, stupor and coma, Specific developmental disorder of motor function, Specific developmental disorders of speech and language, Spinal muscular atrophy and related syndromes, Spontaneous abortion, Status epilepticus, Stomatitis and related lesions, Subsequent myocardial infarction, Superficial injuries involving multiple body regions, Superficial injury of abdomen, lower back and pelvis, Superficial injury of ankle and foot, Superficial injury of forearm, Superficial injury of head, Superficial injury of hip and thigh, Superficial injury of lower leg, Superficial injury of neck, Superficial injury of shoulder and upper arm, Superficial injury of thorax, Superficial injury of wrist and hand, Taeniasis, Thyrotoxicosis [hyperthyroidism], Torsion of testis, Toxic effect of alcohol, Toxic effect of other and unspecified substances, Toxic encephalopathy, Transient cerebral ischaemic attacks and related syndromes, Traumatic amputations involving multiple body regions, Trichomoniasis, Trichuriasis, Tuberculosis of other organs, Type 1 diabetes mellitus, Type 2 diabetes mellitus, Typhoid and paratyphoid fevers, Ulcer of lower limb, not elsewhere classified, Ulcerative colitis, Umbilical hernia, Undescended testicle, Unspecified dementia, Unspecified disorder of adult personality and behaviour, Unspecified human immunodeficiency virus [HIV] disease, Unspecified intestinal parasitism, Unspecified lump in breast, Unspecified malaria, Unspecified maternal hypertension, Unspecified mental retardation, Unspecified mood [affective] disorder, Unspecified multiple injuries, Unspecified mycosis, Unspecified protein-energy malnutrition, Unspecified severe protein-energy malnutrition, Unspecified viral haemorrhagic fever, Unspecified viral infection characterized by skin and mucous membrane lesions, Unspecified viral infection of central nervous system, Urethral stricture, Urticaria, Varicella [chickenpox], Varicose veins of lower extremities, Vascular syndromes of brain in cerebrovascular diseases, Vasomotor and allergic rhinitis, Ventral hernia, Viral infection of unspecified site, Viral meningitis, Viral pneumonia, not elsewhere classified, Viral warts, Visual disturbances, Visual impairment including blindness (binocular or monocular), Vitiligo, Volume depletion, Whooping cough, Zoster [herpes zoster]]
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1655 - The Method: getDiseaseIpdOut DOEST NOT have any INPUT Parameters
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1413 - OS Current Time     : 22/04/2023 06:05:33 PM MDT
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1418 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getCurrentAdmission
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1419 - Method Return Type  : 
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1420 - Method Return Value : 
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1208 - Parameter Name : patient
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1209 - Parameter Type : org.isf.patient.model.Patient
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:1238 - The Parameter: patient has 27 Attributes
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : code
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.Integer
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 116
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : firstName
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Valentina
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : secondName
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Guzman
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : name
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Valentina Guzman
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : birthDate
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.time.LocalDate
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 1968-04-19
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : age
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 55
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : agetype
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : sex
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : F
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : address
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 44 Mary Street
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : city
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : London, United Kingdom
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : nextKin
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 1
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : telephone
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : +39
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : note
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : motherName
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Ana
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : mother
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : A
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : fatherName
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Pedro
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : father
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : A
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : bloodType
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : A+
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : hasInsurance
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Y
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : parentTogether
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Y
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : taxCode
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 123
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : maritalStatus
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : divorced
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : profession
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : foodhospitality
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : deleted
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:05:33 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : N
+22/04/2023 06:05:33 PM MDT INFO  OperationBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:05:33 PM MDT INFO  OperationBrowserManager:1413 - OS Current Time     : 22/04/2023 06:05:33 PM MDT
+22/04/2023 06:05:33 PM MDT INFO  OperationBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:05:33 PM MDT INFO  OperationBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:05:33 PM MDT INFO  OperationBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:05:33 PM MDT INFO  OperationBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:05:33 PM MDT INFO  OperationBrowserManager:1418 - Method Name         : org.isf.operation.manager.OperationBrowserManager.getOperationAdm
+22/04/2023 06:05:33 PM MDT INFO  OperationBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:05:33 PM MDT INFO  OperationBrowserManager:1420 - Method Return Value : [Abdominal Tumours, Acute abdomen, Appendicitis, Bladder biopsy, Caesarian section, Cholecystitis, Circumcision, Cystocele, Debridement, Dilatation and curettage, Dorsal slit-paraphimosis, Ectopic pregnancy, Epigastrical Hernia, Evacuations, HERNIA, Hernia (inguinal & femoral), Hydrocelectomy, Hysterectomy, Incision & Drainage, Incomplete abortion, Injured uterus, Intestinal obstruction, Knee Surgery 123, Laparotomy, Lower limb, Mechanical, Mise -a- plat, NEW OPERATION, NEW OPERATION TWO, Non strangulated, Operation New, Osteomyelitis - sequestrectomy, Ovarian tumours, Paraphimosis, Pelvic abscess, Penetrating abdominal injuries, Peritonitis, Peritonitis, Phimosis, Prostate biopsy, Prostatectomy, Reduction of fractures, Repair of vesico-vaginal fistula (vvf), Ruptured uterus, Septic abortion, Strangulated, Surgical toilet  & suture, Testicular tumours, Upper limb, Uretheral stricture-bougienage, Uterine fibroids, Uterine prolapse, Volvulus]
+22/04/2023 06:05:33 PM MDT INFO  OperationBrowserManager:1655 - The Method: getOperationAdm DOEST NOT have any INPUT Parameters
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1413 - OS Current Time     : 22/04/2023 06:05:33 PM MDT
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1418 - Method Name         : org.isf.disease.manager.DiseaseBrowserManager.getDiseaseIpdIn
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1420 - Method Return Value : [Abscess of anal and rectal regions, Absent, scanty and rare menstruation, Acne, Acquired deformities of fingers and toes, Acute and transient psychotic disorders, Acute appendicitis, Acute bronchiolitis, Acute bronchitis, Acute hepatitis B, Acute hepatitis C, Acute laryngitis and tracheitis, Acute myocardial infarction, Acute nasopharyngitis [common cold], Acute pharyngitis, Acute poliomyelitis, Acute posthaemorrhagic anaemia, Acute renal failure, Acute sinusitis, Acute tonsillitis, Adult respiratory distress syndrome, Adverse effects, not elsewhere classified, Allergic contact dermatitis, Alopecia areata, Alzheimer disease, Amebiasis, Anaemia in chronic diseases classified elsewhere, Anaphylactic shock, unspecified, Angina pectoris, Angioneurotic oedema, Ankylosing spondylitis, Anogenital herpesviral [herpes simplex] infection, Ascariasis, Asthma, Bacterial pneumonia, not elsewhere classified, Bacterial sepsis of newborn, Benign neoplasm of breast, Benign neoplasm of colon, rectum, anus and anal canal, Benign neoplasm of male genital organs, Benign neoplasm of other and unspecified sites, Benign neoplasm of ovary, Benign neoplasm of thyroid gland, Birth asphyxia, Bitten by rat, Bitten or struck by other mammals, Bitten or stung by nonvenomous insect and other nonvenomous arthropods, Burn and corrosion, body region unspecified, Burns and corrosions of multiple body regions, Calculus of kidney and ureter, Calculus of lower urinary tract, Candidiasis, Cardiac arrest, Cardiomiopatia, Cerebral infarction, Cerebral palsy, Chancroid, Chlamydial lymphogranuloma (venereum), Cholecystitis, Cholelithiasis, Chronic kidney disease, Chronic rhinitis, nasopharyngitis and pharyngitis, Chronic sinusitis, Cleft lip, Conductive and sensorineural hearing loss, Congenital iodine-deficiency syndrome, Congenital malformations of spine and bony thorax, Congenital syphilis, Conjunctivitis, Contact with marine animal, Corneal scars and opacities, Coxarthrosis [arthrosis of hip], Cranial nerve disorders in diseases classified elsewhere, Cutaneous abscess, furuncle and carbuncle, Cysticercosis, Cystitis, Decubitus ulcer and pressure area, Dental caries, Diabetes mellitus in pregnancy, Diaper [napkin] dermatitis, Diarrhea and gastroenteritis of presumed infectious origin, Diphtheria, Diseases of pulp and periapical tissues, Diseases of salivary glands, Diseases of spleen, Diseases of tongue, Disorders of vestibular function, Disorders related to long gestation and high birth weight, Diverticular disease of intestine, Dorsalgia, Down syndrome, Duodenal ulcer, Early syphilis, Eating disorders, Echinococcosis, Eclampsia, Ectopic pregnancy, Effects of other external causes, Embedded and impacted teeth, Emphysema, Encephalitis, myelitis and encephalomyelitis, Endometriosis, Epilepsy, Essential (primary) hypertension, Examination and observation for other reasons, Excessive, frequent and irregular menstruation, Exfoliative dermatitis, Failed attempted abortion, Female genital prolapse, Female infertility, Fetal death of unspecified cause, Fetus and newborn affected by complications of placenta, cord and membranes, Fetus and newborn affected by noxious influences transmitted via placenta or breast milk, Fetus and newborn affected by other complications of labour and delivery, Fever of other and unknown origin, Fibrosis and cirrhosis of liver, Filariasis, Fissure and fistula of anal and rectal regions, Fistulae involving female genital tract, Follicular cysts of skin and subcutaneous tissue, Gastric ulcer, Gastritis and duodenitis, Gastroenteritis and colitis of unspecified origin, General examination and investigation of persons without complaint and reported diagnosis, Gestational [pregnancy-induced] hypertension, Giardiasis [lambliasis], Gingivitis and periodontal diseases, Glaucoma, Gonarthrosis [arthrosis of knee], Gonococcal infection, Gout, Habitual aborter, Haemangioma and lymphangioma, any site, Haemorrhoids and perianal venous thrombosis, Headache, Heart failure, Hereditary and idiopathic neuropathy, Herpesviral [herpes simplex] infections, Hordeolum and chalazion, Hydrocele and spermatocele, Hydrocephalus, Hyperkinetic disorders, Hyperplasia of prostate, Hypertensive heart disease, Hypertensive renal disease, Hypertrophic disorders of skin, Hypertrophy of breast, Hypospadias, Hypotension, Hypothermia of newborn, Infections of genitourinary tract in pregnancy, Inflammatory diseases of prostate, Inflammatory disorders of breast, Inflammatory disorders of male genital organs, not elsewhere classified, Influenza with pneumonia, seasonal influenza virus identified, Influenza, virus not identified, Inguinal hernia, Injury of intra-abdominal organs, Injury of unspecified body region, Intestinal malabsorption, Juvenile arthritis, Kernicterus, Labour and delivery complicated by intrapartum haemorrhage, not elsewhere classified, Lactose intolerance, Late syphilis, Leiomyoma of uterus, Leprosy [Hansen disease], Long labour, Lupus erythematosus, Male infertility, Malignant melanoma of skin, Malignant neoplasm of breast, Malignant neoplasm of cervix uteri, Malignant neoplasm of colon, Malignant neoplasm of corpus uteri, Malignant neoplasm of gallbladder, Malignant neoplasm of kidney, except renal pelvis, Malignant neoplasm of other and ill-defined digestive organs, Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx, Malignant neoplasm of other and unspecified male genital organs, Malignant neoplasm of ovary, Malignant neoplasm of small intestine, Malignant neoplasm of stomach, Malignant neoplasm of testis, Malignant neoplasm of thyroid gland, Malignant neoplasm of ureter, Malignant neoplasm, without specification of site, Measles, Meconium ileus in cystic fibrosis, Medical abortion, Melanocytic naevi, Meningitis due to other and unspecified causes, Meningitis in other infectious and parasitic diseases classified elsewhere, Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, Mental and behavioural disorders due to use of alcohol, Microcephaly, Migraine, Miliary tuberculosis, Multiple delivery, Multiple gestation, Mumps, Mycetoma, Myositis, Neonatal jaundice from other and unspecified causes, Nephrotic syndrome, Nerve root and plexus disorders, Neuromuscular dysfunction of bladder, not elsewhere classified, Nondiabetic hypoglycaemic coma, Nonspecific lymphadenitis, Nutritional deficiency, unspecified, Obstetric death of unspecified cause, Obstructive and reflux uropathy, Oesophageal varices, Onchocerciasis, Open wound of abdomen, lower back and pelvis, Open wound of head, Open wound of thorax, Orchitis and epididymitis, Osteomyelitis, Other abdominal hernia, Other abnormal uterine and vaginal bleeding, Other acquired deformities of musculoskeletal system and connective tissue, Other acute viral hepatitis, Other anaemias, Other and unspecified infectious diseases, Other and unspecified injuries of abdomen, lower back and pelvis, Other and unspecified injuries of ankle and foot, Other and unspecified injuries of forearm, Other and unspecified injuries of hip and thigh, Other and unspecified injuries of lower leg, Other and unspecified injuries of neck, Other and unspecified injuries of shoulder and upper arm, Other and unspecified injuries of thorax, Other and unspecified injuries of wrist and hand, Other aneurysm and dissection, Other anxiety disorders, Other arthritis, Other arthrosis, Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence, Other benign neoplasms of skin, Other birth injuries, Other bullous disorders, Other cardiac arrhythmias, Other congenital infectious and parasitic diseases, Other congenital malformations of circulatory system, Other congenital malformations of digestive system, Other congenital malformations of ear, Other congenital malformations of eye, Other congenital malformations of face and neck, Other congenital malformations of female genitalia, Other congenital malformations of heart, Other congenital malformations of intestine, Other congenital malformations of kidney, Other congenital malformations of limb(s), Other congenital malformations of male genital organs, Other congenital malformations of peripheral vascular system, Other congenital malformations of respiratory system, Other congenital malformations of skull and face bones, Other congenital malformations of tongue, mouth and pharynx, Other congenital malformations of urinary system, Other congenital malformations, not elsewhere classified, Other dermatitis, Other diseases of blood and blood-forming organs, Other diseases of digestive system, Other diseases of lip and oral mucosa, Other diseases of upper respiratory tract, Other disorders of adrenal gland, Other disorders of amniotic fluid and membranes, Other disorders of bone, Other disorders of breast, Other disorders of breast and lactation associated with childbirth, Other disorders of ear, not elsewhere classified, Other disorders of eye and adnexa, Other disorders of kidney and ureter, not elsewhere classified, Other disorders of middle ear and mastoid, Other disorders of thyroid, Other disorders of urethra, Other disorders of white blood cells, Other erythematous conditions, Other female pelvic inflammatory diseases, Other functional intestinal disorders, Other headache syndromes, Other helminthiases, Other hereditary haemolytic anaemias, Other hypothyroidism, Other inflammation of vagina and vulva, Other inflammatory liver diseases, Other malignant neoplasms of skin, Other mosquito-borne viral fevers, Other neonatal haemorrhages, Other noninflammatory disorders of uterus, except cervix, Other nutritional anaemias, Other obstetric trauma, Other papulosquamous disorders, Other parasitologically confirmed malaria, Other perinatal haematological disorders, Other pleural conditions, Other predominantly sexually transmitted diseases, not elsewhere classified, Other protozoal intestinal diseases, Other pulmonary heart diseases, Other respiratory disorders, Other rheumatoid arthritis, Other sexually transmitted chlamydial diseases, Other specific joint derangements, Other strabismus, Other tetanus, Other venous embolism and thrombosis, Other zoonotic bacterial diseases, not elsewhere classified, Otitis externa, Paralytic ileus and intestinal obstruction without hernia, Parkinson disease, Paroxysmal tachycardia, Pediculosis and phthiriasis, Pemphigus, Perforation of tympanic membrane, Perineal laceration during delivery, Peritonitis, Peritonsillar abscess, Phlebitis and thrombophlebitis, Placenta praevia, Plague, Pleural effusion, not elsewhere classified, Pneumonia due to other infectious organisms, not elsewhere classified, Pneumothorax, Poisoning by diuretics and other and unspecified drugs, medicaments and biological substances, Polyarthrosis, Polyneuropathy in diseases classified elsewhere, Polyp of female genital tract, Postpartum haemorrhage, Postpolio syndrome, Pre-existing hypertension complicating pregnancy, childbirth and the puerperium, Premature rupture of membranes, Premature separation of placenta [abruptio placentae], Preterm labour and delivery, Primary disorders of muscles, Pulmonary embolism, Pulmonary oedema, Pyogenic arthritis, Pyothorax, Recurrent and persistent haematuria, Redundant prepuce, phimosis and paraphimosis, Respiratory distress of newborn, Respiratory failure, not elsewhere classified, Respiratory tuberculosis, bacteriologically and histologically confirmed, Respiratory tuberculosis, not confirmed bacteriologically or histologically, Retained placenta and membranes, without haemorrhage, Retarded development following protein-energy malnutrition, Retention of urine, Rheumatic fever without mention of heart involvement, Rubella [German measles], Salpingitis and oophoritis, Scabies, Scarlet fever, Schistosomiasis [bilharziasis], Schizophrenia, Scoliosis, Seborrhoeic dermatitis, Seborrhoeic keratosis, Secondary hypertension, Senile cataract, Sequelae of hyperalimentation, Sexual dysfunction, not caused by organic disorder or disease, Shoulder lesions, Single delivery by caesarean section, Single spontaneous delivery, Sleep disorders, Slow fetal growth and fetal malnutrition, Soft tissue disorders related to use, overuse and pressure, Somatoform disorders, Somnolence, stupor and coma, Specific developmental disorder of motor function, Specific developmental disorders of speech and language, Spinal muscular atrophy and related syndromes, Spontaneous abortion, Status epilepticus, Stomatitis and related lesions, Subsequent myocardial infarction, Superficial injuries involving multiple body regions, Superficial injury of abdomen, lower back and pelvis, Superficial injury of ankle and foot, Superficial injury of forearm, Superficial injury of head, Superficial injury of hip and thigh, Superficial injury of lower leg, Superficial injury of neck, Superficial injury of shoulder and upper arm, Superficial injury of thorax, Superficial injury of wrist and hand, Taeniasis, Thyrotoxicosis [hyperthyroidism], Torsion of testis, Toxic effect of alcohol, Toxic effect of other and unspecified substances, Toxic encephalopathy, Transient cerebral ischaemic attacks and related syndromes, Traumatic amputations involving multiple body regions, Trichomoniasis, Trichuriasis, Tuberculosis of other organs, Type 1 diabetes mellitus, Type 2 diabetes mellitus, Typhoid and paratyphoid fevers, Ulcer of lower limb, not elsewhere classified, Ulcerative colitis, Umbilical hernia, Undescended testicle, Unspecified dementia, Unspecified disorder of adult personality and behaviour, Unspecified human immunodeficiency virus [HIV] disease, Unspecified intestinal parasitism, Unspecified lump in breast, Unspecified malaria, Unspecified maternal hypertension, Unspecified mental retardation, Unspecified mood [affective] disorder, Unspecified multiple injuries, Unspecified mycosis, Unspecified protein-energy malnutrition, Unspecified severe protein-energy malnutrition, Unspecified viral haemorrhagic fever, Unspecified viral infection characterized by skin and mucous membrane lesions, Unspecified viral infection of central nervous system, Urethral stricture, Urticaria, Varicella [chickenpox], Varicose veins of lower extremities, Vascular syndromes of brain in cerebrovascular diseases, Vasomotor and allergic rhinitis, Ventral hernia, Viral infection of unspecified site, Viral meningitis, Viral pneumonia, not elsewhere classified, Viral warts, Visual disturbances, Visual impairment including blindness (binocular or monocular), Vitiligo, Volume depletion, Whooping cough, Zoster [herpes zoster]]
+22/04/2023 06:05:33 PM MDT INFO  DiseaseBrowserManager:1655 - The Method: getDiseaseIpdIn DOEST NOT have any INPUT Parameters
+22/04/2023 06:05:33 PM MDT INFO  WardBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:05:33 PM MDT INFO  WardBrowserManager:1413 - OS Current Time     : 22/04/2023 06:05:33 PM MDT
+22/04/2023 06:05:33 PM MDT INFO  WardBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:05:33 PM MDT INFO  WardBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:05:33 PM MDT INFO  WardBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:05:33 PM MDT INFO  WardBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:05:33 PM MDT INFO  WardBrowserManager:1418 - Method Name         : org.isf.ward.manager.WardBrowserManager.getWards
+22/04/2023 06:05:33 PM MDT INFO  WardBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:05:34 PM MDT INFO  WardBrowserManager:1420 - Method Return Value : [INTERNAL MEDICINE, MATERNITY, NURSERY, SURGERY]
+22/04/2023 06:05:34 PM MDT INFO  WardBrowserManager:1655 - The Method: getWards DOEST NOT have any INPUT Parameters
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1413 - OS Current Time     : 22/04/2023 06:05:34 PM MDT
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1418 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getAdmissionType
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1420 - Method Return Value : [AMBULANCE, SELF, REFERRAL]
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1655 - The Method: getAdmissionType DOEST NOT have any INPUT Parameters
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1413 - OS Current Time     : 22/04/2023 06:05:34 PM MDT
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1418 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getDischargeType
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1420 - Method Return Value : [REFERRED, DEAD, NORMAL DISCHARGE, ESCAPE]
+22/04/2023 06:05:34 PM MDT INFO  AdmissionBrowserManager:1655 - The Method: getDischargeType DOEST NOT have any INPUT Parameters
+22/04/2023 06:05:34 PM MDT INFO  DeliveryTypeBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:05:34 PM MDT INFO  DeliveryTypeBrowserManager:1413 - OS Current Time     : 22/04/2023 06:05:34 PM MDT
+22/04/2023 06:05:34 PM MDT INFO  DeliveryTypeBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:05:34 PM MDT INFO  DeliveryTypeBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:05:34 PM MDT INFO  DeliveryTypeBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:05:34 PM MDT INFO  DeliveryTypeBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:05:34 PM MDT INFO  DeliveryTypeBrowserManager:1418 - Method Name         : org.isf.dlvrtype.manager.DeliveryTypeBrowserManager.getDeliveryType
+22/04/2023 06:05:34 PM MDT INFO  DeliveryTypeBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:05:34 PM MDT INFO  DeliveryTypeBrowserManager:1420 - Method Return Value : [BRAND NEW DELIVERY, DELIVERY ASSISTED BY CESARIAN SECTION, NORMAL DELIVERY, TOTAL DELIVERY, UNEXPECTED DELIVERY, DELIVERY ASSISTED BY VACUUM EXTRACTION, WEIRD DELIVERY]
+22/04/2023 06:05:34 PM MDT INFO  DeliveryTypeBrowserManager:1655 - The Method: getDeliveryType DOEST NOT have any INPUT Parameters
+22/04/2023 06:05:34 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:05:34 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1413 - OS Current Time     : 22/04/2023 06:05:34 PM MDT
+22/04/2023 06:05:34 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:05:34 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:05:34 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:05:34 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:05:34 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1418 - Method Name         : org.isf.pregtreattype.manager.PregnantTreatmentTypeBrowserManager.getPregnantTreatmentType
+22/04/2023 06:05:34 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:05:34 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1420 - Method Return Value : [ANC RE-ATTENDANCE, FIRST DOSE WITH SP, IMMUNISATION 1, IMMUNISATION 2, IMMUNISATION 3, NEW ANC ATTENDANCE, SECOND DOSE WITH SP]
+22/04/2023 06:05:34 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1655 - The Method: getPregnantTreatmentType DOEST NOT have any INPUT Parameters
+22/04/2023 06:05:34 PM MDT INFO  DeliveryResultTypeBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:05:34 PM MDT INFO  DeliveryResultTypeBrowserManager:1413 - OS Current Time     : 22/04/2023 06:05:34 PM MDT
+22/04/2023 06:05:34 PM MDT INFO  DeliveryResultTypeBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:05:34 PM MDT INFO  DeliveryResultTypeBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:05:34 PM MDT INFO  DeliveryResultTypeBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:05:34 PM MDT INFO  DeliveryResultTypeBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:05:34 PM MDT INFO  DeliveryResultTypeBrowserManager:1418 - Method Name         : org.isf.dlvrrestype.manager.DeliveryResultTypeBrowserManager.getDeliveryResultType
+22/04/2023 06:05:34 PM MDT INFO  DeliveryResultTypeBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:05:34 PM MDT INFO  DeliveryResultTypeBrowserManager:1420 - Method Return Value : [FRESH STILL BIRTH, LIVE BIRTH, MACERATED STILLBIRTH, MATERNAL DEATH, NEWBORN DEATH]
+22/04/2023 06:05:34 PM MDT INFO  DeliveryResultTypeBrowserManager:1655 - The Method: getDeliveryResultType DOEST NOT have any INPUT Parameters
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1413 - OS Current Time     : 22/04/2023 06:05:38 PM MDT
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1418 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getNextYProg
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1419 - Method Return Type  : java.lang.Integer
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1420 - Method Return Value : 2
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1298 - Parameter Name  : wardId
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1299 - Parameter Type  : java.lang.String
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1300 - Parameter Value : S
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1413 - OS Current Time     : 22/04/2023 06:05:38 PM MDT
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1418 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getUsedWardBed
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1419 - Method Return Type  : java.lang.Integer
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1420 - Method Return Value : 0
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1298 - Parameter Name  : wardId
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1299 - Parameter Type  : java.lang.String
+22/04/2023 06:05:38 PM MDT INFO  AdmissionBrowserManager:1300 - Parameter Value : S
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1413 - OS Current Time     : 22/04/2023 06:06:20 PM MDT
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1418 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getNextYProg
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1419 - Method Return Type  : java.lang.Integer
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1420 - Method Return Value : 3
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1298 - Parameter Name  : wardId
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1299 - Parameter Type  : java.lang.String
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1300 - Parameter Value : I
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1413 - OS Current Time     : 22/04/2023 06:06:20 PM MDT
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1418 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getUsedWardBed
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1419 - Method Return Type  : java.lang.Integer
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1420 - Method Return Value : 0
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1298 - Parameter Name  : wardId
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1299 - Parameter Type  : java.lang.String
+22/04/2023 06:06:20 PM MDT INFO  AdmissionBrowserManager:1300 - Parameter Value : I
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:1413 - OS Current Time     : 22/04/2023 06:06:25 PM MDT
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:1418 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.newAdmissionReturnKey
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:1419 - Method Return Type  : java.lang.Integer
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:1420 - Method Return Value : 43
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:1208 - Parameter Name : admission
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:1209 - Parameter Type : org.isf.admission.model.Admission
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:1238 - The Parameter: admission has 33 Attributes
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : id
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 43
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : admitted
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 1
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : type
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : N
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : ward
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.ward.model.Ward
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:688 - The Attribute: ward has 33 SubAttributes
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : I
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : INTERNAL MEDICINE
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : telephone
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 234/52544
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : fax
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 54324/5424
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : email
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : internal.medicine@stluke.org
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : beds
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 20
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : nurs
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 3
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : docs
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 2
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : isPharmacy
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : isMale
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : isFemale
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : visitDuration
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : int
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 30
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : lock
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 1
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : yProg
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 3
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : patient
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.patient.model.Patient
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:688 - The Attribute: patient has 33 SubAttributes
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 116
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : firstName
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Valentina
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : secondName
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Guzman
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : name
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Valentina Guzman
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : birthDate
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.time.LocalDate
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 1968-04-19
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : age
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : int
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 55
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : agetype
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : sex
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : F
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : address
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 44 Mary Street
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : city
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : London, United Kingdom
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : nextKin
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 1
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : telephone
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : +39
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : note
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : motherName
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Ana
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : mother
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : A
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : fatherName
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Pedro
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : father
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : A
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : bloodType
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : A+
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : hasInsurance
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Y
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : parentTogether
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Y
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : taxCode
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 123
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : maritalStatus
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : divorced
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : profession
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : foodhospitality
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : deleted
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : N
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : admDate
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.time.LocalDateTime
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 2023-04-22T18:05
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : admissionType
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.admtype.model.AdmissionType
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:688 - The Attribute: admissionType has 33 SubAttributes
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : A
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : AMBULANCE
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : fHU
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : One
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : diseaseIn
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.disease.model.Disease
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:688 - The Attribute: diseaseIn has 33 SubAttributes
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : D63
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Anaemia in chronic diseases classified elsewhere
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:642 - SubAttribute Name : diseaseType
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:643 - SubAttribute Type : org.isf.distype.model.DiseaseType
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:688 - The Attribute: diseaseType has 8 SubAttributes
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : D
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : D50-D89 Blood, blood-forming organs and immune mechanism
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : opdInclude
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : ipdInInclude
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : ipdOutInclude
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : userID
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : doctor
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : deleted
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : N
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : hashCode
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 06:06:25 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 3102
+22/04/2023 06:08:58 PM MDT INFO  MainMenu:315 - 
+
+=====================
+ Open Hospital closed 
+=====================
+
+22/04/2023 06:15:20 PM MDT INFO  Login:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:15:20 PM MDT INFO  Login:1413 - OS Current Time     : 22/04/2023 06:15:20 PM MDT
+22/04/2023 06:15:20 PM MDT INFO  Login:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:15:20 PM MDT INFO  Login:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:15:20 PM MDT INFO  Login:1416 - OS UserName         : friverao
+22/04/2023 06:15:20 PM MDT INFO  Login:1417 - Annotation Type     : Method
+22/04/2023 06:15:20 PM MDT INFO  Login:1418 - Method Name         : org.isf.menu.gui.Login.acceptPwd
+22/04/2023 06:15:20 PM MDT INFO  Login:1419 - Method Return Type  : void
+22/04/2023 06:15:20 PM MDT INFO  Login:1420 - Method Return Value : 
+22/04/2023 06:15:20 PM MDT INFO  Login:1655 - The Method: acceptPwd DOEST NOT have any INPUT Parameters
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:1413 - OS Current Time     : 22/04/2023 06:15:21 PM MDT
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:1416 - OS UserName         : friverao
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:1417 - Annotation Type     : Method
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:1418 - Method Name         : org.isf.menu.manager.UserBrowsingManager.getMenu
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:1420 - Method Return Value : [Types, Admission Type, New, New, Pharmaceuticals, New, New Patient, Users, New, New Bill, Edit Patient, Cashier's Filter, Edit, Pharmaceutical Stock, Examination, Edit, OPD, Edit, Examination, Groups, Edit, Examination, Charge, New Bill, Bill Manager, OPD Chart, Edit, Rectify, Examination, Edit Patient, Exams List, Discharge Type, Hospital, Merge, Report, Delete patient, Operation, Ward, Discharge, Delete, Edit Bill, Admission Chart, Admission/Patient, Delete, Disease List, Pharmaceutical Stock Ward, Delivery Type, Delete, Delete, Delete, Operation, Launch Report , Disease, Delivery Result Type, Data, Laboratory, Malnutrition control, Operation List, Edit Closed Bills, Excel, Exams, Delete Bill, Bill, Pharmacy, Disease Type, Admission, DICOM Patient, Exam Type, OPD, Vaccines, Operation, Report, Accounting, Receipt, Medicals Stock Mov Type, Vaccine, Therapy, Clinical sheet, Price Lists, Medicals Type, Worksheet, Statistics, Supplier, Operation Type, Reports, SMS Manager, Pregnant Treatment, Other Prices, Communication, Users & Groups, Settings, Age Type, Help, Vaccine Type, DICOM Type]
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:1208 - Parameter Name : aUser
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:1209 - Parameter Type : org.isf.menu.model.User
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:1238 - The Parameter: aUser has 5 Attributes
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:716 - Attribute Name  : userName
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:718 - Attribute Value : admin
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:642 - Attribute Name : userGroupName
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:643 - Attribute Type : org.isf.menu.model.UserGroup
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:688 - The Attribute: userGroupName has 5 SubAttributes
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:716 - SubAttribute Name  : code
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:718 - SubAttribute Value : admin
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:716 - SubAttribute Name  : desc
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:718 - SubAttribute Value : User with all the privileges
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:716 - Attribute Name  : passwd
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:718 - Attribute Value : $2a$10$FI/PMO0oSHHosF2PX8l3QuB0DJepVfnynbLZ9Zm2711bF2ch8db2S
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:716 - Attribute Name  : desc
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:15:21 PM MDT INFO  UserBrowsingManager:718 - Attribute Value : administrator
+22/04/2023 06:15:41 PM MDT INFO  AdmissionBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:15:41 PM MDT INFO  AdmissionBrowserManager:1413 - OS Current Time     : 22/04/2023 06:15:41 PM MDT
+22/04/2023 06:15:41 PM MDT INFO  AdmissionBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:15:41 PM MDT INFO  AdmissionBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:15:41 PM MDT INFO  AdmissionBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:15:41 PM MDT INFO  AdmissionBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:15:41 PM MDT INFO  AdmissionBrowserManager:1418 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getAdmittedPatients
+22/04/2023 06:15:41 PM MDT INFO  AdmissionBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:15:41 PM MDT INFO  AdmissionBrowserManager:1420 - Method Return Value : [org.isf.admission.model.AdmittedPatient@7b717171, org.isf.admission.model.AdmittedPatient@47ec4226]
+22/04/2023 06:15:41 PM MDT INFO  AdmissionBrowserManager:1655 - The Method: getAdmittedPatients DOEST NOT have any INPUT Parameters
+22/04/2023 06:15:41 PM MDT INFO  WardBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:15:41 PM MDT INFO  WardBrowserManager:1413 - OS Current Time     : 22/04/2023 06:15:41 PM MDT
+22/04/2023 06:15:41 PM MDT INFO  WardBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:15:41 PM MDT INFO  WardBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:15:41 PM MDT INFO  WardBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:15:41 PM MDT INFO  WardBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:15:41 PM MDT INFO  WardBrowserManager:1418 - Method Name         : org.isf.ward.manager.WardBrowserManager.getWards
+22/04/2023 06:15:41 PM MDT INFO  WardBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:15:41 PM MDT INFO  WardBrowserManager:1420 - Method Return Value : [INTERNAL MEDICINE, MATERNITY, NURSERY, SURGERY]
+22/04/2023 06:15:41 PM MDT INFO  WardBrowserManager:1655 - The Method: getWards DOEST NOT have any INPUT Parameters
+22/04/2023 06:15:51 PM MDT INFO  AdmissionBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:15:51 PM MDT INFO  AdmissionBrowserManager:1413 - OS Current Time     : 22/04/2023 06:15:51 PM MDT
+22/04/2023 06:15:51 PM MDT INFO  AdmissionBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:15:51 PM MDT INFO  AdmissionBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:15:51 PM MDT INFO  AdmissionBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:15:51 PM MDT INFO  AdmissionBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:15:51 PM MDT INFO  AdmissionBrowserManager:1418 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+22/04/2023 06:15:51 PM MDT INFO  AdmissionBrowserManager:1419 - Method Return Type  : org.isf.admission.model.AdmittedPatient
+22/04/2023 06:15:51 PM MDT INFO  AdmissionBrowserManager:1420 - Method Return Value : org.isf.admission.model.AdmittedPatient@14fd8e49
+22/04/2023 06:15:51 PM MDT INFO  AdmissionBrowserManager:1298 - Parameter Name  : patientId
+22/04/2023 06:15:51 PM MDT INFO  AdmissionBrowserManager:1299 - Parameter Type  : java.lang.String
+22/04/2023 06:15:51 PM MDT INFO  AdmissionBrowserManager:1300 - Parameter Value : 117
+22/04/2023 06:17:13 PM MDT INFO  ConfigurationProperties:91 - File txtPrinter.properties loaded.
+22/04/2023 06:17:13 PM MDT WARN  ConfigurationProperties:122 - TXT_CHAR_HEIGHT property not found: default is 10
+22/04/2023 06:17:13 PM MDT WARN  ConfigurationProperties:122 - TXT_CHAR_WIDTH property not found: default is 10
+22/04/2023 06:18:38 PM MDT INFO  AdmissionBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:18:38 PM MDT INFO  AdmissionBrowserManager:1413 - OS Current Time     : 22/04/2023 06:18:38 PM MDT
+22/04/2023 06:18:38 PM MDT INFO  AdmissionBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:18:38 PM MDT INFO  AdmissionBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:18:38 PM MDT INFO  AdmissionBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:18:38 PM MDT INFO  AdmissionBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:18:38 PM MDT INFO  AdmissionBrowserManager:1418 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getAdmittedPatients
+22/04/2023 06:18:38 PM MDT INFO  AdmissionBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:18:38 PM MDT INFO  AdmissionBrowserManager:1420 - Method Return Value : [org.isf.admission.model.AdmittedPatient@7ea49454, org.isf.admission.model.AdmittedPatient@349c8217]
+22/04/2023 06:18:38 PM MDT INFO  AdmissionBrowserManager:1655 - The Method: getAdmittedPatients DOEST NOT have any INPUT Parameters
+22/04/2023 06:18:38 PM MDT INFO  WardBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:18:38 PM MDT INFO  WardBrowserManager:1413 - OS Current Time     : 22/04/2023 06:18:38 PM MDT
+22/04/2023 06:18:38 PM MDT INFO  WardBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:18:38 PM MDT INFO  WardBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:18:38 PM MDT INFO  WardBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:18:38 PM MDT INFO  WardBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:18:38 PM MDT INFO  WardBrowserManager:1418 - Method Name         : org.isf.ward.manager.WardBrowserManager.getWards
+22/04/2023 06:18:38 PM MDT INFO  WardBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:18:38 PM MDT INFO  WardBrowserManager:1420 - Method Return Value : [INTERNAL MEDICINE, MATERNITY, NURSERY, SURGERY]
+22/04/2023 06:18:38 PM MDT INFO  WardBrowserManager:1655 - The Method: getWards DOEST NOT have any INPUT Parameters
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1413 - OS Current Time     : 22/04/2023 06:18:44 PM MDT
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1418 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1419 - Method Return Type  : org.isf.admission.model.AdmittedPatient
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1420 - Method Return Value : org.isf.admission.model.AdmittedPatient@1892d15
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1298 - Parameter Name  : patientId
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1299 - Parameter Type  : java.lang.String
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1300 - Parameter Value : 116
+22/04/2023 06:18:44 PM MDT INFO  DiseaseBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:18:44 PM MDT INFO  DiseaseBrowserManager:1413 - OS Current Time     : 22/04/2023 06:18:44 PM MDT
+22/04/2023 06:18:44 PM MDT INFO  DiseaseBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:18:44 PM MDT INFO  DiseaseBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:18:44 PM MDT INFO  DiseaseBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:18:44 PM MDT INFO  DiseaseBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:18:44 PM MDT INFO  DiseaseBrowserManager:1418 - Method Name         : org.isf.disease.manager.DiseaseBrowserManager.getDiseaseIpdOut
+22/04/2023 06:18:44 PM MDT INFO  DiseaseBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:18:44 PM MDT INFO  DiseaseBrowserManager:1420 - Method Return Value : [Abscess of anal and rectal regions, Absent, scanty and rare menstruation, Acne, Acquired deformities of fingers and toes, Acute and transient psychotic disorders, Acute appendicitis, Acute bronchiolitis, Acute bronchitis, Acute hepatitis B, Acute hepatitis C, Acute laryngitis and tracheitis, Acute myocardial infarction, Acute nasopharyngitis [common cold], Acute pharyngitis, Acute poliomyelitis, Acute posthaemorrhagic anaemia, Acute renal failure, Acute sinusitis, Acute tonsillitis, Adult respiratory distress syndrome, Adverse effects, not elsewhere classified, Allergic contact dermatitis, Alopecia areata, Alzheimer disease, Amebiasis, Anaemia in chronic diseases classified elsewhere, Anaphylactic shock, unspecified, Angina pectoris, Angioneurotic oedema, Ankylosing spondylitis, Anogenital herpesviral [herpes simplex] infection, Ascariasis, Asthma, Bacterial pneumonia, not elsewhere classified, Bacterial sepsis of newborn, Benign neoplasm of breast, Benign neoplasm of colon, rectum, anus and anal canal, Benign neoplasm of male genital organs, Benign neoplasm of other and unspecified sites, Benign neoplasm of ovary, Benign neoplasm of thyroid gland, Birth asphyxia, Bitten by rat, Bitten or struck by other mammals, Bitten or stung by nonvenomous insect and other nonvenomous arthropods, Burn and corrosion, body region unspecified, Burns and corrosions of multiple body regions, Calculus of kidney and ureter, Calculus of lower urinary tract, Candidiasis, Cardiac arrest, Cardiomiopatia, Cerebral infarction, Cerebral palsy, Chancroid, Chlamydial lymphogranuloma (venereum), Cholecystitis, Cholelithiasis, Chronic kidney disease, Chronic rhinitis, nasopharyngitis and pharyngitis, Chronic sinusitis, Cleft lip, Conductive and sensorineural hearing loss, Congenital iodine-deficiency syndrome, Congenital malformations of spine and bony thorax, Congenital syphilis, Conjunctivitis, Contact with marine animal, Corneal scars and opacities, Coxarthrosis [arthrosis of hip], Cranial nerve disorders in diseases classified elsewhere, Cutaneous abscess, furuncle and carbuncle, Cysticercosis, Cystitis, Decubitus ulcer and pressure area, Dental caries, Diabetes mellitus in pregnancy, Diaper [napkin] dermatitis, Diarrhea and gastroenteritis of presumed infectious origin, Diphtheria, Diseases of pulp and periapical tissues, Diseases of salivary glands, Diseases of spleen, Diseases of tongue, Disorders of vestibular function, Disorders related to long gestation and high birth weight, Diverticular disease of intestine, Dorsalgia, Down syndrome, Duodenal ulcer, Early syphilis, Eating disorders, Echinococcosis, Eclampsia, Ectopic pregnancy, Effects of other external causes, Embedded and impacted teeth, Emphysema, Encephalitis, myelitis and encephalomyelitis, Endometriosis, Epilepsy, Essential (primary) hypertension, Examination and observation for other reasons, Excessive, frequent and irregular menstruation, Exfoliative dermatitis, Failed attempted abortion, Female genital prolapse, Female infertility, Fetal death of unspecified cause, Fetus and newborn affected by complications of placenta, cord and membranes, Fetus and newborn affected by noxious influences transmitted via placenta or breast milk, Fetus and newborn affected by other complications of labour and delivery, Fever of other and unknown origin, Fibrosis and cirrhosis of liver, Filariasis, Fissure and fistula of anal and rectal regions, Fistulae involving female genital tract, Follicular cysts of skin and subcutaneous tissue, Gastric ulcer, Gastritis and duodenitis, Gastroenteritis and colitis of unspecified origin, General examination and investigation of persons without complaint and reported diagnosis, Gestational [pregnancy-induced] hypertension, Giardiasis [lambliasis], Gingivitis and periodontal diseases, Glaucoma, Gonarthrosis [arthrosis of knee], Gonococcal infection, Gout, Habitual aborter, Haemangioma and lymphangioma, any site, Haemorrhoids and perianal venous thrombosis, Headache, Heart failure, Hereditary and idiopathic neuropathy, Herpesviral [herpes simplex] infections, Hordeolum and chalazion, Hydrocele and spermatocele, Hydrocephalus, Hyperkinetic disorders, Hyperplasia of prostate, Hypertensive heart disease, Hypertensive renal disease, Hypertrophic disorders of skin, Hypertrophy of breast, Hypospadias, Hypotension, Hypothermia of newborn, Infections of genitourinary tract in pregnancy, Inflammatory diseases of prostate, Inflammatory disorders of breast, Inflammatory disorders of male genital organs, not elsewhere classified, Influenza with pneumonia, seasonal influenza virus identified, Influenza, virus not identified, Inguinal hernia, Injury of intra-abdominal organs, Injury of unspecified body region, Intestinal malabsorption, Juvenile arthritis, Kernicterus, Labour and delivery complicated by intrapartum haemorrhage, not elsewhere classified, Lactose intolerance, Late syphilis, Leiomyoma of uterus, Leprosy [Hansen disease], Long labour, Lupus erythematosus, Male infertility, Malignant melanoma of skin, Malignant neoplasm of breast, Malignant neoplasm of cervix uteri, Malignant neoplasm of colon, Malignant neoplasm of corpus uteri, Malignant neoplasm of gallbladder, Malignant neoplasm of kidney, except renal pelvis, Malignant neoplasm of other and ill-defined digestive organs, Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx, Malignant neoplasm of other and unspecified male genital organs, Malignant neoplasm of ovary, Malignant neoplasm of small intestine, Malignant neoplasm of stomach, Malignant neoplasm of testis, Malignant neoplasm of thyroid gland, Malignant neoplasm of ureter, Malignant neoplasm, without specification of site, Measles, Meconium ileus in cystic fibrosis, Medical abortion, Melanocytic naevi, Meningitis due to other and unspecified causes, Meningitis in other infectious and parasitic diseases classified elsewhere, Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, Mental and behavioural disorders due to use of alcohol, Microcephaly, Migraine, Miliary tuberculosis, Multiple delivery, Multiple gestation, Mumps, Mycetoma, Myositis, Neonatal jaundice from other and unspecified causes, Nephrotic syndrome, Nerve root and plexus disorders, Neuromuscular dysfunction of bladder, not elsewhere classified, Nondiabetic hypoglycaemic coma, Nonspecific lymphadenitis, Nutritional deficiency, unspecified, Obstetric death of unspecified cause, Obstructive and reflux uropathy, Oesophageal varices, Onchocerciasis, Open wound of abdomen, lower back and pelvis, Open wound of head, Open wound of thorax, Orchitis and epididymitis, Osteomyelitis, Other abdominal hernia, Other abnormal uterine and vaginal bleeding, Other acquired deformities of musculoskeletal system and connective tissue, Other acute viral hepatitis, Other anaemias, Other and unspecified infectious diseases, Other and unspecified injuries of abdomen, lower back and pelvis, Other and unspecified injuries of ankle and foot, Other and unspecified injuries of forearm, Other and unspecified injuries of hip and thigh, Other and unspecified injuries of lower leg, Other and unspecified injuries of neck, Other and unspecified injuries of shoulder and upper arm, Other and unspecified injuries of thorax, Other and unspecified injuries of wrist and hand, Other aneurysm and dissection, Other anxiety disorders, Other arthritis, Other arthrosis, Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence, Other benign neoplasms of skin, Other birth injuries, Other bullous disorders, Other cardiac arrhythmias, Other congenital infectious and parasitic diseases, Other congenital malformations of circulatory system, Other congenital malformations of digestive system, Other congenital malformations of ear, Other congenital malformations of eye, Other congenital malformations of face and neck, Other congenital malformations of female genitalia, Other congenital malformations of heart, Other congenital malformations of intestine, Other congenital malformations of kidney, Other congenital malformations of limb(s), Other congenital malformations of male genital organs, Other congenital malformations of peripheral vascular system, Other congenital malformations of respiratory system, Other congenital malformations of skull and face bones, Other congenital malformations of tongue, mouth and pharynx, Other congenital malformations of urinary system, Other congenital malformations, not elsewhere classified, Other dermatitis, Other diseases of blood and blood-forming organs, Other diseases of digestive system, Other diseases of lip and oral mucosa, Other diseases of upper respiratory tract, Other disorders of adrenal gland, Other disorders of amniotic fluid and membranes, Other disorders of bone, Other disorders of breast, Other disorders of breast and lactation associated with childbirth, Other disorders of ear, not elsewhere classified, Other disorders of eye and adnexa, Other disorders of kidney and ureter, not elsewhere classified, Other disorders of middle ear and mastoid, Other disorders of thyroid, Other disorders of urethra, Other disorders of white blood cells, Other erythematous conditions, Other female pelvic inflammatory diseases, Other functional intestinal disorders, Other headache syndromes, Other helminthiases, Other hereditary haemolytic anaemias, Other hypothyroidism, Other inflammation of vagina and vulva, Other inflammatory liver diseases, Other malignant neoplasms of skin, Other mosquito-borne viral fevers, Other neonatal haemorrhages, Other noninflammatory disorders of uterus, except cervix, Other nutritional anaemias, Other obstetric trauma, Other papulosquamous disorders, Other parasitologically confirmed malaria, Other perinatal haematological disorders, Other pleural conditions, Other predominantly sexually transmitted diseases, not elsewhere classified, Other protozoal intestinal diseases, Other pulmonary heart diseases, Other respiratory disorders, Other rheumatoid arthritis, Other sexually transmitted chlamydial diseases, Other specific joint derangements, Other strabismus, Other tetanus, Other venous embolism and thrombosis, Other zoonotic bacterial diseases, not elsewhere classified, Otitis externa, Paralytic ileus and intestinal obstruction without hernia, Parkinson disease, Paroxysmal tachycardia, Pediculosis and phthiriasis, Pemphigus, Perforation of tympanic membrane, Perineal laceration during delivery, Peritonitis, Peritonsillar abscess, Phlebitis and thrombophlebitis, Placenta praevia, Plague, Pleural effusion, not elsewhere classified, Pneumonia due to other infectious organisms, not elsewhere classified, Pneumothorax, Poisoning by diuretics and other and unspecified drugs, medicaments and biological substances, Polyarthrosis, Polyneuropathy in diseases classified elsewhere, Polyp of female genital tract, Postpartum haemorrhage, Postpolio syndrome, Pre-existing hypertension complicating pregnancy, childbirth and the puerperium, Premature rupture of membranes, Premature separation of placenta [abruptio placentae], Preterm labour and delivery, Primary disorders of muscles, Pulmonary embolism, Pulmonary oedema, Pyogenic arthritis, Pyothorax, Recurrent and persistent haematuria, Redundant prepuce, phimosis and paraphimosis, Respiratory distress of newborn, Respiratory failure, not elsewhere classified, Respiratory tuberculosis, bacteriologically and histologically confirmed, Respiratory tuberculosis, not confirmed bacteriologically or histologically, Retained placenta and membranes, without haemorrhage, Retarded development following protein-energy malnutrition, Retention of urine, Rheumatic fever without mention of heart involvement, Rubella [German measles], Salpingitis and oophoritis, Scabies, Scarlet fever, Schistosomiasis [bilharziasis], Schizophrenia, Scoliosis, Seborrhoeic dermatitis, Seborrhoeic keratosis, Secondary hypertension, Senile cataract, Sequelae of hyperalimentation, Sexual dysfunction, not caused by organic disorder or disease, Shoulder lesions, Single delivery by caesarean section, Single spontaneous delivery, Sleep disorders, Slow fetal growth and fetal malnutrition, Soft tissue disorders related to use, overuse and pressure, Somatoform disorders, Somnolence, stupor and coma, Specific developmental disorder of motor function, Specific developmental disorders of speech and language, Spinal muscular atrophy and related syndromes, Spontaneous abortion, Status epilepticus, Stomatitis and related lesions, Subsequent myocardial infarction, Superficial injuries involving multiple body regions, Superficial injury of abdomen, lower back and pelvis, Superficial injury of ankle and foot, Superficial injury of forearm, Superficial injury of head, Superficial injury of hip and thigh, Superficial injury of lower leg, Superficial injury of neck, Superficial injury of shoulder and upper arm, Superficial injury of thorax, Superficial injury of wrist and hand, Taeniasis, Thyrotoxicosis [hyperthyroidism], Torsion of testis, Toxic effect of alcohol, Toxic effect of other and unspecified substances, Toxic encephalopathy, Transient cerebral ischaemic attacks and related syndromes, Traumatic amputations involving multiple body regions, Trichomoniasis, Trichuriasis, Tuberculosis of other organs, Type 1 diabetes mellitus, Type 2 diabetes mellitus, Typhoid and paratyphoid fevers, Ulcer of lower limb, not elsewhere classified, Ulcerative colitis, Umbilical hernia, Undescended testicle, Unspecified dementia, Unspecified disorder of adult personality and behaviour, Unspecified human immunodeficiency virus [HIV] disease, Unspecified intestinal parasitism, Unspecified lump in breast, Unspecified malaria, Unspecified maternal hypertension, Unspecified mental retardation, Unspecified mood [affective] disorder, Unspecified multiple injuries, Unspecified mycosis, Unspecified protein-energy malnutrition, Unspecified severe protein-energy malnutrition, Unspecified viral haemorrhagic fever, Unspecified viral infection characterized by skin and mucous membrane lesions, Unspecified viral infection of central nervous system, Urethral stricture, Urticaria, Varicella [chickenpox], Varicose veins of lower extremities, Vascular syndromes of brain in cerebrovascular diseases, Vasomotor and allergic rhinitis, Ventral hernia, Viral infection of unspecified site, Viral meningitis, Viral pneumonia, not elsewhere classified, Viral warts, Visual disturbances, Visual impairment including blindness (binocular or monocular), Vitiligo, Volume depletion, Whooping cough, Zoster [herpes zoster]]
+22/04/2023 06:18:44 PM MDT INFO  DiseaseBrowserManager:1655 - The Method: getDiseaseIpdOut DOEST NOT have any INPUT Parameters
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1413 - OS Current Time     : 22/04/2023 06:18:44 PM MDT
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1418 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getCurrentAdmission
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1419 - Method Return Type  : org.isf.admission.model.Admission
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1420 - Method Return Value : org.isf.admission.model.Admission@c1e
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1208 - Parameter Name : patient
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1209 - Parameter Type : org.isf.patient.model.Patient
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:1238 - The Parameter: patient has 27 Attributes
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : code
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.Integer
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 116
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : firstName
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Valentina
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : secondName
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Guzman
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : name
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Valentina Guzman
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : birthDate
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.time.LocalDate
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 1968-04-19
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : age
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 55
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : agetype
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : sex
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : F
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : address
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 44 Mary Street
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : city
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : London, United Kingdom
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : nextKin
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 1
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : telephone
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : +39
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : note
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : motherName
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Ana
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : mother
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : A
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : fatherName
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Pedro
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : father
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : A
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : bloodType
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : A+
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : hasInsurance
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Y
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : parentTogether
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Y
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : taxCode
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 123
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : maritalStatus
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : divorced
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : profession
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : foodhospitality
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : deleted
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:44 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : N
+22/04/2023 06:18:44 PM MDT INFO  OperationBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:18:44 PM MDT INFO  OperationBrowserManager:1413 - OS Current Time     : 22/04/2023 06:18:44 PM MDT
+22/04/2023 06:18:44 PM MDT INFO  OperationBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:18:44 PM MDT INFO  OperationBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:18:44 PM MDT INFO  OperationBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:18:44 PM MDT INFO  OperationBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:18:44 PM MDT INFO  OperationBrowserManager:1418 - Method Name         : org.isf.operation.manager.OperationBrowserManager.getOperationAdm
+22/04/2023 06:18:44 PM MDT INFO  OperationBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:18:44 PM MDT INFO  OperationBrowserManager:1420 - Method Return Value : [Abdominal Tumours, Acute abdomen, Appendicitis, Bladder biopsy, Caesarian section, Cholecystitis, Circumcision, Cystocele, Debridement, Dilatation and curettage, Dorsal slit-paraphimosis, Ectopic pregnancy, Epigastrical Hernia, Evacuations, HERNIA, Hernia (inguinal & femoral), Hydrocelectomy, Hysterectomy, Incision & Drainage, Incomplete abortion, Injured uterus, Intestinal obstruction, Knee Surgery 123, Laparotomy, Lower limb, Mechanical, Mise -a- plat, NEW OPERATION, NEW OPERATION TWO, NEW ORTHOPEDICAL DISEASE, Non strangulated, Operation New, Osteomyelitis - sequestrectomy, Ovarian tumours, Paraphimosis, Pelvic abscess, Penetrating abdominal injuries, Peritonitis, Peritonitis, Phimosis, Prostate biopsy, Prostatectomy, Reduction of fractures, Repair of vesico-vaginal fistula (vvf), Ruptured uterus, Septic abortion, Strangulated, Surgical toilet  & suture, Testicular tumours, Upper limb, Uretheral stricture-bougienage, Uterine fibroids, Uterine prolapse, Volvulus]
+22/04/2023 06:18:44 PM MDT INFO  OperationBrowserManager:1655 - The Method: getOperationAdm DOEST NOT have any INPUT Parameters
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:1413 - OS Current Time     : 22/04/2023 06:18:45 PM MDT
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:1418 - Method Name         : org.isf.operation.manager.OperationRowBrowserManager.getOperationRowByAdmission
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:1420 - Method Return Value : []
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:1208 - Parameter Name : adm
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:1209 - Parameter Type : org.isf.admission.model.Admission
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:1238 - The Parameter: adm has 33 Attributes
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - Attribute Name  : id
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - Attribute Type  : int
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - Attribute Value : 43
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - Attribute Name  : admitted
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - Attribute Type  : int
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - Attribute Value : 1
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - Attribute Name  : type
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - Attribute Value : N
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:642 - Attribute Name : ward
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:643 - Attribute Type : org.isf.ward.model.Ward
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:688 - The Attribute: ward has 33 SubAttributes
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : I
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : INTERNAL MEDICINE
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : telephone
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : 234/52544
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : fax
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : 54324/5424
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : email
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : internal.medicine@stluke.org
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : beds
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : 20
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : nurs
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : 3
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : docs
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : 2
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : isPharmacy
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : isMale
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : isFemale
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : visitDuration
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : int
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : 30
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : lock
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : 1
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - Attribute Name  : yProg
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - Attribute Type  : int
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - Attribute Value : 3
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:642 - Attribute Name : patient
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:643 - Attribute Type : org.isf.patient.model.Patient
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:688 - The Attribute: patient has 33 SubAttributes
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : 116
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : firstName
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : Valentina
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : secondName
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : Guzman
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : name
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : Valentina Guzman
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : birthDate
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.time.LocalDate
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : 1968-04-19
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : age
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : int
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : 55
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : agetype
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : 
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : sex
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : F
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : address
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : 44 Mary Street
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : city
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : London, United Kingdom
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : nextKin
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : 1
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : telephone
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : +39
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : note
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : 
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : motherName
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : Ana
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : mother
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : A
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : fatherName
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : Pedro
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : father
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : A
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : bloodType
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : A+
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : hasInsurance
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : Y
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : parentTogether
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : Y
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : taxCode
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : 123
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : maritalStatus
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : divorced
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : profession
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : foodhospitality
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : deleted
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : N
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - Attribute Name  : admDate
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - Attribute Type  : java.time.LocalDateTime
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - Attribute Value : 2023-04-22T18:05
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:642 - Attribute Name : admissionType
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:643 - Attribute Type : org.isf.admtype.model.AdmissionType
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:688 - The Attribute: admissionType has 33 SubAttributes
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : A
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : AMBULANCE
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - Attribute Name  : fHU
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - Attribute Value : One
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:642 - Attribute Name : diseaseIn
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:643 - Attribute Type : org.isf.disease.model.Disease
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:688 - The Attribute: diseaseIn has 33 SubAttributes
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : D63
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : Anaemia in chronic diseases classified elsewhere
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:642 - SubAttribute Name : diseaseType
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:643 - SubAttribute Type : org.isf.distype.model.DiseaseType
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:688 - The Attribute: diseaseType has 8 SubAttributes
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : D
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : D50-D89 Blood, blood-forming organs and immune mechanism
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : opdInclude
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : ipdInInclude
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - SubAttribute Name  : ipdOutInclude
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - Attribute Name  : userID
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - Attribute Value : doctor
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - Attribute Name  : deleted
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - Attribute Value : N
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:716 - Attribute Name  : hashCode
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:717 - Attribute Type  : int
+22/04/2023 06:18:45 PM MDT INFO  OperationRowBrowserManager:718 - Attribute Value : 3102
+22/04/2023 06:18:45 PM MDT INFO  DiseaseBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:18:45 PM MDT INFO  DiseaseBrowserManager:1413 - OS Current Time     : 22/04/2023 06:18:45 PM MDT
+22/04/2023 06:18:45 PM MDT INFO  DiseaseBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:18:45 PM MDT INFO  DiseaseBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:18:45 PM MDT INFO  DiseaseBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:18:45 PM MDT INFO  DiseaseBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:18:45 PM MDT INFO  DiseaseBrowserManager:1418 - Method Name         : org.isf.disease.manager.DiseaseBrowserManager.getDiseaseIpdIn
+22/04/2023 06:18:45 PM MDT INFO  DiseaseBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:18:45 PM MDT INFO  DiseaseBrowserManager:1420 - Method Return Value : [Abscess of anal and rectal regions, Absent, scanty and rare menstruation, Acne, Acquired deformities of fingers and toes, Acute and transient psychotic disorders, Acute appendicitis, Acute bronchiolitis, Acute bronchitis, Acute hepatitis B, Acute hepatitis C, Acute laryngitis and tracheitis, Acute myocardial infarction, Acute nasopharyngitis [common cold], Acute pharyngitis, Acute poliomyelitis, Acute posthaemorrhagic anaemia, Acute renal failure, Acute sinusitis, Acute tonsillitis, Adult respiratory distress syndrome, Adverse effects, not elsewhere classified, Allergic contact dermatitis, Alopecia areata, Alzheimer disease, Amebiasis, Anaemia in chronic diseases classified elsewhere, Anaphylactic shock, unspecified, Angina pectoris, Angioneurotic oedema, Ankylosing spondylitis, Anogenital herpesviral [herpes simplex] infection, Ascariasis, Asthma, Bacterial pneumonia, not elsewhere classified, Bacterial sepsis of newborn, Benign neoplasm of breast, Benign neoplasm of colon, rectum, anus and anal canal, Benign neoplasm of male genital organs, Benign neoplasm of other and unspecified sites, Benign neoplasm of ovary, Benign neoplasm of thyroid gland, Birth asphyxia, Bitten by rat, Bitten or struck by other mammals, Bitten or stung by nonvenomous insect and other nonvenomous arthropods, Burn and corrosion, body region unspecified, Burns and corrosions of multiple body regions, Calculus of kidney and ureter, Calculus of lower urinary tract, Candidiasis, Cardiac arrest, Cardiomiopatia, Cerebral infarction, Cerebral palsy, Chancroid, Chlamydial lymphogranuloma (venereum), Cholecystitis, Cholelithiasis, Chronic kidney disease, Chronic rhinitis, nasopharyngitis and pharyngitis, Chronic sinusitis, Cleft lip, Conductive and sensorineural hearing loss, Congenital iodine-deficiency syndrome, Congenital malformations of spine and bony thorax, Congenital syphilis, Conjunctivitis, Contact with marine animal, Corneal scars and opacities, Coxarthrosis [arthrosis of hip], Cranial nerve disorders in diseases classified elsewhere, Cutaneous abscess, furuncle and carbuncle, Cysticercosis, Cystitis, Decubitus ulcer and pressure area, Dental caries, Diabetes mellitus in pregnancy, Diaper [napkin] dermatitis, Diarrhea and gastroenteritis of presumed infectious origin, Diphtheria, Diseases of pulp and periapical tissues, Diseases of salivary glands, Diseases of spleen, Diseases of tongue, Disorders of vestibular function, Disorders related to long gestation and high birth weight, Diverticular disease of intestine, Dorsalgia, Down syndrome, Duodenal ulcer, Early syphilis, Eating disorders, Echinococcosis, Eclampsia, Ectopic pregnancy, Effects of other external causes, Embedded and impacted teeth, Emphysema, Encephalitis, myelitis and encephalomyelitis, Endometriosis, Epilepsy, Essential (primary) hypertension, Examination and observation for other reasons, Excessive, frequent and irregular menstruation, Exfoliative dermatitis, Failed attempted abortion, Female genital prolapse, Female infertility, Fetal death of unspecified cause, Fetus and newborn affected by complications of placenta, cord and membranes, Fetus and newborn affected by noxious influences transmitted via placenta or breast milk, Fetus and newborn affected by other complications of labour and delivery, Fever of other and unknown origin, Fibrosis and cirrhosis of liver, Filariasis, Fissure and fistula of anal and rectal regions, Fistulae involving female genital tract, Follicular cysts of skin and subcutaneous tissue, Gastric ulcer, Gastritis and duodenitis, Gastroenteritis and colitis of unspecified origin, General examination and investigation of persons without complaint and reported diagnosis, Gestational [pregnancy-induced] hypertension, Giardiasis [lambliasis], Gingivitis and periodontal diseases, Glaucoma, Gonarthrosis [arthrosis of knee], Gonococcal infection, Gout, Habitual aborter, Haemangioma and lymphangioma, any site, Haemorrhoids and perianal venous thrombosis, Headache, Heart failure, Hereditary and idiopathic neuropathy, Herpesviral [herpes simplex] infections, Hordeolum and chalazion, Hydrocele and spermatocele, Hydrocephalus, Hyperkinetic disorders, Hyperplasia of prostate, Hypertensive heart disease, Hypertensive renal disease, Hypertrophic disorders of skin, Hypertrophy of breast, Hypospadias, Hypotension, Hypothermia of newborn, Infections of genitourinary tract in pregnancy, Inflammatory diseases of prostate, Inflammatory disorders of breast, Inflammatory disorders of male genital organs, not elsewhere classified, Influenza with pneumonia, seasonal influenza virus identified, Influenza, virus not identified, Inguinal hernia, Injury of intra-abdominal organs, Injury of unspecified body region, Intestinal malabsorption, Juvenile arthritis, Kernicterus, Labour and delivery complicated by intrapartum haemorrhage, not elsewhere classified, Lactose intolerance, Late syphilis, Leiomyoma of uterus, Leprosy [Hansen disease], Long labour, Lupus erythematosus, Male infertility, Malignant melanoma of skin, Malignant neoplasm of breast, Malignant neoplasm of cervix uteri, Malignant neoplasm of colon, Malignant neoplasm of corpus uteri, Malignant neoplasm of gallbladder, Malignant neoplasm of kidney, except renal pelvis, Malignant neoplasm of other and ill-defined digestive organs, Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx, Malignant neoplasm of other and unspecified male genital organs, Malignant neoplasm of ovary, Malignant neoplasm of small intestine, Malignant neoplasm of stomach, Malignant neoplasm of testis, Malignant neoplasm of thyroid gland, Malignant neoplasm of ureter, Malignant neoplasm, without specification of site, Measles, Meconium ileus in cystic fibrosis, Medical abortion, Melanocytic naevi, Meningitis due to other and unspecified causes, Meningitis in other infectious and parasitic diseases classified elsewhere, Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, Mental and behavioural disorders due to use of alcohol, Microcephaly, Migraine, Miliary tuberculosis, Multiple delivery, Multiple gestation, Mumps, Mycetoma, Myositis, Neonatal jaundice from other and unspecified causes, Nephrotic syndrome, Nerve root and plexus disorders, Neuromuscular dysfunction of bladder, not elsewhere classified, Nondiabetic hypoglycaemic coma, Nonspecific lymphadenitis, Nutritional deficiency, unspecified, Obstetric death of unspecified cause, Obstructive and reflux uropathy, Oesophageal varices, Onchocerciasis, Open wound of abdomen, lower back and pelvis, Open wound of head, Open wound of thorax, Orchitis and epididymitis, Osteomyelitis, Other abdominal hernia, Other abnormal uterine and vaginal bleeding, Other acquired deformities of musculoskeletal system and connective tissue, Other acute viral hepatitis, Other anaemias, Other and unspecified infectious diseases, Other and unspecified injuries of abdomen, lower back and pelvis, Other and unspecified injuries of ankle and foot, Other and unspecified injuries of forearm, Other and unspecified injuries of hip and thigh, Other and unspecified injuries of lower leg, Other and unspecified injuries of neck, Other and unspecified injuries of shoulder and upper arm, Other and unspecified injuries of thorax, Other and unspecified injuries of wrist and hand, Other aneurysm and dissection, Other anxiety disorders, Other arthritis, Other arthrosis, Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence, Other benign neoplasms of skin, Other birth injuries, Other bullous disorders, Other cardiac arrhythmias, Other congenital infectious and parasitic diseases, Other congenital malformations of circulatory system, Other congenital malformations of digestive system, Other congenital malformations of ear, Other congenital malformations of eye, Other congenital malformations of face and neck, Other congenital malformations of female genitalia, Other congenital malformations of heart, Other congenital malformations of intestine, Other congenital malformations of kidney, Other congenital malformations of limb(s), Other congenital malformations of male genital organs, Other congenital malformations of peripheral vascular system, Other congenital malformations of respiratory system, Other congenital malformations of skull and face bones, Other congenital malformations of tongue, mouth and pharynx, Other congenital malformations of urinary system, Other congenital malformations, not elsewhere classified, Other dermatitis, Other diseases of blood and blood-forming organs, Other diseases of digestive system, Other diseases of lip and oral mucosa, Other diseases of upper respiratory tract, Other disorders of adrenal gland, Other disorders of amniotic fluid and membranes, Other disorders of bone, Other disorders of breast, Other disorders of breast and lactation associated with childbirth, Other disorders of ear, not elsewhere classified, Other disorders of eye and adnexa, Other disorders of kidney and ureter, not elsewhere classified, Other disorders of middle ear and mastoid, Other disorders of thyroid, Other disorders of urethra, Other disorders of white blood cells, Other erythematous conditions, Other female pelvic inflammatory diseases, Other functional intestinal disorders, Other headache syndromes, Other helminthiases, Other hereditary haemolytic anaemias, Other hypothyroidism, Other inflammation of vagina and vulva, Other inflammatory liver diseases, Other malignant neoplasms of skin, Other mosquito-borne viral fevers, Other neonatal haemorrhages, Other noninflammatory disorders of uterus, except cervix, Other nutritional anaemias, Other obstetric trauma, Other papulosquamous disorders, Other parasitologically confirmed malaria, Other perinatal haematological disorders, Other pleural conditions, Other predominantly sexually transmitted diseases, not elsewhere classified, Other protozoal intestinal diseases, Other pulmonary heart diseases, Other respiratory disorders, Other rheumatoid arthritis, Other sexually transmitted chlamydial diseases, Other specific joint derangements, Other strabismus, Other tetanus, Other venous embolism and thrombosis, Other zoonotic bacterial diseases, not elsewhere classified, Otitis externa, Paralytic ileus and intestinal obstruction without hernia, Parkinson disease, Paroxysmal tachycardia, Pediculosis and phthiriasis, Pemphigus, Perforation of tympanic membrane, Perineal laceration during delivery, Peritonitis, Peritonsillar abscess, Phlebitis and thrombophlebitis, Placenta praevia, Plague, Pleural effusion, not elsewhere classified, Pneumonia due to other infectious organisms, not elsewhere classified, Pneumothorax, Poisoning by diuretics and other and unspecified drugs, medicaments and biological substances, Polyarthrosis, Polyneuropathy in diseases classified elsewhere, Polyp of female genital tract, Postpartum haemorrhage, Postpolio syndrome, Pre-existing hypertension complicating pregnancy, childbirth and the puerperium, Premature rupture of membranes, Premature separation of placenta [abruptio placentae], Preterm labour and delivery, Primary disorders of muscles, Pulmonary embolism, Pulmonary oedema, Pyogenic arthritis, Pyothorax, Recurrent and persistent haematuria, Redundant prepuce, phimosis and paraphimosis, Respiratory distress of newborn, Respiratory failure, not elsewhere classified, Respiratory tuberculosis, bacteriologically and histologically confirmed, Respiratory tuberculosis, not confirmed bacteriologically or histologically, Retained placenta and membranes, without haemorrhage, Retarded development following protein-energy malnutrition, Retention of urine, Rheumatic fever without mention of heart involvement, Rubella [German measles], Salpingitis and oophoritis, Scabies, Scarlet fever, Schistosomiasis [bilharziasis], Schizophrenia, Scoliosis, Seborrhoeic dermatitis, Seborrhoeic keratosis, Secondary hypertension, Senile cataract, Sequelae of hyperalimentation, Sexual dysfunction, not caused by organic disorder or disease, Shoulder lesions, Single delivery by caesarean section, Single spontaneous delivery, Sleep disorders, Slow fetal growth and fetal malnutrition, Soft tissue disorders related to use, overuse and pressure, Somatoform disorders, Somnolence, stupor and coma, Specific developmental disorder of motor function, Specific developmental disorders of speech and language, Spinal muscular atrophy and related syndromes, Spontaneous abortion, Status epilepticus, Stomatitis and related lesions, Subsequent myocardial infarction, Superficial injuries involving multiple body regions, Superficial injury of abdomen, lower back and pelvis, Superficial injury of ankle and foot, Superficial injury of forearm, Superficial injury of head, Superficial injury of hip and thigh, Superficial injury of lower leg, Superficial injury of neck, Superficial injury of shoulder and upper arm, Superficial injury of thorax, Superficial injury of wrist and hand, Taeniasis, Thyrotoxicosis [hyperthyroidism], Torsion of testis, Toxic effect of alcohol, Toxic effect of other and unspecified substances, Toxic encephalopathy, Transient cerebral ischaemic attacks and related syndromes, Traumatic amputations involving multiple body regions, Trichomoniasis, Trichuriasis, Tuberculosis of other organs, Type 1 diabetes mellitus, Type 2 diabetes mellitus, Typhoid and paratyphoid fevers, Ulcer of lower limb, not elsewhere classified, Ulcerative colitis, Umbilical hernia, Undescended testicle, Unspecified dementia, Unspecified disorder of adult personality and behaviour, Unspecified human immunodeficiency virus [HIV] disease, Unspecified intestinal parasitism, Unspecified lump in breast, Unspecified malaria, Unspecified maternal hypertension, Unspecified mental retardation, Unspecified mood [affective] disorder, Unspecified multiple injuries, Unspecified mycosis, Unspecified protein-energy malnutrition, Unspecified severe protein-energy malnutrition, Unspecified viral haemorrhagic fever, Unspecified viral infection characterized by skin and mucous membrane lesions, Unspecified viral infection of central nervous system, Urethral stricture, Urticaria, Varicella [chickenpox], Varicose veins of lower extremities, Vascular syndromes of brain in cerebrovascular diseases, Vasomotor and allergic rhinitis, Ventral hernia, Viral infection of unspecified site, Viral meningitis, Viral pneumonia, not elsewhere classified, Viral warts, Visual disturbances, Visual impairment including blindness (binocular or monocular), Vitiligo, Volume depletion, Whooping cough, Zoster [herpes zoster]]
+22/04/2023 06:18:45 PM MDT INFO  DiseaseBrowserManager:1655 - The Method: getDiseaseIpdIn DOEST NOT have any INPUT Parameters
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1413 - OS Current Time     : 22/04/2023 06:18:45 PM MDT
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1418 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getCurrentAdmission
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1419 - Method Return Type  : org.isf.admission.model.Admission
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1420 - Method Return Value : org.isf.admission.model.Admission@c1e
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1208 - Parameter Name : patient
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1209 - Parameter Type : org.isf.patient.model.Patient
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1238 - The Parameter: patient has 27 Attributes
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : code
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.Integer
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 116
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : firstName
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Valentina
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : secondName
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Guzman
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : name
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Valentina Guzman
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : birthDate
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.time.LocalDate
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 1968-04-19
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : age
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 55
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : agetype
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : sex
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : F
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : address
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 44 Mary Street
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : city
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : London, United Kingdom
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : nextKin
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 1
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : telephone
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : +39
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : note
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : motherName
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Ana
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : mother
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : A
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : fatherName
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Pedro
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : father
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : A
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : bloodType
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : A+
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : hasInsurance
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Y
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : parentTogether
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Y
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : taxCode
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 123
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : maritalStatus
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : divorced
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : profession
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : foodhospitality
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : deleted
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : N
+22/04/2023 06:18:45 PM MDT INFO  WardBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:18:45 PM MDT INFO  WardBrowserManager:1413 - OS Current Time     : 22/04/2023 06:18:45 PM MDT
+22/04/2023 06:18:45 PM MDT INFO  WardBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:18:45 PM MDT INFO  WardBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:18:45 PM MDT INFO  WardBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:18:45 PM MDT INFO  WardBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:18:45 PM MDT INFO  WardBrowserManager:1418 - Method Name         : org.isf.ward.manager.WardBrowserManager.getWards
+22/04/2023 06:18:45 PM MDT INFO  WardBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:18:45 PM MDT INFO  WardBrowserManager:1420 - Method Return Value : [INTERNAL MEDICINE, MATERNITY, NURSERY, SURGERY]
+22/04/2023 06:18:45 PM MDT INFO  WardBrowserManager:1655 - The Method: getWards DOEST NOT have any INPUT Parameters
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1413 - OS Current Time     : 22/04/2023 06:18:45 PM MDT
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1418 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getAdmissionType
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1420 - Method Return Value : [AMBULANCE, SELF, REFERRAL]
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1655 - The Method: getAdmissionType DOEST NOT have any INPUT Parameters
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1413 - OS Current Time     : 22/04/2023 06:18:45 PM MDT
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1418 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getDischargeType
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1420 - Method Return Value : [REFERRED, DEAD, NORMAL DISCHARGE, ESCAPE]
+22/04/2023 06:18:45 PM MDT INFO  AdmissionBrowserManager:1655 - The Method: getDischargeType DOEST NOT have any INPUT Parameters
+22/04/2023 06:18:45 PM MDT INFO  DeliveryTypeBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:18:45 PM MDT INFO  DeliveryTypeBrowserManager:1413 - OS Current Time     : 22/04/2023 06:18:45 PM MDT
+22/04/2023 06:18:45 PM MDT INFO  DeliveryTypeBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:18:45 PM MDT INFO  DeliveryTypeBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:18:45 PM MDT INFO  DeliveryTypeBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:18:45 PM MDT INFO  DeliveryTypeBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:18:45 PM MDT INFO  DeliveryTypeBrowserManager:1418 - Method Name         : org.isf.dlvrtype.manager.DeliveryTypeBrowserManager.getDeliveryType
+22/04/2023 06:18:45 PM MDT INFO  DeliveryTypeBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:18:45 PM MDT INFO  DeliveryTypeBrowserManager:1420 - Method Return Value : [BRAND NEW DELIVERY, DELIVERY ASSISTED BY CESARIAN SECTION, NORMAL DELIVERY, TOTAL DELIVERY, UNEXPECTED DELIVERY, DELIVERY ASSISTED BY VACUUM EXTRACTION, WEIRD DELIVERY]
+22/04/2023 06:18:45 PM MDT INFO  DeliveryTypeBrowserManager:1655 - The Method: getDeliveryType DOEST NOT have any INPUT Parameters
+22/04/2023 06:18:45 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:18:45 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1413 - OS Current Time     : 22/04/2023 06:18:45 PM MDT
+22/04/2023 06:18:45 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:18:45 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:18:45 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:18:45 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:18:45 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1418 - Method Name         : org.isf.pregtreattype.manager.PregnantTreatmentTypeBrowserManager.getPregnantTreatmentType
+22/04/2023 06:18:45 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:18:45 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1420 - Method Return Value : [ANC RE-ATTENDANCE, FIRST DOSE WITH SP, IMMUNISATION 1, IMMUNISATION 2, IMMUNISATION 3, NEW ANC ATTENDANCE, SECOND DOSE WITH SP]
+22/04/2023 06:18:45 PM MDT INFO  PregnantTreatmentTypeBrowserManager:1655 - The Method: getPregnantTreatmentType DOEST NOT have any INPUT Parameters
+22/04/2023 06:18:45 PM MDT INFO  DeliveryResultTypeBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:18:45 PM MDT INFO  DeliveryResultTypeBrowserManager:1413 - OS Current Time     : 22/04/2023 06:18:45 PM MDT
+22/04/2023 06:18:45 PM MDT INFO  DeliveryResultTypeBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+22/04/2023 06:18:45 PM MDT INFO  DeliveryResultTypeBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:18:45 PM MDT INFO  DeliveryResultTypeBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:18:45 PM MDT INFO  DeliveryResultTypeBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:18:45 PM MDT INFO  DeliveryResultTypeBrowserManager:1418 - Method Name         : org.isf.dlvrrestype.manager.DeliveryResultTypeBrowserManager.getDeliveryResultType
+22/04/2023 06:18:45 PM MDT INFO  DeliveryResultTypeBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:18:45 PM MDT INFO  DeliveryResultTypeBrowserManager:1420 - Method Return Value : [FRESH STILL BIRTH, LIVE BIRTH, MACERATED STILLBIRTH, MATERNAL DEATH, NEWBORN DEATH]
+22/04/2023 06:18:45 PM MDT INFO  DeliveryResultTypeBrowserManager:1655 - The Method: getDeliveryResultType DOEST NOT have any INPUT Parameters
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:1413 - OS Current Time     : 22/04/2023 06:19:51 PM MDT
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:1418 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.updateAdmission
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:1419 - Method Return Type  : java.lang.Boolean
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:1420 - Method Return Value : true
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:1208 - Parameter Name : admission
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:1209 - Parameter Type : org.isf.admission.model.Admission
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:1238 - The Parameter: admission has 33 Attributes
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : id
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 43
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : type
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : N
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : ward
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.ward.model.Ward
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:688 - The Attribute: ward has 33 SubAttributes
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : I
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : INTERNAL MEDICINE
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : telephone
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 234/52544
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : fax
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 54324/5424
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : email
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : internal.medicine@stluke.org
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : beds
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 20
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : nurs
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 3
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : docs
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 2
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : isPharmacy
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : isMale
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : isFemale
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : visitDuration
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : int
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 30
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : lock
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 1
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : yProg
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 3
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : patient
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.patient.model.Patient
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:688 - The Attribute: patient has 33 SubAttributes
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 116
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : firstName
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Valentina
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : secondName
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Guzman
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : name
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Valentina Guzman
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : birthDate
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.time.LocalDate
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 1968-04-19
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : age
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : int
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 55
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : agetype
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : sex
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : F
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : address
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 44 Mary Street
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : city
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : London, United Kingdom
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : nextKin
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 1
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : telephone
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : +39
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : note
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : motherName
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Ana
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : mother
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : A
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : fatherName
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Pedro
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : father
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : A
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : bloodType
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : A+
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : hasInsurance
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Y
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : parentTogether
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Y
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : taxCode
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 123
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : maritalStatus
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : divorced
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : profession
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : foodhospitality
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : deleted
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : N
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : admDate
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.time.LocalDateTime
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 2023-04-22T18:05
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : admissionType
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.admtype.model.AdmissionType
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:688 - The Attribute: admissionType has 33 SubAttributes
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : A
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : AMBULANCE
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : fHU
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : One
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : diseaseIn
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.disease.model.Disease
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:688 - The Attribute: diseaseIn has 33 SubAttributes
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : D63
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Anaemia in chronic diseases classified elsewhere
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:642 - SubAttribute Name : diseaseType
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:643 - SubAttribute Type : org.isf.distype.model.DiseaseType
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:688 - The Attribute: diseaseType has 8 SubAttributes
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : D
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : D50-D89 Blood, blood-forming organs and immune mechanism
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : opdInclude
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : ipdInInclude
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : ipdOutInclude
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : diseaseOut1
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.disease.model.Disease
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:688 - The Attribute: diseaseOut1 has 33 SubAttributes
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : D62
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Acute posthaemorrhagic anaemia
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:642 - SubAttribute Name : diseaseType
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:643 - SubAttribute Type : org.isf.distype.model.DiseaseType
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:688 - The Attribute: diseaseType has 8 SubAttributes
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : D
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : D50-D89 Blood, blood-forming organs and immune mechanism
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : opdInclude
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : ipdInInclude
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : ipdOutInclude
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : disDate
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.time.LocalDateTime
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 2023-04-22T18:18
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : disType
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.disctype.model.DischargeType
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:688 - The Attribute: disType has 33 SubAttributes
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : B
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : REFERRED
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : userID
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : admin
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : deleted
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : N
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : hashCode
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 06:19:51 PM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 3102
+22/04/2023 06:20:20 PM MDT INFO  WardBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:20:20 PM MDT INFO  WardBrowserManager:1413 - OS Current Time     : 22/04/2023 06:20:20 PM MDT
+22/04/2023 06:20:20 PM MDT INFO  WardBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:20:20 PM MDT INFO  WardBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:20:20 PM MDT INFO  WardBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:20:20 PM MDT INFO  WardBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:20:20 PM MDT INFO  WardBrowserManager:1418 - Method Name         : org.isf.ward.manager.WardBrowserManager.getWards
+22/04/2023 06:20:20 PM MDT INFO  WardBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:20:20 PM MDT INFO  WardBrowserManager:1420 - Method Return Value : [INTERNAL MEDICINE, MATERNITY, NURSERY, SURGERY]
+22/04/2023 06:20:20 PM MDT INFO  WardBrowserManager:1655 - The Method: getWards DOEST NOT have any INPUT Parameters
+22/04/2023 06:20:52 PM MDT INFO  WardBrowserManager:1412 - OS Name             : Windows Server 2016
+22/04/2023 06:20:52 PM MDT INFO  WardBrowserManager:1413 - OS Current Time     : 22/04/2023 06:20:52 PM MDT
+22/04/2023 06:20:52 PM MDT INFO  WardBrowserManager:1414 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 06:20:52 PM MDT INFO  WardBrowserManager:1415 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 06:20:52 PM MDT INFO  WardBrowserManager:1416 - OS UserName         : friverao
+22/04/2023 06:20:52 PM MDT INFO  WardBrowserManager:1417 - Annotation Type     : Method
+22/04/2023 06:20:52 PM MDT INFO  WardBrowserManager:1418 - Method Name         : org.isf.ward.manager.WardBrowserManager.getWards
+22/04/2023 06:20:52 PM MDT INFO  WardBrowserManager:1419 - Method Return Type  : java.util.ArrayList
+22/04/2023 06:20:52 PM MDT INFO  WardBrowserManager:1420 - Method Return Value : [INTERNAL MEDICINE, MATERNITY, NURSERY, SURGERY]
+22/04/2023 06:20:52 PM MDT INFO  WardBrowserManager:1655 - The Method: getWards DOEST NOT have any INPUT Parameters
+22/04/2023 06:21:27 PM MDT INFO  MainMenu:315 - 
+
+=====================
+ Open Hospital closed 
+=====================
+

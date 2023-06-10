@@ -1,0 +1,4 @@
+Parameter,1,org.isf.menu.manager.UserBrowsingManager.getMenu,org.isf.menu.manager.UserBrowsingManager,getMenu,aUser.userName = admin,userName,=,admin;
+ReturnType,2,org.isf.patient.manager.PatientBrowserManager.isNamePresent,org.isf.patient.manager.PatientBrowserManager,isNamePresent,boolean = false,boolean,=,false;
+Parameter,3,org.isf.patient.manager.PatientBrowserManager.savePatient,org.isf.patient.manager.PatientBrowserManager,savePatient,patient.bloodType = B+,bloodType,=,B+;
+Parameter,4,org.isf.patient.manager.PatientBrowserManager.savePatient,org.isf.patient.manager.PatientBrowserManager,savePatient,patient.age >= 18,age,>=,18;

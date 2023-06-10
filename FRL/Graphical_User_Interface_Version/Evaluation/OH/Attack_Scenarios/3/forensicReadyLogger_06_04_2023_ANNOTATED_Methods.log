@@ -1,0 +1,103 @@
+06/04/2023 10:06:59 PM MDT INFO  UserBrowsingManager:1283 - OS Name             : Windows Server 2016
+06/04/2023 10:06:59 PM MDT INFO  UserBrowsingManager:1284 - OS Current Time     : 06/04/2023 10:06:59 PM MDT
+06/04/2023 10:06:59 PM MDT INFO  UserBrowsingManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+06/04/2023 10:06:59 PM MDT INFO  UserBrowsingManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+06/04/2023 10:06:59 PM MDT INFO  UserBrowsingManager:1287 - OS UserName         : friverao
+06/04/2023 10:06:59 PM MDT INFO  UserBrowsingManager:1288 - Annotation Type     : Parameter
+06/04/2023 10:06:59 PM MDT INFO  UserBrowsingManager:1289 - Method Name         : org.isf.menu.manager.UserBrowsingManager.getMenu
+06/04/2023 10:06:59 PM MDT INFO  UserBrowsingManager:1290 - Method Return Type  : java.util.ArrayList
+06/04/2023 10:06:59 PM MDT INFO  UserBrowsingManager:1291 - Method Return Value : 
+06/04/2023 10:06:59 PM MDT INFO  UserBrowsingManager:863 - Attribute Name      : userName
+06/04/2023 10:06:59 PM MDT INFO  UserBrowsingManager:864 - Attribute Type      : java.lang.String
+06/04/2023 10:06:59 PM MDT INFO  UserBrowsingManager:865 - Attribute Value     : admin
+06/04/2023 10:07:37 PM MDT INFO  ConfigurationProperties:91 - File sms.properties loaded.
+06/04/2023 10:07:37 PM MDT INFO  Webcam:1048 - WebcamDefaultDriver capture driver will be used
+06/04/2023 10:07:38 PM MDT WARN  Webcam:964 - No webcam has been detected!
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1283 - OS Name             : Windows Server 2016
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1284 - OS Current Time     : 06/04/2023 10:08:37 PM MDT
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1287 - OS UserName         : friverao
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1288 - Annotation Type     : ReturnType
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1289 - Method Name         : org.isf.patient.manager.PatientBrowserManager.isNamePresent
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1290 - Method Return Type  : java.lang.Boolean
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1291 - Method Return Value : false
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1178 - Parameter Name      : name
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1179 - Parameter Type      : java.lang.String
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1180 - Parameter Value     : Genaro Lopez
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1283 - OS Name             : Windows Server 2016
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1284 - OS Current Time     : 06/04/2023 10:08:37 PM MDT
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1287 - OS UserName         : friverao
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1288 - Annotation Type     : Parameter
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1289 - Method Name         : org.isf.patient.manager.PatientBrowserManager.savePatient
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1290 - Method Return Type  : org.isf.patient.model.Patient
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:1291 - Method Return Value : false
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:863 - Attribute Name      : age
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:864 - Attribute Type      : int
+06/04/2023 10:08:37 PM MDT INFO  PatientBrowserManager:865 - Attribute Value     : 36
+06/04/2023 10:09:35 PM MDT INFO  ConfigurationProperties:91 - File sms.properties loaded.
+06/04/2023 10:09:35 PM MDT WARN  Webcam:964 - No webcam has been detected!
+06/04/2023 10:10:59 PM MDT INFO  ConfigurationProperties:91 - File sms.properties loaded.
+06/04/2023 10:10:59 PM MDT WARN  Webcam:964 - No webcam has been detected!
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:1283 - OS Name             : Windows Server 2016
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:1284 - OS Current Time     : 06/04/2023 10:11:07 PM MDT
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:1287 - OS UserName         : friverao
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:1288 - Annotation Type     : Parameter
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:1289 - Method Name         : org.isf.patient.manager.PatientBrowserManager.savePatient
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:1290 - Method Return Type  : org.isf.patient.model.Patient
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:1291 - Method Return Value : Genaro Lopez
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:863 - Attribute Name      : bloodType
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:864 - Attribute Type      : java.lang.String
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:865 - Attribute Value     : B+
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:1283 - OS Name             : Windows Server 2016
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:1284 - OS Current Time     : 06/04/2023 10:11:07 PM MDT
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:1287 - OS UserName         : friverao
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:1288 - Annotation Type     : Parameter
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:1289 - Method Name         : org.isf.patient.manager.PatientBrowserManager.savePatient
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:1290 - Method Return Type  : org.isf.patient.model.Patient
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:1291 - Method Return Value : Genaro Lopez
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:863 - Attribute Name      : age
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:864 - Attribute Type      : int
+06/04/2023 10:11:07 PM MDT INFO  PatientBrowserManager:865 - Attribute Value     : 36
+06/04/2023 10:12:46 PM MDT INFO  ConfigurationProperties:91 - File sms.properties loaded.
+06/04/2023 10:12:46 PM MDT WARN  Webcam:964 - No webcam has been detected!
+06/04/2023 10:16:17 PM MDT INFO  ConfigurationProperties:91 - File sms.properties loaded.
+06/04/2023 10:16:17 PM MDT WARN  Webcam:964 - No webcam has been detected!
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:1283 - OS Name             : Windows Server 2016
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:1284 - OS Current Time     : 06/04/2023 10:16:26 PM MDT
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:1287 - OS UserName         : friverao
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:1288 - Annotation Type     : Parameter
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:1289 - Method Name         : org.isf.patient.manager.PatientBrowserManager.savePatient
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:1290 - Method Return Type  : org.isf.patient.model.Patient
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:1291 - Method Return Value : Genaro Lopez
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:863 - Attribute Name      : bloodType
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:864 - Attribute Type      : java.lang.String
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:865 - Attribute Value     : B+
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:1283 - OS Name             : Windows Server 2016
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:1284 - OS Current Time     : 06/04/2023 10:16:26 PM MDT
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:1287 - OS UserName         : friverao
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:1288 - Annotation Type     : Parameter
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:1289 - Method Name         : org.isf.patient.manager.PatientBrowserManager.savePatient
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:1290 - Method Return Type  : org.isf.patient.model.Patient
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:1291 - Method Return Value : Genaro Lopez
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:863 - Attribute Name      : age
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:864 - Attribute Type      : int
+06/04/2023 10:16:26 PM MDT INFO  PatientBrowserManager:865 - Attribute Value     : 40
+06/04/2023 10:18:24 PM MDT INFO  ConfigurationProperties:91 - File sms.properties loaded.
+06/04/2023 10:18:24 PM MDT WARN  Webcam:964 - No webcam has been detected!
+06/04/2023 10:19:50 PM MDT INFO  MainMenu:315 - 
+
+=====================
+ Open Hospital closed 
+=====================
+

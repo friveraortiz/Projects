@@ -1,0 +1,134 @@
+10/06/2023 05:01:01 PM MDT INFO  Login:1441 - OS Name             : Windows Server 2016
+10/06/2023 05:01:01 PM MDT INFO  Login:1442 - OS Current Time     : 10/06/2023 05:01:01 PM MDT
+10/06/2023 05:01:01 PM MDT INFO  Login:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+10/06/2023 05:01:01 PM MDT INFO  Login:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+10/06/2023 05:01:01 PM MDT INFO  Login:1445 - OS UserName         : friverao
+10/06/2023 05:01:01 PM MDT INFO  Login:1446 - Annotation Type     : Method
+10/06/2023 05:01:01 PM MDT INFO  Login:1447 - Method Name         : org.isf.menu.gui.Login.acceptPwd
+10/06/2023 05:01:01 PM MDT INFO  Login:1448 - Method Return Type  : void
+10/06/2023 05:01:01 PM MDT INFO  Login:1449 - Method Return Value : 
+10/06/2023 05:01:01 PM MDT INFO  Login:1675 - The Method: acceptPwd DOEST NOT have any INPUT Parameters
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:1441 - OS Name             : Windows Server 2016
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:1442 - OS Current Time     : 10/06/2023 05:01:03 PM MDT
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:1445 - OS UserName         : friverao
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:1446 - Annotation Type     : Method
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:1447 - Method Name         : org.isf.menu.manager.UserBrowsingManager.getMenu
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:1448 - Method Return Type  : java.util.ArrayList
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:1449 - Method Return Value : [Pharmaceuticals, New, New Patient, New, Users, New Bill, Edit Patient, Cashier's Filter, Types, Admission Type, New, New, Examination, Groups, Edit, Examination, Charge, New Bill, Bill Manager, Edit, OPD Chart, Rectify, Examination, Edit Patient, Discharge Type, Exams List, Hospital, Edit, Pharmaceutical Stock, Examination, Edit, Edit, OPD, Delete, Ward, Discharge, Edit Bill, Admission Chart, Admission/Patient, Delete, Pharmaceutical Stock Ward, Disease List, Delivery Type, Delete, Delete, Delete, Operation, Merge, Report, Delete patient, Operation, Delivery Result Type, Data, Laboratory, Malnutrition control, Operation List, Edit Closed Bills, Excel, Launch Report , Disease, Bill, Pharmacy, Disease Type, Admission, DICOM Patient, Exams, Delete Bill, OPD, Vaccines, Operation, Report, Exam Type, Medicals Stock Mov Type, Vaccine, Therapy, Clinical sheet, Accounting, Receipt, Price Lists, Medicals Type, Worksheet, Statistics, Supplier, Operation Type, SMS Manager, Pregnant Treatment, Reports, Communication, Users & Groups, Other Prices, Settings, Age Type, Vaccine Type, Help, DICOM Type]
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:1237 - Parameter Name : aUser
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:1238 - Parameter Type : org.isf.menu.model.User
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:1267 - The Parameter: aUser has 5 Attributes
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:716 - Attribute Name  : userName
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:717 - Attribute Type  : java.lang.String
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:718 - Attribute Value : admin
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:642 - Attribute Name : userGroupName
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:643 - Attribute Type : org.isf.menu.model.UserGroup
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:688 - The Attribute: userGroupName has 5 SubAttributes
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:716 - SubAttribute Name  : code
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:717 - SubAttribute Type  : java.lang.String
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:718 - SubAttribute Value : admin
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:716 - SubAttribute Name  : desc
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:717 - SubAttribute Type  : java.lang.String
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:718 - SubAttribute Value : User with all the privileges
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:716 - Attribute Name  : passwd
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:717 - Attribute Type  : java.lang.String
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:718 - Attribute Value : $2a$10$Y56cwhn32koDehBd3Dk4Iu9t9Ve9teKmIt2u84bF0aYe9jqm12p2y
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:716 - Attribute Name  : desc
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:717 - Attribute Type  : java.lang.String
+10/06/2023 05:01:03 PM MDT INFO  UserBrowsingManager:718 - Attribute Value : administrator
+10/06/2023 05:01:18 PM MDT INFO  ConfigurationProperties:91 - File sms.properties loaded.
+10/06/2023 05:01:18 PM MDT INFO  Webcam:1048 - WebcamDefaultDriver capture driver will be used
+10/06/2023 05:01:20 PM MDT WARN  Webcam:964 - No webcam has been detected!
+10/06/2023 05:02:53 PM MDT INFO  HospitalBrowsingManager:1441 - OS Name             : Windows Server 2016
+10/06/2023 05:02:53 PM MDT INFO  HospitalBrowsingManager:1442 - OS Current Time     : 10/06/2023 05:02:53 PM MDT
+10/06/2023 05:02:53 PM MDT INFO  HospitalBrowsingManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+10/06/2023 05:02:53 PM MDT INFO  HospitalBrowsingManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+10/06/2023 05:02:53 PM MDT INFO  HospitalBrowsingManager:1445 - OS UserName         : friverao
+10/06/2023 05:02:53 PM MDT INFO  HospitalBrowsingManager:1446 - Annotation Type     : Method
+10/06/2023 05:02:53 PM MDT INFO  HospitalBrowsingManager:1447 - Method Name         : org.isf.hospital.manager.HospitalBrowsingManager.getHospital
+10/06/2023 05:02:53 PM MDT INFO  HospitalBrowsingManager:1448 - Method Return Type  : org.isf.hospital.model.Hospital
+10/06/2023 05:02:53 PM MDT INFO  HospitalBrowsingManager:1449 - Method Return Value : St. Luke HOSPITAL - Kenya
+10/06/2023 05:02:53 PM MDT INFO  HospitalBrowsingManager:1675 - The Method: getHospital DOEST NOT have any INPUT Parameters
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:1441 - OS Name             : Windows Server 2016
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:1442 - OS Current Time     : 10/06/2023 05:03:07 PM MDT
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:1445 - OS UserName         : friverao
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:1446 - Annotation Type     : Method
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:1447 - Method Name         : org.isf.hospital.manager.HospitalBrowsingManager.updateHospital
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:1448 - Method Return Type  : org.isf.hospital.model.Hospital
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:1449 - Method Return Value : St. Luke HOSPITAL - Angal
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:1237 - Parameter Name : hospital
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:1238 - Parameter Type : org.isf.hospital.model.Hospital
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:1267 - The Parameter: hospital has 18 Attributes
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:716 - Attribute Name  : VISIT_START_TIME
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:717 - Attribute Type  : java.lang.String
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:718 - Attribute Value : 06:30:00
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:716 - Attribute Name  : VISIT_END_TIME
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:717 - Attribute Type  : java.lang.String
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:718 - Attribute Value : 20:00:00
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:716 - Attribute Name  : VISIT_INCREMENT
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:717 - Attribute Type  : int
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:718 - Attribute Value : 15
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:716 - Attribute Name  : VISIT_DURATION
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:717 - Attribute Type  : int
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:718 - Attribute Value : 30
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:716 - Attribute Name  : code
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:717 - Attribute Type  : java.lang.String
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:718 - Attribute Value : STLUKE
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:716 - Attribute Name  : description
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:717 - Attribute Type  : java.lang.String
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:718 - Attribute Value : St. Luke HOSPITAL - Angal
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:716 - Attribute Name  : address
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:717 - Attribute Type  : java.lang.String
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:718 - Attribute Value : P.O. BOX 85 - NEBBI
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:716 - Attribute Name  : city
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:717 - Attribute Type  : java.lang.String
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:718 - Attribute Value : ANGAL
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:716 - Attribute Name  : telephone
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:717 - Attribute Type  : java.lang.String
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:718 - Attribute Value : +256 0472621076
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:716 - Attribute Name  : fax
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:717 - Attribute Type  : java.lang.String
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:718 - Attribute Value : +256 0
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:716 - Attribute Name  : email
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:717 - Attribute Type  : java.lang.String
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:718 - Attribute Value : angal@ucmb.ug.co.
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:716 - Attribute Name  : visitStartTime
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:717 - Attribute Type  : java.sql.Time
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:718 - Attribute Value : 06:30:00
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:716 - Attribute Name  : visitEndTime
+10/06/2023 05:03:07 PM MDT INFO  HospitalBrowsingManager:717 - Attribute Type  : java.sql.Time
+10/06/2023 05:03:08 PM MDT INFO  HospitalBrowsingManager:718 - Attribute Value : 20:00:00
+10/06/2023 05:03:08 PM MDT INFO  HospitalBrowsingManager:716 - Attribute Name  : visitIncrement
+10/06/2023 05:03:08 PM MDT INFO  HospitalBrowsingManager:717 - Attribute Type  : int
+10/06/2023 05:03:08 PM MDT INFO  HospitalBrowsingManager:718 - Attribute Value : 15
+10/06/2023 05:03:08 PM MDT INFO  HospitalBrowsingManager:716 - Attribute Name  : visitDuration
+10/06/2023 05:03:08 PM MDT INFO  HospitalBrowsingManager:717 - Attribute Type  : int
+10/06/2023 05:03:08 PM MDT INFO  HospitalBrowsingManager:718 - Attribute Value : 30
+10/06/2023 05:03:08 PM MDT INFO  HospitalBrowsingManager:716 - Attribute Name  : lock
+10/06/2023 05:03:08 PM MDT INFO  HospitalBrowsingManager:717 - Attribute Type  : java.lang.Integer
+10/06/2023 05:03:08 PM MDT INFO  HospitalBrowsingManager:718 - Attribute Value : 1
+10/06/2023 05:04:14 PM MDT INFO  HospitalBrowsingManager:1441 - OS Name             : Windows Server 2016
+10/06/2023 05:04:14 PM MDT INFO  HospitalBrowsingManager:1442 - OS Current Time     : 10/06/2023 05:04:14 PM MDT
+10/06/2023 05:04:14 PM MDT INFO  HospitalBrowsingManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+10/06/2023 05:04:14 PM MDT INFO  HospitalBrowsingManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+10/06/2023 05:04:14 PM MDT INFO  HospitalBrowsingManager:1445 - OS UserName         : friverao
+10/06/2023 05:04:14 PM MDT INFO  HospitalBrowsingManager:1446 - Annotation Type     : Method
+10/06/2023 05:04:14 PM MDT INFO  HospitalBrowsingManager:1447 - Method Name         : org.isf.hospital.manager.HospitalBrowsingManager.getHospital
+10/06/2023 05:04:14 PM MDT INFO  HospitalBrowsingManager:1448 - Method Return Type  : org.isf.hospital.model.Hospital
+10/06/2023 05:04:14 PM MDT INFO  HospitalBrowsingManager:1449 - Method Return Value : St. Luke HOSPITAL - Angal
+10/06/2023 05:04:14 PM MDT INFO  HospitalBrowsingManager:1675 - The Method: getHospital DOEST NOT have any INPUT Parameters
+10/06/2023 05:05:03 PM MDT INFO  ConfigurationProperties:91 - File sms.properties loaded.
+10/06/2023 05:05:03 PM MDT WARN  Webcam:964 - No webcam has been detected!
+10/06/2023 05:06:32 PM MDT INFO  ConfigurationProperties:91 - File txtPrinter.properties loaded.
+10/06/2023 05:06:32 PM MDT WARN  ConfigurationProperties:122 - TXT_CHAR_HEIGHT property not found: default is 10
+10/06/2023 05:06:32 PM MDT WARN  ConfigurationProperties:122 - TXT_CHAR_WIDTH property not found: default is 10
+10/06/2023 05:06:39 PM MDT INFO  MainMenu:315 - 
+
+=====================
+ Open Hospital closed 
+=====================
+

@@ -1,0 +1,757 @@
+22/04/2023 12:30:14 AM MDT INFO  UserBrowsingManager:1365 - OS Name             : Windows Server 2016
+22/04/2023 12:30:14 AM MDT INFO  UserBrowsingManager:1366 - OS Current Time     : 22/04/2023 12:30:14 AM MDT
+22/04/2023 12:30:14 AM MDT INFO  UserBrowsingManager:1367 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 12:30:14 AM MDT INFO  UserBrowsingManager:1368 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 12:30:14 AM MDT INFO  UserBrowsingManager:1369 - OS UserName         : friverao
+22/04/2023 12:30:14 AM MDT INFO  UserBrowsingManager:1370 - Annotation Type     : Parameter
+22/04/2023 12:30:14 AM MDT INFO  UserBrowsingManager:1371 - Method Name         : org.isf.menu.manager.UserBrowsingManager.getMenu
+22/04/2023 12:30:14 AM MDT INFO  UserBrowsingManager:1372 - Method Return Type  : java.util.ArrayList
+22/04/2023 12:30:14 AM MDT INFO  UserBrowsingManager:1373 - Method Return Value : 
+22/04/2023 12:30:14 AM MDT INFO  UserBrowsingManager:900 - Parameter Name  : aUser
+22/04/2023 12:30:14 AM MDT INFO  UserBrowsingManager:901 - Parameter Type  :  org.isf.menu.model.User
+22/04/2023 12:30:14 AM MDT INFO  UserBrowsingManager:902 - Parameter Value : doctor
+22/04/2023 12:30:14 AM MDT INFO  UserBrowsingManager:907 - Attribute Name  : userName
+22/04/2023 12:30:14 AM MDT INFO  UserBrowsingManager:908 - Attribute Type  : java.lang.String
+22/04/2023 12:30:14 AM MDT INFO  UserBrowsingManager:909 - Attribute Value : doctor
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:1365 - OS Name             : Windows Server 2016
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:1366 - OS Current Time     : 22/04/2023 12:32:30 AM MDT
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:1367 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:1368 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:1369 - OS UserName         : friverao
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:1370 - Annotation Type     : Method
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:1371 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getCurrentAdmission
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:1372 - Method Return Type  : 
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:1373 - Method Return Value : 
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:1163 - Parameter Name : patient
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:1164 - Parameter Type : org.isf.patient.model.Patient
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:1193 - The Parameter: patient has 27 Attributes
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : code
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.Integer
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 116
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : firstName
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Valentina
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : secondName
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Guzman
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : name
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Valentina Guzman
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : birthDate
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.time.LocalDate
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 1968-04-19
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : age
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 55
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : agetype
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : sex
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : F
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : address
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 44 Mary Street
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : city
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : London, United Kingdom
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : nextKin
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 1
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : telephone
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : +39
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : note
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : motherName
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Ana
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : mother
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : A
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : fatherName
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Pedro
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : father
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : A
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : bloodType
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : A+
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : hasInsurance
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Y
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : parentTogether
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Y
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : taxCode
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 123
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : maritalStatus
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : divorced
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : profession
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : foodhospitality
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : deleted
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:30 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : N
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1365 - OS Name             : Windows Server 2016
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1366 - OS Current Time     : 22/04/2023 12:32:31 AM MDT
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1367 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1368 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1369 - OS UserName         : friverao
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1370 - Annotation Type     : Method
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1371 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getAdmissionType
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1372 - Method Return Type  : java.util.ArrayList
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1373 - Method Return Value : [AMBULANCE, SELF, REFERRAL]
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1595 - The Method: getAdmissionType DOEST NOT have any INPUT Parameters
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1365 - OS Name             : Windows Server 2016
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1366 - OS Current Time     : 22/04/2023 12:32:31 AM MDT
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1367 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1368 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1369 - OS UserName         : friverao
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1370 - Annotation Type     : Method
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1371 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getDischargeType
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1372 - Method Return Type  : java.util.ArrayList
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1373 - Method Return Value : [REFERRED, DEAD, NORMAL DISCHARGE, ESCAPE]
+22/04/2023 12:32:31 AM MDT INFO  AdmissionBrowserManager:1595 - The Method: getDischargeType DOEST NOT have any INPUT Parameters
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:1365 - OS Name             : Windows Server 2016
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:1366 - OS Current Time     : 22/04/2023 12:32:59 AM MDT
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:1367 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:1368 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:1369 - OS UserName         : friverao
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:1370 - Annotation Type     : ReturnType
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:1371 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.newAdmissionReturnKey
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:1372 - Method Return Type  : java.lang.Integer
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:1373 - Method Return Value : 42
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:1163 - Parameter Name : admission
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:1164 - Parameter Type : org.isf.admission.model.Admission
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:1193 - The Parameter: admission has 33 Attributes
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : id
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 42
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : admitted
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 1
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : type
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : N
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : ward
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.ward.model.Ward
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:688 - The Attribute: ward has 33 SubAttributes
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : S
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : SURGERY
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : telephone
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 234/52544
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : fax
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 54324/5424
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : email
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : surgery@stluke.org
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : beds
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 20
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : nurs
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 3
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : docs
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 2
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : isPharmacy
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : isMale
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : isFemale
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : visitDuration
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : int
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 30
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : lock
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 1
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : yProg
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 1
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : patient
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.patient.model.Patient
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:688 - The Attribute: patient has 33 SubAttributes
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 116
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : firstName
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Valentina
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : secondName
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Guzman
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : name
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Valentina Guzman
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : birthDate
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.time.LocalDate
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 1968-04-19
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : age
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : int
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 55
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : agetype
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : sex
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : F
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : address
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 44 Mary Street
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : city
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : London, United Kingdom
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : nextKin
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 1
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : telephone
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : +39
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : note
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : motherName
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Ana
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : mother
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : A
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : fatherName
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Pedro
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : father
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : A
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : bloodType
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : A+
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : hasInsurance
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Y
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : parentTogether
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Y
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : taxCode
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 123
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : maritalStatus
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : divorced
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : profession
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : foodhospitality
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : deleted
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : N
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : admDate
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.time.LocalDateTime
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 2023-04-22T00:32
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : admissionType
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.admtype.model.AdmissionType
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:688 - The Attribute: admissionType has 33 SubAttributes
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : A
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : AMBULANCE
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : fHU
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : One
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : diseaseIn
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.disease.model.Disease
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:688 - The Attribute: diseaseIn has 33 SubAttributes
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : K35
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Acute appendicitis
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:642 - SubAttribute Name : diseaseType
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:643 - SubAttribute Type : org.isf.distype.model.DiseaseType
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:688 - The Attribute: diseaseType has 8 SubAttributes
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : K
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : K00-K93 Digestive system
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : opdInclude
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : ipdInInclude
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : ipdOutInclude
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : userID
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : doctor
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : deleted
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : N
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : hashCode
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 12:32:59 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 3101
+22/04/2023 12:35:20 AM MDT INFO  MainMenu:315 - 
+
+=====================
+ Open Hospital closed 
+=====================
+
+22/04/2023 12:39:14 AM MDT INFO  UserBrowsingManager:1365 - OS Name             : Windows Server 2016
+22/04/2023 12:39:14 AM MDT INFO  UserBrowsingManager:1366 - OS Current Time     : 22/04/2023 12:39:14 AM MDT
+22/04/2023 12:39:14 AM MDT INFO  UserBrowsingManager:1367 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 12:39:14 AM MDT INFO  UserBrowsingManager:1368 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 12:39:14 AM MDT INFO  UserBrowsingManager:1369 - OS UserName         : friverao
+22/04/2023 12:39:14 AM MDT INFO  UserBrowsingManager:1370 - Annotation Type     : Parameter
+22/04/2023 12:39:14 AM MDT INFO  UserBrowsingManager:1371 - Method Name         : org.isf.menu.manager.UserBrowsingManager.getMenu
+22/04/2023 12:39:14 AM MDT INFO  UserBrowsingManager:1372 - Method Return Type  : java.util.ArrayList
+22/04/2023 12:39:14 AM MDT INFO  UserBrowsingManager:1373 - Method Return Value : 
+22/04/2023 12:39:14 AM MDT INFO  UserBrowsingManager:900 - Parameter Name  : aUser
+22/04/2023 12:39:14 AM MDT INFO  UserBrowsingManager:901 - Parameter Type  :  org.isf.menu.model.User
+22/04/2023 12:39:14 AM MDT INFO  UserBrowsingManager:902 - Parameter Value : admin
+22/04/2023 12:39:14 AM MDT INFO  UserBrowsingManager:907 - Attribute Name  : userName
+22/04/2023 12:39:14 AM MDT INFO  UserBrowsingManager:908 - Attribute Type  : java.lang.String
+22/04/2023 12:39:14 AM MDT INFO  UserBrowsingManager:909 - Attribute Value : admin
+22/04/2023 12:41:52 AM MDT INFO  ConfigurationProperties:91 - File txtPrinter.properties loaded.
+22/04/2023 12:41:52 AM MDT WARN  ConfigurationProperties:122 - TXT_CHAR_HEIGHT property not found: default is 10
+22/04/2023 12:41:52 AM MDT WARN  ConfigurationProperties:122 - TXT_CHAR_WIDTH property not found: default is 10
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1365 - OS Name             : Windows Server 2016
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1366 - OS Current Time     : 22/04/2023 12:43:20 AM MDT
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1367 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1368 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1369 - OS UserName         : friverao
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1370 - Annotation Type     : Method
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1371 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getCurrentAdmission
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1372 - Method Return Type  : org.isf.admission.model.Admission
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1373 - Method Return Value : org.isf.admission.model.Admission@c1d
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1163 - Parameter Name : patient
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1164 - Parameter Type : org.isf.patient.model.Patient
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1193 - The Parameter: patient has 27 Attributes
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : code
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.Integer
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 116
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : firstName
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Valentina
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : secondName
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Guzman
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : name
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Valentina Guzman
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : birthDate
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.time.LocalDate
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 1968-04-19
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : age
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 55
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : agetype
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : sex
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : F
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : address
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 44 Mary Street
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : city
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : London, United Kingdom
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : nextKin
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 1
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : telephone
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : +39
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : note
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : motherName
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Ana
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : mother
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : A
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : fatherName
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Pedro
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : father
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : A
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : bloodType
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : A+
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : hasInsurance
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Y
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : parentTogether
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Y
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : taxCode
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 123
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : maritalStatus
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : divorced
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : profession
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : foodhospitality
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : deleted
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : N
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1365 - OS Name             : Windows Server 2016
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1366 - OS Current Time     : 22/04/2023 12:43:20 AM MDT
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1367 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1368 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1369 - OS UserName         : friverao
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1370 - Annotation Type     : Method
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1371 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getCurrentAdmission
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1372 - Method Return Type  : org.isf.admission.model.Admission
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1373 - Method Return Value : org.isf.admission.model.Admission@c1d
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1163 - Parameter Name : patient
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1164 - Parameter Type : org.isf.patient.model.Patient
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1193 - The Parameter: patient has 27 Attributes
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : code
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.Integer
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 116
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : firstName
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Valentina
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : secondName
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Guzman
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : name
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Valentina Guzman
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : birthDate
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.time.LocalDate
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 1968-04-19
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : age
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 55
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : agetype
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : sex
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : F
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : address
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 44 Mary Street
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : city
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : London, United Kingdom
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : nextKin
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 1
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : telephone
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : +39
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : note
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : motherName
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Ana
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : mother
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : A
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : fatherName
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Pedro
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : father
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : A
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : bloodType
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : A+
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : hasInsurance
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Y
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : parentTogether
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : char
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : Y
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : taxCode
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 123
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : maritalStatus
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : divorced
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : profession
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : foodhospitality
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : deleted
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : N
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1365 - OS Name             : Windows Server 2016
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1366 - OS Current Time     : 22/04/2023 12:43:20 AM MDT
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1367 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1368 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1369 - OS UserName         : friverao
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1370 - Annotation Type     : Method
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1371 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getAdmissionType
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1372 - Method Return Type  : java.util.ArrayList
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1373 - Method Return Value : [AMBULANCE, SELF, REFERRAL]
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1595 - The Method: getAdmissionType DOEST NOT have any INPUT Parameters
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1365 - OS Name             : Windows Server 2016
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1366 - OS Current Time     : 22/04/2023 12:43:20 AM MDT
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1367 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1368 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1369 - OS UserName         : friverao
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1370 - Annotation Type     : Method
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1371 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getDischargeType
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1372 - Method Return Type  : java.util.ArrayList
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1373 - Method Return Value : [REFERRED, DEAD, NORMAL DISCHARGE, ESCAPE]
+22/04/2023 12:43:20 AM MDT INFO  AdmissionBrowserManager:1595 - The Method: getDischargeType DOEST NOT have any INPUT Parameters
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:1365 - OS Name             : Windows Server 2016
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:1366 - OS Current Time     : 22/04/2023 12:46:12 AM MDT
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:1367 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:1368 - OS Hostname         : WIN-BIBB4C8F4MJ
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:1369 - OS UserName         : friverao
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:1370 - Annotation Type     : ReturnType
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:1371 - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.updateAdmission
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:1372 - Method Return Type  : java.lang.Boolean
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:1373 - Method Return Value : true
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:1163 - Parameter Name : admission
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:1164 - Parameter Type : org.isf.admission.model.Admission
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:1193 - The Parameter: admission has 33 Attributes
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : id
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 42
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : type
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : N
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : ward
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.ward.model.Ward
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:688 - The Attribute: ward has 33 SubAttributes
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : S
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : SURGERY
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : telephone
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 234/52544
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : fax
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 54324/5424
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : email
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : surgery@stluke.org
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : beds
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 20
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : nurs
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 3
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : docs
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 2
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : isPharmacy
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : isMale
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : isFemale
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : visitDuration
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : int
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 30
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : lock
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 1
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : yProg
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 1
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : patient
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.patient.model.Patient
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:688 - The Attribute: patient has 33 SubAttributes
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.Integer
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 116
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : firstName
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Valentina
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : secondName
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Guzman
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : name
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Valentina Guzman
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : birthDate
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.time.LocalDate
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 1968-04-19
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : age
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : int
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 55
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : agetype
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : sex
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : F
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : address
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 44 Mary Street
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : city
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : London, United Kingdom
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : nextKin
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 1
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : telephone
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : +39
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : note
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : motherName
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Ana
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : mother
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : A
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : fatherName
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Pedro
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : father
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : A
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : bloodType
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : A+
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : hasInsurance
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Y
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : parentTogether
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : char
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Y
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : taxCode
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : 123
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : maritalStatus
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : divorced
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : profession
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : foodhospitality
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : deleted
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : N
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : admDate
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.time.LocalDateTime
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 2023-04-22T00:32
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : admissionType
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.admtype.model.AdmissionType
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:688 - The Attribute: admissionType has 33 SubAttributes
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : A
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : AMBULANCE
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : fHU
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : One
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : diseaseIn
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.disease.model.Disease
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:688 - The Attribute: diseaseIn has 33 SubAttributes
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : K35
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Acute appendicitis
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:642 - SubAttribute Name : diseaseType
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:643 - SubAttribute Type : org.isf.distype.model.DiseaseType
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:688 - The Attribute: diseaseType has 8 SubAttributes
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : K
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : K00-K93 Digestive system
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : opdInclude
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : ipdInInclude
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : ipdOutInclude
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : diseaseOut1
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.disease.model.Disease
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:688 - The Attribute: diseaseOut1 has 33 SubAttributes
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : I21
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : Acute myocardial infarction
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:642 - SubAttribute Name : diseaseType
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:643 - SubAttribute Type : org.isf.distype.model.DiseaseType
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:688 - The Attribute: diseaseType has 8 SubAttributes
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : I
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : I00-I99 Circulatory system
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : opdInclude
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : ipdInInclude
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : ipdOutInclude
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : boolean
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : true
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : disDate
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.time.LocalDateTime
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 2023-04-22T00:43
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:642 - Attribute Name : disType
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:643 - Attribute Type : org.isf.disctype.model.DischargeType
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:688 - The Attribute: disType has 33 SubAttributes
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : code
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : D
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - SubAttribute Name  : description
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - SubAttribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - SubAttribute Value : DEAD
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : userID
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : admin
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : deleted
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : java.lang.String
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : N
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:716 - Attribute Name  : hashCode
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:717 - Attribute Type  : int
+22/04/2023 12:46:12 AM MDT INFO  AdmissionBrowserManager:718 - Attribute Value : 3101
+22/04/2023 12:47:32 AM MDT INFO  MainMenu:315 - 
+
+=====================
+ Open Hospital closed 
+=====================
+

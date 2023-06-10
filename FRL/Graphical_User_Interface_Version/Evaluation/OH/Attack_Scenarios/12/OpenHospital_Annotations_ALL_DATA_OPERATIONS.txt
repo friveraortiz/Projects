@@ -1,0 +1,4 @@
+Method,1,org.isf.menu.gui.Login.acceptPwd,org.isf.menu.gui.Login,acceptPwd,Method = org.isf.menu.gui.Login.acceptPwd,Method,=,org.isf.menu.gui.Login.acceptPwd;
+Method,2,org.isf.menu.manager.UserBrowsingManager.getMenu,org.isf.menu.manager.UserBrowsingManager,getMenu,Method = org.isf.menu.manager.UserBrowsingManager.getMenu,Method,=,org.isf.menu.manager.UserBrowsingManager.getMenu;
+Method,3,org.isf.hospital.manager.HospitalBrowsingManager.getHospital,org.isf.hospital.manager.HospitalBrowsingManager,getHospital,Method = org.isf.hospital.manager.HospitalBrowsingManager.getHospital,Method,=,org.isf.hospital.manager.HospitalBrowsingManager.getHospital;
+Method,4,org.isf.hospital.manager.HospitalBrowsingManager.updateHospital,org.isf.hospital.manager.HospitalBrowsingManager,updateHospital,Method = org.isf.hospital.manager.HospitalBrowsingManager.updateHospital,Method,=,org.isf.hospital.manager.HospitalBrowsingManager.updateHospital;

@@ -1,0 +1,5 @@
+Parameter,1,org.isf.menu.manager.UserBrowsingManager.getMenu,org.isf.menu.manager.UserBrowsingManager,getMenu,aUser.userName = doctor,userName,=,doctor;
+Parameter,2,org.isf.menu.manager.UserBrowsingManager.getMenu,org.isf.menu.manager.UserBrowsingManager,getMenu,aUser.userName = admin,userName,=,admin;
+ReturnType,3,org.isf.patvac.manager.PatVacManager.newPatientVaccine,org.isf.patvac.manager.PatVacManager,newPatientVaccine,boolean = true,boolean,=,true;
+ReturnType,4,org.isf.patvac.manager.PatVacManager.updatePatientVaccine,org.isf.patvac.manager.PatVacManager,updatePatientVaccine,boolean = true,boolean,=,true;
+ReturnType,5,org.isf.patvac.manager.PatVacManager.deletePatientVaccine,org.isf.patvac.manager.PatVacManager,deletePatientVaccine,boolean = true,boolean,=,true;

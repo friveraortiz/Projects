@@ -1,0 +1,42 @@
+@startuml
+skinparam backgroundColor #EEEBDC
+skinparam sequence {
+ArrowColor DarkBlue
+ActorBorderColor DarkBlue
+LifeLineBorderColor blue
+LifeLineBackgroundColor DarkBlue
+ParticipantBorderColor DarkBlue
+ParticipantBackgroundColor DarkBlue
+ParticipantFontName Impact
+ParticipantFontSize 17
+ParticipantFontColor #A9DCDF
+ActorBackgroundColor DarkBlue
+ActorFontColor DarkBlue
+ActorFontSize 17
+ActorFontName Aapex
+}
+== Connects to the OpenHospital ==
+actor User_1 order 3
+participant org.isf.menu.gui.Login order 4
+note left of User_1 #lightskyblue 
+org.isf.menu.gui.Login
+end note
+User_1 ->org.isf.menu.gui.Login: 1.acceptPwd()
+||20||
+== Connects to the OpenHospital ==
+actor User_1 order 5
+participant org.isf.menu.gui.Login order 6
+note left of User_1 #lightskyblue 
+org.isf.menu.gui.Login
+end note
+User_1 ->org.isf.menu.gui.Login: 1.acceptPwd()
+||20||
+== Connects to the OpenHospital ==
+actor User_1 order 7
+participant org.isf.menu.gui.Login order 8
+note left of User_1 #lightskyblue 
+org.isf.menu.gui.Login
+end note
+User_1 ->org.isf.menu.gui.Login: 1.acceptPwd()
+||20||
+@enduml

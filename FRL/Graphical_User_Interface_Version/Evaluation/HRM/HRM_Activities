@@ -1,0 +1,18 @@
+TextLine
+Activity Id: 1, Module: Login, Description: Connects to the HRM System;
+Activity Id: 2, Module: Main, Description: Disconnects from the HRM System;
+Activity Id: 3, Module: Main, Description: Goes to the Main Menu;
+Activity Id: 4, Module: Employees, Description: Adds a New Employee;
+Activity Id: 5, Module: Employees, Description: Views an Existing Employee;
+Activity Id: 6, Module: Employees, Description: Modifies an Existing Employee;
+Activity Id: 7, Module: Employees, Description: Deletes an Existing Employee;
+Activity Id: 8, Module: Users, Description: Adds a New User;
+Activity Id: 9, Module: Users, Description: Views an Existing User;
+Activity Id: 10, Module: Users, Description: Modifies an Existing User;
+Activity Id: 11, Module: Users, Description: Deletes an Existing User;
+Activity Id: 12, Module: Travel Requests, Description: Adds a New Travel Request;
+Activity Id: 13, Module: Travel Requests, Description: Views an Existing Travel Request;
+Activity Id: 14, Module: Travel Requests, Description: Modifies an Existing Travel Request;
+Activity Id: 15, Module: Travel Requests, Description: Deletes an Existing Travel Request;
+Activity Id: 16, Module: Travel Requests, Description: Approves an Existing Travel Request;
+Activity Id: 17, Module: Travel Requests, Description: Rejects an Existing Travel Request;

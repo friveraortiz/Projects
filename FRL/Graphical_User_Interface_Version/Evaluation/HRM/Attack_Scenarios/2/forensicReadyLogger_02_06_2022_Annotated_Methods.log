@@ -1,0 +1,87 @@
+02/06/2022 12:17:18 PM IST INFO  UserController:651 - OS Name             : Mac OS X
+02/06/2022 12:17:18 PM IST INFO  UserController:652 - OS Current Time     : 02/06/2022 12:17:18 PM IST
+02/06/2022 12:17:18 PM IST INFO  UserController:653 - OS IP Address       : Fannys-MacBook-Pro.local/192.168.1.132
+02/06/2022 12:17:18 PM IST INFO  UserController:654 - OS Hostname         : Fannys-MacBook-Pro.local
+02/06/2022 12:17:18 PM IST INFO  UserController:655 - OS UserName         : fannyriveraortiz
+02/06/2022 12:17:18 PM IST INFO  UserController:656 - Annotation Type     : ReturnType
+02/06/2022 12:17:18 PM IST INFO  UserController:657 - Method Name         : controller.UserController.getUserLevel
+02/06/2022 12:17:18 PM IST INFO  UserController:658 - Method Return Type  : model.UserLevel
+02/06/2022 12:17:18 PM IST INFO  UserController:659 - Method Return Value : Admin
+02/06/2022 12:17:18 PM IST INFO  UserController:578 - Attribute Name      : userName
+02/06/2022 12:17:18 PM IST INFO  UserController:579 - Attribute Type      : class java.lang.String
+02/06/2022 12:17:18 PM IST INFO  UserController:580 - Attribute Value     : hsmith
+02/06/2022 12:17:18 PM IST INFO  UserController:578 - Attribute Name      : password
+02/06/2022 12:17:18 PM IST INFO  UserController:579 - Attribute Type      : class java.lang.String
+02/06/2022 12:17:18 PM IST INFO  UserController:580 - Attribute Value     : 12345
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:651 - OS Name             : Mac OS X
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:652 - OS Current Time     : 02/06/2022 12:19:13 PM IST
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:653 - OS IP Address       : Fannys-MacBook-Pro.local/192.168.1.132
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:654 - OS Hostname         : Fannys-MacBook-Pro.local
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:655 - OS UserName         : fannyriveraortiz
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:656 - Annotation Type     : Method
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:657 - Method Name         : model.EmployeeDatabase.save
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:658 - Method Return Type  : 
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:659 - Method Return Value : 
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:578 - Attribute Name      : serialVersionUID
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:579 - Attribute Type      : long
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:580 - Attribute Value     : -542727119035768593
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:578 - Attribute Name      : count
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:579 - Attribute Type      : int
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:580 - Attribute Value     : 15
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:578 - Attribute Name      : id
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:579 - Attribute Type      : int
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:580 - Attribute Value     : 59
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:578 - Attribute Name      : number
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.lang.String
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:580 - Attribute Value     : E000000009
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:578 - Attribute Name      : firstName
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.lang.String
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:580 - Attribute Value     : Ernest
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:578 - Attribute Name      : middleName
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.lang.String
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:580 - Attribute Value     : 
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:578 - Attribute Name      : lastName
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.lang.String
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:580 - Attribute Value     : Hamilton
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:578 - Attribute Name      : dob
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.util.Date
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:580 - Attribute Value     : Sat Oct 19 00:00:00 IST 1968
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:578 - Attribute Name      : gender
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:579 - Attribute Type      : class model.Gender
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:580 - Attribute Value     : Male
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:578 - Attribute Name      : maritalStatus
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:579 - Attribute Type      : class model.MaritalStatus
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:580 - Attribute Value     : Divorced
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:578 - Attribute Name      : mobilePhone
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.lang.String
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:580 - Attribute Value     : 22
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:578 - Attribute Name      : joinedDate
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.util.Date
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:580 - Attribute Value     : Thu May 19 00:00:00 IST 2022
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:578 - Attribute Name      : terminatedDate
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.util.Date
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:580 - Attribute Value     : Wed May 19 00:00:00 IST 3002
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:578 - Attribute Name      : jobTitle
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.lang.String
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:580 - Attribute Value     : Writter
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:578 - Attribute Name      : department
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.lang.String
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:580 - Attribute Value     : Science
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:578 - Attribute Name      : supervisor
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.lang.String
+02/06/2022 12:19:13 PM IST INFO  EmployeeDatabase:580 - Attribute Value     : Henry Smith
+02/06/2022 12:21:24 PM IST INFO  UserController:651 - OS Name             : Mac OS X
+02/06/2022 12:21:24 PM IST INFO  UserController:652 - OS Current Time     : 02/06/2022 12:21:24 PM IST
+02/06/2022 12:21:24 PM IST INFO  UserController:653 - OS IP Address       : Fannys-MacBook-Pro.local/192.168.1.132
+02/06/2022 12:21:24 PM IST INFO  UserController:654 - OS Hostname         : Fannys-MacBook-Pro.local
+02/06/2022 12:21:24 PM IST INFO  UserController:655 - OS UserName         : fannyriveraortiz
+02/06/2022 12:21:24 PM IST INFO  UserController:656 - Annotation Type     : ReturnType
+02/06/2022 12:21:24 PM IST INFO  UserController:657 - Method Name         : controller.UserController.getUserLevel
+02/06/2022 12:21:24 PM IST INFO  UserController:658 - Method Return Type  : model.UserLevel
+02/06/2022 12:21:24 PM IST INFO  UserController:659 - Method Return Value : Admin
+02/06/2022 12:21:24 PM IST INFO  UserController:578 - Attribute Name      : userName
+02/06/2022 12:21:24 PM IST INFO  UserController:579 - Attribute Type      : class java.lang.String
+02/06/2022 12:21:24 PM IST INFO  UserController:580 - Attribute Value     : hsmith
+02/06/2022 12:21:24 PM IST INFO  UserController:578 - Attribute Name      : password
+02/06/2022 12:21:24 PM IST INFO  UserController:579 - Attribute Type      : class java.lang.String
+02/06/2022 12:21:24 PM IST INFO  UserController:580 - Attribute Value     : 12345

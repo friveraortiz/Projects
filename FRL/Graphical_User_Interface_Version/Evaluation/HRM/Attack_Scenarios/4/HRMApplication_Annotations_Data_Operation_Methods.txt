@@ -1,0 +1,5 @@
+Method,1,model.UserDatabase.validateUser,model.UserDatabase,validateUser,Method = model.UserDatabase.validateUser,Method,=,model.UserDatabase.validateUser;
+Method,2,model.UserDatabase.getUserLevel,model.UserDatabase,getUserLevel,Method = model.UserDatabase.getUserLevel,Method,=,model.UserDatabase.getUserLevel;
+Method,3,model.EmployeeDatabase.load,model.EmployeeDatabase,load,Method = model.EmployeeDatabase.load,Method,=,model.EmployeeDatabase.load;
+Method,4,model.EmployeeDatabase.maxNumEmployee,model.EmployeeDatabase,maxNumEmployee,Method = model.EmployeeDatabase.maxNumEmployee,Method,=,model.EmployeeDatabase.maxNumEmployee;
+Method,5,model.ModuleDatabase.saveModules,model.ModuleDatabase,saveModules,Method = model.ModuleDatabase.saveModules,Method,=,model.ModuleDatabase.saveModules;

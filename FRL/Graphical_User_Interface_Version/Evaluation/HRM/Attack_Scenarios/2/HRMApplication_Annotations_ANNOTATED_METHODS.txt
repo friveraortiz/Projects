@@ -1,0 +1,2 @@
+ReturnType,6,controller.UserController.getUserLevel,controller.UserController,getUserLevel,model.UserLevel = Admin,UserLevel,=,Admin;
+Method,10,model.EmployeeDatabase.save,model.EmployeeDatabase,save,Method = model.EmployeeDatabase.save,Method,=,model.EmployeeDatabase.save;

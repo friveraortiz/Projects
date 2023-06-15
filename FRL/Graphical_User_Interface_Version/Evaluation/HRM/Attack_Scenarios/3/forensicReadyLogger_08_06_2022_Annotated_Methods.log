@@ -1,0 +1,72 @@
+08/06/2022 10:54:16 AM IST INFO  UserController:651 - OS Name             : Mac OS X
+08/06/2022 10:54:16 AM IST INFO  UserController:652 - OS Current Time     : 08/06/2022 10:54:16 AM IST
+08/06/2022 10:54:16 AM IST INFO  UserController:653 - OS IP Address       : Fanny-MacBook.local/192.186.1.122
+08/06/2022 10:54:16 AM IST INFO  UserController:654 - OS Hostname         : Fanny-MacBook.local
+08/06/2022 10:54:16 AM IST INFO  UserController:655 - OS UserName         : fanny
+08/06/2022 10:54:16 AM IST INFO  UserController:656 - Annotation Type     : ReturnType
+08/06/2022 10:54:16 AM IST INFO  UserController:657 - Method Name         : controller.UserController.getUserLevel
+08/06/2022 10:54:16 AM IST INFO  UserController:658 - Method Return Type  : model.UserLevel
+08/06/2022 10:54:16 AM IST INFO  UserController:659 - Method Return Value : Admin
+08/06/2022 10:54:16 AM IST INFO  UserController:578 - Attribute Name      : userName
+08/06/2022 10:54:16 AM IST INFO  UserController:579 - Attribute Type      : class java.lang.String
+08/06/2022 10:54:16 AM IST INFO  UserController:580 - Attribute Value     : hsmith
+08/06/2022 10:54:16 AM IST INFO  UserController:578 - Attribute Name      : password
+08/06/2022 10:54:16 AM IST INFO  UserController:579 - Attribute Type      : class java.lang.String
+08/06/2022 10:54:16 AM IST INFO  UserController:580 - Attribute Value     : 12345
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:651 - OS Name             : Mac OS X
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:652 - OS Current Time     : 08/06/2022 10:56:10 AM IST
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:653 - OS IP Address       : Fanny-MacBook.local/192.186.1.122
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:654 - OS Hostname         : Fanny-MacBook.local
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:655 - OS UserName         : fanny
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:656 - Annotation Type     : Method
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:657 - Method Name         : model.EmployeeDatabase.delete
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:658 - Method Return Type  : 
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:659 - Method Return Value : 
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:578 - Attribute Name      : serialVersionUID
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:579 - Attribute Type      : long
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:580 - Attribute Value     : -542727119035768593
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:578 - Attribute Name      : count
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:579 - Attribute Type      : int
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:580 - Attribute Value     : 32
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:578 - Attribute Name      : id
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:579 - Attribute Type      : int
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:580 - Attribute Value     : 13
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:578 - Attribute Name      : number
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.lang.String
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:580 - Attribute Value     : E000000015
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:578 - Attribute Name      : firstName
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.lang.String
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:580 - Attribute Value     : Rita
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:578 - Attribute Name      : middleName
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.lang.String
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:580 - Attribute Value     : 
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:578 - Attribute Name      : lastName
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.lang.String
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:580 - Attribute Value     : Rodriguez
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:578 - Attribute Name      : dob
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.util.Date
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:580 - Attribute Value     : Wed Feb 18 00:00:00 GMT 1970
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:578 - Attribute Name      : gender
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:579 - Attribute Type      : class model.Gender
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:580 - Attribute Value     : Female
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:578 - Attribute Name      : maritalStatus
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:579 - Attribute Type      : class model.MaritalStatus
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:580 - Attribute Value     : Widowed
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:578 - Attribute Name      : mobilePhone
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.lang.String
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:580 - Attribute Value     : 1
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:578 - Attribute Name      : joinedDate
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.util.Date
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:580 - Attribute Value     : Wed Jun 08 00:00:00 IST 2022
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:578 - Attribute Name      : terminatedDate
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.util.Date
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:580 - Attribute Value     : Tue Jun 08 00:00:00 IST 3002
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:578 - Attribute Name      : jobTitle
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.lang.String
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:580 - Attribute Value     : StoryTeller
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:578 - Attribute Name      : department
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.lang.String
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:580 - Attribute Value     : Science Fiction
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:578 - Attribute Name      : supervisor
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:579 - Attribute Type      : class java.lang.String
+08/06/2022 10:56:10 AM IST INFO  EmployeeDatabase:580 - Attribute Value     : Arthur Jones

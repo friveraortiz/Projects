@@ -1,0 +1,12 @@
+Method,1,controller.UserController.load,controller.UserController,load,Method = controller.UserController.load,Method,=,controller.UserController.load;
+Method,2,controller.UserController.delete,controller.UserController,delete,Method = controller.UserController.delete,Method,=,controller.UserController.delete;
+Method,3,controller.UserController.validateUser,controller.UserController,validateUser,Method = controller.UserController.validateUser,Method,=,controller.UserController.validateUser;
+Method,4,controller.UserController.getUserLevel,controller.UserController,getUserLevel,Method = controller.UserController.getUserLevel,Method,=,controller.UserController.getUserLevel;
+Method,5,controller.UserController.validateDeleteUser,controller.UserController,validateDeleteUser,Method = controller.UserController.validateDeleteUser,Method,=,controller.UserController.validateDeleteUser;
+Method,6,controller.ModuleController.saveModules,controller.ModuleController,saveModules,Method = controller.ModuleController.saveModules,Method,=,controller.ModuleController.saveModules;
+Method,7,model.UserDatabase.load,model.UserDatabase,load,Method = model.UserDatabase.load,Method,=,model.UserDatabase.load;
+Method,8,model.UserDatabase.delete,model.UserDatabase,delete,Method = model.UserDatabase.delete,Method,=,model.UserDatabase.delete;
+Method,9,model.UserDatabase.validateUser,model.UserDatabase,validateUser,Method = model.UserDatabase.validateUser,Method,=,model.UserDatabase.validateUser;
+Method,10,model.UserDatabase.getUserLevel,model.UserDatabase,getUserLevel,Method = model.UserDatabase.getUserLevel,Method,=,model.UserDatabase.getUserLevel;
+Method,11,model.UserDatabase.validateDeleteUser,model.UserDatabase,validateDeleteUser,Method = model.UserDatabase.validateDeleteUser,Method,=,model.UserDatabase.validateDeleteUser;
+Method,12,model.ModuleDatabase.saveModules,model.ModuleDatabase,saveModules,Method = model.ModuleDatabase.saveModules,Method,=,model.ModuleDatabase.saveModules;

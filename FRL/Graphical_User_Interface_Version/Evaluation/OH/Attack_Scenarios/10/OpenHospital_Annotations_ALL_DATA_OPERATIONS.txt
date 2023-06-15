@@ -1,5 +1,0 @@
-Method,1,org.isf.menu.gui.Login.acceptPwd,org.isf.menu.gui.Login,acceptPwd,Method = org.isf.menu.gui.Login.acceptPwd,Method,=,org.isf.menu.gui.Login.acceptPwd;
-Method,2,org.isf.menu.manager.UserBrowsingManager.getMenu,org.isf.menu.manager.UserBrowsingManager,getMenu,Method = org.isf.menu.manager.UserBrowsingManager.getMenu,Method,=,org.isf.menu.manager.UserBrowsingManager.getMenu;
-Method,3,org.isf.menu.manager.UserBrowsingManager.getUser,org.isf.menu.manager.UserBrowsingManager,getUser,Method = org.isf.menu.manager.UserBrowsingManager.getUser,Method,=,org.isf.menu.manager.UserBrowsingManager.getUser;
-Method,4,org.isf.menu.manager.UserBrowsingManager.getUserGroup,org.isf.menu.manager.UserBrowsingManager,getUserGroup,Method = org.isf.menu.manager.UserBrowsingManager.getUserGroup,Method,=,org.isf.menu.manager.UserBrowsingManager.getUserGroup;
-Method,5,org.isf.menu.manager.UserBrowsingManager.updatePassword,org.isf.menu.manager.UserBrowsingManager,updatePassword,Method = org.isf.menu.manager.UserBrowsingManager.updatePassword,Method,=,org.isf.menu.manager.UserBrowsingManager.updatePassword;

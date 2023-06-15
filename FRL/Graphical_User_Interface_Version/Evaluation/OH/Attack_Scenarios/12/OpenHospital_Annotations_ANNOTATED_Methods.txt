@@ -1,3 +1,0 @@
-Parameter,1,org.isf.menu.manager.UserBrowsingManager.getMenu,org.isf.menu.manager.UserBrowsingManager,getMenu,aUser.userName = admin,userName,=,admin;
-Method,2,org.isf.hospital.manager.HospitalBrowsingManager.getHospital,org.isf.hospital.manager.HospitalBrowsingManager,getHospital,Method = org.isf.hospital.manager.HospitalBrowsingManager.getHospital,Method,=,org.isf.hospital.manager.HospitalBrowsingManager.getHospital;
-Method,3,org.isf.hospital.manager.HospitalBrowsingManager.updateHospital,org.isf.hospital.manager.HospitalBrowsingManager,updateHospital,Method = org.isf.hospital.manager.HospitalBrowsingManager.updateHospital,Method,=,org.isf.hospital.manager.HospitalBrowsingManager.updateHospital;

@@ -1,6 +1,0 @@
-Parameter,1,org.isf.menu.manager.UserBrowsingManager.getMenu,org.isf.menu.manager.UserBrowsingManager,getMenu,aUser.userName = doctor,userName,=,doctor;
-Parameter,2,org.isf.menu.manager.UserBrowsingManager.getMenu,org.isf.menu.manager.UserBrowsingManager,getMenu,aUser.userName = admin,userName,=,admin;
-Method,3,org.isf.exa.manager.ExamRowBrowsingManager.getExamRowByExamCode,org.isf.exa.manager.ExamRowBrowsingManager,getExamRowByExamCode,Method = org.isf.exa.manager.ExamRowBrowsingManager.getExamRowByExamCode,Method,=,org.isf.exa.manager.ExamRowBrowsingManager.getExamRowByExamCode;
-ReturnType,4,org.isf.lab.manager.LabManager.newLaboratory2,org.isf.lab.manager.LabManager,newLaboratory2,boolean = true,boolean,=,true;
-ReturnType,5,org.isf.lab.manager.LabManager.updateLaboratory,org.isf.lab.manager.LabManager,updateLaboratory,boolean = true,boolean,=,true;
-ReturnType,6,org.isf.lab.manager.LabManager.deleteLaboratory,org.isf.lab.manager.LabManager,deleteLaboratory,boolean = true,boolean,=,true;

@@ -1,6 +1,0 @@
-Parameter,1,org.isf.menu.manager.UserBrowsingManager.getMenu,org.isf.menu.manager.UserBrowsingManager,getMenu,aUser.userName = doctor,userName,=,doctor;
-Parameter,2,org.isf.menu.manager.UserBrowsingManager.getMenu,org.isf.menu.manager.UserBrowsingManager,getMenu,aUser.userName = admin,userName,=,admin;
-Method,3,org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients,org.isf.admission.manager.AdmissionBrowserManager,loadAdmittedPatients,Method = org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients,Method,=,org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients;
-ReturnType,4,org.isf.accounting.manager.BillBrowserManager.newBill,org.isf.accounting.manager.BillBrowserManager,newBill,boolean = true,boolean,=,true;
-Method,5,org.isf.patient.manager.PatientBrowserManager.getPatientById,org.isf.patient.manager.PatientBrowserManager,getPatientById,Method = org.isf.patient.manager.PatientBrowserManager.getPatientById,Method,=,org.isf.patient.manager.PatientBrowserManager.getPatientById;
-Parameter,6,org.isf.accounting.manager.BillBrowserManager.updateBill,org.isf.accounting.manager.BillBrowserManager,updateBill,updateBill.status = C,status,=,C;

@@ -1,0 +1,2 @@
+Parameter,1,org.isf.menu.manager.UserBrowsingManager.getMenu,org.isf.menu.manager.UserBrowsingManager,getMenu,aUser.userName = admin,userName,=,admin;
+ReturnType,2,org.isf.menu.manager.UserBrowsingManager.updatePassword,org.isf.menu.manager.UserBrowsingManager,updatePassword,boolean = true,boolean,=,true;

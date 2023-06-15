@@ -1,0 +1,5 @@
+      call(void org.isf.menu.gui.Login.acceptPwd(..))||
+      call(List<org.isf.menu.model.UserMenuItem> org.isf.menu.manager.UserBrowsingManager.getMenu(..))||
+      call(List<org.isf.ward.model.Ward> org.isf.ward.manager.WardBrowserManager.getWards(..))||
+      call(boolean org.isf.patient.manager.PatientBrowserManager.isNamePresent(..))||
+      call(org.isf.patient.model.Patient org.isf.patient.manager.PatientBrowserManager.savePatient(..));

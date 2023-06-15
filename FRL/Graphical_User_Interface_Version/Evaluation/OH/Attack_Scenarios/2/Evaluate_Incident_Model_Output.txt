@@ -1,0 +1,29 @@
+[31/Mar/2023 18:42:37] [:] INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+[31/Mar/2023 18:42:37] [:] INFO - HHH000412: Hibernate ORM core version 5.6.11.Final
+[31/Mar/2023 18:42:38] [:] INFO - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[31/Mar/2023 18:42:39] [:] INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[31/Mar/2023 18:42:41] [:] INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Message FRL: Welcome to the Forensic-Ready Logger ...
+Message FRL: The UML Sequence Diagram Files were FIRST Created in: 2 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: acceptPwd() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 1052 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 214 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 186 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 175 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: acceptPwd() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 213 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 173 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 152 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 163 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in: 193 milliseconds
+Message FRL: UML Sequence Diagram Text File created  : C:\Users\friverao\eclipse-workspace\Directories\Output\IncidentSequenceDiagram.txt
+Message FRL: UML Sequence Diagram Image File created : C:\Users\friverao\eclipse-workspace\Directories\Output\IncidentSequenceDiagram.png
+Message FRL: Good Bye to the Forensic-Ready Logger.

@@ -1,0 +1,633 @@
+[26/Apr/2023 14:56:33] [:] INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+[26/Apr/2023 14:56:33] [:] INFO - HHH000412: Hibernate ORM core version 5.6.11.Final
+[26/Apr/2023 14:56:33] [:] INFO - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[26/Apr/2023 14:56:34] [:] INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[26/Apr/2023 14:56:37] [:] INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Message FRL: Welcome to the Forensic-Ready Logger ...
+Message FRL: The UML Sequence Diagram Files were FIRST Created in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: acceptPwd() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 1131 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 181 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMenu() was Generated in : 0 milliseconds.
+[26/Apr/2023 14:57:03] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 14:57:03] [admin:doctor] INFO - OS Current Time     : 26/04/2023 02:57:03 PM MDT
+[26/Apr/2023 14:57:03] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 14:57:03] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 14:57:03] [admin:doctor] INFO - OS UserName         : friverao
+[26/Apr/2023 14:57:03] [admin:doctor] INFO - Annotation Type     : Parameter
+[26/Apr/2023 14:57:03] [admin:doctor] INFO - Method Name         : org.isf.menu.manager.UserBrowsingManager.getMenu
+[26/Apr/2023 14:57:03] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[26/Apr/2023 14:57:03] [admin:doctor] INFO - Method Return Value : 
+Message FRL: The Security Log for the HEADER was generated in: 19 milliseconds
+[26/Apr/2023 14:57:03] [admin:doctor] INFO - Parameter Name  : aUser
+[26/Apr/2023 14:57:03] [admin:doctor] INFO - Parameter Type  :  org.isf.menu.model.User
+[26/Apr/2023 14:57:03] [admin:doctor] INFO - Parameter Value : doctor
+[26/Apr/2023 14:57:03] [admin:doctor] INFO - Attribute Name  : userName
+[26/Apr/2023 14:57:03] [admin:doctor] INFO - Attribute Type  : java.lang.String
+[26/Apr/2023 14:57:03] [admin:doctor] INFO - Attribute Value : doctor
+Message FRL: The Security Log for PARAMETER Annotation Type was generated in: 9 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: deletePatient() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmissions() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospital() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: updateHospital() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospitalCurrencyCod() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getUsers() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBills() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBills() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospitalCurrencyCod() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPrices() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getItems() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientsByOneOfFieldsLike() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientById() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPendingBills() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBill() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newBill() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBills() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBills() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospitalCurrencyCod() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPrices() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getItems() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientById() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBill() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: updateBill() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBills() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBills() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccineType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newVaccineType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 1 milliseconds.
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - OS Current Time     : 26/04/2023 02:59:50 PM MDT
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - OS UserName         : friverao
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - Annotation Type     : Method
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - Method Return Type  : org.isf.admission.model.AdmittedPatient
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - Method Return Value : org.isf.admission.model.AdmittedPatient@71cd990f
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - Parameter Name  : patientId
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getTherapyRows() was Generated in : 0 milliseconds.
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - OS Current Time     : 26/04/2023 02:59:50 PM MDT
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - OS UserName         : friverao
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - Annotation Type     : Method
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - Method Name         : org.isf.therapy.manager.TherapyManager.getTherapyRows
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - Method Return Value : []
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[26/Apr/2023 14:59:50] [admin:doctor] INFO - Parameter Name  : code
+[26/Apr/2023 14:59:51] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 14:59:51] [admin:doctor] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisits() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 1 milliseconds.
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - OS Current Time     : 26/04/2023 03:01:18 PM MDT
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - OS UserName         : friverao
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - Annotation Type     : Method
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - Method Return Type  : org.isf.admission.model.AdmittedPatient
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - Method Return Value : org.isf.admission.model.AdmittedPatient@4e619f96
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - Parameter Name  : patientId
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 2 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getTherapyRows() was Generated in : 1 milliseconds.
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - OS Current Time     : 26/04/2023 03:01:18 PM MDT
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - OS UserName         : friverao
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - Annotation Type     : Method
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - Method Name         : org.isf.therapy.manager.TherapyManager.getTherapyRows
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - Method Return Value : []
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - Parameter Name  : code
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:01:18] [admin:doctor] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisits() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: deleteAllTherapies() was Generated in : 1 milliseconds.
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - OS Current Time     : 26/04/2023 03:05:01 PM MDT
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - OS UserName         : friverao
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - Annotation Type     : ReturnType
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - Method Name         : org.isf.therapy.manager.TherapyManager.deleteAllTherapies
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - Method Return Type  : java.lang.Boolean
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - Method Return Value : true
+Message FRL: The Security Log for the HEADER was generated in: 3 milliseconds
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - Parameter Name  : code
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newTherapies() was Generated in : 1 milliseconds.
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - OS Current Time     : 26/04/2023 03:05:01 PM MDT
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - OS UserName         : friverao
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - Annotation Type     : ReturnType
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - Method Name         : org.isf.therapy.manager.TherapyManager.newTherapies
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - Method Return Type  : java.lang.Boolean
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - Method Return Value : true
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - Parameter Name  : thRows
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:05:01] [admin:doctor] INFO - Parameter Value : [43 - 0 1.5/1/2]
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getTherapyRows() was Generated in : 1 milliseconds.
+[26/Apr/2023 15:05:02] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:05:02] [admin:doctor] INFO - OS Current Time     : 26/04/2023 03:05:02 PM MDT
+[26/Apr/2023 15:05:02] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:05:02] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:05:02] [admin:doctor] INFO - OS UserName         : friverao
+[26/Apr/2023 15:05:02] [admin:doctor] INFO - Annotation Type     : Method
+[26/Apr/2023 15:05:02] [admin:doctor] INFO - Method Name         : org.isf.therapy.manager.TherapyManager.getTherapyRows
+[26/Apr/2023 15:05:02] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[26/Apr/2023 15:05:02] [admin:doctor] INFO - Method Return Value : [43 - 0 1.5/1/2]
+Message FRL: The Security Log for the HEADER was generated in: 7 milliseconds
+[26/Apr/2023 15:05:02] [admin:doctor] INFO - Parameter Name  : code
+[26/Apr/2023 15:05:02] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:05:02] [admin:doctor] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 4 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisits() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisitsWard() was Generated in : 2 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospital([]) was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientsByOneOfFieldsLike() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientById() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newVisit() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisitsWard() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicalType() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: updateMedical() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedical() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDiseaseAll() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDiseaseType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDiseaseType() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newDisease() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDiseaseType() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: deleteDiseaseType() was Generated in : 1 milliseconds.
+[26/Apr/2023 15:09:05] [admin:doctor] INFO - 
+
+=====================
+ Open Hospital closed 
+=====================
+
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in: 2422 milliseconds
+Message FRL: UML Sequence Diagram Text File created  : C:\Users\friverao\eclipse-workspace\Directories\Output\IncidentSequenceDiagram.txt
+Message FRL: UML Sequence Diagram Image File created : C:\Users\friverao\eclipse-workspace\Directories\Output\IncidentSequenceDiagram.png
+Message FRL: Good Bye to the Forensic-Ready Logger.
+
+
+[26/Apr/2023 15:12:21] [:] INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+[26/Apr/2023 15:12:21] [:] INFO - HHH000412: Hibernate ORM core version 5.6.11.Final
+[26/Apr/2023 15:12:22] [:] INFO - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[26/Apr/2023 15:12:22] [:] INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[26/Apr/2023 15:12:25] [:] INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Message FRL: Welcome to the Forensic-Ready Logger ...
+Message FRL: The UML Sequence Diagram Files were FIRST Created in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: acceptPwd() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 1091 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 202 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMenu() was Generated in : 1 milliseconds.
+[26/Apr/2023 15:12:43] [admin:admin] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:12:43] [admin:admin] INFO - OS Current Time     : 26/04/2023 03:12:43 PM MDT
+[26/Apr/2023 15:12:43] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:12:43] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:12:43] [admin:admin] INFO - OS UserName         : friverao
+[26/Apr/2023 15:12:43] [admin:admin] INFO - Annotation Type     : Parameter
+[26/Apr/2023 15:12:43] [admin:admin] INFO - Method Name         : org.isf.menu.manager.UserBrowsingManager.getMenu
+[26/Apr/2023 15:12:43] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[26/Apr/2023 15:12:43] [admin:admin] INFO - Method Return Value : 
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[26/Apr/2023 15:12:43] [admin:admin] INFO - Parameter Name  : aUser
+[26/Apr/2023 15:12:43] [admin:admin] INFO - Parameter Type  :  org.isf.menu.model.User
+[26/Apr/2023 15:12:43] [admin:admin] INFO - Parameter Value : admin
+[26/Apr/2023 15:12:43] [admin:admin] INFO - Attribute Name  : userName
+[26/Apr/2023 15:12:43] [admin:admin] INFO - Attribute Type  : java.lang.String
+[26/Apr/2023 15:12:43] [admin:admin] INFO - Attribute Value : admin
+Message FRL: The Security Log for PARAMETER Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 4 milliseconds.
+[26/Apr/2023 15:12:56] [admin:admin] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:12:56] [admin:admin] INFO - OS Current Time     : 26/04/2023 03:12:56 PM MDT
+[26/Apr/2023 15:12:56] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:12:56] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:12:56] [admin:admin] INFO - OS UserName         : friverao
+[26/Apr/2023 15:12:56] [admin:admin] INFO - Annotation Type     : Method
+[26/Apr/2023 15:12:56] [admin:admin] INFO - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+[26/Apr/2023 15:12:56] [admin:admin] INFO - Method Return Type  : org.isf.admission.model.AdmittedPatient
+[26/Apr/2023 15:12:56] [admin:admin] INFO - Method Return Value : org.isf.admission.model.AdmittedPatient@7c3fbded
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[26/Apr/2023 15:12:56] [admin:admin] INFO - Parameter Name  : patientId
+[26/Apr/2023 15:12:56] [admin:admin] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:12:56] [admin:admin] INFO - Parameter Value : 126
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[26/Apr/2023 15:12:56] [admin:admin] INFO - File sms.properties loaded.
+[26/Apr/2023 15:12:56] [admin:admin] INFO - WebcamDefaultDriver capture driver will be used
+[26/Apr/2023 15:12:56] [admin:admin] WARN - No webcam has been detected!
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: savePatient() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicalType() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicalType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newMedical() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getUser() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getUserGroup() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: updatePassword() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisitsWard() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: deleteVisit() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisitsWard() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 1 milliseconds.
+[26/Apr/2023 15:16:38] [admin:admin] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:16:38] [admin:admin] INFO - OS Current Time     : 26/04/2023 03:16:38 PM MDT
+[26/Apr/2023 15:16:38] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:16:38] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:16:38] [admin:admin] INFO - OS UserName         : friverao
+[26/Apr/2023 15:16:38] [admin:admin] INFO - Annotation Type     : Method
+[26/Apr/2023 15:16:38] [admin:admin] INFO - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+[26/Apr/2023 15:16:38] [admin:admin] INFO - Method Return Type  : org.isf.admission.model.AdmittedPatient
+[26/Apr/2023 15:16:38] [admin:admin] INFO - Method Return Value : org.isf.admission.model.AdmittedPatient@51611338
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[26/Apr/2023 15:16:38] [admin:admin] INFO - Parameter Name  : patientId
+[26/Apr/2023 15:16:38] [admin:admin] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:16:38] [admin:admin] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getTherapyRows() was Generated in : 1 milliseconds.
+[26/Apr/2023 15:16:38] [admin:admin] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:16:38] [admin:admin] INFO - OS Current Time     : 26/04/2023 03:16:38 PM MDT
+[26/Apr/2023 15:16:38] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:16:38] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:16:38] [admin:admin] INFO - OS UserName         : friverao
+[26/Apr/2023 15:16:38] [admin:admin] INFO - Annotation Type     : Method
+[26/Apr/2023 15:16:38] [admin:admin] INFO - Method Name         : org.isf.therapy.manager.TherapyManager.getTherapyRows
+[26/Apr/2023 15:16:38] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[26/Apr/2023 15:16:38] [admin:admin] INFO - Method Return Value : [43 - 0 1.5/1/2]
+Message FRL: The Security Log for the HEADER was generated in: 6 milliseconds
+[26/Apr/2023 15:16:38] [admin:admin] INFO - Parameter Name  : code
+[26/Apr/2023 15:16:38] [admin:admin] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:16:38] [admin:admin] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisits() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 1 milliseconds.
+[26/Apr/2023 15:17:58] [admin:admin] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:17:58] [admin:admin] INFO - OS Current Time     : 26/04/2023 03:17:58 PM MDT
+[26/Apr/2023 15:17:58] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:17:58] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:17:58] [admin:admin] INFO - OS UserName         : friverao
+[26/Apr/2023 15:17:58] [admin:admin] INFO - Annotation Type     : Method
+[26/Apr/2023 15:17:58] [admin:admin] INFO - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+[26/Apr/2023 15:17:58] [admin:admin] INFO - Method Return Type  : org.isf.admission.model.AdmittedPatient
+[26/Apr/2023 15:17:58] [admin:admin] INFO - Method Return Value : org.isf.admission.model.AdmittedPatient@463132d7
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[26/Apr/2023 15:17:58] [admin:admin] INFO - Parameter Name  : patientId
+[26/Apr/2023 15:17:58] [admin:admin] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:17:58] [admin:admin] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getTherapyRows() was Generated in : 0 milliseconds.
+[26/Apr/2023 15:17:58] [admin:admin] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:17:58] [admin:admin] INFO - OS Current Time     : 26/04/2023 03:17:58 PM MDT
+[26/Apr/2023 15:17:58] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:17:58] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:17:58] [admin:admin] INFO - OS UserName         : friverao
+[26/Apr/2023 15:17:58] [admin:admin] INFO - Annotation Type     : Method
+[26/Apr/2023 15:17:58] [admin:admin] INFO - Method Name         : org.isf.therapy.manager.TherapyManager.getTherapyRows
+[26/Apr/2023 15:17:58] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[26/Apr/2023 15:17:58] [admin:admin] INFO - Method Return Value : [43 - 0 1.5/1/2]
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[26/Apr/2023 15:17:58] [admin:admin] INFO - Parameter Name  : code
+[26/Apr/2023 15:17:58] [admin:admin] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:17:58] [admin:admin] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisits() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: deleteAllTherapies() was Generated in : 1 milliseconds.
+[26/Apr/2023 15:19:47] [admin:admin] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:19:47] [admin:admin] INFO - OS Current Time     : 26/04/2023 03:19:47 PM MDT
+[26/Apr/2023 15:19:47] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:19:47] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:19:47] [admin:admin] INFO - OS UserName         : friverao
+[26/Apr/2023 15:19:47] [admin:admin] INFO - Annotation Type     : ReturnType
+[26/Apr/2023 15:19:47] [admin:admin] INFO - Method Name         : org.isf.therapy.manager.TherapyManager.deleteAllTherapies
+[26/Apr/2023 15:19:47] [admin:admin] INFO - Method Return Type  : java.lang.Boolean
+[26/Apr/2023 15:19:47] [admin:admin] INFO - Method Return Value : true
+Message FRL: The Security Log for the HEADER was generated in: 8 milliseconds
+[26/Apr/2023 15:19:47] [admin:admin] INFO - Parameter Name  : code
+[26/Apr/2023 15:19:47] [admin:admin] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:19:47] [admin:admin] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newTherapies() was Generated in : 0 milliseconds.
+[26/Apr/2023 15:19:47] [admin:admin] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:19:47] [admin:admin] INFO - OS Current Time     : 26/04/2023 03:19:47 PM MDT
+[26/Apr/2023 15:19:47] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:19:47] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:19:47] [admin:admin] INFO - OS UserName         : friverao
+[26/Apr/2023 15:19:47] [admin:admin] INFO - Annotation Type     : ReturnType
+[26/Apr/2023 15:19:47] [admin:admin] INFO - Method Name         : org.isf.therapy.manager.TherapyManager.newTherapies
+[26/Apr/2023 15:19:47] [admin:admin] INFO - Method Return Type  : java.lang.Boolean
+[26/Apr/2023 15:19:47] [admin:admin] INFO - Method Return Value : true
+Message FRL: The Security Log for the HEADER was generated in: 6 milliseconds
+[26/Apr/2023 15:19:47] [admin:admin] INFO - Parameter Name  : thRows
+[26/Apr/2023 15:19:47] [admin:admin] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:19:47] [admin:admin] INFO - Parameter Value : [43 - 0 0.5/1/3]
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getTherapyRows() was Generated in : 1 milliseconds.
+[26/Apr/2023 15:19:48] [admin:admin] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:19:48] [admin:admin] INFO - OS Current Time     : 26/04/2023 03:19:48 PM MDT
+[26/Apr/2023 15:19:48] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:19:48] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:19:48] [admin:admin] INFO - OS UserName         : friverao
+[26/Apr/2023 15:19:48] [admin:admin] INFO - Annotation Type     : Method
+[26/Apr/2023 15:19:48] [admin:admin] INFO - Method Name         : org.isf.therapy.manager.TherapyManager.getTherapyRows
+[26/Apr/2023 15:19:48] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[26/Apr/2023 15:19:48] [admin:admin] INFO - Method Return Value : [43 - 0 0.5/1/3]
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[26/Apr/2023 15:19:48] [admin:admin] INFO - Parameter Name  : code
+[26/Apr/2023 15:19:48] [admin:admin] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:19:48] [admin:admin] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 5 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisits() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 0 milliseconds.
+[26/Apr/2023 15:20:28] [admin:admin] INFO - File sms.properties loaded.
+[26/Apr/2023 15:20:28] [admin:admin] WARN - No webcam has been detected!
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: isNamePresent() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: savePatient() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: deletePatient() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmissions() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getUserGroup() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: updateUserGroup() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDiseaseAll() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDiseaseType() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDiseaseType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newDisease() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 1 milliseconds.
+[26/Apr/2023 15:23:12] [admin:admin] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:23:12] [admin:admin] INFO - OS Current Time     : 26/04/2023 03:23:12 PM MDT
+[26/Apr/2023 15:23:12] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:23:12] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:23:12] [admin:admin] INFO - OS UserName         : friverao
+[26/Apr/2023 15:23:12] [admin:admin] INFO - Annotation Type     : Method
+[26/Apr/2023 15:23:12] [admin:admin] INFO - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+[26/Apr/2023 15:23:12] [admin:admin] INFO - Method Return Type  : org.isf.admission.model.AdmittedPatient
+[26/Apr/2023 15:23:12] [admin:admin] INFO - Method Return Value : org.isf.admission.model.AdmittedPatient@690c6726
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[26/Apr/2023 15:23:12] [admin:admin] INFO - Parameter Name  : patientId
+[26/Apr/2023 15:23:12] [admin:admin] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:23:12] [admin:admin] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getTherapyRows() was Generated in : 0 milliseconds.
+[26/Apr/2023 15:23:12] [admin:admin] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:23:12] [admin:admin] INFO - OS Current Time     : 26/04/2023 03:23:12 PM MDT
+[26/Apr/2023 15:23:12] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:23:12] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:23:12] [admin:admin] INFO - OS UserName         : friverao
+[26/Apr/2023 15:23:12] [admin:admin] INFO - Annotation Type     : Method
+[26/Apr/2023 15:23:12] [admin:admin] INFO - Method Name         : org.isf.therapy.manager.TherapyManager.getTherapyRows
+[26/Apr/2023 15:23:12] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[26/Apr/2023 15:23:12] [admin:admin] INFO - Method Return Value : [43 - 0 0.5/1/3]
+Message FRL: The Security Log for the HEADER was generated in: 6 milliseconds
+[26/Apr/2023 15:23:12] [admin:admin] INFO - Parameter Name  : code
+[26/Apr/2023 15:23:12] [admin:admin] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:23:12] [admin:admin] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisits() was Generated in : 2 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 1 milliseconds.
+[26/Apr/2023 15:23:52] [admin:admin] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:23:52] [admin:admin] INFO - OS Current Time     : 26/04/2023 03:23:52 PM MDT
+[26/Apr/2023 15:23:52] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:23:52] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:23:52] [admin:admin] INFO - OS UserName         : friverao
+[26/Apr/2023 15:23:52] [admin:admin] INFO - Annotation Type     : Method
+[26/Apr/2023 15:23:52] [admin:admin] INFO - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+[26/Apr/2023 15:23:52] [admin:admin] INFO - Method Return Type  : org.isf.admission.model.AdmittedPatient
+[26/Apr/2023 15:23:52] [admin:admin] INFO - Method Return Value : org.isf.admission.model.AdmittedPatient@120b4306
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[26/Apr/2023 15:23:52] [admin:admin] INFO - Parameter Name  : patientId
+[26/Apr/2023 15:23:52] [admin:admin] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:23:52] [admin:admin] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getTherapyRows() was Generated in : 0 milliseconds.
+[26/Apr/2023 15:23:52] [admin:admin] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:23:52] [admin:admin] INFO - OS Current Time     : 26/04/2023 03:23:52 PM MDT
+[26/Apr/2023 15:23:52] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:23:52] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:23:52] [admin:admin] INFO - OS UserName         : friverao
+[26/Apr/2023 15:23:52] [admin:admin] INFO - Annotation Type     : Method
+[26/Apr/2023 15:23:52] [admin:admin] INFO - Method Name         : org.isf.therapy.manager.TherapyManager.getTherapyRows
+[26/Apr/2023 15:23:52] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[26/Apr/2023 15:23:52] [admin:admin] INFO - Method Return Value : [43 - 0 0.5/1/3]
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[26/Apr/2023 15:23:52] [admin:admin] INFO - Parameter Name  : code
+[26/Apr/2023 15:23:52] [admin:admin] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:23:52] [admin:admin] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisits() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: deleteAllTherapies() was Generated in : 1 milliseconds.
+[26/Apr/2023 15:23:59] [admin:admin] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:23:59] [admin:admin] INFO - OS Current Time     : 26/04/2023 03:23:59 PM MDT
+[26/Apr/2023 15:23:59] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:23:59] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:23:59] [admin:admin] INFO - OS UserName         : friverao
+[26/Apr/2023 15:23:59] [admin:admin] INFO - Annotation Type     : ReturnType
+[26/Apr/2023 15:23:59] [admin:admin] INFO - Method Name         : org.isf.therapy.manager.TherapyManager.deleteAllTherapies
+[26/Apr/2023 15:23:59] [admin:admin] INFO - Method Return Type  : java.lang.Boolean
+[26/Apr/2023 15:23:59] [admin:admin] INFO - Method Return Value : true
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[26/Apr/2023 15:23:59] [admin:admin] INFO - Parameter Name  : code
+[26/Apr/2023 15:23:59] [admin:admin] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:23:59] [admin:admin] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getTherapyRows() was Generated in : 0 milliseconds.
+[26/Apr/2023 15:23:59] [admin:admin] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:23:59] [admin:admin] INFO - OS Current Time     : 26/04/2023 03:23:59 PM MDT
+[26/Apr/2023 15:23:59] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:23:59] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:23:59] [admin:admin] INFO - OS UserName         : friverao
+[26/Apr/2023 15:23:59] [admin:admin] INFO - Annotation Type     : Method
+[26/Apr/2023 15:23:59] [admin:admin] INFO - Method Name         : org.isf.therapy.manager.TherapyManager.getTherapyRows
+[26/Apr/2023 15:23:59] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[26/Apr/2023 15:23:59] [admin:admin] INFO - Method Return Value : []
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[26/Apr/2023 15:23:59] [admin:admin] INFO - Parameter Name  : code
+[26/Apr/2023 15:23:59] [admin:admin] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:23:59] [admin:admin] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisits() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 2 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 1 milliseconds.
+[26/Apr/2023 15:24:40] [admin:admin] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:24:40] [admin:admin] INFO - OS Current Time     : 26/04/2023 03:24:40 PM MDT
+[26/Apr/2023 15:24:40] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:24:40] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:24:40] [admin:admin] INFO - OS UserName         : friverao
+[26/Apr/2023 15:24:40] [admin:admin] INFO - Annotation Type     : Method
+[26/Apr/2023 15:24:40] [admin:admin] INFO - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+[26/Apr/2023 15:24:40] [admin:admin] INFO - Method Return Type  : org.isf.admission.model.AdmittedPatient
+[26/Apr/2023 15:24:40] [admin:admin] INFO - Method Return Value : org.isf.admission.model.AdmittedPatient@3f73bb30
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[26/Apr/2023 15:24:40] [admin:admin] INFO - Parameter Name  : patientId
+[26/Apr/2023 15:24:40] [admin:admin] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:24:40] [admin:admin] INFO - Parameter Value : 126
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDiseaseIpdOut() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentAdmission() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOperationAdm([]) was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDiseaseIpdIn() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards([]) was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmissionType() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDischargeType() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getNextYProg() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getUsedWardBed() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newAdmissionReturnKey() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 0 milliseconds.
+[26/Apr/2023 15:25:18] [admin:admin] INFO - OS Name             : Windows Server 2016
+[26/Apr/2023 15:25:18] [admin:admin] INFO - OS Current Time     : 26/04/2023 03:25:18 PM MDT
+[26/Apr/2023 15:25:18] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[26/Apr/2023 15:25:18] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[26/Apr/2023 15:25:18] [admin:admin] INFO - OS UserName         : friverao
+[26/Apr/2023 15:25:18] [admin:admin] INFO - Annotation Type     : Method
+[26/Apr/2023 15:25:18] [admin:admin] INFO - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+[26/Apr/2023 15:25:18] [admin:admin] INFO - Method Return Type  : org.isf.admission.model.AdmittedPatient
+[26/Apr/2023 15:25:18] [admin:admin] INFO - Method Return Value : org.isf.admission.model.AdmittedPatient@45a9d7aa
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[26/Apr/2023 15:25:18] [admin:admin] INFO - Parameter Name  : patientId
+[26/Apr/2023 15:25:18] [admin:admin] INFO - Parameter Type  : java.lang.String
+[26/Apr/2023 15:25:18] [admin:admin] INFO - Parameter Value : 126
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDiseaseIpdOut() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentAdmission() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOperationAdm([]) was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOperationRowByAdmission([org.isf.admission.model.Admission@c1f]) was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDiseaseIpdIn() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentAdmission() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards([]) was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmissionType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDischargeType() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: updateAdmission() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccineType() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccine() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientVaccine() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getProgYear() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatient() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccineType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccine() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newPatientVaccine() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccine() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newPatientVaccine() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccine() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccine() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccine() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newPatientVaccine() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospitalCurrencyCod() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospitalCurrencyCod() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPrices() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getItems() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientsByOneOfFieldsLike() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientById() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPendingBills() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getItems() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientById() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPrices() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospitalCurrencyCod() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospitalCurrencyCod() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPrices() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getItems() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientsByOneOfFieldsLike() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientById() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientById() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPendingBills() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getItems() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientById() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: updateBill() was Generated in : 1 milliseconds.
+[26/Apr/2023 15:29:55] [admin:admin] INFO - File txtPrinter.properties loaded.
+[26/Apr/2023 15:29:55] [admin:admin] WARN - TXT_CHAR_HEIGHT property not found: default is 10
+[26/Apr/2023 15:29:55] [admin:admin] WARN - TXT_CHAR_WIDTH property not found: default is 10
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPrices() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 0 milliseconds.
+[26/Apr/2023 15:30:07] [admin:admin] INFO - 
+
+=====================
+ Open Hospital closed 
+=====================
+
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in: 2530 milliseconds
+Message FRL: UML Sequence Diagram Text File created  : C:\Users\friverao\eclipse-workspace\Directories\Output\IncidentSequenceDiagram.txt
+Message FRL: UML Sequence Diagram Image File created : C:\Users\friverao\eclipse-workspace\Directories\Output\IncidentSequenceDiagram.png
+Message FRL: Good Bye to the Forensic-Ready Logger.

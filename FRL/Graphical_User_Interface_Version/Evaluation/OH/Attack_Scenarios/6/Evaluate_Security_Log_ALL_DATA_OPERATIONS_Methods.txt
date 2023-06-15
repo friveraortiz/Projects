@@ -1,0 +1,1179 @@
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPrices() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:38:48 PM MDT
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - Method Name         : org.isf.priceslist.manager.PriceListManager.getPrices
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - Method Return Value : [1.1 HB, 1.1 HB (Procedure 3), 1.2 WBC Count, 1.3 Differential , 1.4 Film Comment, 1.5 ESR, 1.6 Sickling Test, 2.1 Grouping, 2.2 Comb's Test, 3.1 Blood Slide (Malaria), 3.2 Blood Slide (OTHERS, E.G. TRIUPHANOSOMIAS, MICRIFILARIA, LEISHMANIA, BORRELIA), 3.21 Trypanosomiasis, 3.22 MICROFILARIA, 3.23 LEISHMANIA, 3.24 BORRELIA, 3.3 STOOL MICROSCOPY, 3.4 URINE MICROSCOPY, 3.5 TISSUE MICROSCOPY, 3.6 CSF WET PREP, 4 Dimethyl Aminobenzaldelyde, 4.1 CULTURE AND SENSITIVITY (C&S) FOR HAEMOPHILUS INFUENZA TYPE B, 4.2 C&S FOR SALMONELA TYPHI, 4.3 C&S FOR VIBRO CHOLERA, 4.4 C&S FOR SHIGELLA DYSENTERIAE, 4.5 C&S FOR NEISSERIA MENINGITIDES, 4.6 OTHER C&S , 5.1 WET PREP, 5.2 GRAM STAIN, 5.3 INDIA INK, 5.4 LEISMANIA, 5.5 ZN, 5.6 WAYSON, 5.7 PAP SMEAR, 6.1 VDRL/RPR, 6.2 TPHA, 6.3 HIV, 6.4 HEPATITIS, 6.5 OTHERS E.G BRUCELLA, RHEUMATOID FACTOR, WEIL FELIX, 6.6 PREGANCY TEST, 7.1 PROTEIN, 7.2 SUGAR, 7.3 LFTS, 7.3.1 BILIRUBIN TOTAL, 7.3.2 BILIRUBIN DIRECT, 7.3.3 GOT, 7.3.4 ALT/GPT, 7.4 RFTS, 7.4.1 CREATININA, 7.4.2 UREA, 8.1 OCCULT BLOOD, 9.1 URINALYSIS, Abdominal Tumours, Acetazolamide 250mg Tab, Acetic Acid Glacial 1 ltr, Aceton 99% 1ltr, Aciclovir, Acute abdomen, Acyclovir 200mg Tab, Adhesive Tape 2.5cm x 5m, Adhesive Tape 7.5cm x 5m, Adrenaline 1mg/ml 1ml Amp, Air ring set 43x15cm, rubber with pump, Airway Guedel Size 0, Airway Guedel Size 00, Airway Guedel Size 1, Airway Guedel Size 2, Airway Guedel Size 3, Albendazole 200mg Tab, Albendazole 400mg Tab, Alcohol 95% not denatured 20Ltrs, Aminophylline 100mg Tab, Aminophylline 25mg/ml,10ml Amp, Amitriptyline 25mg Tab, Ammonium Oxalate, Amount per day, Amoxicillin /Clavulanate 375mg Tab, Amoxicillin 125mg/5ml Powd. Susp 100ml, Amoxicillin 250mg Caps, Amphotericin B 50mg Vial, Ampicillin 500mg Vial, Anti Serum A 10ml, Anti Serum AB 10ml, Anti Serum B 10ml, Anti Serum D 10ml, Antihaemorrhoid suppositories, Appendicitis, Apron Plastic Re-usable, Apron Plastic Re-usable local, Apron Polythene Disp Non Sterile, Ascorbic Acid 100mg tab, Aspirin 300mg Tab, Atenolol 100mg Tab, Atenolol 50mg Tab, Atropine 1mg/ml 1ml Amp, Barium Sulphate for X-Ray 1kg, Beclomethasone 50mcg Inhaler, Bedpan Plastic Autoclavable, Bedpan Stainless Steel, Bendrofluazide 5mg Tab, Benzathine Penicillin 2.4 MIU Vial, Benzhexol 2mg Tab, Benzhexol 5mg Tab, Benzyl Penicillin 1 MIU Vial, Benzyl Penicillin 5 MIU Vial, Betamethasone 0.1% eye/ear/nose drops, Betamethasone 0.1% Neomycin 0.35 %eye drops 7.5ml, Bisacodyl 5mg Tab, Bladder biopsy, Blood giving set Disposable, Blood Transfer Bag 300ml, Body Bag 70 x 215cm  (Adult), Bowl Without Lid 10 x 24cm stainless steel, Bowl Without Lid 7 x 12cm stainless steel, Bowl Without Lid 8 x 16cm stainless steel, Brilliant Cresyl Blue, Caesarian section, Calcium Lactate 300mg Tab, Carbamazepine 200mg Tab, Carbimazole 5mg Tab, Catheter Foley CH10 3 Way Balloon, Catheter Foley CH12 3 Way Balloon, Catheter Foley CH14 3 Way Balloon, Catheter Foley CH16 3 Way Balloon, Catheter Foley CH18 3 Way Balloon, Catheter Foley CH20 3 Way Balloon, Catheter Foley CH8 3 Way Balloon, Catheter Stopper for All sizes, Charcoal 250mg Tab, Chloramphenicol 0.5% Eye Drops 10ml, Chloramphenicol 125mg/5ml Susp 100ml, Chloramphenicol 125mg/5ml Susp 3Ltr, Chloramphenicol 1g Vial, Chloramphenicol 250mg Caps, Chlorhexidine/Cetrimide 1.5/15% 1Ltr, Chlorhexidine/Cetrimide 1.5/15% 5Ltr, Chloroquine 40mg Base/ml 5ml Amp, Chloroquine Coated 150mg Tab, Chloroquine Uncoated 150mg Tab, Chlorphenimine 4mg Tab, Chlorpromazine 100mg Tab, Chlorpromazine 25mg Tab, Chlorpromazine 25mg/ml/2ml Amp, Cholecystitis, Cimetidine 200mg Tab, Cimetidine 400mg Tab, Ciprofloxacine 250mg Tab, Ciprofloxacine 500mg Tab, Circumcision, Cloramphenicol 1% Eye Ointment 3.5g, Clotrimazole 100mg Pessaries, Clotrimazole 500mg Pessaries, Cloxacillin 250mg Tab, Cloxacillin 500mg Vial, Codein Phosphate 30mg Tab, Colostomy Bag closed 30mm size 2, Colostomy Bag closed 30mm size 3, Colostomy Bag open re-usable 35mm, Copper 11 Sulphate 500g, Cotrimoxazole 100/20mg Paed Tab, Cotrimoxazole 200+40mg/5ml Susp 100ml, Cotrimoxazole 200+40mg/5ml Susp 3Ltr, Cotrimoxazole 400/80mg Tab, Cotton Wool 200G, cotton Wool 500G, Creatinine 200ml (Calorimetric), Crystal Violet, Cyclophosphamide 200mg Vial, Cyclophosphamide 500mg Vial, Cystocele, Darrows Half Strength 500ml, Debridement, Dexamethasone 0.5mg Tab, Dexamethasone 4mg/ml 1ml Amp, Dexamethasone 4mg/ml 2ml Amp, Dextrose 30% IV 100ml, Dextrose 5% IV 500ml, Dextrose 50% IV 100ml, Dextrose Monohydrate Apyrogen 25Kg, Diatrizoate Meglumin Sod 76% 20ml Amp, Diazepam 2mg/ml 2.5ml Rectal Tube, Diazepam 5mg / ml 2ml Amp, Diazepam 5mg Tab, Diclofenac 25mg/ml 3ml Amp, Diclofenac 50mg Tab, Diethylcarbamazine 50mg Tab, Digoxin 0.25 mg Tab, Digoxin 0.25 mg/ml 2ml Amp, Dilatation and curettage, Dorsal slit-paraphimosis, Doxycycline 100mg Tab, Ear syringe rubber 60ml, Ectopic pregnancy, EDTA Di- sodium salt 100g, Elastic Bandage 10cm x 4.5m, Elastic Bandage 7.5cm x 4.5m, Eosin Yellowish, Ephedrine 30mg Tab, Epigastrical Hernia, Erythromycin 250mg Tab, Ethanol Absolute 1ltr, Evacuations, Eye Pad Sterile, Fansidar 500/25mg Tab, Fansidar 500/25mg Tab (50dosesx3), Ferrous Sulphate 200mg Tab, Field stain A and B, First Aid kit, Fluconazole 100mg 24 Caps, Fluconazole 100mg Tab, Folic Acid 15mg Tab, Folic Acid 1mg Tab, Folic Acid 5mg Tab, Folic Acid/Ferrous Sulp 0.5/200mg Tab, Formaldehyde solution 35-38% 1ltr, Frusemide 40mg Tab, Furosemide 10mg/ml 2ml Amp, Gallipot stainless steel 200ml/10cm, Gallipot stainless steel 300ml/15cm, Gauze Bandage 10cm x 4m, Gauze Bandage 7.5cm x 3.65-4m, Gauze Hydrophylic 90cm x 91cm, Gauze Pads  Sterile 10cm x 10cm, Gauze Pads Non Sterile 10cm x 10cm, Genitian Violet, Gentamicin 0.3% eye/ear drops 10ml, Gentamicin 40mg/ml 2ml, Gentian Violet 25g Tin, Giemsa Stain, Glibenclamide 5mg Tab, Gloves Domestic, Gloves Gynaecological 7.5-8, Gloves High risk non sterile Medium, Gloves Non Sterile Large Disposable, Gloves Non Sterile Medium Disposable, Gloves Surgical Sterile 6, Gloves Surgical Sterile 6.5, Gloves Surgical Sterile 7, Gloves Surgical Sterile 7.5, Gloves Surgical Sterile 8, Gloves Surgical Sterile 8.5, Glucose GOD PAD  6 x 100ml (Colorimetric), Glucose Test Strip, Glucose Test Strips (Hyloguard), GOT ( AST) 200ml (Calorimetric) AS 147, GOT ( AST) 200ml has no NAOH) AS 101, GPT (ALT) 200ml ( Does not have NAOH), Griseofulvin 500mg Tab, Haloperidol 5mg, Haloperidol 5mg Tab, Haloperidol 5mg/ml 1ml Amp, Haloperidol Decanoate 50mg/ml 1ml Amp, Handle for surgical blade No 3, Handle for surgical blade No 4, HERNIA, Hernia (inguinal & femoral), HIV 1/2 Capillus Kit 100Tests, HIV Buffer for determine Kit, HIV Determine 1/11 (Abbott) 100Tests, HIV UNIGOLD 1/11 Test Kits 20 Tests, Hot water Bottle 2Ltr, Hydralazine 20mg Vial, Hydralazine 25mg Tab, Hydrocelectomy, Hydrochloric Acid 30-33% 1ltr, Hydrocortisone 1% eye drops 5ml, Hydrocortisone 100mg Vial, Hydrogen Peroxide 6% 250ml, Hyoscine 10mg Tab, Hyoscine Butyl Bromide 20mg/ml/ Amp, Hysterectomy, Ibuprofen 200mg Tab, Imipramine 25mg Tab, Incision & Drainage, Incomplete abortion, Indomethacin 25mg Tab, Injured uterus, Insectcide Spray 400g, Instrument Box With Lid 20x10x5cm, Instrument Tray 30 x 20 x 2cm, Insulin Isophane 100IU/ml 10ml Vial, Insulin Isophane 40IU/ml 10ml, Insulin Mixtard 30/70 100IU/ml 10ml Vial, Insulin Mixtard 30/70 100IU/ml 5x3ml catridges, Insulin Soluble 100IU/ml 10ml Vial, Insulin Syringe 100IU with Needle G26/29, Intestinal obstruction, Iodine Crystal 100g, Iodine Solution 2% 500ml, Iron Dextran 10mg/ml 2ml Vial, Irrigation can with accessories, Isoniazid 300mg Tab, IV Cannula G16 with Port, IV Cannula G18 with Port, IV Cannula G20 with Port, IV Cannula G22 with Port, IV Cannula G24 with Port, IV Cannula G24 without Port, IV Giving set Disposable, Ketamine 10mg/ml 10ml Vial, Ketamine 10mg/ml 20ml Vial, Ketoconazole 200mg Tab, Kidney Dish Polypropylene 24cm, Kidney Dish stainless Steel 20cm, Kidney Dish stainless Steel 24cm, Knee Surgery 123, Laparotomy, Lead Apron 100cmx60cm, Lignocaine 2% 20ml Vial, Lignocaine 2% Adrenaline Dent.cartridges, Lignocaine spinal 50mg/ml 2ml Amp, Liquid detergent 20Ltr, liquid detergent 5Ltr Perfumed, Lower limb, Mackintosh Plastic (Apron) per 1m, Mackintosh Rubber Brown (sheeting) per 1m, Measuring Cup Graduated 25ml, Mechanical, Methanol 99% 1ltr, Methylergomeatrine 0.2mg/ml 1ml Amp, Methylergomeatrine 0.5mg/ml 1ml Amp, Metoclopramide 5mg/ml 100ml Amp, Metronidazole 5mg/ml 2ml IV, Mise -a- plat, Morphine 15mg/ml 1ml Amp, Mosquito Net Impregnated Large, Mosquito Net Impregnated Medium, Mosquito Net Impregnation Liquid 500ml, Mosquito Net Impregnation Tablet, Mosquito Net Non Impregnated Large, Mosquito Net Non Impregnated Medium, Mosquito Wall spray Powder 80g, Nasogastric Tube G10 (Children), Nasogastric Tube G14 (Children), Nasogastric Tube G16 (Children), Nasogastric Tube G5 (Children), Nasogastric Tube G6 (Children), Nasogastric Tube G8 (Children), Neck Support Large, Neck Support Medium, Neck Support Small, Needle container disposable of contaminated, Needle suture No 5 cutting, Needle suture No 5 round, Needle suture No 6 Round, Needles Luer G20 Disposable, Needles Luer G21 Disposable, Needles Luer G22 Disposable, Needles Luer G23 Disposable, Needles Spinal G20x75-120mm, Needles Spinal G22x40mm, Needles Spinal G22x75-120mm, Needles Spinal G25x75-120mm, Neutral Red, NEW OPERATION, NEW OPERATION TWO, NEW ORTHOPEDICAL DISEASE, Non 111 Chloride (Ferric chloride), Non strangulated, Nystatin 100.000 IU Pessaries, Nystatin 500.000IU/ Susp/ Drops, Operation New, Oral Rehydration Salt (ORS), Osteomyelitis - sequestrectomy, Ovarian tumours, Oxytocin 10 IU/ml 1ml Amp, Paracetamol 120mg/5ml 100ml, Paracetamol 120mg/5ml Syrup, Paraphimosis, Pelvic abscess, Penetrating abdominal injuries, Peritonitis, Peritonitis, Pethidine 100mg/ml 2ml Amp, Pethidine 50mg/ml 1ml Amp, Phenobarbital 100mg/ml 2ml Amp, Phenol crystals 1kg, Phimosis, Phytomenadione 10mg/ml 1ml Amp, Phytomenadione 1mg/ml 1ml Amp, Plaster of Paris 10cm, Plaster of Paris 15cm, Potassium iodide 100g, Potassium Oxalate, Pregnacy ( HGG Latex) 50 tests, Procaine Penicillin Fortified 4 MIU Vial, Promethazine 25mg/ml 2ml Amp, Prostate biopsy, Prostatectomy, Pyridoxine 50mg Tab, Quinine 100mg/5ml Syrup 100ml, Quinine 300mg Tab, Quinine Di-HCI 300mg/ml 2ml Amp, Ranitidine 150mg Tab, Ranitidine 25mg/ml 2ml Amp, Razor Blades Disposable 5pc, Rectal Tube CH24, Rectal Tube CH26, Reduction of fractures, Repair of vesico-vaginal fistula (vvf), Rifampicin/Isoniazid 150/100 Tab, RPR ( VDRL Carbon ) Antigen 5ml, RPR 125mm x 75mm, Ruptured uterus, Salbutamol 4mg Tab, Salbutamol Inhaler 10ml, Salbutamol solution for inhalation 5ml, Scalp Vein G19 Infusion set, Scalp Vein G21 Infusion set, Scalp Vein G23 Infusion set, Scalp Vein G25 Infusion set, Septic abortion, Soap Blue Bar 550g, Soap Powder Hand wash 5kg, Sodium Carbonate Anhydrous, Sodium Carbonate Anhydrous 500g, Sodium Chloride 0.9% IV 500ml, Sodium Chloride Apyrogen 50kg, Sodium Citrate 100g, Sodium Fluoride, Sodium Hypochlorite solution 0.75 Ltr, Sodium Hypochlorite solution 5Ltr, Sodium Lactate Compound IV 500ml, Sodium Nitrate 25g, Sodium Sulphate 500g, Spironolactone 25mg Tab, Spoon Medicine 5ml, Stethoscope Foetal Metal, Stethoscope Foetal Wood, Strangulated, Streptomycin 1g Vial, Suction Catheter Size 10 Disposable, Suction Catheter Size 12 Disposable, Suction Catheter Size 14 Disposable, Suction Catheter Size 16 Disposable, Suction Catheter Size 6 Disposable, Suction Catheter Size 8 Disposable, Sulphosalicylic Acid 500g, Sulphuric Acid Conc 1ltr, Surgical Blades No 20, Surgical Blades No 21, Surgical Blades No 22, Surgical Blades No 23, Surgical Brush (Scrubbing), Surgical Mop 12 x 15, Surgical toilet  & suture, Suture Cutgut Chromic (0), Suture Cutgut Chromic (2) RN22240TH, Suture Cutgut Chromic (2/0) RN22230TH, Suture Cutgut Chromic (3/0) RN2325TF, Suture Cutgut Plain (2/0) RN1230TF, Suture PGA (3/0) RN3330TF, Suture Silk (1) S595, Suture Silk (2/0) RN5230TF, Suxamethonium 500mg Vial, Suxamethonium 500mg/ml 2ml Amp, Syringe Feeding/Irrigation 50/60ml, Syringe Luer 10ml With Needle Disposable, Syringe Luer 20ml With Needle Disposable, Syringe Luer 2ml With Needle Disposable, Syringe Luer 5ml With Needle Disposable, Tablet Counting Tray, Testicular tumours, tetanus Antitoxin 1500 IU 1ml Amp, Tetracycline eye ointment 1% 3.5g, Thermometer Clinical Flat Type, Thermometer Clinical Prismatic Type, Thiopental Sodium 500mg Vial, Toilet Paper Rolls, Tolbutamide 500mg tab, Tongue depressor Disposable, Traction Kit Adult, Traction Kit Children, Trichloro acetic Acid, Trisodium Citrate, Umbilical Cord Tie non sterile 100m, Umbilical Cord Tie sterile 22m, Upper limb, UREA Calorimetric 300 Tests, Uretheral stricture-bougienage, Urinal 1Ltr / 2Ltr, Urine Collecting Bag sterile 2Ltr, Urine Test Strips 3 Parameters 100 tests, Uterine fibroids, Uterine prolapse, Vitamin A 200.000 IU Caps, Vitamin B Complex Tab, Volvulus, Water for Injection 10ml Vial, X-Ray Developer 2.6kg for 22.5Ltr, X-Ray Film 18x24cm, X-Ray Film 20x40cm, X-Ray Film 24x30cm, X-Ray Film 30x40cm, X-Ray Film 35x35cm, X-Ray Film 43x35cm, X-Ray Film Cassette  18x24cm with screen, X-Ray Film Cassette  24x30cm with screen, X-Ray Film Cassette  30x40cm with screen, X-Ray Film Cassette  35x35cm with screen, X-Ray Film Cassette  35x43cm with screen, X-Ray Fixer 3.3kg for 22.5 Ltr, Xylene 2.5 ltrs]
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - The Method: getPrices DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:38:48 PM MDT
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - Method Name         : org.isf.pricesothers.manager.PricesOthersManager.getOthers
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - Method Return Value : [Amount per day]
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[25/Apr/2023 19:38:48] [admin:doctor] INFO - The Method: getOthers DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 0 milliseconds.
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:39:30 PM MDT
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Return Type  : org.isf.admission.model.AdmittedPatient
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Return Value : org.isf.admission.model.AdmittedPatient@2ff4e4c7
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Parameter Name  : patientId
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPendingBills() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:39:30 PM MDT
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Name         : org.isf.accounting.manager.BillBrowserManager.getPendingBills
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Return Value : []
+Message FRL: The Security Log for the HEADER was generated in: 5 milliseconds
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Parameter Name  : patID
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospitalCurrencyCod() was Generated in : 0 milliseconds.
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:39:30 PM MDT
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Name         : org.isf.hospital.manager.HospitalBrowsingManager.getHospitalCurrencyCod
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Return Type  : 
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Return Value : 
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - The Method: getHospitalCurrencyCod DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospitalCurrencyCod() was Generated in : 0 milliseconds.
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:39:30 PM MDT
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Name         : org.isf.hospital.manager.HospitalBrowsingManager.getHospitalCurrencyCod
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Return Type  : 
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Return Value : 
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - The Method: getHospitalCurrencyCod DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPrices() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:39:30 PM MDT
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Name         : org.isf.priceslist.manager.PriceListManager.getPrices
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Return Value : [1.1 HB, 1.1 HB (Procedure 3), 1.2 WBC Count, 1.3 Differential , 1.4 Film Comment, 1.5 ESR, 1.6 Sickling Test, 2.1 Grouping, 2.2 Comb's Test, 3.1 Blood Slide (Malaria), 3.2 Blood Slide (OTHERS, E.G. TRIUPHANOSOMIAS, MICRIFILARIA, LEISHMANIA, BORRELIA), 3.21 Trypanosomiasis, 3.22 MICROFILARIA, 3.23 LEISHMANIA, 3.24 BORRELIA, 3.3 STOOL MICROSCOPY, 3.4 URINE MICROSCOPY, 3.5 TISSUE MICROSCOPY, 3.6 CSF WET PREP, 4 Dimethyl Aminobenzaldelyde, 4.1 CULTURE AND SENSITIVITY (C&S) FOR HAEMOPHILUS INFUENZA TYPE B, 4.2 C&S FOR SALMONELA TYPHI, 4.3 C&S FOR VIBRO CHOLERA, 4.4 C&S FOR SHIGELLA DYSENTERIAE, 4.5 C&S FOR NEISSERIA MENINGITIDES, 4.6 OTHER C&S , 5.1 WET PREP, 5.2 GRAM STAIN, 5.3 INDIA INK, 5.4 LEISMANIA, 5.5 ZN, 5.6 WAYSON, 5.7 PAP SMEAR, 6.1 VDRL/RPR, 6.2 TPHA, 6.3 HIV, 6.4 HEPATITIS, 6.5 OTHERS E.G BRUCELLA, RHEUMATOID FACTOR, WEIL FELIX, 6.6 PREGANCY TEST, 7.1 PROTEIN, 7.2 SUGAR, 7.3 LFTS, 7.3.1 BILIRUBIN TOTAL, 7.3.2 BILIRUBIN DIRECT, 7.3.3 GOT, 7.3.4 ALT/GPT, 7.4 RFTS, 7.4.1 CREATININA, 7.4.2 UREA, 8.1 OCCULT BLOOD, 9.1 URINALYSIS, Abdominal Tumours, Acetazolamide 250mg Tab, Acetic Acid Glacial 1 ltr, Aceton 99% 1ltr, Aciclovir, Acute abdomen, Acyclovir 200mg Tab, Adhesive Tape 2.5cm x 5m, Adhesive Tape 7.5cm x 5m, Adrenaline 1mg/ml 1ml Amp, Air ring set 43x15cm, rubber with pump, Airway Guedel Size 0, Airway Guedel Size 00, Airway Guedel Size 1, Airway Guedel Size 2, Airway Guedel Size 3, Albendazole 200mg Tab, Albendazole 400mg Tab, Alcohol 95% not denatured 20Ltrs, Aminophylline 100mg Tab, Aminophylline 25mg/ml,10ml Amp, Amitriptyline 25mg Tab, Ammonium Oxalate, Amount per day, Amoxicillin /Clavulanate 375mg Tab, Amoxicillin 125mg/5ml Powd. Susp 100ml, Amoxicillin 250mg Caps, Amphotericin B 50mg Vial, Ampicillin 500mg Vial, Anti Serum A 10ml, Anti Serum AB 10ml, Anti Serum B 10ml, Anti Serum D 10ml, Antihaemorrhoid suppositories, Appendicitis, Apron Plastic Re-usable, Apron Plastic Re-usable local, Apron Polythene Disp Non Sterile, Ascorbic Acid 100mg tab, Aspirin 300mg Tab, Atenolol 100mg Tab, Atenolol 50mg Tab, Atropine 1mg/ml 1ml Amp, Barium Sulphate for X-Ray 1kg, Beclomethasone 50mcg Inhaler, Bedpan Plastic Autoclavable, Bedpan Stainless Steel, Bendrofluazide 5mg Tab, Benzathine Penicillin 2.4 MIU Vial, Benzhexol 2mg Tab, Benzhexol 5mg Tab, Benzyl Penicillin 1 MIU Vial, Benzyl Penicillin 5 MIU Vial, Betamethasone 0.1% eye/ear/nose drops, Betamethasone 0.1% Neomycin 0.35 %eye drops 7.5ml, Bisacodyl 5mg Tab, Bladder biopsy, Blood giving set Disposable, Blood Transfer Bag 300ml, Body Bag 70 x 215cm  (Adult), Bowl Without Lid 10 x 24cm stainless steel, Bowl Without Lid 7 x 12cm stainless steel, Bowl Without Lid 8 x 16cm stainless steel, Brilliant Cresyl Blue, Caesarian section, Calcium Lactate 300mg Tab, Carbamazepine 200mg Tab, Carbimazole 5mg Tab, Catheter Foley CH10 3 Way Balloon, Catheter Foley CH12 3 Way Balloon, Catheter Foley CH14 3 Way Balloon, Catheter Foley CH16 3 Way Balloon, Catheter Foley CH18 3 Way Balloon, Catheter Foley CH20 3 Way Balloon, Catheter Foley CH8 3 Way Balloon, Catheter Stopper for All sizes, Charcoal 250mg Tab, Chloramphenicol 0.5% Eye Drops 10ml, Chloramphenicol 125mg/5ml Susp 100ml, Chloramphenicol 125mg/5ml Susp 3Ltr, Chloramphenicol 1g Vial, Chloramphenicol 250mg Caps, Chlorhexidine/Cetrimide 1.5/15% 1Ltr, Chlorhexidine/Cetrimide 1.5/15% 5Ltr, Chloroquine 40mg Base/ml 5ml Amp, Chloroquine Coated 150mg Tab, Chloroquine Uncoated 150mg Tab, Chlorphenimine 4mg Tab, Chlorpromazine 100mg Tab, Chlorpromazine 25mg Tab, Chlorpromazine 25mg/ml/2ml Amp, Cholecystitis, Cimetidine 200mg Tab, Cimetidine 400mg Tab, Ciprofloxacine 250mg Tab, Ciprofloxacine 500mg Tab, Circumcision, Cloramphenicol 1% Eye Ointment 3.5g, Clotrimazole 100mg Pessaries, Clotrimazole 500mg Pessaries, Cloxacillin 250mg Tab, Cloxacillin 500mg Vial, Codein Phosphate 30mg Tab, Colostomy Bag closed 30mm size 2, Colostomy Bag closed 30mm size 3, Colostomy Bag open re-usable 35mm, Copper 11 Sulphate 500g, Cotrimoxazole 100/20mg Paed Tab, Cotrimoxazole 200+40mg/5ml Susp 100ml, Cotrimoxazole 200+40mg/5ml Susp 3Ltr, Cotrimoxazole 400/80mg Tab, Cotton Wool 200G, cotton Wool 500G, Creatinine 200ml (Calorimetric), Crystal Violet, Cyclophosphamide 200mg Vial, Cyclophosphamide 500mg Vial, Cystocele, Darrows Half Strength 500ml, Debridement, Dexamethasone 0.5mg Tab, Dexamethasone 4mg/ml 1ml Amp, Dexamethasone 4mg/ml 2ml Amp, Dextrose 30% IV 100ml, Dextrose 5% IV 500ml, Dextrose 50% IV 100ml, Dextrose Monohydrate Apyrogen 25Kg, Diatrizoate Meglumin Sod 76% 20ml Amp, Diazepam 2mg/ml 2.5ml Rectal Tube, Diazepam 5mg / ml 2ml Amp, Diazepam 5mg Tab, Diclofenac 25mg/ml 3ml Amp, Diclofenac 50mg Tab, Diethylcarbamazine 50mg Tab, Digoxin 0.25 mg Tab, Digoxin 0.25 mg/ml 2ml Amp, Dilatation and curettage, Dorsal slit-paraphimosis, Doxycycline 100mg Tab, Ear syringe rubber 60ml, Ectopic pregnancy, EDTA Di- sodium salt 100g, Elastic Bandage 10cm x 4.5m, Elastic Bandage 7.5cm x 4.5m, Eosin Yellowish, Ephedrine 30mg Tab, Epigastrical Hernia, Erythromycin 250mg Tab, Ethanol Absolute 1ltr, Evacuations, Eye Pad Sterile, Fansidar 500/25mg Tab, Fansidar 500/25mg Tab (50dosesx3), Ferrous Sulphate 200mg Tab, Field stain A and B, First Aid kit, Fluconazole 100mg 24 Caps, Fluconazole 100mg Tab, Folic Acid 15mg Tab, Folic Acid 1mg Tab, Folic Acid 5mg Tab, Folic Acid/Ferrous Sulp 0.5/200mg Tab, Formaldehyde solution 35-38% 1ltr, Frusemide 40mg Tab, Furosemide 10mg/ml 2ml Amp, Gallipot stainless steel 200ml/10cm, Gallipot stainless steel 300ml/15cm, Gauze Bandage 10cm x 4m, Gauze Bandage 7.5cm x 3.65-4m, Gauze Hydrophylic 90cm x 91cm, Gauze Pads  Sterile 10cm x 10cm, Gauze Pads Non Sterile 10cm x 10cm, Genitian Violet, Gentamicin 0.3% eye/ear drops 10ml, Gentamicin 40mg/ml 2ml, Gentian Violet 25g Tin, Giemsa Stain, Glibenclamide 5mg Tab, Gloves Domestic, Gloves Gynaecological 7.5-8, Gloves High risk non sterile Medium, Gloves Non Sterile Large Disposable, Gloves Non Sterile Medium Disposable, Gloves Surgical Sterile 6, Gloves Surgical Sterile 6.5, Gloves Surgical Sterile 7, Gloves Surgical Sterile 7.5, Gloves Surgical Sterile 8, Gloves Surgical Sterile 8.5, Glucose GOD PAD  6 x 100ml (Colorimetric), Glucose Test Strip, Glucose Test Strips (Hyloguard), GOT ( AST) 200ml (Calorimetric) AS 147, GOT ( AST) 200ml has no NAOH) AS 101, GPT (ALT) 200ml ( Does not have NAOH), Griseofulvin 500mg Tab, Haloperidol 5mg, Haloperidol 5mg Tab, Haloperidol 5mg/ml 1ml Amp, Haloperidol Decanoate 50mg/ml 1ml Amp, Handle for surgical blade No 3, Handle for surgical blade No 4, HERNIA, Hernia (inguinal & femoral), HIV 1/2 Capillus Kit 100Tests, HIV Buffer for determine Kit, HIV Determine 1/11 (Abbott) 100Tests, HIV UNIGOLD 1/11 Test Kits 20 Tests, Hot water Bottle 2Ltr, Hydralazine 20mg Vial, Hydralazine 25mg Tab, Hydrocelectomy, Hydrochloric Acid 30-33% 1ltr, Hydrocortisone 1% eye drops 5ml, Hydrocortisone 100mg Vial, Hydrogen Peroxide 6% 250ml, Hyoscine 10mg Tab, Hyoscine Butyl Bromide 20mg/ml/ Amp, Hysterectomy, Ibuprofen 200mg Tab, Imipramine 25mg Tab, Incision & Drainage, Incomplete abortion, Indomethacin 25mg Tab, Injured uterus, Insectcide Spray 400g, Instrument Box With Lid 20x10x5cm, Instrument Tray 30 x 20 x 2cm, Insulin Isophane 100IU/ml 10ml Vial, Insulin Isophane 40IU/ml 10ml, Insulin Mixtard 30/70 100IU/ml 10ml Vial, Insulin Mixtard 30/70 100IU/ml 5x3ml catridges, Insulin Soluble 100IU/ml 10ml Vial, Insulin Syringe 100IU with Needle G26/29, Intestinal obstruction, Iodine Crystal 100g, Iodine Solution 2% 500ml, Iron Dextran 10mg/ml 2ml Vial, Irrigation can with accessories, Isoniazid 300mg Tab, IV Cannula G16 with Port, IV Cannula G18 with Port, IV Cannula G20 with Port, IV Cannula G22 with Port, IV Cannula G24 with Port, IV Cannula G24 without Port, IV Giving set Disposable, Ketamine 10mg/ml 10ml Vial, Ketamine 10mg/ml 20ml Vial, Ketoconazole 200mg Tab, Kidney Dish Polypropylene 24cm, Kidney Dish stainless Steel 20cm, Kidney Dish stainless Steel 24cm, Knee Surgery 123, Laparotomy, Lead Apron 100cmx60cm, Lignocaine 2% 20ml Vial, Lignocaine 2% Adrenaline Dent.cartridges, Lignocaine spinal 50mg/ml 2ml Amp, Liquid detergent 20Ltr, liquid detergent 5Ltr Perfumed, Lower limb, Mackintosh Plastic (Apron) per 1m, Mackintosh Rubber Brown (sheeting) per 1m, Measuring Cup Graduated 25ml, Mechanical, Methanol 99% 1ltr, Methylergomeatrine 0.2mg/ml 1ml Amp, Methylergomeatrine 0.5mg/ml 1ml Amp, Metoclopramide 5mg/ml 100ml Amp, Metronidazole 5mg/ml 2ml IV, Mise -a- plat, Morphine 15mg/ml 1ml Amp, Mosquito Net Impregnated Large, Mosquito Net Impregnated Medium, Mosquito Net Impregnation Liquid 500ml, Mosquito Net Impregnation Tablet, Mosquito Net Non Impregnated Large, Mosquito Net Non Impregnated Medium, Mosquito Wall spray Powder 80g, Nasogastric Tube G10 (Children), Nasogastric Tube G14 (Children), Nasogastric Tube G16 (Children), Nasogastric Tube G5 (Children), Nasogastric Tube G6 (Children), Nasogastric Tube G8 (Children), Neck Support Large, Neck Support Medium, Neck Support Small, Needle container disposable of contaminated, Needle suture No 5 cutting, Needle suture No 5 round, Needle suture No 6 Round, Needles Luer G20 Disposable, Needles Luer G21 Disposable, Needles Luer G22 Disposable, Needles Luer G23 Disposable, Needles Spinal G20x75-120mm, Needles Spinal G22x40mm, Needles Spinal G22x75-120mm, Needles Spinal G25x75-120mm, Neutral Red, NEW OPERATION, NEW OPERATION TWO, NEW ORTHOPEDICAL DISEASE, Non 111 Chloride (Ferric chloride), Non strangulated, Nystatin 100.000 IU Pessaries, Nystatin 500.000IU/ Susp/ Drops, Operation New, Oral Rehydration Salt (ORS), Osteomyelitis - sequestrectomy, Ovarian tumours, Oxytocin 10 IU/ml 1ml Amp, Paracetamol 120mg/5ml 100ml, Paracetamol 120mg/5ml Syrup, Paraphimosis, Pelvic abscess, Penetrating abdominal injuries, Peritonitis, Peritonitis, Pethidine 100mg/ml 2ml Amp, Pethidine 50mg/ml 1ml Amp, Phenobarbital 100mg/ml 2ml Amp, Phenol crystals 1kg, Phimosis, Phytomenadione 10mg/ml 1ml Amp, Phytomenadione 1mg/ml 1ml Amp, Plaster of Paris 10cm, Plaster of Paris 15cm, Potassium iodide 100g, Potassium Oxalate, Pregnacy ( HGG Latex) 50 tests, Procaine Penicillin Fortified 4 MIU Vial, Promethazine 25mg/ml 2ml Amp, Prostate biopsy, Prostatectomy, Pyridoxine 50mg Tab, Quinine 100mg/5ml Syrup 100ml, Quinine 300mg Tab, Quinine Di-HCI 300mg/ml 2ml Amp, Ranitidine 150mg Tab, Ranitidine 25mg/ml 2ml Amp, Razor Blades Disposable 5pc, Rectal Tube CH24, Rectal Tube CH26, Reduction of fractures, Repair of vesico-vaginal fistula (vvf), Rifampicin/Isoniazid 150/100 Tab, RPR ( VDRL Carbon ) Antigen 5ml, RPR 125mm x 75mm, Ruptured uterus, Salbutamol 4mg Tab, Salbutamol Inhaler 10ml, Salbutamol solution for inhalation 5ml, Scalp Vein G19 Infusion set, Scalp Vein G21 Infusion set, Scalp Vein G23 Infusion set, Scalp Vein G25 Infusion set, Septic abortion, Soap Blue Bar 550g, Soap Powder Hand wash 5kg, Sodium Carbonate Anhydrous, Sodium Carbonate Anhydrous 500g, Sodium Chloride 0.9% IV 500ml, Sodium Chloride Apyrogen 50kg, Sodium Citrate 100g, Sodium Fluoride, Sodium Hypochlorite solution 0.75 Ltr, Sodium Hypochlorite solution 5Ltr, Sodium Lactate Compound IV 500ml, Sodium Nitrate 25g, Sodium Sulphate 500g, Spironolactone 25mg Tab, Spoon Medicine 5ml, Stethoscope Foetal Metal, Stethoscope Foetal Wood, Strangulated, Streptomycin 1g Vial, Suction Catheter Size 10 Disposable, Suction Catheter Size 12 Disposable, Suction Catheter Size 14 Disposable, Suction Catheter Size 16 Disposable, Suction Catheter Size 6 Disposable, Suction Catheter Size 8 Disposable, Sulphosalicylic Acid 500g, Sulphuric Acid Conc 1ltr, Surgical Blades No 20, Surgical Blades No 21, Surgical Blades No 22, Surgical Blades No 23, Surgical Brush (Scrubbing), Surgical Mop 12 x 15, Surgical toilet  & suture, Suture Cutgut Chromic (0), Suture Cutgut Chromic (2) RN22240TH, Suture Cutgut Chromic (2/0) RN22230TH, Suture Cutgut Chromic (3/0) RN2325TF, Suture Cutgut Plain (2/0) RN1230TF, Suture PGA (3/0) RN3330TF, Suture Silk (1) S595, Suture Silk (2/0) RN5230TF, Suxamethonium 500mg Vial, Suxamethonium 500mg/ml 2ml Amp, Syringe Feeding/Irrigation 50/60ml, Syringe Luer 10ml With Needle Disposable, Syringe Luer 20ml With Needle Disposable, Syringe Luer 2ml With Needle Disposable, Syringe Luer 5ml With Needle Disposable, Tablet Counting Tray, Testicular tumours, tetanus Antitoxin 1500 IU 1ml Amp, Tetracycline eye ointment 1% 3.5g, Thermometer Clinical Flat Type, Thermometer Clinical Prismatic Type, Thiopental Sodium 500mg Vial, Toilet Paper Rolls, Tolbutamide 500mg tab, Tongue depressor Disposable, Traction Kit Adult, Traction Kit Children, Trichloro acetic Acid, Trisodium Citrate, Umbilical Cord Tie non sterile 100m, Umbilical Cord Tie sterile 22m, Upper limb, UREA Calorimetric 300 Tests, Uretheral stricture-bougienage, Urinal 1Ltr / 2Ltr, Urine Collecting Bag sterile 2Ltr, Urine Test Strips 3 Parameters 100 tests, Uterine fibroids, Uterine prolapse, Vitamin A 200.000 IU Caps, Vitamin B Complex Tab, Volvulus, Water for Injection 10ml Vial, X-Ray Developer 2.6kg for 22.5Ltr, X-Ray Film 18x24cm, X-Ray Film 20x40cm, X-Ray Film 24x30cm, X-Ray Film 30x40cm, X-Ray Film 35x35cm, X-Ray Film 43x35cm, X-Ray Film Cassette  18x24cm with screen, X-Ray Film Cassette  24x30cm with screen, X-Ray Film Cassette  30x40cm with screen, X-Ray Film Cassette  35x35cm with screen, X-Ray Film Cassette  35x43cm with screen, X-Ray Fixer 3.3kg for 22.5 Ltr, Xylene 2.5 ltrs]
+Message FRL: The Security Log for the HEADER was generated in: 3 milliseconds
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - The Method: getPrices DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:39:30 PM MDT
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Name         : org.isf.pricesothers.manager.PricesOthersManager.getOthers
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Return Value : [Amount per day]
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - The Method: getOthers DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getItems() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:39:30 PM MDT
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Name         : org.isf.accounting.manager.BillBrowserManager.getItems
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Return Value : []
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Parameter Name  : billID
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Parameter Value : 0
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 0 milliseconds.
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:39:30 PM MDT
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Name         : org.isf.accounting.manager.BillBrowserManager.getPayments
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Return Value : []
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Parameter Name  : billID
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Parameter Value : 0
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:39:30 PM MDT
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Name         : org.isf.pricesothers.manager.PricesOthersManager.getOthers
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - Method Return Value : [Amount per day]
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[25/Apr/2023 19:39:30] [admin:doctor] INFO - The Method: getOthers DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBill() was Generated in : 0 milliseconds.
+[25/Apr/2023 19:39:35] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:39:35] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:39:35 PM MDT
+[25/Apr/2023 19:39:35] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:39:35] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:39:35] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:39:35] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:39:35] [admin:doctor] INFO - Method Name         : org.isf.accounting.manager.BillBrowserManager.getBill
+[25/Apr/2023 19:39:35] [admin:doctor] INFO - Method Return Type  : 
+[25/Apr/2023 19:39:35] [admin:doctor] INFO - Method Return Value : 
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[25/Apr/2023 19:39:35] [admin:doctor] INFO - Parameter Name  : billID
+[25/Apr/2023 19:39:35] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:39:35] [admin:doctor] INFO - Parameter Value : 0
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBill() was Generated in : 0 milliseconds.
+[25/Apr/2023 19:39:44] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:39:44] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:39:44 PM MDT
+[25/Apr/2023 19:39:44] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:39:44] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:39:44] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:39:44] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:39:44] [admin:doctor] INFO - Method Name         : org.isf.accounting.manager.BillBrowserManager.getBill
+[25/Apr/2023 19:39:44] [admin:doctor] INFO - Method Return Type  : 
+[25/Apr/2023 19:39:44] [admin:doctor] INFO - Method Return Value : 
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[25/Apr/2023 19:39:44] [admin:doctor] INFO - Parameter Name  : billID
+[25/Apr/2023 19:39:44] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:39:44] [admin:doctor] INFO - Parameter Value : 0
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBill() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:39:53] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:39:53] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:39:53 PM MDT
+[25/Apr/2023 19:39:53] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:39:53] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:39:53] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:39:53] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:39:53] [admin:doctor] INFO - Method Name         : org.isf.accounting.manager.BillBrowserManager.getBill
+[25/Apr/2023 19:39:53] [admin:doctor] INFO - Method Return Type  : 
+[25/Apr/2023 19:39:53] [admin:doctor] INFO - Method Return Value : 
+Message FRL: The Security Log for the HEADER was generated in: 3 milliseconds
+[25/Apr/2023 19:39:53] [admin:doctor] INFO - Parameter Name  : billID
+[25/Apr/2023 19:39:53] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:39:53] [admin:doctor] INFO - Parameter Value : 0
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBill() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:39:56] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:39:56] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:39:56 PM MDT
+[25/Apr/2023 19:39:56] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:39:56] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:39:56] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:39:56] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:39:56] [admin:doctor] INFO - Method Name         : org.isf.accounting.manager.BillBrowserManager.getBill
+[25/Apr/2023 19:39:56] [admin:doctor] INFO - Method Return Type  : 
+[25/Apr/2023 19:39:56] [admin:doctor] INFO - Method Return Value : 
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[25/Apr/2023 19:39:56] [admin:doctor] INFO - Parameter Name  : billID
+[25/Apr/2023 19:39:56] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:39:56] [admin:doctor] INFO - Parameter Value : 0
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newBill() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:39:59 PM MDT
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Method Name         : org.isf.accounting.manager.BillBrowserManager.newBill
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Method Return Type  : java.lang.Boolean
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Method Return Value : true
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Parameter Name : newBill
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Parameter Type : org.isf.accounting.model.Bill
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Add Log 1         : true
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - The Parameter: newBill has 14 Attributes
+Message FRL: The Security Log for a METHOD, PARAMETER OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Name  : id
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Type  : int
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Value : 26
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Name  : date
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Type  : java.time.LocalDateTime
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Value : 2023-04-25T19:39:30.239
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Name  : update
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Type  : java.time.LocalDateTime
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Value : 2023-04-25T19:39:30.239
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Name  : isList
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Type  : boolean
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Value : true
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Name : list
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Type : org.isf.priceslist.model.PriceList
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - The Attribute: list has 14 SubAttributes
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : id
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : int
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : 1
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : code
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : LIST001
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : name
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : Basic
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : description
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : Basic price list
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : currency
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Name  : listName
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Value : Basic
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Name  : isPatient
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Type  : boolean
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Value : true
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Name : billPatient
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Type : org.isf.patient.model.Patient
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - The Attribute: billPatient has 14 SubAttributes
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : code
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.Integer
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : 125
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : firstName
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : Valentina
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : secondName
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : Guzman Perez
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : name
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : Valentina Guzman Perez
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : birthDate
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.time.LocalDate
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : 1973-04-25
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : age
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : int
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : 50
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : agetype
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : sex
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : char
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : F
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : address
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : 9 Grafton Street
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : city
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : Dublin, Ireland
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : nextKin
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : 1
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : telephone
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : +39123456
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : note
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : motherName
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : Maria
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : mother
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : char
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : A
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : fatherName
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : Juan
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : father
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : char
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : A
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : bloodType
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : 0+
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : hasInsurance
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : char
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : Y
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : parentTogether
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : char
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : Y
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : taxCode
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : maritalStatus
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : married
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : profession
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : medicine
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Name  : deleted
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - SubAttribute Value : N
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Name  : patName
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Value : Valentina Guzman Perez
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Name  : status
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Value : O
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Name  : user
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Value : doctor
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Name  : hashCode
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Type  : int
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Attribute Value : 3085
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Parameter Name  : billItems
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Parameter Value : [org.isf.accounting.model.BillItems@c34, org.isf.accounting.model.BillItems@c35, org.isf.accounting.model.BillItems@c36, org.isf.accounting.model.BillItems@c37]
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Parameter Name  : billPayments
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Parameter Value : []
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPrices() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:39:59 PM MDT
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Method Name         : org.isf.priceslist.manager.PriceListManager.getPrices
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Method Return Value : [1.1 HB, 1.1 HB (Procedure 3), 1.2 WBC Count, 1.3 Differential , 1.4 Film Comment, 1.5 ESR, 1.6 Sickling Test, 2.1 Grouping, 2.2 Comb's Test, 3.1 Blood Slide (Malaria), 3.2 Blood Slide (OTHERS, E.G. TRIUPHANOSOMIAS, MICRIFILARIA, LEISHMANIA, BORRELIA), 3.21 Trypanosomiasis, 3.22 MICROFILARIA, 3.23 LEISHMANIA, 3.24 BORRELIA, 3.3 STOOL MICROSCOPY, 3.4 URINE MICROSCOPY, 3.5 TISSUE MICROSCOPY, 3.6 CSF WET PREP, 4 Dimethyl Aminobenzaldelyde, 4.1 CULTURE AND SENSITIVITY (C&S) FOR HAEMOPHILUS INFUENZA TYPE B, 4.2 C&S FOR SALMONELA TYPHI, 4.3 C&S FOR VIBRO CHOLERA, 4.4 C&S FOR SHIGELLA DYSENTERIAE, 4.5 C&S FOR NEISSERIA MENINGITIDES, 4.6 OTHER C&S , 5.1 WET PREP, 5.2 GRAM STAIN, 5.3 INDIA INK, 5.4 LEISMANIA, 5.5 ZN, 5.6 WAYSON, 5.7 PAP SMEAR, 6.1 VDRL/RPR, 6.2 TPHA, 6.3 HIV, 6.4 HEPATITIS, 6.5 OTHERS E.G BRUCELLA, RHEUMATOID FACTOR, WEIL FELIX, 6.6 PREGANCY TEST, 7.1 PROTEIN, 7.2 SUGAR, 7.3 LFTS, 7.3.1 BILIRUBIN TOTAL, 7.3.2 BILIRUBIN DIRECT, 7.3.3 GOT, 7.3.4 ALT/GPT, 7.4 RFTS, 7.4.1 CREATININA, 7.4.2 UREA, 8.1 OCCULT BLOOD, 9.1 URINALYSIS, Abdominal Tumours, Acetazolamide 250mg Tab, Acetic Acid Glacial 1 ltr, Aceton 99% 1ltr, Aciclovir, Acute abdomen, Acyclovir 200mg Tab, Adhesive Tape 2.5cm x 5m, Adhesive Tape 7.5cm x 5m, Adrenaline 1mg/ml 1ml Amp, Air ring set 43x15cm, rubber with pump, Airway Guedel Size 0, Airway Guedel Size 00, Airway Guedel Size 1, Airway Guedel Size 2, Airway Guedel Size 3, Albendazole 200mg Tab, Albendazole 400mg Tab, Alcohol 95% not denatured 20Ltrs, Aminophylline 100mg Tab, Aminophylline 25mg/ml,10ml Amp, Amitriptyline 25mg Tab, Ammonium Oxalate, Amount per day, Amoxicillin /Clavulanate 375mg Tab, Amoxicillin 125mg/5ml Powd. Susp 100ml, Amoxicillin 250mg Caps, Amphotericin B 50mg Vial, Ampicillin 500mg Vial, Anti Serum A 10ml, Anti Serum AB 10ml, Anti Serum B 10ml, Anti Serum D 10ml, Antihaemorrhoid suppositories, Appendicitis, Apron Plastic Re-usable, Apron Plastic Re-usable local, Apron Polythene Disp Non Sterile, Ascorbic Acid 100mg tab, Aspirin 300mg Tab, Atenolol 100mg Tab, Atenolol 50mg Tab, Atropine 1mg/ml 1ml Amp, Barium Sulphate for X-Ray 1kg, Beclomethasone 50mcg Inhaler, Bedpan Plastic Autoclavable, Bedpan Stainless Steel, Bendrofluazide 5mg Tab, Benzathine Penicillin 2.4 MIU Vial, Benzhexol 2mg Tab, Benzhexol 5mg Tab, Benzyl Penicillin 1 MIU Vial, Benzyl Penicillin 5 MIU Vial, Betamethasone 0.1% eye/ear/nose drops, Betamethasone 0.1% Neomycin 0.35 %eye drops 7.5ml, Bisacodyl 5mg Tab, Bladder biopsy, Blood giving set Disposable, Blood Transfer Bag 300ml, Body Bag 70 x 215cm  (Adult), Bowl Without Lid 10 x 24cm stainless steel, Bowl Without Lid 7 x 12cm stainless steel, Bowl Without Lid 8 x 16cm stainless steel, Brilliant Cresyl Blue, Caesarian section, Calcium Lactate 300mg Tab, Carbamazepine 200mg Tab, Carbimazole 5mg Tab, Catheter Foley CH10 3 Way Balloon, Catheter Foley CH12 3 Way Balloon, Catheter Foley CH14 3 Way Balloon, Catheter Foley CH16 3 Way Balloon, Catheter Foley CH18 3 Way Balloon, Catheter Foley CH20 3 Way Balloon, Catheter Foley CH8 3 Way Balloon, Catheter Stopper for All sizes, Charcoal 250mg Tab, Chloramphenicol 0.5% Eye Drops 10ml, Chloramphenicol 125mg/5ml Susp 100ml, Chloramphenicol 125mg/5ml Susp 3Ltr, Chloramphenicol 1g Vial, Chloramphenicol 250mg Caps, Chlorhexidine/Cetrimide 1.5/15% 1Ltr, Chlorhexidine/Cetrimide 1.5/15% 5Ltr, Chloroquine 40mg Base/ml 5ml Amp, Chloroquine Coated 150mg Tab, Chloroquine Uncoated 150mg Tab, Chlorphenimine 4mg Tab, Chlorpromazine 100mg Tab, Chlorpromazine 25mg Tab, Chlorpromazine 25mg/ml/2ml Amp, Cholecystitis, Cimetidine 200mg Tab, Cimetidine 400mg Tab, Ciprofloxacine 250mg Tab, Ciprofloxacine 500mg Tab, Circumcision, Cloramphenicol 1% Eye Ointment 3.5g, Clotrimazole 100mg Pessaries, Clotrimazole 500mg Pessaries, Cloxacillin 250mg Tab, Cloxacillin 500mg Vial, Codein Phosphate 30mg Tab, Colostomy Bag closed 30mm size 2, Colostomy Bag closed 30mm size 3, Colostomy Bag open re-usable 35mm, Copper 11 Sulphate 500g, Cotrimoxazole 100/20mg Paed Tab, Cotrimoxazole 200+40mg/5ml Susp 100ml, Cotrimoxazole 200+40mg/5ml Susp 3Ltr, Cotrimoxazole 400/80mg Tab, Cotton Wool 200G, cotton Wool 500G, Creatinine 200ml (Calorimetric), Crystal Violet, Cyclophosphamide 200mg Vial, Cyclophosphamide 500mg Vial, Cystocele, Darrows Half Strength 500ml, Debridement, Dexamethasone 0.5mg Tab, Dexamethasone 4mg/ml 1ml Amp, Dexamethasone 4mg/ml 2ml Amp, Dextrose 30% IV 100ml, Dextrose 5% IV 500ml, Dextrose 50% IV 100ml, Dextrose Monohydrate Apyrogen 25Kg, Diatrizoate Meglumin Sod 76% 20ml Amp, Diazepam 2mg/ml 2.5ml Rectal Tube, Diazepam 5mg / ml 2ml Amp, Diazepam 5mg Tab, Diclofenac 25mg/ml 3ml Amp, Diclofenac 50mg Tab, Diethylcarbamazine 50mg Tab, Digoxin 0.25 mg Tab, Digoxin 0.25 mg/ml 2ml Amp, Dilatation and curettage, Dorsal slit-paraphimosis, Doxycycline 100mg Tab, Ear syringe rubber 60ml, Ectopic pregnancy, EDTA Di- sodium salt 100g, Elastic Bandage 10cm x 4.5m, Elastic Bandage 7.5cm x 4.5m, Eosin Yellowish, Ephedrine 30mg Tab, Epigastrical Hernia, Erythromycin 250mg Tab, Ethanol Absolute 1ltr, Evacuations, Eye Pad Sterile, Fansidar 500/25mg Tab, Fansidar 500/25mg Tab (50dosesx3), Ferrous Sulphate 200mg Tab, Field stain A and B, First Aid kit, Fluconazole 100mg 24 Caps, Fluconazole 100mg Tab, Folic Acid 15mg Tab, Folic Acid 1mg Tab, Folic Acid 5mg Tab, Folic Acid/Ferrous Sulp 0.5/200mg Tab, Formaldehyde solution 35-38% 1ltr, Frusemide 40mg Tab, Furosemide 10mg/ml 2ml Amp, Gallipot stainless steel 200ml/10cm, Gallipot stainless steel 300ml/15cm, Gauze Bandage 10cm x 4m, Gauze Bandage 7.5cm x 3.65-4m, Gauze Hydrophylic 90cm x 91cm, Gauze Pads  Sterile 10cm x 10cm, Gauze Pads Non Sterile 10cm x 10cm, Genitian Violet, Gentamicin 0.3% eye/ear drops 10ml, Gentamicin 40mg/ml 2ml, Gentian Violet 25g Tin, Giemsa Stain, Glibenclamide 5mg Tab, Gloves Domestic, Gloves Gynaecological 7.5-8, Gloves High risk non sterile Medium, Gloves Non Sterile Large Disposable, Gloves Non Sterile Medium Disposable, Gloves Surgical Sterile 6, Gloves Surgical Sterile 6.5, Gloves Surgical Sterile 7, Gloves Surgical Sterile 7.5, Gloves Surgical Sterile 8, Gloves Surgical Sterile 8.5, Glucose GOD PAD  6 x 100ml (Colorimetric), Glucose Test Strip, Glucose Test Strips (Hyloguard), GOT ( AST) 200ml (Calorimetric) AS 147, GOT ( AST) 200ml has no NAOH) AS 101, GPT (ALT) 200ml ( Does not have NAOH), Griseofulvin 500mg Tab, Haloperidol 5mg, Haloperidol 5mg Tab, Haloperidol 5mg/ml 1ml Amp, Haloperidol Decanoate 50mg/ml 1ml Amp, Handle for surgical blade No 3, Handle for surgical blade No 4, HERNIA, Hernia (inguinal & femoral), HIV 1/2 Capillus Kit 100Tests, HIV Buffer for determine Kit, HIV Determine 1/11 (Abbott) 100Tests, HIV UNIGOLD 1/11 Test Kits 20 Tests, Hot water Bottle 2Ltr, Hydralazine 20mg Vial, Hydralazine 25mg Tab, Hydrocelectomy, Hydrochloric Acid 30-33% 1ltr, Hydrocortisone 1% eye drops 5ml, Hydrocortisone 100mg Vial, Hydrogen Peroxide 6% 250ml, Hyoscine 10mg Tab, Hyoscine Butyl Bromide 20mg/ml/ Amp, Hysterectomy, Ibuprofen 200mg Tab, Imipramine 25mg Tab, Incision & Drainage, Incomplete abortion, Indomethacin 25mg Tab, Injured uterus, Insectcide Spray 400g, Instrument Box With Lid 20x10x5cm, Instrument Tray 30 x 20 x 2cm, Insulin Isophane 100IU/ml 10ml Vial, Insulin Isophane 40IU/ml 10ml, Insulin Mixtard 30/70 100IU/ml 10ml Vial, Insulin Mixtard 30/70 100IU/ml 5x3ml catridges, Insulin Soluble 100IU/ml 10ml Vial, Insulin Syringe 100IU with Needle G26/29, Intestinal obstruction, Iodine Crystal 100g, Iodine Solution 2% 500ml, Iron Dextran 10mg/ml 2ml Vial, Irrigation can with accessories, Isoniazid 300mg Tab, IV Cannula G16 with Port, IV Cannula G18 with Port, IV Cannula G20 with Port, IV Cannula G22 with Port, IV Cannula G24 with Port, IV Cannula G24 without Port, IV Giving set Disposable, Ketamine 10mg/ml 10ml Vial, Ketamine 10mg/ml 20ml Vial, Ketoconazole 200mg Tab, Kidney Dish Polypropylene 24cm, Kidney Dish stainless Steel 20cm, Kidney Dish stainless Steel 24cm, Knee Surgery 123, Laparotomy, Lead Apron 100cmx60cm, Lignocaine 2% 20ml Vial, Lignocaine 2% Adrenaline Dent.cartridges, Lignocaine spinal 50mg/ml 2ml Amp, Liquid detergent 20Ltr, liquid detergent 5Ltr Perfumed, Lower limb, Mackintosh Plastic (Apron) per 1m, Mackintosh Rubber Brown (sheeting) per 1m, Measuring Cup Graduated 25ml, Mechanical, Methanol 99% 1ltr, Methylergomeatrine 0.2mg/ml 1ml Amp, Methylergomeatrine 0.5mg/ml 1ml Amp, Metoclopramide 5mg/ml 100ml Amp, Metronidazole 5mg/ml 2ml IV, Mise -a- plat, Morphine 15mg/ml 1ml Amp, Mosquito Net Impregnated Large, Mosquito Net Impregnated Medium, Mosquito Net Impregnation Liquid 500ml, Mosquito Net Impregnation Tablet, Mosquito Net Non Impregnated Large, Mosquito Net Non Impregnated Medium, Mosquito Wall spray Powder 80g, Nasogastric Tube G10 (Children), Nasogastric Tube G14 (Children), Nasogastric Tube G16 (Children), Nasogastric Tube G5 (Children), Nasogastric Tube G6 (Children), Nasogastric Tube G8 (Children), Neck Support Large, Neck Support Medium, Neck Support Small, Needle container disposable of contaminated, Needle suture No 5 cutting, Needle suture No 5 round, Needle suture No 6 Round, Needles Luer G20 Disposable, Needles Luer G21 Disposable, Needles Luer G22 Disposable, Needles Luer G23 Disposable, Needles Spinal G20x75-120mm, Needles Spinal G22x40mm, Needles Spinal G22x75-120mm, Needles Spinal G25x75-120mm, Neutral Red, NEW OPERATION, NEW OPERATION TWO, NEW ORTHOPEDICAL DISEASE, Non 111 Chloride (Ferric chloride), Non strangulated, Nystatin 100.000 IU Pessaries, Nystatin 500.000IU/ Susp/ Drops, Operation New, Oral Rehydration Salt (ORS), Osteomyelitis - sequestrectomy, Ovarian tumours, Oxytocin 10 IU/ml 1ml Amp, Paracetamol 120mg/5ml 100ml, Paracetamol 120mg/5ml Syrup, Paraphimosis, Pelvic abscess, Penetrating abdominal injuries, Peritonitis, Peritonitis, Pethidine 100mg/ml 2ml Amp, Pethidine 50mg/ml 1ml Amp, Phenobarbital 100mg/ml 2ml Amp, Phenol crystals 1kg, Phimosis, Phytomenadione 10mg/ml 1ml Amp, Phytomenadione 1mg/ml 1ml Amp, Plaster of Paris 10cm, Plaster of Paris 15cm, Potassium iodide 100g, Potassium Oxalate, Pregnacy ( HGG Latex) 50 tests, Procaine Penicillin Fortified 4 MIU Vial, Promethazine 25mg/ml 2ml Amp, Prostate biopsy, Prostatectomy, Pyridoxine 50mg Tab, Quinine 100mg/5ml Syrup 100ml, Quinine 300mg Tab, Quinine Di-HCI 300mg/ml 2ml Amp, Ranitidine 150mg Tab, Ranitidine 25mg/ml 2ml Amp, Razor Blades Disposable 5pc, Rectal Tube CH24, Rectal Tube CH26, Reduction of fractures, Repair of vesico-vaginal fistula (vvf), Rifampicin/Isoniazid 150/100 Tab, RPR ( VDRL Carbon ) Antigen 5ml, RPR 125mm x 75mm, Ruptured uterus, Salbutamol 4mg Tab, Salbutamol Inhaler 10ml, Salbutamol solution for inhalation 5ml, Scalp Vein G19 Infusion set, Scalp Vein G21 Infusion set, Scalp Vein G23 Infusion set, Scalp Vein G25 Infusion set, Septic abortion, Soap Blue Bar 550g, Soap Powder Hand wash 5kg, Sodium Carbonate Anhydrous, Sodium Carbonate Anhydrous 500g, Sodium Chloride 0.9% IV 500ml, Sodium Chloride Apyrogen 50kg, Sodium Citrate 100g, Sodium Fluoride, Sodium Hypochlorite solution 0.75 Ltr, Sodium Hypochlorite solution 5Ltr, Sodium Lactate Compound IV 500ml, Sodium Nitrate 25g, Sodium Sulphate 500g, Spironolactone 25mg Tab, Spoon Medicine 5ml, Stethoscope Foetal Metal, Stethoscope Foetal Wood, Strangulated, Streptomycin 1g Vial, Suction Catheter Size 10 Disposable, Suction Catheter Size 12 Disposable, Suction Catheter Size 14 Disposable, Suction Catheter Size 16 Disposable, Suction Catheter Size 6 Disposable, Suction Catheter Size 8 Disposable, Sulphosalicylic Acid 500g, Sulphuric Acid Conc 1ltr, Surgical Blades No 20, Surgical Blades No 21, Surgical Blades No 22, Surgical Blades No 23, Surgical Brush (Scrubbing), Surgical Mop 12 x 15, Surgical toilet  & suture, Suture Cutgut Chromic (0), Suture Cutgut Chromic (2) RN22240TH, Suture Cutgut Chromic (2/0) RN22230TH, Suture Cutgut Chromic (3/0) RN2325TF, Suture Cutgut Plain (2/0) RN1230TF, Suture PGA (3/0) RN3330TF, Suture Silk (1) S595, Suture Silk (2/0) RN5230TF, Suxamethonium 500mg Vial, Suxamethonium 500mg/ml 2ml Amp, Syringe Feeding/Irrigation 50/60ml, Syringe Luer 10ml With Needle Disposable, Syringe Luer 20ml With Needle Disposable, Syringe Luer 2ml With Needle Disposable, Syringe Luer 5ml With Needle Disposable, Tablet Counting Tray, Testicular tumours, tetanus Antitoxin 1500 IU 1ml Amp, Tetracycline eye ointment 1% 3.5g, Thermometer Clinical Flat Type, Thermometer Clinical Prismatic Type, Thiopental Sodium 500mg Vial, Toilet Paper Rolls, Tolbutamide 500mg tab, Tongue depressor Disposable, Traction Kit Adult, Traction Kit Children, Trichloro acetic Acid, Trisodium Citrate, Umbilical Cord Tie non sterile 100m, Umbilical Cord Tie sterile 22m, Upper limb, UREA Calorimetric 300 Tests, Uretheral stricture-bougienage, Urinal 1Ltr / 2Ltr, Urine Collecting Bag sterile 2Ltr, Urine Test Strips 3 Parameters 100 tests, Uterine fibroids, Uterine prolapse, Vitamin A 200.000 IU Caps, Vitamin B Complex Tab, Volvulus, Water for Injection 10ml Vial, X-Ray Developer 2.6kg for 22.5Ltr, X-Ray Film 18x24cm, X-Ray Film 20x40cm, X-Ray Film 24x30cm, X-Ray Film 30x40cm, X-Ray Film 35x35cm, X-Ray Film 43x35cm, X-Ray Film Cassette  18x24cm with screen, X-Ray Film Cassette  24x30cm with screen, X-Ray Film Cassette  30x40cm with screen, X-Ray Film Cassette  35x35cm with screen, X-Ray Film Cassette  35x43cm with screen, X-Ray Fixer 3.3kg for 22.5 Ltr, Xylene 2.5 ltrs]
+Message FRL: The Security Log for the HEADER was generated in: 5 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - The Method: getPrices DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:39:59 PM MDT
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Method Name         : org.isf.pricesothers.manager.PricesOthersManager.getOthers
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - Method Return Value : [Amount per day]
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[25/Apr/2023 19:39:59] [admin:doctor] INFO - The Method: getOthers DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDiseaseType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newDiseaseType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:40:51 PM MDT
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getAdmittedPatients
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - Method Return Value : [org.isf.admission.model.AdmittedPatient@33aaf4b9, org.isf.admission.model.AdmittedPatient@6d049690, org.isf.admission.model.AdmittedPatient@7e17121f, org.isf.admission.model.AdmittedPatient@184c0280]
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - The Method: getAdmittedPatients DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:40:51 PM MDT
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - Method Name         : org.isf.ward.manager.WardBrowserManager.getWards
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - Method Return Value : [INTERNAL MEDICINE, MATERNITY, NURSERY, SURGERY]
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[25/Apr/2023 19:40:51] [admin:doctor] INFO - The Method: getWards DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: deletePatient() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmissions() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPregnantTreatmentType() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getExams() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getLaboratory() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getExams() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientsByOneOfFieldsLike() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientById() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:42:10] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:42:10] [admin:doctor] INFO - OS Current Time     : 25/04/2023 07:42:10 PM MDT
+[25/Apr/2023 19:42:10] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:42:10] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:42:10] [admin:doctor] INFO - OS UserName         : friverao
+[25/Apr/2023 19:42:10] [admin:doctor] INFO - Annotation Type     : Method
+[25/Apr/2023 19:42:10] [admin:doctor] INFO - Method Name         : org.isf.patient.manager.PatientBrowserManager.getPatientById
+[25/Apr/2023 19:42:10] [admin:doctor] INFO - Method Return Type  : org.isf.patient.model.Patient
+[25/Apr/2023 19:42:10] [admin:doctor] INFO - Method Return Value : Genaro Rodriguez Suarez
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[25/Apr/2023 19:42:10] [admin:doctor] INFO - Parameter Name  : code
+[25/Apr/2023 19:42:10] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:42:10] [admin:doctor] INFO - Parameter Value : 126
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentAdmission() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getExamRowByExamCode() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newLaboratory2() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getLaboratory() was Generated in : 0 milliseconds.
+[25/Apr/2023 19:43:54] [admin:doctor] INFO - 
+
+=====================
+ Open Hospital closed 
+=====================
+
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in: 2222 milliseconds
+Message FRL: UML Sequence Diagram Text File created  : C:\Users\friverao\eclipse-workspace\Directories\Output\IncidentSequenceDiagram.txt
+Message FRL: UML Sequence Diagram Image File created : C:\Users\friverao\eclipse-workspace\Directories\Output\IncidentSequenceDiagram.png
+Message FRL: Good Bye to the Forensic-Ready Logger.
+
+
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:52:56 PM MDT
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Name         : org.isf.hospital.manager.HospitalBrowsingManager.getHospitalCurrencyCod
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Return Type  : 
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Return Value : 
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[25/Apr/2023 19:52:56] [admin:admin] INFO - The Method: getHospitalCurrencyCod DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPrices() was Generated in : 3 milliseconds.
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:52:56 PM MDT
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Name         : org.isf.priceslist.manager.PriceListManager.getPrices
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Return Value : [1.1 HB, 1.1 HB (Procedure 3), 1.2 WBC Count, 1.3 Differential , 1.4 Film Comment, 1.5 ESR, 1.6 Sickling Test, 2.1 Grouping, 2.2 Comb's Test, 3.1 Blood Slide (Malaria), 3.2 Blood Slide (OTHERS, E.G. TRIUPHANOSOMIAS, MICRIFILARIA, LEISHMANIA, BORRELIA), 3.21 Trypanosomiasis, 3.22 MICROFILARIA, 3.23 LEISHMANIA, 3.24 BORRELIA, 3.3 STOOL MICROSCOPY, 3.4 URINE MICROSCOPY, 3.5 TISSUE MICROSCOPY, 3.6 CSF WET PREP, 4 Dimethyl Aminobenzaldelyde, 4.1 CULTURE AND SENSITIVITY (C&S) FOR HAEMOPHILUS INFUENZA TYPE B, 4.2 C&S FOR SALMONELA TYPHI, 4.3 C&S FOR VIBRO CHOLERA, 4.4 C&S FOR SHIGELLA DYSENTERIAE, 4.5 C&S FOR NEISSERIA MENINGITIDES, 4.6 OTHER C&S , 5.1 WET PREP, 5.2 GRAM STAIN, 5.3 INDIA INK, 5.4 LEISMANIA, 5.5 ZN, 5.6 WAYSON, 5.7 PAP SMEAR, 6.1 VDRL/RPR, 6.2 TPHA, 6.3 HIV, 6.4 HEPATITIS, 6.5 OTHERS E.G BRUCELLA, RHEUMATOID FACTOR, WEIL FELIX, 6.6 PREGANCY TEST, 7.1 PROTEIN, 7.2 SUGAR, 7.3 LFTS, 7.3.1 BILIRUBIN TOTAL, 7.3.2 BILIRUBIN DIRECT, 7.3.3 GOT, 7.3.4 ALT/GPT, 7.4 RFTS, 7.4.1 CREATININA, 7.4.2 UREA, 8.1 OCCULT BLOOD, 9.1 URINALYSIS, Abdominal Tumours, Acetazolamide 250mg Tab, Acetic Acid Glacial 1 ltr, Aceton 99% 1ltr, Aciclovir, Acute abdomen, Acyclovir 200mg Tab, Adhesive Tape 2.5cm x 5m, Adhesive Tape 7.5cm x 5m, Adrenaline 1mg/ml 1ml Amp, Air ring set 43x15cm, rubber with pump, Airway Guedel Size 0, Airway Guedel Size 00, Airway Guedel Size 1, Airway Guedel Size 2, Airway Guedel Size 3, Albendazole 200mg Tab, Albendazole 400mg Tab, Alcohol 95% not denatured 20Ltrs, Aminophylline 100mg Tab, Aminophylline 25mg/ml,10ml Amp, Amitriptyline 25mg Tab, Ammonium Oxalate, Amount per day, Amoxicillin /Clavulanate 375mg Tab, Amoxicillin 125mg/5ml Powd. Susp 100ml, Amoxicillin 250mg Caps, Amphotericin B 50mg Vial, Ampicillin 500mg Vial, Anti Serum A 10ml, Anti Serum AB 10ml, Anti Serum B 10ml, Anti Serum D 10ml, Antihaemorrhoid suppositories, Appendicitis, Apron Plastic Re-usable, Apron Plastic Re-usable local, Apron Polythene Disp Non Sterile, Ascorbic Acid 100mg tab, Aspirin 300mg Tab, Atenolol 100mg Tab, Atenolol 50mg Tab, Atropine 1mg/ml 1ml Amp, Barium Sulphate for X-Ray 1kg, Beclomethasone 50mcg Inhaler, Bedpan Plastic Autoclavable, Bedpan Stainless Steel, Bendrofluazide 5mg Tab, Benzathine Penicillin 2.4 MIU Vial, Benzhexol 2mg Tab, Benzhexol 5mg Tab, Benzyl Penicillin 1 MIU Vial, Benzyl Penicillin 5 MIU Vial, Betamethasone 0.1% eye/ear/nose drops, Betamethasone 0.1% Neomycin 0.35 %eye drops 7.5ml, Bisacodyl 5mg Tab, Bladder biopsy, Blood giving set Disposable, Blood Transfer Bag 300ml, Body Bag 70 x 215cm  (Adult), Bowl Without Lid 10 x 24cm stainless steel, Bowl Without Lid 7 x 12cm stainless steel, Bowl Without Lid 8 x 16cm stainless steel, Brilliant Cresyl Blue, Caesarian section, Calcium Lactate 300mg Tab, Carbamazepine 200mg Tab, Carbimazole 5mg Tab, Catheter Foley CH10 3 Way Balloon, Catheter Foley CH12 3 Way Balloon, Catheter Foley CH14 3 Way Balloon, Catheter Foley CH16 3 Way Balloon, Catheter Foley CH18 3 Way Balloon, Catheter Foley CH20 3 Way Balloon, Catheter Foley CH8 3 Way Balloon, Catheter Stopper for All sizes, Charcoal 250mg Tab, Chloramphenicol 0.5% Eye Drops 10ml, Chloramphenicol 125mg/5ml Susp 100ml, Chloramphenicol 125mg/5ml Susp 3Ltr, Chloramphenicol 1g Vial, Chloramphenicol 250mg Caps, Chlorhexidine/Cetrimide 1.5/15% 1Ltr, Chlorhexidine/Cetrimide 1.5/15% 5Ltr, Chloroquine 40mg Base/ml 5ml Amp, Chloroquine Coated 150mg Tab, Chloroquine Uncoated 150mg Tab, Chlorphenimine 4mg Tab, Chlorpromazine 100mg Tab, Chlorpromazine 25mg Tab, Chlorpromazine 25mg/ml/2ml Amp, Cholecystitis, Cimetidine 200mg Tab, Cimetidine 400mg Tab, Ciprofloxacine 250mg Tab, Ciprofloxacine 500mg Tab, Circumcision, Cloramphenicol 1% Eye Ointment 3.5g, Clotrimazole 100mg Pessaries, Clotrimazole 500mg Pessaries, Cloxacillin 250mg Tab, Cloxacillin 500mg Vial, Codein Phosphate 30mg Tab, Colostomy Bag closed 30mm size 2, Colostomy Bag closed 30mm size 3, Colostomy Bag open re-usable 35mm, Copper 11 Sulphate 500g, Cotrimoxazole 100/20mg Paed Tab, Cotrimoxazole 200+40mg/5ml Susp 100ml, Cotrimoxazole 200+40mg/5ml Susp 3Ltr, Cotrimoxazole 400/80mg Tab, Cotton Wool 200G, cotton Wool 500G, Creatinine 200ml (Calorimetric), Crystal Violet, Cyclophosphamide 200mg Vial, Cyclophosphamide 500mg Vial, Cystocele, Darrows Half Strength 500ml, Debridement, Dexamethasone 0.5mg Tab, Dexamethasone 4mg/ml 1ml Amp, Dexamethasone 4mg/ml 2ml Amp, Dextrose 30% IV 100ml, Dextrose 5% IV 500ml, Dextrose 50% IV 100ml, Dextrose Monohydrate Apyrogen 25Kg, Diatrizoate Meglumin Sod 76% 20ml Amp, Diazepam 2mg/ml 2.5ml Rectal Tube, Diazepam 5mg / ml 2ml Amp, Diazepam 5mg Tab, Diclofenac 25mg/ml 3ml Amp, Diclofenac 50mg Tab, Diethylcarbamazine 50mg Tab, Digoxin 0.25 mg Tab, Digoxin 0.25 mg/ml 2ml Amp, Dilatation and curettage, Dorsal slit-paraphimosis, Doxycycline 100mg Tab, Ear syringe rubber 60ml, Ectopic pregnancy, EDTA Di- sodium salt 100g, Elastic Bandage 10cm x 4.5m, Elastic Bandage 7.5cm x 4.5m, Eosin Yellowish, Ephedrine 30mg Tab, Epigastrical Hernia, Erythromycin 250mg Tab, Ethanol Absolute 1ltr, Evacuations, Eye Pad Sterile, Fansidar 500/25mg Tab, Fansidar 500/25mg Tab (50dosesx3), Ferrous Sulphate 200mg Tab, Field stain A and B, First Aid kit, Fluconazole 100mg 24 Caps, Fluconazole 100mg Tab, Folic Acid 15mg Tab, Folic Acid 1mg Tab, Folic Acid 5mg Tab, Folic Acid/Ferrous Sulp 0.5/200mg Tab, Formaldehyde solution 35-38% 1ltr, Frusemide 40mg Tab, Furosemide 10mg/ml 2ml Amp, Gallipot stainless steel 200ml/10cm, Gallipot stainless steel 300ml/15cm, Gauze Bandage 10cm x 4m, Gauze Bandage 7.5cm x 3.65-4m, Gauze Hydrophylic 90cm x 91cm, Gauze Pads  Sterile 10cm x 10cm, Gauze Pads Non Sterile 10cm x 10cm, Genitian Violet, Gentamicin 0.3% eye/ear drops 10ml, Gentamicin 40mg/ml 2ml, Gentian Violet 25g Tin, Giemsa Stain, Glibenclamide 5mg Tab, Gloves Domestic, Gloves Gynaecological 7.5-8, Gloves High risk non sterile Medium, Gloves Non Sterile Large Disposable, Gloves Non Sterile Medium Disposable, Gloves Surgical Sterile 6, Gloves Surgical Sterile 6.5, Gloves Surgical Sterile 7, Gloves Surgical Sterile 7.5, Gloves Surgical Sterile 8, Gloves Surgical Sterile 8.5, Glucose GOD PAD  6 x 100ml (Colorimetric), Glucose Test Strip, Glucose Test Strips (Hyloguard), GOT ( AST) 200ml (Calorimetric) AS 147, GOT ( AST) 200ml has no NAOH) AS 101, GPT (ALT) 200ml ( Does not have NAOH), Griseofulvin 500mg Tab, Haloperidol 5mg, Haloperidol 5mg Tab, Haloperidol 5mg/ml 1ml Amp, Haloperidol Decanoate 50mg/ml 1ml Amp, Handle for surgical blade No 3, Handle for surgical blade No 4, HERNIA, Hernia (inguinal & femoral), HIV 1/2 Capillus Kit 100Tests, HIV Buffer for determine Kit, HIV Determine 1/11 (Abbott) 100Tests, HIV UNIGOLD 1/11 Test Kits 20 Tests, Hot water Bottle 2Ltr, Hydralazine 20mg Vial, Hydralazine 25mg Tab, Hydrocelectomy, Hydrochloric Acid 30-33% 1ltr, Hydrocortisone 1% eye drops 5ml, Hydrocortisone 100mg Vial, Hydrogen Peroxide 6% 250ml, Hyoscine 10mg Tab, Hyoscine Butyl Bromide 20mg/ml/ Amp, Hysterectomy, Ibuprofen 200mg Tab, Imipramine 25mg Tab, Incision & Drainage, Incomplete abortion, Indomethacin 25mg Tab, Injured uterus, Insectcide Spray 400g, Instrument Box With Lid 20x10x5cm, Instrument Tray 30 x 20 x 2cm, Insulin Isophane 100IU/ml 10ml Vial, Insulin Isophane 40IU/ml 10ml, Insulin Mixtard 30/70 100IU/ml 10ml Vial, Insulin Mixtard 30/70 100IU/ml 5x3ml catridges, Insulin Soluble 100IU/ml 10ml Vial, Insulin Syringe 100IU with Needle G26/29, Intestinal obstruction, Iodine Crystal 100g, Iodine Solution 2% 500ml, Iron Dextran 10mg/ml 2ml Vial, Irrigation can with accessories, Isoniazid 300mg Tab, IV Cannula G16 with Port, IV Cannula G18 with Port, IV Cannula G20 with Port, IV Cannula G22 with Port, IV Cannula G24 with Port, IV Cannula G24 without Port, IV Giving set Disposable, Ketamine 10mg/ml 10ml Vial, Ketamine 10mg/ml 20ml Vial, Ketoconazole 200mg Tab, Kidney Dish Polypropylene 24cm, Kidney Dish stainless Steel 20cm, Kidney Dish stainless Steel 24cm, Knee Surgery 123, Laparotomy, Lead Apron 100cmx60cm, Lignocaine 2% 20ml Vial, Lignocaine 2% Adrenaline Dent.cartridges, Lignocaine spinal 50mg/ml 2ml Amp, Liquid detergent 20Ltr, liquid detergent 5Ltr Perfumed, Lower limb, Mackintosh Plastic (Apron) per 1m, Mackintosh Rubber Brown (sheeting) per 1m, Measuring Cup Graduated 25ml, Mechanical, Methanol 99% 1ltr, Methylergomeatrine 0.2mg/ml 1ml Amp, Methylergomeatrine 0.5mg/ml 1ml Amp, Metoclopramide 5mg/ml 100ml Amp, Metronidazole 5mg/ml 2ml IV, Mise -a- plat, Morphine 15mg/ml 1ml Amp, Mosquito Net Impregnated Large, Mosquito Net Impregnated Medium, Mosquito Net Impregnation Liquid 500ml, Mosquito Net Impregnation Tablet, Mosquito Net Non Impregnated Large, Mosquito Net Non Impregnated Medium, Mosquito Wall spray Powder 80g, Nasogastric Tube G10 (Children), Nasogastric Tube G14 (Children), Nasogastric Tube G16 (Children), Nasogastric Tube G5 (Children), Nasogastric Tube G6 (Children), Nasogastric Tube G8 (Children), Neck Support Large, Neck Support Medium, Neck Support Small, Needle container disposable of contaminated, Needle suture No 5 cutting, Needle suture No 5 round, Needle suture No 6 Round, Needles Luer G20 Disposable, Needles Luer G21 Disposable, Needles Luer G22 Disposable, Needles Luer G23 Disposable, Needles Spinal G20x75-120mm, Needles Spinal G22x40mm, Needles Spinal G22x75-120mm, Needles Spinal G25x75-120mm, Neutral Red, NEW OPERATION, NEW OPERATION TWO, NEW ORTHOPEDICAL DISEASE, Non 111 Chloride (Ferric chloride), Non strangulated, Nystatin 100.000 IU Pessaries, Nystatin 500.000IU/ Susp/ Drops, Operation New, Oral Rehydration Salt (ORS), Osteomyelitis - sequestrectomy, Ovarian tumours, Oxytocin 10 IU/ml 1ml Amp, Paracetamol 120mg/5ml 100ml, Paracetamol 120mg/5ml Syrup, Paraphimosis, Pelvic abscess, Penetrating abdominal injuries, Peritonitis, Peritonitis, Pethidine 100mg/ml 2ml Amp, Pethidine 50mg/ml 1ml Amp, Phenobarbital 100mg/ml 2ml Amp, Phenol crystals 1kg, Phimosis, Phytomenadione 10mg/ml 1ml Amp, Phytomenadione 1mg/ml 1ml Amp, Plaster of Paris 10cm, Plaster of Paris 15cm, Potassium iodide 100g, Potassium Oxalate, Pregnacy ( HGG Latex) 50 tests, Procaine Penicillin Fortified 4 MIU Vial, Promethazine 25mg/ml 2ml Amp, Prostate biopsy, Prostatectomy, Pyridoxine 50mg Tab, Quinine 100mg/5ml Syrup 100ml, Quinine 300mg Tab, Quinine Di-HCI 300mg/ml 2ml Amp, Ranitidine 150mg Tab, Ranitidine 25mg/ml 2ml Amp, Razor Blades Disposable 5pc, Rectal Tube CH24, Rectal Tube CH26, Reduction of fractures, Repair of vesico-vaginal fistula (vvf), Rifampicin/Isoniazid 150/100 Tab, RPR ( VDRL Carbon ) Antigen 5ml, RPR 125mm x 75mm, Ruptured uterus, Salbutamol 4mg Tab, Salbutamol Inhaler 10ml, Salbutamol solution for inhalation 5ml, Scalp Vein G19 Infusion set, Scalp Vein G21 Infusion set, Scalp Vein G23 Infusion set, Scalp Vein G25 Infusion set, Septic abortion, Soap Blue Bar 550g, Soap Powder Hand wash 5kg, Sodium Carbonate Anhydrous, Sodium Carbonate Anhydrous 500g, Sodium Chloride 0.9% IV 500ml, Sodium Chloride Apyrogen 50kg, Sodium Citrate 100g, Sodium Fluoride, Sodium Hypochlorite solution 0.75 Ltr, Sodium Hypochlorite solution 5Ltr, Sodium Lactate Compound IV 500ml, Sodium Nitrate 25g, Sodium Sulphate 500g, Spironolactone 25mg Tab, Spoon Medicine 5ml, Stethoscope Foetal Metal, Stethoscope Foetal Wood, Strangulated, Streptomycin 1g Vial, Suction Catheter Size 10 Disposable, Suction Catheter Size 12 Disposable, Suction Catheter Size 14 Disposable, Suction Catheter Size 16 Disposable, Suction Catheter Size 6 Disposable, Suction Catheter Size 8 Disposable, Sulphosalicylic Acid 500g, Sulphuric Acid Conc 1ltr, Surgical Blades No 20, Surgical Blades No 21, Surgical Blades No 22, Surgical Blades No 23, Surgical Brush (Scrubbing), Surgical Mop 12 x 15, Surgical toilet  & suture, Suture Cutgut Chromic (0), Suture Cutgut Chromic (2) RN22240TH, Suture Cutgut Chromic (2/0) RN22230TH, Suture Cutgut Chromic (3/0) RN2325TF, Suture Cutgut Plain (2/0) RN1230TF, Suture PGA (3/0) RN3330TF, Suture Silk (1) S595, Suture Silk (2/0) RN5230TF, Suxamethonium 500mg Vial, Suxamethonium 500mg/ml 2ml Amp, Syringe Feeding/Irrigation 50/60ml, Syringe Luer 10ml With Needle Disposable, Syringe Luer 20ml With Needle Disposable, Syringe Luer 2ml With Needle Disposable, Syringe Luer 5ml With Needle Disposable, Tablet Counting Tray, Testicular tumours, tetanus Antitoxin 1500 IU 1ml Amp, Tetracycline eye ointment 1% 3.5g, Thermometer Clinical Flat Type, Thermometer Clinical Prismatic Type, Thiopental Sodium 500mg Vial, Toilet Paper Rolls, Tolbutamide 500mg tab, Tongue depressor Disposable, Traction Kit Adult, Traction Kit Children, Trichloro acetic Acid, Trisodium Citrate, Umbilical Cord Tie non sterile 100m, Umbilical Cord Tie sterile 22m, Upper limb, UREA Calorimetric 300 Tests, Uretheral stricture-bougienage, Urinal 1Ltr / 2Ltr, Urine Collecting Bag sterile 2Ltr, Urine Test Strips 3 Parameters 100 tests, Uterine fibroids, Uterine prolapse, Vitamin A 200.000 IU Caps, Vitamin B Complex Tab, Volvulus, Water for Injection 10ml Vial, X-Ray Developer 2.6kg for 22.5Ltr, X-Ray Film 18x24cm, X-Ray Film 20x40cm, X-Ray Film 24x30cm, X-Ray Film 30x40cm, X-Ray Film 35x35cm, X-Ray Film 43x35cm, X-Ray Film Cassette  18x24cm with screen, X-Ray Film Cassette  24x30cm with screen, X-Ray Film Cassette  30x40cm with screen, X-Ray Film Cassette  35x35cm with screen, X-Ray Film Cassette  35x43cm with screen, X-Ray Fixer 3.3kg for 22.5 Ltr, Xylene 2.5 ltrs]
+Message FRL: The Security Log for the HEADER was generated in: 4 milliseconds
+[25/Apr/2023 19:52:56] [admin:admin] INFO - The Method: getPrices DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:52:56 PM MDT
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Name         : org.isf.pricesothers.manager.PricesOthersManager.getOthers
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Return Value : [Amount per day]
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[25/Apr/2023 19:52:56] [admin:admin] INFO - The Method: getOthers DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getItems() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:52:56 PM MDT
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Name         : org.isf.accounting.manager.BillBrowserManager.getItems
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Return Value : [org.isf.accounting.model.BillItems@c34, org.isf.accounting.model.BillItems@c35, org.isf.accounting.model.BillItems@c36, org.isf.accounting.model.BillItems@c37]
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Parameter Name  : billID
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Parameter Value : 26
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:52:56 PM MDT
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Name         : org.isf.accounting.manager.BillBrowserManager.getPayments
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Return Value : []
+Message FRL: The Security Log for the HEADER was generated in: 4 milliseconds
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Parameter Name  : billID
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Parameter Value : 26
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:52:56 PM MDT
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Name         : org.isf.pricesothers.manager.PricesOthersManager.getOthers
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Return Value : [Amount per day]
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[25/Apr/2023 19:52:56] [admin:admin] INFO - The Method: getOthers DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientById() was Generated in : 0 milliseconds.
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:52:56 PM MDT
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:52:56] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Name         : org.isf.patient.manager.PatientBrowserManager.getPatientById
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Return Type  : org.isf.patient.model.Patient
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Method Return Value : Valentina Guzman Perez
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Parameter Name  : code
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:52:56] [admin:admin] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: updateBill() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:53:08] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:53:08] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:53:08 PM MDT
+[25/Apr/2023 19:53:08] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:53:08] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:53:08] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Method Name         : org.isf.accounting.manager.BillBrowserManager.updateBill
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Method Return Type  : java.lang.Boolean
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Method Return Value : true
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Parameter Name : updateBill
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Parameter Type : org.isf.accounting.model.Bill
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Add Log 1         : true
+[25/Apr/2023 19:53:08] [admin:admin] INFO - The Parameter: updateBill has 14 Attributes
+Message FRL: The Security Log for a METHOD, PARAMETER OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Name  : id
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Type  : int
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Value : 26
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Name  : date
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Type  : java.time.LocalDateTime
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Value : 2023-04-25T19:39:30
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Name  : update
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Type  : java.time.LocalDateTime
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Value : 2023-04-25T19:39:30
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Name  : isList
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Type  : boolean
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Value : true
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Name : list
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Type : org.isf.priceslist.model.PriceList
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 2 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - The Attribute: list has 14 SubAttributes
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : id
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : int
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : 1
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : code
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : LIST001
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : name
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : Basic
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 3 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : description
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : Basic price list
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : currency
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 2 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Name  : listName
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Value : Basic
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Name  : isPatient
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Type  : boolean
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Value : true
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Name : billPatient
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Type : org.isf.patient.model.Patient
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - The Attribute: billPatient has 14 SubAttributes
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : code
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.Integer
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : 125
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : firstName
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : Valentina
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : secondName
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : Guzman Perez
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : name
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : Valentina Guzman Perez
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : birthDate
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.time.LocalDate
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : 1973-04-25
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : age
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : int
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : 50
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : agetype
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : sex
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : char
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : F
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : address
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : 9 Grafton Street
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : city
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : Dublin, Ireland
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : nextKin
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : 1
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : telephone
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : +39123456
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : note
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : motherName
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : Maria
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : mother
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : char
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : A
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : fatherName
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : Juan
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : father
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : char
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : A
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : bloodType
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : 0+
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : hasInsurance
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : char
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : Y
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : parentTogether
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : char
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : Y
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 4 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : taxCode
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : maritalStatus
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : married
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : profession
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : medicine
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Name  : deleted
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - SubAttribute Value : N
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Name  : patName
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Value : Valentina Guzman Perez
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Name  : status
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Value : O
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Name  : user
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Value : admin
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Name  : hashCode
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Type  : int
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Attribute Value : 3085
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Parameter Name  : billItems
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Parameter Value : [org.isf.accounting.model.BillItems@c34, org.isf.accounting.model.BillItems@c35, org.isf.accounting.model.BillItems@c36, org.isf.accounting.model.BillItems@c37]
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Parameter Name  : billPayments
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:53:08] [admin:admin] INFO - Parameter Value : []
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:53:43] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:53:43] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:53:43 PM MDT
+[25/Apr/2023 19:53:43] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:53:43] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:53:43] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:53:43] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:53:43] [admin:admin] INFO - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+[25/Apr/2023 19:53:43] [admin:admin] INFO - Method Return Type  : org.isf.admission.model.AdmittedPatient
+[25/Apr/2023 19:53:43] [admin:admin] INFO - Method Return Value : org.isf.admission.model.AdmittedPatient@4fadba7f
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[25/Apr/2023 19:53:43] [admin:admin] INFO - Parameter Name  : patientId
+[25/Apr/2023 19:53:43] [admin:admin] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:53:43] [admin:admin] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPendingBills() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:53:43] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:53:43] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:53:43 PM MDT
+[25/Apr/2023 19:53:43] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:53:43] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:53:43] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:53:43] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:53:43] [admin:admin] INFO - Method Name         : org.isf.accounting.manager.BillBrowserManager.getPendingBills
+[25/Apr/2023 19:53:43] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:53:43] [admin:admin] INFO - Method Return Value : [org.isf.accounting.model.Bill@c0d]
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[25/Apr/2023 19:53:43] [admin:admin] INFO - Parameter Name  : patID
+[25/Apr/2023 19:53:43] [admin:admin] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:53:43] [admin:admin] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospitalCurrencyCod() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:53:45 PM MDT
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Name         : org.isf.hospital.manager.HospitalBrowsingManager.getHospitalCurrencyCod
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Return Type  : 
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Return Value : 
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[25/Apr/2023 19:53:45] [admin:admin] INFO - The Method: getHospitalCurrencyCod DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPrices() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:53:45 PM MDT
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Name         : org.isf.priceslist.manager.PriceListManager.getPrices
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Return Value : [1.1 HB, 1.1 HB (Procedure 3), 1.2 WBC Count, 1.3 Differential , 1.4 Film Comment, 1.5 ESR, 1.6 Sickling Test, 2.1 Grouping, 2.2 Comb's Test, 3.1 Blood Slide (Malaria), 3.2 Blood Slide (OTHERS, E.G. TRIUPHANOSOMIAS, MICRIFILARIA, LEISHMANIA, BORRELIA), 3.21 Trypanosomiasis, 3.22 MICROFILARIA, 3.23 LEISHMANIA, 3.24 BORRELIA, 3.3 STOOL MICROSCOPY, 3.4 URINE MICROSCOPY, 3.5 TISSUE MICROSCOPY, 3.6 CSF WET PREP, 4 Dimethyl Aminobenzaldelyde, 4.1 CULTURE AND SENSITIVITY (C&S) FOR HAEMOPHILUS INFUENZA TYPE B, 4.2 C&S FOR SALMONELA TYPHI, 4.3 C&S FOR VIBRO CHOLERA, 4.4 C&S FOR SHIGELLA DYSENTERIAE, 4.5 C&S FOR NEISSERIA MENINGITIDES, 4.6 OTHER C&S , 5.1 WET PREP, 5.2 GRAM STAIN, 5.3 INDIA INK, 5.4 LEISMANIA, 5.5 ZN, 5.6 WAYSON, 5.7 PAP SMEAR, 6.1 VDRL/RPR, 6.2 TPHA, 6.3 HIV, 6.4 HEPATITIS, 6.5 OTHERS E.G BRUCELLA, RHEUMATOID FACTOR, WEIL FELIX, 6.6 PREGANCY TEST, 7.1 PROTEIN, 7.2 SUGAR, 7.3 LFTS, 7.3.1 BILIRUBIN TOTAL, 7.3.2 BILIRUBIN DIRECT, 7.3.3 GOT, 7.3.4 ALT/GPT, 7.4 RFTS, 7.4.1 CREATININA, 7.4.2 UREA, 8.1 OCCULT BLOOD, 9.1 URINALYSIS, Abdominal Tumours, Acetazolamide 250mg Tab, Acetic Acid Glacial 1 ltr, Aceton 99% 1ltr, Aciclovir, Acute abdomen, Acyclovir 200mg Tab, Adhesive Tape 2.5cm x 5m, Adhesive Tape 7.5cm x 5m, Adrenaline 1mg/ml 1ml Amp, Air ring set 43x15cm, rubber with pump, Airway Guedel Size 0, Airway Guedel Size 00, Airway Guedel Size 1, Airway Guedel Size 2, Airway Guedel Size 3, Albendazole 200mg Tab, Albendazole 400mg Tab, Alcohol 95% not denatured 20Ltrs, Aminophylline 100mg Tab, Aminophylline 25mg/ml,10ml Amp, Amitriptyline 25mg Tab, Ammonium Oxalate, Amount per day, Amoxicillin /Clavulanate 375mg Tab, Amoxicillin 125mg/5ml Powd. Susp 100ml, Amoxicillin 250mg Caps, Amphotericin B 50mg Vial, Ampicillin 500mg Vial, Anti Serum A 10ml, Anti Serum AB 10ml, Anti Serum B 10ml, Anti Serum D 10ml, Antihaemorrhoid suppositories, Appendicitis, Apron Plastic Re-usable, Apron Plastic Re-usable local, Apron Polythene Disp Non Sterile, Ascorbic Acid 100mg tab, Aspirin 300mg Tab, Atenolol 100mg Tab, Atenolol 50mg Tab, Atropine 1mg/ml 1ml Amp, Barium Sulphate for X-Ray 1kg, Beclomethasone 50mcg Inhaler, Bedpan Plastic Autoclavable, Bedpan Stainless Steel, Bendrofluazide 5mg Tab, Benzathine Penicillin 2.4 MIU Vial, Benzhexol 2mg Tab, Benzhexol 5mg Tab, Benzyl Penicillin 1 MIU Vial, Benzyl Penicillin 5 MIU Vial, Betamethasone 0.1% eye/ear/nose drops, Betamethasone 0.1% Neomycin 0.35 %eye drops 7.5ml, Bisacodyl 5mg Tab, Bladder biopsy, Blood giving set Disposable, Blood Transfer Bag 300ml, Body Bag 70 x 215cm  (Adult), Bowl Without Lid 10 x 24cm stainless steel, Bowl Without Lid 7 x 12cm stainless steel, Bowl Without Lid 8 x 16cm stainless steel, Brilliant Cresyl Blue, Caesarian section, Calcium Lactate 300mg Tab, Carbamazepine 200mg Tab, Carbimazole 5mg Tab, Catheter Foley CH10 3 Way Balloon, Catheter Foley CH12 3 Way Balloon, Catheter Foley CH14 3 Way Balloon, Catheter Foley CH16 3 Way Balloon, Catheter Foley CH18 3 Way Balloon, Catheter Foley CH20 3 Way Balloon, Catheter Foley CH8 3 Way Balloon, Catheter Stopper for All sizes, Charcoal 250mg Tab, Chloramphenicol 0.5% Eye Drops 10ml, Chloramphenicol 125mg/5ml Susp 100ml, Chloramphenicol 125mg/5ml Susp 3Ltr, Chloramphenicol 1g Vial, Chloramphenicol 250mg Caps, Chlorhexidine/Cetrimide 1.5/15% 1Ltr, Chlorhexidine/Cetrimide 1.5/15% 5Ltr, Chloroquine 40mg Base/ml 5ml Amp, Chloroquine Coated 150mg Tab, Chloroquine Uncoated 150mg Tab, Chlorphenimine 4mg Tab, Chlorpromazine 100mg Tab, Chlorpromazine 25mg Tab, Chlorpromazine 25mg/ml/2ml Amp, Cholecystitis, Cimetidine 200mg Tab, Cimetidine 400mg Tab, Ciprofloxacine 250mg Tab, Ciprofloxacine 500mg Tab, Circumcision, Cloramphenicol 1% Eye Ointment 3.5g, Clotrimazole 100mg Pessaries, Clotrimazole 500mg Pessaries, Cloxacillin 250mg Tab, Cloxacillin 500mg Vial, Codein Phosphate 30mg Tab, Colostomy Bag closed 30mm size 2, Colostomy Bag closed 30mm size 3, Colostomy Bag open re-usable 35mm, Copper 11 Sulphate 500g, Cotrimoxazole 100/20mg Paed Tab, Cotrimoxazole 200+40mg/5ml Susp 100ml, Cotrimoxazole 200+40mg/5ml Susp 3Ltr, Cotrimoxazole 400/80mg Tab, Cotton Wool 200G, cotton Wool 500G, Creatinine 200ml (Calorimetric), Crystal Violet, Cyclophosphamide 200mg Vial, Cyclophosphamide 500mg Vial, Cystocele, Darrows Half Strength 500ml, Debridement, Dexamethasone 0.5mg Tab, Dexamethasone 4mg/ml 1ml Amp, Dexamethasone 4mg/ml 2ml Amp, Dextrose 30% IV 100ml, Dextrose 5% IV 500ml, Dextrose 50% IV 100ml, Dextrose Monohydrate Apyrogen 25Kg, Diatrizoate Meglumin Sod 76% 20ml Amp, Diazepam 2mg/ml 2.5ml Rectal Tube, Diazepam 5mg / ml 2ml Amp, Diazepam 5mg Tab, Diclofenac 25mg/ml 3ml Amp, Diclofenac 50mg Tab, Diethylcarbamazine 50mg Tab, Digoxin 0.25 mg Tab, Digoxin 0.25 mg/ml 2ml Amp, Dilatation and curettage, Dorsal slit-paraphimosis, Doxycycline 100mg Tab, Ear syringe rubber 60ml, Ectopic pregnancy, EDTA Di- sodium salt 100g, Elastic Bandage 10cm x 4.5m, Elastic Bandage 7.5cm x 4.5m, Eosin Yellowish, Ephedrine 30mg Tab, Epigastrical Hernia, Erythromycin 250mg Tab, Ethanol Absolute 1ltr, Evacuations, Eye Pad Sterile, Fansidar 500/25mg Tab, Fansidar 500/25mg Tab (50dosesx3), Ferrous Sulphate 200mg Tab, Field stain A and B, First Aid kit, Fluconazole 100mg 24 Caps, Fluconazole 100mg Tab, Folic Acid 15mg Tab, Folic Acid 1mg Tab, Folic Acid 5mg Tab, Folic Acid/Ferrous Sulp 0.5/200mg Tab, Formaldehyde solution 35-38% 1ltr, Frusemide 40mg Tab, Furosemide 10mg/ml 2ml Amp, Gallipot stainless steel 200ml/10cm, Gallipot stainless steel 300ml/15cm, Gauze Bandage 10cm x 4m, Gauze Bandage 7.5cm x 3.65-4m, Gauze Hydrophylic 90cm x 91cm, Gauze Pads  Sterile 10cm x 10cm, Gauze Pads Non Sterile 10cm x 10cm, Genitian Violet, Gentamicin 0.3% eye/ear drops 10ml, Gentamicin 40mg/ml 2ml, Gentian Violet 25g Tin, Giemsa Stain, Glibenclamide 5mg Tab, Gloves Domestic, Gloves Gynaecological 7.5-8, Gloves High risk non sterile Medium, Gloves Non Sterile Large Disposable, Gloves Non Sterile Medium Disposable, Gloves Surgical Sterile 6, Gloves Surgical Sterile 6.5, Gloves Surgical Sterile 7, Gloves Surgical Sterile 7.5, Gloves Surgical Sterile 8, Gloves Surgical Sterile 8.5, Glucose GOD PAD  6 x 100ml (Colorimetric), Glucose Test Strip, Glucose Test Strips (Hyloguard), GOT ( AST) 200ml (Calorimetric) AS 147, GOT ( AST) 200ml has no NAOH) AS 101, GPT (ALT) 200ml ( Does not have NAOH), Griseofulvin 500mg Tab, Haloperidol 5mg, Haloperidol 5mg Tab, Haloperidol 5mg/ml 1ml Amp, Haloperidol Decanoate 50mg/ml 1ml Amp, Handle for surgical blade No 3, Handle for surgical blade No 4, HERNIA, Hernia (inguinal & femoral), HIV 1/2 Capillus Kit 100Tests, HIV Buffer for determine Kit, HIV Determine 1/11 (Abbott) 100Tests, HIV UNIGOLD 1/11 Test Kits 20 Tests, Hot water Bottle 2Ltr, Hydralazine 20mg Vial, Hydralazine 25mg Tab, Hydrocelectomy, Hydrochloric Acid 30-33% 1ltr, Hydrocortisone 1% eye drops 5ml, Hydrocortisone 100mg Vial, Hydrogen Peroxide 6% 250ml, Hyoscine 10mg Tab, Hyoscine Butyl Bromide 20mg/ml/ Amp, Hysterectomy, Ibuprofen 200mg Tab, Imipramine 25mg Tab, Incision & Drainage, Incomplete abortion, Indomethacin 25mg Tab, Injured uterus, Insectcide Spray 400g, Instrument Box With Lid 20x10x5cm, Instrument Tray 30 x 20 x 2cm, Insulin Isophane 100IU/ml 10ml Vial, Insulin Isophane 40IU/ml 10ml, Insulin Mixtard 30/70 100IU/ml 10ml Vial, Insulin Mixtard 30/70 100IU/ml 5x3ml catridges, Insulin Soluble 100IU/ml 10ml Vial, Insulin Syringe 100IU with Needle G26/29, Intestinal obstruction, Iodine Crystal 100g, Iodine Solution 2% 500ml, Iron Dextran 10mg/ml 2ml Vial, Irrigation can with accessories, Isoniazid 300mg Tab, IV Cannula G16 with Port, IV Cannula G18 with Port, IV Cannula G20 with Port, IV Cannula G22 with Port, IV Cannula G24 with Port, IV Cannula G24 without Port, IV Giving set Disposable, Ketamine 10mg/ml 10ml Vial, Ketamine 10mg/ml 20ml Vial, Ketoconazole 200mg Tab, Kidney Dish Polypropylene 24cm, Kidney Dish stainless Steel 20cm, Kidney Dish stainless Steel 24cm, Knee Surgery 123, Laparotomy, Lead Apron 100cmx60cm, Lignocaine 2% 20ml Vial, Lignocaine 2% Adrenaline Dent.cartridges, Lignocaine spinal 50mg/ml 2ml Amp, Liquid detergent 20Ltr, liquid detergent 5Ltr Perfumed, Lower limb, Mackintosh Plastic (Apron) per 1m, Mackintosh Rubber Brown (sheeting) per 1m, Measuring Cup Graduated 25ml, Mechanical, Methanol 99% 1ltr, Methylergomeatrine 0.2mg/ml 1ml Amp, Methylergomeatrine 0.5mg/ml 1ml Amp, Metoclopramide 5mg/ml 100ml Amp, Metronidazole 5mg/ml 2ml IV, Mise -a- plat, Morphine 15mg/ml 1ml Amp, Mosquito Net Impregnated Large, Mosquito Net Impregnated Medium, Mosquito Net Impregnation Liquid 500ml, Mosquito Net Impregnation Tablet, Mosquito Net Non Impregnated Large, Mosquito Net Non Impregnated Medium, Mosquito Wall spray Powder 80g, Nasogastric Tube G10 (Children), Nasogastric Tube G14 (Children), Nasogastric Tube G16 (Children), Nasogastric Tube G5 (Children), Nasogastric Tube G6 (Children), Nasogastric Tube G8 (Children), Neck Support Large, Neck Support Medium, Neck Support Small, Needle container disposable of contaminated, Needle suture No 5 cutting, Needle suture No 5 round, Needle suture No 6 Round, Needles Luer G20 Disposable, Needles Luer G21 Disposable, Needles Luer G22 Disposable, Needles Luer G23 Disposable, Needles Spinal G20x75-120mm, Needles Spinal G22x40mm, Needles Spinal G22x75-120mm, Needles Spinal G25x75-120mm, Neutral Red, NEW OPERATION, NEW OPERATION TWO, NEW ORTHOPEDICAL DISEASE, Non 111 Chloride (Ferric chloride), Non strangulated, Nystatin 100.000 IU Pessaries, Nystatin 500.000IU/ Susp/ Drops, Operation New, Oral Rehydration Salt (ORS), Osteomyelitis - sequestrectomy, Ovarian tumours, Oxytocin 10 IU/ml 1ml Amp, Paracetamol 120mg/5ml 100ml, Paracetamol 120mg/5ml Syrup, Paraphimosis, Pelvic abscess, Penetrating abdominal injuries, Peritonitis, Peritonitis, Pethidine 100mg/ml 2ml Amp, Pethidine 50mg/ml 1ml Amp, Phenobarbital 100mg/ml 2ml Amp, Phenol crystals 1kg, Phimosis, Phytomenadione 10mg/ml 1ml Amp, Phytomenadione 1mg/ml 1ml Amp, Plaster of Paris 10cm, Plaster of Paris 15cm, Potassium iodide 100g, Potassium Oxalate, Pregnacy ( HGG Latex) 50 tests, Procaine Penicillin Fortified 4 MIU Vial, Promethazine 25mg/ml 2ml Amp, Prostate biopsy, Prostatectomy, Pyridoxine 50mg Tab, Quinine 100mg/5ml Syrup 100ml, Quinine 300mg Tab, Quinine Di-HCI 300mg/ml 2ml Amp, Ranitidine 150mg Tab, Ranitidine 25mg/ml 2ml Amp, Razor Blades Disposable 5pc, Rectal Tube CH24, Rectal Tube CH26, Reduction of fractures, Repair of vesico-vaginal fistula (vvf), Rifampicin/Isoniazid 150/100 Tab, RPR ( VDRL Carbon ) Antigen 5ml, RPR 125mm x 75mm, Ruptured uterus, Salbutamol 4mg Tab, Salbutamol Inhaler 10ml, Salbutamol solution for inhalation 5ml, Scalp Vein G19 Infusion set, Scalp Vein G21 Infusion set, Scalp Vein G23 Infusion set, Scalp Vein G25 Infusion set, Septic abortion, Soap Blue Bar 550g, Soap Powder Hand wash 5kg, Sodium Carbonate Anhydrous, Sodium Carbonate Anhydrous 500g, Sodium Chloride 0.9% IV 500ml, Sodium Chloride Apyrogen 50kg, Sodium Citrate 100g, Sodium Fluoride, Sodium Hypochlorite solution 0.75 Ltr, Sodium Hypochlorite solution 5Ltr, Sodium Lactate Compound IV 500ml, Sodium Nitrate 25g, Sodium Sulphate 500g, Spironolactone 25mg Tab, Spoon Medicine 5ml, Stethoscope Foetal Metal, Stethoscope Foetal Wood, Strangulated, Streptomycin 1g Vial, Suction Catheter Size 10 Disposable, Suction Catheter Size 12 Disposable, Suction Catheter Size 14 Disposable, Suction Catheter Size 16 Disposable, Suction Catheter Size 6 Disposable, Suction Catheter Size 8 Disposable, Sulphosalicylic Acid 500g, Sulphuric Acid Conc 1ltr, Surgical Blades No 20, Surgical Blades No 21, Surgical Blades No 22, Surgical Blades No 23, Surgical Brush (Scrubbing), Surgical Mop 12 x 15, Surgical toilet  & suture, Suture Cutgut Chromic (0), Suture Cutgut Chromic (2) RN22240TH, Suture Cutgut Chromic (2/0) RN22230TH, Suture Cutgut Chromic (3/0) RN2325TF, Suture Cutgut Plain (2/0) RN1230TF, Suture PGA (3/0) RN3330TF, Suture Silk (1) S595, Suture Silk (2/0) RN5230TF, Suxamethonium 500mg Vial, Suxamethonium 500mg/ml 2ml Amp, Syringe Feeding/Irrigation 50/60ml, Syringe Luer 10ml With Needle Disposable, Syringe Luer 20ml With Needle Disposable, Syringe Luer 2ml With Needle Disposable, Syringe Luer 5ml With Needle Disposable, Tablet Counting Tray, Testicular tumours, tetanus Antitoxin 1500 IU 1ml Amp, Tetracycline eye ointment 1% 3.5g, Thermometer Clinical Flat Type, Thermometer Clinical Prismatic Type, Thiopental Sodium 500mg Vial, Toilet Paper Rolls, Tolbutamide 500mg tab, Tongue depressor Disposable, Traction Kit Adult, Traction Kit Children, Trichloro acetic Acid, Trisodium Citrate, Umbilical Cord Tie non sterile 100m, Umbilical Cord Tie sterile 22m, Upper limb, UREA Calorimetric 300 Tests, Uretheral stricture-bougienage, Urinal 1Ltr / 2Ltr, Urine Collecting Bag sterile 2Ltr, Urine Test Strips 3 Parameters 100 tests, Uterine fibroids, Uterine prolapse, Vitamin A 200.000 IU Caps, Vitamin B Complex Tab, Volvulus, Water for Injection 10ml Vial, X-Ray Developer 2.6kg for 22.5Ltr, X-Ray Film 18x24cm, X-Ray Film 20x40cm, X-Ray Film 24x30cm, X-Ray Film 30x40cm, X-Ray Film 35x35cm, X-Ray Film 43x35cm, X-Ray Film Cassette  18x24cm with screen, X-Ray Film Cassette  24x30cm with screen, X-Ray Film Cassette  30x40cm with screen, X-Ray Film Cassette  35x35cm with screen, X-Ray Film Cassette  35x43cm with screen, X-Ray Fixer 3.3kg for 22.5 Ltr, Xylene 2.5 ltrs]
+Message FRL: The Security Log for the HEADER was generated in: 9 milliseconds
+[25/Apr/2023 19:53:45] [admin:admin] INFO - The Method: getPrices DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:53:45 PM MDT
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Name         : org.isf.pricesothers.manager.PricesOthersManager.getOthers
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Return Value : [Amount per day]
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[25/Apr/2023 19:53:45] [admin:admin] INFO - The Method: getOthers DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getItems() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:53:45 PM MDT
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Name         : org.isf.accounting.manager.BillBrowserManager.getItems
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Return Value : [org.isf.accounting.model.BillItems@c34, org.isf.accounting.model.BillItems@c35, org.isf.accounting.model.BillItems@c36, org.isf.accounting.model.BillItems@c37]
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Parameter Name  : billID
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Parameter Value : 26
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 0 milliseconds.
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:53:45 PM MDT
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Name         : org.isf.accounting.manager.BillBrowserManager.getPayments
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Return Value : []
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Parameter Name  : billID
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Parameter Value : 26
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 0 milliseconds.
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:53:45 PM MDT
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Name         : org.isf.pricesothers.manager.PricesOthersManager.getOthers
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Return Value : [Amount per day]
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[25/Apr/2023 19:53:45] [admin:admin] INFO - The Method: getOthers DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientById() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:53:45 PM MDT
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:53:45] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Name         : org.isf.patient.manager.PatientBrowserManager.getPatientById
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Return Type  : org.isf.patient.model.Patient
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Method Return Value : Valentina Guzman Perez
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Parameter Name  : code
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:53:45] [admin:admin] INFO - Parameter Value : 125
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: updateBill() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:53:47] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:53:47] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:53:47 PM MDT
+[25/Apr/2023 19:53:47] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:53:47] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:53:47] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Method Name         : org.isf.accounting.manager.BillBrowserManager.updateBill
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Method Return Type  : java.lang.Boolean
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Method Return Value : true
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Parameter Name : updateBill
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Parameter Type : org.isf.accounting.model.Bill
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Add Log 1         : true
+[25/Apr/2023 19:53:47] [admin:admin] INFO - The Parameter: updateBill has 14 Attributes
+Message FRL: The Security Log for a METHOD, PARAMETER OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Name  : id
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Type  : int
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Value : 26
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Name  : date
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Type  : java.time.LocalDateTime
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Value : 2023-04-25T19:39:30
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Name  : update
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Type  : java.time.LocalDateTime
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Value : 2023-04-25T19:39:30
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Name  : isList
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Type  : boolean
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Value : true
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Name : list
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Type : org.isf.priceslist.model.PriceList
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - The Attribute: list has 14 SubAttributes
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : id
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : int
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : 1
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : code
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : LIST001
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : name
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : Basic
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : description
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : Basic price list
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : currency
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Name  : listName
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Value : Basic
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Name  : isPatient
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Type  : boolean
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Value : true
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Name : billPatient
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Type : org.isf.patient.model.Patient
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - The Attribute: billPatient has 14 SubAttributes
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : code
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.Integer
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : 125
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : firstName
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : Valentina
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : secondName
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : Guzman Perez
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : name
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : Valentina Guzman Perez
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : birthDate
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.time.LocalDate
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : 1973-04-25
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : age
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : int
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : 50
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : agetype
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : sex
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : char
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : F
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : address
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : 9 Grafton Street
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : city
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : Dublin, Ireland
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : nextKin
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : 1
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : telephone
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : +39123456
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : note
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : motherName
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : Maria
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : mother
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : char
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : A
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : fatherName
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : Juan
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : father
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : char
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : A
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : bloodType
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : 0+
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : hasInsurance
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : char
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : Y
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : parentTogether
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : char
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : Y
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 3 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : taxCode
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : maritalStatus
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : married
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : profession
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : medicine
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Name  : deleted
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - SubAttribute Value : N
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Name  : patName
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Value : Valentina Guzman Perez
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Name  : status
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Value : C
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Name  : user
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Value : admin
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Name  : hashCode
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Type  : int
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Attribute Value : 3085
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Parameter Name  : billItems
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Parameter Value : [org.isf.accounting.model.BillItems@c34, org.isf.accounting.model.BillItems@c35, org.isf.accounting.model.BillItems@c36, org.isf.accounting.model.BillItems@c37]
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Parameter Name  : billPayments
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:53:47] [admin:admin] INFO - Parameter Value : []
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[25/Apr/2023 19:53:47] [admin:admin] INFO - File txtPrinter.properties loaded.
+[25/Apr/2023 19:53:47] [admin:admin] WARN - TXT_CHAR_HEIGHT property not found: default is 10
+[25/Apr/2023 19:53:47] [admin:admin] WARN - TXT_CHAR_WIDTH property not found: default is 10
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:53:57] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:53:57] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:53:57 PM MDT
+[25/Apr/2023 19:53:57] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:53:57] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:53:57] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:53:57] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:53:57] [admin:admin] INFO - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.getAdmittedPatients
+[25/Apr/2023 19:53:57] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:53:57] [admin:admin] INFO - Method Return Value : [org.isf.admission.model.AdmittedPatient@59c57526, org.isf.admission.model.AdmittedPatient@57bf1128, org.isf.admission.model.AdmittedPatient@5cc2bd07]
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[25/Apr/2023 19:53:57] [admin:admin] INFO - The Method: getAdmittedPatients DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 0 milliseconds.
+[25/Apr/2023 19:53:57] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:53:57] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:53:57 PM MDT
+[25/Apr/2023 19:53:57] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:53:57] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:53:57] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:53:57] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:53:57] [admin:admin] INFO - Method Name         : org.isf.ward.manager.WardBrowserManager.getWards
+[25/Apr/2023 19:53:57] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[25/Apr/2023 19:53:57] [admin:admin] INFO - Method Return Value : [INTERNAL MEDICINE, MATERNITY, NURSERY, SURGERY]
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[25/Apr/2023 19:53:57] [admin:admin] INFO - The Method: getWards DOEST NOT have any INPUT Parameters
+Message FRL: The Security Log for a METHOD Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:54:05] [admin:admin] INFO - OS Name             : Windows Server 2016
+[25/Apr/2023 19:54:05] [admin:admin] INFO - OS Current Time     : 25/04/2023 07:54:05 PM MDT
+[25/Apr/2023 19:54:05] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[25/Apr/2023 19:54:05] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[25/Apr/2023 19:54:05] [admin:admin] INFO - OS UserName         : friverao
+[25/Apr/2023 19:54:05] [admin:admin] INFO - Annotation Type     : Method
+[25/Apr/2023 19:54:05] [admin:admin] INFO - Method Name         : org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients
+[25/Apr/2023 19:54:05] [admin:admin] INFO - Method Return Type  : org.isf.admission.model.AdmittedPatient
+[25/Apr/2023 19:54:05] [admin:admin] INFO - Method Return Value : org.isf.admission.model.AdmittedPatient@6f67f221
+Message FRL: The Security Log for the HEADER was generated in: 1 milliseconds
+[25/Apr/2023 19:54:05] [admin:admin] INFO - Parameter Name  : patientId
+[25/Apr/2023 19:54:05] [admin:admin] INFO - Parameter Type  : java.lang.String
+[25/Apr/2023 19:54:05] [admin:admin] INFO - Parameter Value : 126
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getTherapyRows() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisits() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: deleteAllTherapies() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newTherapies() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getTherapyRows() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisits() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: deleteAllTherapies() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newTherapies() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getTherapyRows() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisits() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOperation() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOperationType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOperationType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: isCodePresent() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: descriptionControl() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newOperation() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDeliveryResultType() was Generated in : 3 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newDeliveryResultType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: deleteDeliveryResultType() was Generated in : 1 milliseconds.
+[25/Apr/2023 19:56:05] [admin:admin] INFO - 
+
+=====================
+ Open Hospital closed 
+=====================
+
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in: 2520 milliseconds
+Message FRL: UML Sequence Diagram Text File created  : C:\Users\friverao\eclipse-workspace\Directories\Output\IncidentSequenceDiagram.txt
+Message FRL: UML Sequence Diagram Image File created : C:\Users\friverao\eclipse-workspace\Directories\Output\IncidentSequenceDiagram.png
+Message FRL: Good Bye to the Forensic-Ready Logger.

@@ -1,0 +1,657 @@
+07/04/2023 12:39:54 AM MDT INFO  Login:1283 - OS Name             : Windows Server 2016
+07/04/2023 12:39:54 AM MDT INFO  Login:1284 - OS Current Time     : 07/04/2023 12:39:54 AM MDT
+07/04/2023 12:39:54 AM MDT INFO  Login:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+07/04/2023 12:39:54 AM MDT INFO  Login:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+07/04/2023 12:39:54 AM MDT INFO  Login:1287 - OS UserName         : friverao
+07/04/2023 12:39:54 AM MDT INFO  Login:1288 - Annotation Type     : Method
+07/04/2023 12:39:54 AM MDT INFO  Login:1289 - Method Name         : org.isf.menu.gui.Login.acceptPwd
+07/04/2023 12:39:54 AM MDT INFO  Login:1290 - Method Return Type  : void
+07/04/2023 12:39:54 AM MDT INFO  Login:1291 - Method Return Value : 
+07/04/2023 12:39:54 AM MDT INFO  Login:1508 - The Method: acceptPwd DOEST NOT have any INPUT Parameters
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:1283 - OS Name             : Windows Server 2016
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:1284 - OS Current Time     : 07/04/2023 12:39:55 AM MDT
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:1287 - OS UserName         : friverao
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:1288 - Annotation Type     : Method
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:1289 - Method Name         : org.isf.menu.manager.UserBrowsingManager.getMenu
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:1290 - Method Return Type  : java.util.ArrayList
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:1291 - Method Return Value : [Types, Admission Type, New, New, Pharmaceuticals, New, New Patient, Users, New, New Bill, Edit Patient, Cashier's Filter, Edit, Pharmaceutical Stock, Examination, Edit, OPD, Edit, Examination, Groups, Edit, Examination, Charge, New Bill, Bill Manager, OPD Chart, Edit, Rectify, Examination, Edit Patient, Exams List, Discharge Type, Hospital, Merge, Report, Delete patient, Operation, Ward, Discharge, Delete, Edit Bill, Admission Chart, Admission/Patient, Delete, Disease List, Pharmaceutical Stock Ward, Delivery Type, Delete, Delete, Delete, Operation, Launch Report , Disease, Delivery Result Type, Data, Laboratory, Malnutrition control, Operation List, Edit Closed Bills, Excel, Exams, Delete Bill, Bill, Pharmacy, Disease Type, Admission, DICOM Patient, Exam Type, OPD, Vaccines, Operation, Report, Accounting, Receipt, Medicals Stock Mov Type, Vaccine, Therapy, Clinical sheet, Price Lists, Medicals Type, Worksheet, Statistics, Supplier, Operation Type, Reports, SMS Manager, Pregnant Treatment, Other Prices, Communication, Users & Groups, Settings, Age Type, Help, Vaccine Type, DICOM Type]
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:1102 - Parameter Name      : aUser
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:1103 - Parameter Type      : org.isf.menu.model.User
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:1132 - The Parameter: aUser has 5 Attributes
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:707 - Attribute Name      : userName
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:709 - Attribute Value     : admin
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:633 - Attribute Name      : userGroupName
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:634 - Attribute Type      : org.isf.menu.model.UserGroup
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:679 - The Attribute: userGroupName has 5 SubAttributes
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:707 - SubAttribute Name      : code
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:708 - SubAttribute Type      : java.lang.String
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:709 - SubAttribute Value     : admin
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:707 - SubAttribute Name      : desc
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:708 - SubAttribute Type      : java.lang.String
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:709 - SubAttribute Value     : User with all the privileges
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:707 - Attribute Name      : passwd
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:709 - Attribute Value     : $2a$10$FI/PMO0oSHHosF2PX8l3QuB0DJepVfnynbLZ9Zm2711bF2ch8db2S
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:707 - Attribute Name      : desc
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:39:55 AM MDT INFO  UserBrowsingManager:709 - Attribute Value     : administrator
+07/04/2023 12:40:48 AM MDT INFO  WardBrowserManager:1283 - OS Name             : Windows Server 2016
+07/04/2023 12:40:48 AM MDT INFO  WardBrowserManager:1284 - OS Current Time     : 07/04/2023 12:40:48 AM MDT
+07/04/2023 12:40:48 AM MDT INFO  WardBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+07/04/2023 12:40:48 AM MDT INFO  WardBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+07/04/2023 12:40:48 AM MDT INFO  WardBrowserManager:1287 - OS UserName         : friverao
+07/04/2023 12:40:48 AM MDT INFO  WardBrowserManager:1288 - Annotation Type     : Method
+07/04/2023 12:40:48 AM MDT INFO  WardBrowserManager:1289 - Method Name         : org.isf.ward.manager.WardBrowserManager.getWards
+07/04/2023 12:40:48 AM MDT INFO  WardBrowserManager:1290 - Method Return Type  : java.util.ArrayList
+07/04/2023 12:40:48 AM MDT INFO  WardBrowserManager:1291 - Method Return Value : [INTERNAL MEDICINE, MATERNITY, NURSERY, SURGERY]
+07/04/2023 12:40:48 AM MDT INFO  WardBrowserManager:1508 - The Method: getWards DOEST NOT have any INPUT Parameters
+07/04/2023 12:40:56 AM MDT INFO  ConfigurationProperties:91 - File sms.properties loaded.
+07/04/2023 12:40:56 AM MDT INFO  Webcam:1048 - WebcamDefaultDriver capture driver will be used
+07/04/2023 12:40:57 AM MDT WARN  Webcam:964 - No webcam has been detected!
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1283 - OS Name             : Windows Server 2016
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1284 - OS Current Time     : 07/04/2023 12:43:25 AM MDT
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1287 - OS UserName         : friverao
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1288 - Annotation Type     : Method
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1289 - Method Name         : org.isf.patient.manager.PatientBrowserManager.isNamePresent
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1290 - Method Return Type  : java.lang.Boolean
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1291 - Method Return Value : false
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1178 - Parameter Name      : name
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1179 - Parameter Type      : java.lang.String
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1180 - Parameter Value     : Enrique Acevedo
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1283 - OS Name             : Windows Server 2016
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1284 - OS Current Time     : 07/04/2023 12:43:25 AM MDT
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1287 - OS UserName         : friverao
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1288 - Annotation Type     : Method
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1289 - Method Name         : org.isf.patient.manager.PatientBrowserManager.savePatient
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1290 - Method Return Type  : org.isf.patient.model.Patient
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1291 - Method Return Value : Enrique Acevedo
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1102 - Parameter Name      : patient
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1103 - Parameter Type      : org.isf.patient.model.Patient
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:1132 - The Parameter: patient has 27 Attributes
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : code
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.Integer
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 105
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : firstName
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Enrique
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : secondName
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Acevedo
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : name
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Enrique Acevedo
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : birthDate
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.time.LocalDate
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 1983-04-07
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : age
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : int
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 40
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : agetype
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : sex
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : M
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : address
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 44 Clyde Lane
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : city
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Dublin
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : nextKin
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 123
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : telephone
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : +391234
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : note
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : motherName
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Maria
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : mother
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : A
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : fatherName
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Genaro
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : father
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : A
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : bloodType
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : A-
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : hasInsurance
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Y
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : parentTogether
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Y
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : taxCode
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 123
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : maritalStatus
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : unknown
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : profession
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : mining
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : deleted
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:43:25 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : N
+07/04/2023 12:43:59 AM MDT INFO  WardBrowserManager:1283 - OS Name             : Windows Server 2016
+07/04/2023 12:43:59 AM MDT INFO  WardBrowserManager:1284 - OS Current Time     : 07/04/2023 12:43:59 AM MDT
+07/04/2023 12:43:59 AM MDT INFO  WardBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+07/04/2023 12:43:59 AM MDT INFO  WardBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+07/04/2023 12:43:59 AM MDT INFO  WardBrowserManager:1287 - OS UserName         : friverao
+07/04/2023 12:43:59 AM MDT INFO  WardBrowserManager:1288 - Annotation Type     : Method
+07/04/2023 12:43:59 AM MDT INFO  WardBrowserManager:1289 - Method Name         : org.isf.ward.manager.WardBrowserManager.getWards
+07/04/2023 12:43:59 AM MDT INFO  WardBrowserManager:1290 - Method Return Type  : java.util.ArrayList
+07/04/2023 12:43:59 AM MDT INFO  WardBrowserManager:1291 - Method Return Value : [INTERNAL MEDICINE, MATERNITY, NURSERY, SURGERY]
+07/04/2023 12:43:59 AM MDT INFO  WardBrowserManager:1508 - The Method: getWards DOEST NOT have any INPUT Parameters
+07/04/2023 12:44:11 AM MDT INFO  ConfigurationProperties:91 - File sms.properties loaded.
+07/04/2023 12:44:11 AM MDT WARN  Webcam:964 - No webcam has been detected!
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:1283 - OS Name             : Windows Server 2016
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:1284 - OS Current Time     : 07/04/2023 12:44:30 AM MDT
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:1287 - OS UserName         : friverao
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:1288 - Annotation Type     : Method
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:1289 - Method Name         : org.isf.patient.manager.PatientBrowserManager.savePatient
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:1290 - Method Return Type  : org.isf.patient.model.Patient
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:1291 - Method Return Value : Mario Guzman
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:1102 - Parameter Name      : patient
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:1103 - Parameter Type      : org.isf.patient.model.Patient
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:1132 - The Parameter: patient has 27 Attributes
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : code
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.Integer
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 103
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : firstName
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Mario
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : secondName
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Guzman
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : name
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Mario Guzman
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : birthDate
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.time.LocalDate
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 2006-04-06
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : age
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : int
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 17
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : agetype
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : sex
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : M
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : address
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : One
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : city
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Amsterdam
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : nextKin
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 123
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : telephone
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : +39123
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : note
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : motherName
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Juana
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : mother
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : A
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : fatherName
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Mario
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : father
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : A
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : bloodType
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 0+
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : hasInsurance
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Y
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : parentTogether
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Y
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : taxCode
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 123
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : maritalStatus
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : single
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : profession
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : farming
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : deleted
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : N
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : lock
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : int
+07/04/2023 12:44:30 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 5
+07/04/2023 12:45:56 AM MDT INFO  WardBrowserManager:1283 - OS Name             : Windows Server 2016
+07/04/2023 12:45:56 AM MDT INFO  WardBrowserManager:1284 - OS Current Time     : 07/04/2023 12:45:56 AM MDT
+07/04/2023 12:45:56 AM MDT INFO  WardBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+07/04/2023 12:45:56 AM MDT INFO  WardBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+07/04/2023 12:45:56 AM MDT INFO  WardBrowserManager:1287 - OS UserName         : friverao
+07/04/2023 12:45:56 AM MDT INFO  WardBrowserManager:1288 - Annotation Type     : Method
+07/04/2023 12:45:56 AM MDT INFO  WardBrowserManager:1289 - Method Name         : org.isf.ward.manager.WardBrowserManager.getWards
+07/04/2023 12:45:56 AM MDT INFO  WardBrowserManager:1290 - Method Return Type  : java.util.ArrayList
+07/04/2023 12:45:56 AM MDT INFO  WardBrowserManager:1291 - Method Return Value : [INTERNAL MEDICINE, MATERNITY, NURSERY, SURGERY]
+07/04/2023 12:45:56 AM MDT INFO  WardBrowserManager:1508 - The Method: getWards DOEST NOT have any INPUT Parameters
+07/04/2023 12:46:01 AM MDT INFO  ConfigurationProperties:91 - File sms.properties loaded.
+07/04/2023 12:46:01 AM MDT WARN  Webcam:964 - No webcam has been detected!
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:1283 - OS Name             : Windows Server 2016
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:1284 - OS Current Time     : 07/04/2023 12:46:08 AM MDT
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:1287 - OS UserName         : friverao
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:1288 - Annotation Type     : Method
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:1289 - Method Name         : org.isf.patient.manager.PatientBrowserManager.savePatient
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:1290 - Method Return Type  : org.isf.patient.model.Patient
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:1291 - Method Return Value : Enrique Acevedo
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:1102 - Parameter Name      : patient
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:1103 - Parameter Type      : org.isf.patient.model.Patient
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:1132 - The Parameter: patient has 27 Attributes
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : code
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.Integer
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 105
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : firstName
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Enrique
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : secondName
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Acevedo
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : name
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Enrique Acevedo
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : birthDate
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.time.LocalDate
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 1983-04-07
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : age
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : int
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 40
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : agetype
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : sex
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : M
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : address
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 44 Clyde Lane
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : city
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Dublin
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : nextKin
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 123
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : telephone
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : +391234
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : note
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : motherName
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Maria
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : mother
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : A
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : fatherName
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Genaro
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : father
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : A
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : bloodType
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : B+
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : hasInsurance
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Y
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : parentTogether
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Y
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : taxCode
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 123
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : maritalStatus
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : unknown
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : profession
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : mining
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : deleted
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:46:08 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : N
+07/04/2023 12:47:28 AM MDT INFO  WardBrowserManager:1283 - OS Name             : Windows Server 2016
+07/04/2023 12:47:28 AM MDT INFO  WardBrowserManager:1284 - OS Current Time     : 07/04/2023 12:47:28 AM MDT
+07/04/2023 12:47:28 AM MDT INFO  WardBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+07/04/2023 12:47:28 AM MDT INFO  WardBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+07/04/2023 12:47:28 AM MDT INFO  WardBrowserManager:1287 - OS UserName         : friverao
+07/04/2023 12:47:28 AM MDT INFO  WardBrowserManager:1288 - Annotation Type     : Method
+07/04/2023 12:47:28 AM MDT INFO  WardBrowserManager:1289 - Method Name         : org.isf.ward.manager.WardBrowserManager.getWards
+07/04/2023 12:47:28 AM MDT INFO  WardBrowserManager:1290 - Method Return Type  : java.util.ArrayList
+07/04/2023 12:47:28 AM MDT INFO  WardBrowserManager:1291 - Method Return Value : [INTERNAL MEDICINE, MATERNITY, NURSERY, SURGERY]
+07/04/2023 12:47:28 AM MDT INFO  WardBrowserManager:1508 - The Method: getWards DOEST NOT have any INPUT Parameters
+07/04/2023 12:47:35 AM MDT INFO  ConfigurationProperties:91 - File sms.properties loaded.
+07/04/2023 12:47:35 AM MDT WARN  Webcam:964 - No webcam has been detected!
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:1283 - OS Name             : Windows Server 2016
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:1284 - OS Current Time     : 07/04/2023 12:48:00 AM MDT
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:1287 - OS UserName         : friverao
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:1288 - Annotation Type     : Method
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:1289 - Method Name         : org.isf.patient.manager.PatientBrowserManager.savePatient
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:1290 - Method Return Type  : org.isf.patient.model.Patient
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:1291 - Method Return Value : Genaro Lopez
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:1102 - Parameter Name      : patient
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:1103 - Parameter Type      : org.isf.patient.model.Patient
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:1132 - The Parameter: patient has 27 Attributes
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : code
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.Integer
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 104
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : firstName
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Genaro
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : secondName
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Lopez
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : name
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Genaro Lopez
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : birthDate
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.time.LocalDate
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 2006-04-06
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : age
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : int
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 17
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : agetype
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : sex
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : M
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : address
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : One
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : city
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Dublin
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : nextKin
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 123
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : telephone
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : +39123456
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : note
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : motherName
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Guadalupe
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : mother
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : A
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : fatherName
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Francisco
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : father
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : A
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : bloodType
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 0+
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : hasInsurance
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Y
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : parentTogether
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Y
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : taxCode
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 123
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : maritalStatus
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : unknown
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : profession
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : construction
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : deleted
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : N
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : lock
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : int
+07/04/2023 12:48:00 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 2
+07/04/2023 12:49:00 AM MDT INFO  WardBrowserManager:1283 - OS Name             : Windows Server 2016
+07/04/2023 12:49:00 AM MDT INFO  WardBrowserManager:1284 - OS Current Time     : 07/04/2023 12:49:00 AM MDT
+07/04/2023 12:49:00 AM MDT INFO  WardBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+07/04/2023 12:49:00 AM MDT INFO  WardBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+07/04/2023 12:49:00 AM MDT INFO  WardBrowserManager:1287 - OS UserName         : friverao
+07/04/2023 12:49:00 AM MDT INFO  WardBrowserManager:1288 - Annotation Type     : Method
+07/04/2023 12:49:00 AM MDT INFO  WardBrowserManager:1289 - Method Name         : org.isf.ward.manager.WardBrowserManager.getWards
+07/04/2023 12:49:00 AM MDT INFO  WardBrowserManager:1290 - Method Return Type  : java.util.ArrayList
+07/04/2023 12:49:00 AM MDT INFO  WardBrowserManager:1291 - Method Return Value : [INTERNAL MEDICINE, MATERNITY, NURSERY, SURGERY]
+07/04/2023 12:49:00 AM MDT INFO  WardBrowserManager:1508 - The Method: getWards DOEST NOT have any INPUT Parameters
+07/04/2023 12:52:39 AM MDT INFO  WardBrowserManager:1283 - OS Name             : Windows Server 2016
+07/04/2023 12:52:39 AM MDT INFO  WardBrowserManager:1284 - OS Current Time     : 07/04/2023 12:52:39 AM MDT
+07/04/2023 12:52:39 AM MDT INFO  WardBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+07/04/2023 12:52:39 AM MDT INFO  WardBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+07/04/2023 12:52:39 AM MDT INFO  WardBrowserManager:1287 - OS UserName         : friverao
+07/04/2023 12:52:39 AM MDT INFO  WardBrowserManager:1288 - Annotation Type     : Method
+07/04/2023 12:52:39 AM MDT INFO  WardBrowserManager:1289 - Method Name         : org.isf.ward.manager.WardBrowserManager.getWards
+07/04/2023 12:52:39 AM MDT INFO  WardBrowserManager:1290 - Method Return Type  : java.util.ArrayList
+07/04/2023 12:52:39 AM MDT INFO  WardBrowserManager:1291 - Method Return Value : [INTERNAL MEDICINE, MATERNITY, NURSERY, SURGERY]
+07/04/2023 12:52:39 AM MDT INFO  WardBrowserManager:1508 - The Method: getWards DOEST NOT have any INPUT Parameters
+07/04/2023 12:52:45 AM MDT INFO  ConfigurationProperties:91 - File sms.properties loaded.
+07/04/2023 12:52:45 AM MDT WARN  Webcam:964 - No webcam has been detected!
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:1283 - OS Name             : Windows Server 2016
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:1284 - OS Current Time     : 07/04/2023 12:52:57 AM MDT
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:1287 - OS UserName         : friverao
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:1288 - Annotation Type     : Method
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:1289 - Method Name         : org.isf.patient.manager.PatientBrowserManager.savePatient
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:1290 - Method Return Type  : org.isf.patient.model.Patient
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:1291 - Method Return Value : Genaro Lopez
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:1102 - Parameter Name      : patient
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:1103 - Parameter Type      : org.isf.patient.model.Patient
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:1132 - The Parameter: patient has 27 Attributes
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : code
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.Integer
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 104
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : firstName
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Genaro
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : secondName
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Lopez
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : name
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Genaro Lopez
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : birthDate
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.time.LocalDate
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 1981-04-06
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : age
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : int
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 42
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : agetype
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : sex
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : M
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : address
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : One
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : city
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Dublin
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : nextKin
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 123
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : telephone
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : +39123456
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : note
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : motherName
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Guadalupe
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : mother
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : A
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : fatherName
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Francisco
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : father
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : A
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : bloodType
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 0+
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : hasInsurance
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Y
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : parentTogether
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Y
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : taxCode
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 123
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : maritalStatus
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : unknown
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : profession
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : construction
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : deleted
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : N
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : lock
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : int
+07/04/2023 12:52:57 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 3
+07/04/2023 12:54:27 AM MDT INFO  WardBrowserManager:1283 - OS Name             : Windows Server 2016
+07/04/2023 12:54:27 AM MDT INFO  WardBrowserManager:1284 - OS Current Time     : 07/04/2023 12:54:27 AM MDT
+07/04/2023 12:54:27 AM MDT INFO  WardBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+07/04/2023 12:54:27 AM MDT INFO  WardBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+07/04/2023 12:54:27 AM MDT INFO  WardBrowserManager:1287 - OS UserName         : friverao
+07/04/2023 12:54:27 AM MDT INFO  WardBrowserManager:1288 - Annotation Type     : Method
+07/04/2023 12:54:27 AM MDT INFO  WardBrowserManager:1289 - Method Name         : org.isf.ward.manager.WardBrowserManager.getWards
+07/04/2023 12:54:27 AM MDT INFO  WardBrowserManager:1290 - Method Return Type  : java.util.ArrayList
+07/04/2023 12:54:27 AM MDT INFO  WardBrowserManager:1291 - Method Return Value : [INTERNAL MEDICINE, MATERNITY, NURSERY, SURGERY]
+07/04/2023 12:54:27 AM MDT INFO  WardBrowserManager:1508 - The Method: getWards DOEST NOT have any INPUT Parameters
+07/04/2023 12:54:38 AM MDT INFO  ConfigurationProperties:91 - File sms.properties loaded.
+07/04/2023 12:54:38 AM MDT WARN  Webcam:964 - No webcam has been detected!
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:1283 - OS Name             : Windows Server 2016
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:1284 - OS Current Time     : 07/04/2023 12:54:50 AM MDT
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:1285 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:1286 - OS Hostname         : WIN-BIBB4C8F4MJ
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:1287 - OS UserName         : friverao
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:1288 - Annotation Type     : Method
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:1289 - Method Name         : org.isf.patient.manager.PatientBrowserManager.savePatient
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:1290 - Method Return Type  : org.isf.patient.model.Patient
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:1291 - Method Return Value : Mario Guzman
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:1102 - Parameter Name      : patient
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:1103 - Parameter Type      : org.isf.patient.model.Patient
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:1132 - The Parameter: patient has 27 Attributes
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : code
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.Integer
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 103
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : firstName
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Mario
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : secondName
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Guzman
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : name
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Mario Guzman
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : birthDate
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.time.LocalDate
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 2006-04-06
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : age
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : int
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 17
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : agetype
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : sex
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : M
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : address
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : One
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : city
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Amsterdam
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : nextKin
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 123
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : telephone
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : +39123
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : note
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : motherName
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Juana
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : mother
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : A
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : fatherName
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Mario
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : father
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : A
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : bloodType
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 0+
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : hasInsurance
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Y
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : parentTogether
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : char
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : Y
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : taxCode
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 123
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : maritalStatus
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : single
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : profession
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : farming
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : deleted
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : java.lang.String
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : N
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:707 - Attribute Name      : lock
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:708 - Attribute Type      : int
+07/04/2023 12:54:50 AM MDT INFO  PatientBrowserManager:709 - Attribute Value     : 6
+07/04/2023 12:55:49 AM MDT INFO  MainMenu:315 - 
+
+=====================
+ Open Hospital closed 
+=====================
+

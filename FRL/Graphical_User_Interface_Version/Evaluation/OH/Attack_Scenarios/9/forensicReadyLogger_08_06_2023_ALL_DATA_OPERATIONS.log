@@ -1,0 +1,863 @@
+08/06/2023 07:13:45 PM MDT INFO  Login:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:13:46 PM MDT INFO  Login:1442 - OS Current Time     : 08/06/2023 07:13:45 PM MDT
+08/06/2023 07:13:46 PM MDT INFO  Login:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:13:46 PM MDT INFO  Login:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:13:46 PM MDT INFO  Login:1445 - OS UserName         : friverao
+08/06/2023 07:13:46 PM MDT INFO  Login:1446 - Annotation Type     : Method
+08/06/2023 07:13:46 PM MDT INFO  Login:1447 - Method Name         : org.isf.menu.gui.Login.acceptPwd
+08/06/2023 07:13:46 PM MDT INFO  Login:1448 - Method Return Type  : void
+08/06/2023 07:13:46 PM MDT INFO  Login:1449 - Method Return Value : 
+08/06/2023 07:13:46 PM MDT INFO  Login:1681 - The Method: acceptPwd DOEST NOT have any INPUT Parameters
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:1442 - OS Current Time     : 08/06/2023 07:13:48 PM MDT
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:1445 - OS UserName         : friverao
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:1446 - Annotation Type     : Method
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:1447 - Method Name         : org.isf.menu.manager.UserBrowsingManager.getMenu
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:1449 - Method Return Value : [New Bill, Edit Patient, Cashier's Filter, Types, Admission Type, New, New, Pharmaceuticals, New, New Patient, Users, New, Exams List, Discharge Type, Hospital, Edit, Pharmaceutical Stock, Examination, Edit, OPD, Edit, Examination, Groups, Edit, Examination, Charge, New Bill, Bill Manager, OPD Chart, Edit, Rectify, Examination, Edit Patient, Delivery Type, Delete, Delete, Delete, Operation, Merge, Report, Delete patient, Operation, Ward, Discharge, Delete, Edit Bill, Admission Chart, Admission/Patient, Delete, Disease List, Pharmaceutical Stock Ward, Edit Closed Bills, Excel, Launch Report , Disease, Delivery Result Type, Data, Laboratory, Malnutrition control, Operation List, Admission, DICOM Patient, Exams, Delete Bill, Bill, Pharmacy, Disease Type, Operation, Report, Exam Type, OPD, Vaccines, Therapy, Clinical sheet, Accounting, Receipt, Medicals Stock Mov Type, Vaccine, Worksheet, Price Lists, Medicals Type, Supplier, Operation Type, Statistics, Pregnant Treatment, Reports, SMS Manager, Users & Groups, Other Prices, Communication, Settings, Age Type, Help, Vaccine Type, DICOM Type]
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:1237 - Parameter Name : aUser
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:1238 - Parameter Type : org.isf.menu.model.User
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:1267 - The Parameter: aUser has 5 Attributes
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:716 - Attribute Name  : userName
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:717 - Attribute Type  : java.lang.String
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:718 - Attribute Value : doctor
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:642 - Attribute Name : userGroupName
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:643 - Attribute Type : org.isf.menu.model.UserGroup
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:688 - The Attribute: userGroupName has 5 SubAttributes
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:716 - SubAttribute Name  : code
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:718 - SubAttribute Value : admin
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:716 - SubAttribute Name  : desc
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:718 - SubAttribute Value : User with all the privileges
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:716 - Attribute Name  : passwd
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:717 - Attribute Type  : java.lang.String
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:718 - Attribute Value : $2a$10$YKBADRdncNEoPhRoV7Gy4up6Wxkh2kcNLkZe69R4KZk5OqNhllB3m
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:716 - Attribute Name  : desc
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:717 - Attribute Type  : java.lang.String
+08/06/2023 07:13:48 PM MDT INFO  UserBrowsingManager:718 - Attribute Value : Doctor of the Clinic
+08/06/2023 07:16:24 PM MDT INFO  VaccineTypeBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:16:24 PM MDT INFO  VaccineTypeBrowserManager:1442 - OS Current Time     : 08/06/2023 07:16:24 PM MDT
+08/06/2023 07:16:24 PM MDT INFO  VaccineTypeBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:16:24 PM MDT INFO  VaccineTypeBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:16:24 PM MDT INFO  VaccineTypeBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:16:24 PM MDT INFO  VaccineTypeBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:16:24 PM MDT INFO  VaccineTypeBrowserManager:1447 - Method Name         : org.isf.vactype.manager.VaccineTypeBrowserManager.getVaccineType
+08/06/2023 07:16:24 PM MDT INFO  VaccineTypeBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:16:24 PM MDT INFO  VaccineTypeBrowserManager:1449 - Method Return Value : [Bacillo, Child, Extrange Vaccine Type, NEW VACCINE TYPE, No pregnant, Pregnant, RARE NEW VACCINE TYPE, Rare Vaccine, WEIRDEST VACCINE EVER]
+08/06/2023 07:16:24 PM MDT INFO  VaccineTypeBrowserManager:1681 - The Method: getVaccineType DOEST NOT have any INPUT Parameters
+08/06/2023 07:16:24 PM MDT INFO  VaccineBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:16:24 PM MDT INFO  VaccineBrowserManager:1442 - OS Current Time     : 08/06/2023 07:16:24 PM MDT
+08/06/2023 07:16:24 PM MDT INFO  VaccineBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:16:24 PM MDT INFO  VaccineBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:16:24 PM MDT INFO  VaccineBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:16:24 PM MDT INFO  VaccineBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:16:24 PM MDT INFO  VaccineBrowserManager:1447 - Method Name         : org.isf.vaccine.manager.VaccineBrowserManager.getVaccine
+08/06/2023 07:16:24 PM MDT INFO  VaccineBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:16:24 PM MDT INFO  VaccineBrowserManager:1449 - Method Return Value : [BCG, CoVid19, DPT 1 - HepB + Hib 1, DPT 2 - HepB + Hib 1, DPT 3 - HepB + Hib 1, MEASLES, NEW POLYO VACCINE, POLIO 0 C, POLIO 1 C, POLIO 2 C, POLIO 3 C, Rare Vaccine, Rare Virus, TT VACCINE DOSE 1, TT VACCINE DOSE 2, TT VACCINE DOSE 2, TT VACCINE DOSE 3, TT VACCINE DOSE 3, TT VACCINE DOSE 4, TT VACCINE DOSE 4, TT VACCINE DOSE 5, TT VACCINE DOSE 5, VACCINE AGAINST SOMETHING UNEXPECTED]
+08/06/2023 07:16:24 PM MDT INFO  VaccineBrowserManager:1681 - The Method: getVaccine DOEST NOT have any INPUT Parameters
+08/06/2023 07:16:24 PM MDT INFO  PatVacManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:16:24 PM MDT INFO  PatVacManager:1442 - OS Current Time     : 08/06/2023 07:16:24 PM MDT
+08/06/2023 07:16:24 PM MDT INFO  PatVacManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:16:24 PM MDT INFO  PatVacManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:16:24 PM MDT INFO  PatVacManager:1445 - OS UserName         : friverao
+08/06/2023 07:16:24 PM MDT INFO  PatVacManager:1446 - Annotation Type     : Method
+08/06/2023 07:16:24 PM MDT INFO  PatVacManager:1447 - Method Name         : org.isf.patvac.manager.PatVacManager.getPatientVaccine
+08/06/2023 07:16:24 PM MDT INFO  PatVacManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:16:24 PM MDT INFO  PatVacManager:1449 - Method Return Value : [org.isf.patvac.model.PatientVaccine@d78788ef, org.isf.patvac.model.PatientVaccine@df4e897d, org.isf.patvac.model.PatientVaccine@6323a96a, org.isf.patvac.model.PatientVaccine@3606f99d, org.isf.patvac.model.PatientVaccine@55b588cf]
+08/06/2023 07:16:24 PM MDT INFO  PatVacManager:1327 - Parameter Name  : minusOneWeek
+08/06/2023 07:16:24 PM MDT INFO  PatVacManager:1328 - Parameter Type  : java.lang.String
+08/06/2023 07:16:24 PM MDT INFO  PatVacManager:1329 - Parameter Value : true
+08/06/2023 07:16:37 PM MDT INFO  PatVacManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:16:37 PM MDT INFO  PatVacManager:1442 - OS Current Time     : 08/06/2023 07:16:37 PM MDT
+08/06/2023 07:16:37 PM MDT INFO  PatVacManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:16:37 PM MDT INFO  PatVacManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:16:37 PM MDT INFO  PatVacManager:1445 - OS UserName         : friverao
+08/06/2023 07:16:37 PM MDT INFO  PatVacManager:1446 - Annotation Type     : Method
+08/06/2023 07:16:37 PM MDT INFO  PatVacManager:1447 - Method Name         : org.isf.patvac.manager.PatVacManager.getProgYear
+08/06/2023 07:16:37 PM MDT INFO  PatVacManager:1448 - Method Return Type  : java.lang.Integer
+08/06/2023 07:16:37 PM MDT INFO  PatVacManager:1449 - Method Return Value : 12
+08/06/2023 07:16:37 PM MDT INFO  PatVacManager:1327 - Parameter Name  : year
+08/06/2023 07:16:37 PM MDT INFO  PatVacManager:1328 - Parameter Type  : java.lang.String
+08/06/2023 07:16:37 PM MDT INFO  PatVacManager:1329 - Parameter Value : 0
+08/06/2023 07:16:37 PM MDT INFO  PatientBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:16:37 PM MDT INFO  PatientBrowserManager:1442 - OS Current Time     : 08/06/2023 07:16:37 PM MDT
+08/06/2023 07:16:37 PM MDT INFO  PatientBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:16:37 PM MDT INFO  PatientBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:16:37 PM MDT INFO  PatientBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:16:37 PM MDT INFO  PatientBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:16:37 PM MDT INFO  PatientBrowserManager:1447 - Method Name         : org.isf.patient.manager.PatientBrowserManager.getPatient
+08/06/2023 07:16:37 PM MDT INFO  PatientBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:16:37 PM MDT INFO  PatientBrowserManager:1449 - Method Return Value : [Valentina Guzman Perez, Juan Perez Galvan, Benito Perez Galdos]
+08/06/2023 07:16:37 PM MDT INFO  PatientBrowserManager:1681 - The Method: getPatient DOEST NOT have any INPUT Parameters
+08/06/2023 07:16:37 PM MDT INFO  VaccineTypeBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:16:37 PM MDT INFO  VaccineTypeBrowserManager:1442 - OS Current Time     : 08/06/2023 07:16:37 PM MDT
+08/06/2023 07:16:37 PM MDT INFO  VaccineTypeBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:16:37 PM MDT INFO  VaccineTypeBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:16:37 PM MDT INFO  VaccineTypeBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:16:37 PM MDT INFO  VaccineTypeBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:16:37 PM MDT INFO  VaccineTypeBrowserManager:1447 - Method Name         : org.isf.vactype.manager.VaccineTypeBrowserManager.getVaccineType
+08/06/2023 07:16:37 PM MDT INFO  VaccineTypeBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:16:37 PM MDT INFO  VaccineTypeBrowserManager:1449 - Method Return Value : [Bacillo, Child, Extrange Vaccine Type, NEW VACCINE TYPE, No pregnant, Pregnant, RARE NEW VACCINE TYPE, Rare Vaccine, WEIRDEST VACCINE EVER]
+08/06/2023 07:16:37 PM MDT INFO  VaccineTypeBrowserManager:1681 - The Method: getVaccineType DOEST NOT have any INPUT Parameters
+08/06/2023 07:16:37 PM MDT INFO  VaccineBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:16:37 PM MDT INFO  VaccineBrowserManager:1442 - OS Current Time     : 08/06/2023 07:16:37 PM MDT
+08/06/2023 07:16:37 PM MDT INFO  VaccineBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:16:37 PM MDT INFO  VaccineBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:16:37 PM MDT INFO  VaccineBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:16:37 PM MDT INFO  VaccineBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:16:37 PM MDT INFO  VaccineBrowserManager:1447 - Method Name         : org.isf.vaccine.manager.VaccineBrowserManager.getVaccine
+08/06/2023 07:16:37 PM MDT INFO  VaccineBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:16:37 PM MDT INFO  VaccineBrowserManager:1449 - Method Return Value : [BCG, CoVid19, DPT 1 - HepB + Hib 1, DPT 2 - HepB + Hib 1, DPT 3 - HepB + Hib 1, MEASLES, NEW POLYO VACCINE, POLIO 0 C, POLIO 1 C, POLIO 2 C, POLIO 3 C, Rare Vaccine, Rare Virus, TT VACCINE DOSE 1, TT VACCINE DOSE 2, TT VACCINE DOSE 2, TT VACCINE DOSE 3, TT VACCINE DOSE 3, TT VACCINE DOSE 4, TT VACCINE DOSE 4, TT VACCINE DOSE 5, TT VACCINE DOSE 5, VACCINE AGAINST SOMETHING UNEXPECTED]
+08/06/2023 07:16:37 PM MDT INFO  VaccineBrowserManager:1681 - The Method: getVaccine DOEST NOT have any INPUT Parameters
+08/06/2023 07:16:42 PM MDT INFO  VaccineBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:16:42 PM MDT INFO  VaccineBrowserManager:1442 - OS Current Time     : 08/06/2023 07:16:42 PM MDT
+08/06/2023 07:16:42 PM MDT INFO  VaccineBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:16:42 PM MDT INFO  VaccineBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:16:42 PM MDT INFO  VaccineBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:16:42 PM MDT INFO  VaccineBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:16:42 PM MDT INFO  VaccineBrowserManager:1447 - Method Name         : org.isf.vaccine.manager.VaccineBrowserManager.getVaccine
+08/06/2023 07:16:42 PM MDT INFO  VaccineBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:16:42 PM MDT INFO  VaccineBrowserManager:1449 - Method Return Value : [CoVid19, Rare Virus]
+08/06/2023 07:16:42 PM MDT INFO  VaccineBrowserManager:1327 - Parameter Name  : vaccineTypeCode
+08/06/2023 07:16:42 PM MDT INFO  VaccineBrowserManager:1328 - Parameter Type  : java.lang.String
+08/06/2023 07:16:42 PM MDT INFO  VaccineBrowserManager:1329 - Parameter Value : B
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:1442 - OS Current Time     : 08/06/2023 07:16:46 PM MDT
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:1445 - OS UserName         : friverao
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:1446 - Annotation Type     : Method
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:1447 - Method Name         : org.isf.patvac.manager.PatVacManager.newPatientVaccine
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:1448 - Method Return Type  : java.lang.Boolean
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:1449 - Method Return Value : true
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:1237 - Parameter Name : patVac
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:1238 - Parameter Type : org.isf.patvac.model.PatientVaccine
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:1267 - The Parameter: patVac has 7 Attributes
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - Attribute Name  : code
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - Attribute Type  : int
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - Attribute Value : 20
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - Attribute Name  : progr
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - Attribute Type  : int
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - Attribute Value : 13
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - Attribute Name  : vaccineDate
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - Attribute Type  : java.time.LocalDateTime
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - Attribute Value : 2023-06-08T00:00
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:642 - Attribute Name : patient
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:643 - Attribute Type : org.isf.patient.model.Patient
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:688 - The Attribute: patient has 7 SubAttributes
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : code
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.Integer
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 135
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : firstName
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Benito
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : secondName
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Perez Galdos
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : name
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Benito Perez Galdos
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : birthDate
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.time.LocalDate
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 1973-06-07
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : age
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : int
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 50
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : agetype
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : sex
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : char
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : M
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : address
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 44 Rose Street
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : city
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Madrid, Spain
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : nextKin
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 123
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : telephone
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : +3912345
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : note
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : motherName
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Guadalupe
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : mother
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : char
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : A
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : fatherName
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Gumaro
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : father
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : char
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : A
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : bloodType
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : A+
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : hasInsurance
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : char
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Y
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : parentTogether
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : char
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Y
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : taxCode
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 123
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : maritalStatus
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : married
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : profession
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : medicine
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : deleted
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : N
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : lock
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : int
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 1
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : hashCode
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : int
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 3194
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:642 - Attribute Name : vaccine
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:643 - Attribute Type : org.isf.vaccine.model.Vaccine
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:688 - The Attribute: vaccine has 7 SubAttributes
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : code
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 002
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : description
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : CoVid19
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:642 - SubAttribute Name : vaccineType
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:643 - SubAttribute Type : org.isf.vactype.model.VaccineType
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:688 - The Attribute: vaccineType has 4 SubAttributes
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : code
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : B
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : description
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:16:46 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Bacillo
+08/06/2023 07:17:54 PM MDT INFO  VaccineTypeBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:17:54 PM MDT INFO  VaccineTypeBrowserManager:1442 - OS Current Time     : 08/06/2023 07:17:54 PM MDT
+08/06/2023 07:17:54 PM MDT INFO  VaccineTypeBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:17:54 PM MDT INFO  VaccineTypeBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:17:54 PM MDT INFO  VaccineTypeBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:17:54 PM MDT INFO  VaccineTypeBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:17:54 PM MDT INFO  VaccineTypeBrowserManager:1447 - Method Name         : org.isf.vactype.manager.VaccineTypeBrowserManager.getVaccineType
+08/06/2023 07:17:54 PM MDT INFO  VaccineTypeBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:17:54 PM MDT INFO  VaccineTypeBrowserManager:1449 - Method Return Value : [Bacillo, Child, Extrange Vaccine Type, NEW VACCINE TYPE, No pregnant, Pregnant, RARE NEW VACCINE TYPE, Rare Vaccine, WEIRDEST VACCINE EVER]
+08/06/2023 07:17:54 PM MDT INFO  VaccineTypeBrowserManager:1681 - The Method: getVaccineType DOEST NOT have any INPUT Parameters
+08/06/2023 07:17:54 PM MDT INFO  VaccineBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:17:54 PM MDT INFO  VaccineBrowserManager:1442 - OS Current Time     : 08/06/2023 07:17:54 PM MDT
+08/06/2023 07:17:54 PM MDT INFO  VaccineBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:17:54 PM MDT INFO  VaccineBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:17:54 PM MDT INFO  VaccineBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:17:54 PM MDT INFO  VaccineBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:17:54 PM MDT INFO  VaccineBrowserManager:1447 - Method Name         : org.isf.vaccine.manager.VaccineBrowserManager.getVaccine
+08/06/2023 07:17:54 PM MDT INFO  VaccineBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:17:54 PM MDT INFO  VaccineBrowserManager:1449 - Method Return Value : [BCG, CoVid19, DPT 1 - HepB + Hib 1, DPT 2 - HepB + Hib 1, DPT 3 - HepB + Hib 1, MEASLES, NEW POLYO VACCINE, POLIO 0 C, POLIO 1 C, POLIO 2 C, POLIO 3 C, Rare Vaccine, Rare Virus, TT VACCINE DOSE 1, TT VACCINE DOSE 2, TT VACCINE DOSE 2, TT VACCINE DOSE 3, TT VACCINE DOSE 3, TT VACCINE DOSE 4, TT VACCINE DOSE 4, TT VACCINE DOSE 5, TT VACCINE DOSE 5, VACCINE AGAINST SOMETHING UNEXPECTED]
+08/06/2023 07:17:54 PM MDT INFO  VaccineBrowserManager:1681 - The Method: getVaccine DOEST NOT have any INPUT Parameters
+08/06/2023 07:17:54 PM MDT INFO  PatVacManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:17:54 PM MDT INFO  PatVacManager:1442 - OS Current Time     : 08/06/2023 07:17:54 PM MDT
+08/06/2023 07:17:54 PM MDT INFO  PatVacManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:17:54 PM MDT INFO  PatVacManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:17:54 PM MDT INFO  PatVacManager:1445 - OS UserName         : friverao
+08/06/2023 07:17:54 PM MDT INFO  PatVacManager:1446 - Annotation Type     : Method
+08/06/2023 07:17:54 PM MDT INFO  PatVacManager:1447 - Method Name         : org.isf.patvac.manager.PatVacManager.getPatientVaccine
+08/06/2023 07:17:54 PM MDT INFO  PatVacManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:17:54 PM MDT INFO  PatVacManager:1449 - Method Return Value : [org.isf.patvac.model.PatientVaccine@4b274a20, org.isf.patvac.model.PatientVaccine@e846512d, org.isf.patvac.model.PatientVaccine@33b5cd1f, org.isf.patvac.model.PatientVaccine@33d27441, org.isf.patvac.model.PatientVaccine@22e13d9c, org.isf.patvac.model.PatientVaccine@e62f6beb]
+08/06/2023 07:17:54 PM MDT INFO  PatVacManager:1327 - Parameter Name  : minusOneWeek
+08/06/2023 07:17:54 PM MDT INFO  PatVacManager:1328 - Parameter Type  : java.lang.String
+08/06/2023 07:17:54 PM MDT INFO  PatVacManager:1329 - Parameter Value : true
+08/06/2023 07:18:00 PM MDT INFO  PatVacManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:18:00 PM MDT INFO  PatVacManager:1442 - OS Current Time     : 08/06/2023 07:18:00 PM MDT
+08/06/2023 07:18:00 PM MDT INFO  PatVacManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:18:00 PM MDT INFO  PatVacManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:18:00 PM MDT INFO  PatVacManager:1445 - OS UserName         : friverao
+08/06/2023 07:18:00 PM MDT INFO  PatVacManager:1446 - Annotation Type     : Method
+08/06/2023 07:18:00 PM MDT INFO  PatVacManager:1447 - Method Name         : org.isf.patvac.manager.PatVacManager.getProgYear
+08/06/2023 07:18:00 PM MDT INFO  PatVacManager:1448 - Method Return Type  : java.lang.Integer
+08/06/2023 07:18:00 PM MDT INFO  PatVacManager:1449 - Method Return Value : 13
+08/06/2023 07:18:00 PM MDT INFO  PatVacManager:1327 - Parameter Name  : year
+08/06/2023 07:18:00 PM MDT INFO  PatVacManager:1328 - Parameter Type  : java.lang.String
+08/06/2023 07:18:00 PM MDT INFO  PatVacManager:1329 - Parameter Value : 0
+08/06/2023 07:18:00 PM MDT INFO  PatientBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:18:00 PM MDT INFO  PatientBrowserManager:1442 - OS Current Time     : 08/06/2023 07:18:00 PM MDT
+08/06/2023 07:18:00 PM MDT INFO  PatientBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:18:00 PM MDT INFO  PatientBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:18:00 PM MDT INFO  PatientBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:18:00 PM MDT INFO  PatientBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:18:00 PM MDT INFO  PatientBrowserManager:1447 - Method Name         : org.isf.patient.manager.PatientBrowserManager.getPatient
+08/06/2023 07:18:00 PM MDT INFO  PatientBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:18:00 PM MDT INFO  PatientBrowserManager:1449 - Method Return Value : [Valentina Guzman Perez, Juan Perez Galvan, Benito Perez Galdos]
+08/06/2023 07:18:00 PM MDT INFO  PatientBrowserManager:1681 - The Method: getPatient DOEST NOT have any INPUT Parameters
+08/06/2023 07:18:00 PM MDT INFO  VaccineTypeBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:18:00 PM MDT INFO  VaccineTypeBrowserManager:1442 - OS Current Time     : 08/06/2023 07:18:00 PM MDT
+08/06/2023 07:18:00 PM MDT INFO  VaccineTypeBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:18:00 PM MDT INFO  VaccineTypeBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:18:00 PM MDT INFO  VaccineTypeBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:18:00 PM MDT INFO  VaccineTypeBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:18:00 PM MDT INFO  VaccineTypeBrowserManager:1447 - Method Name         : org.isf.vactype.manager.VaccineTypeBrowserManager.getVaccineType
+08/06/2023 07:18:00 PM MDT INFO  VaccineTypeBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:18:00 PM MDT INFO  VaccineTypeBrowserManager:1449 - Method Return Value : [Bacillo, Child, Extrange Vaccine Type, NEW VACCINE TYPE, No pregnant, Pregnant, RARE NEW VACCINE TYPE, Rare Vaccine, WEIRDEST VACCINE EVER]
+08/06/2023 07:18:00 PM MDT INFO  VaccineTypeBrowserManager:1681 - The Method: getVaccineType DOEST NOT have any INPUT Parameters
+08/06/2023 07:18:00 PM MDT INFO  VaccineBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:18:00 PM MDT INFO  VaccineBrowserManager:1442 - OS Current Time     : 08/06/2023 07:18:00 PM MDT
+08/06/2023 07:18:00 PM MDT INFO  VaccineBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:18:00 PM MDT INFO  VaccineBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:18:00 PM MDT INFO  VaccineBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:18:00 PM MDT INFO  VaccineBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:18:00 PM MDT INFO  VaccineBrowserManager:1447 - Method Name         : org.isf.vaccine.manager.VaccineBrowserManager.getVaccine
+08/06/2023 07:18:00 PM MDT INFO  VaccineBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:18:00 PM MDT INFO  VaccineBrowserManager:1449 - Method Return Value : [BCG, CoVid19, DPT 1 - HepB + Hib 1, DPT 2 - HepB + Hib 1, DPT 3 - HepB + Hib 1, MEASLES, NEW POLYO VACCINE, POLIO 0 C, POLIO 1 C, POLIO 2 C, POLIO 3 C, Rare Vaccine, Rare Virus, TT VACCINE DOSE 1, TT VACCINE DOSE 2, TT VACCINE DOSE 2, TT VACCINE DOSE 3, TT VACCINE DOSE 3, TT VACCINE DOSE 4, TT VACCINE DOSE 4, TT VACCINE DOSE 5, TT VACCINE DOSE 5, VACCINE AGAINST SOMETHING UNEXPECTED]
+08/06/2023 07:18:00 PM MDT INFO  VaccineBrowserManager:1681 - The Method: getVaccine DOEST NOT have any INPUT Parameters
+08/06/2023 07:18:08 PM MDT INFO  VaccineBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:18:08 PM MDT INFO  VaccineBrowserManager:1442 - OS Current Time     : 08/06/2023 07:18:08 PM MDT
+08/06/2023 07:18:08 PM MDT INFO  VaccineBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:18:08 PM MDT INFO  VaccineBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:18:08 PM MDT INFO  VaccineBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:18:08 PM MDT INFO  VaccineBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:18:08 PM MDT INFO  VaccineBrowserManager:1447 - Method Name         : org.isf.vaccine.manager.VaccineBrowserManager.getVaccine
+08/06/2023 07:18:08 PM MDT INFO  VaccineBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:18:08 PM MDT INFO  VaccineBrowserManager:1449 - Method Return Value : [CoVid19, Rare Virus]
+08/06/2023 07:18:08 PM MDT INFO  VaccineBrowserManager:1327 - Parameter Name  : vaccineTypeCode
+08/06/2023 07:18:08 PM MDT INFO  VaccineBrowserManager:1328 - Parameter Type  : java.lang.String
+08/06/2023 07:18:08 PM MDT INFO  VaccineBrowserManager:1329 - Parameter Value : B
+08/06/2023 07:18:37 PM MDT INFO  ConfigurationProperties:91 - File txtPrinter.properties loaded.
+08/06/2023 07:18:37 PM MDT WARN  ConfigurationProperties:122 - TXT_CHAR_HEIGHT property not found: default is 10
+08/06/2023 07:18:37 PM MDT WARN  ConfigurationProperties:122 - TXT_CHAR_WIDTH property not found: default is 10
+08/06/2023 07:19:02 PM MDT INFO  MainMenu:315 - 
+
+=====================
+ Open Hospital closed 
+=====================
+
+08/06/2023 07:31:46 PM MDT INFO  Login:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:31:46 PM MDT INFO  Login:1442 - OS Current Time     : 08/06/2023 07:31:46 PM MDT
+08/06/2023 07:31:46 PM MDT INFO  Login:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:31:46 PM MDT INFO  Login:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:31:46 PM MDT INFO  Login:1445 - OS UserName         : friverao
+08/06/2023 07:31:46 PM MDT INFO  Login:1446 - Annotation Type     : Method
+08/06/2023 07:31:46 PM MDT INFO  Login:1447 - Method Name         : org.isf.menu.gui.Login.acceptPwd
+08/06/2023 07:31:46 PM MDT INFO  Login:1448 - Method Return Type  : void
+08/06/2023 07:31:46 PM MDT INFO  Login:1449 - Method Return Value : 
+08/06/2023 07:31:46 PM MDT INFO  Login:1681 - The Method: acceptPwd DOEST NOT have any INPUT Parameters
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:1442 - OS Current Time     : 08/06/2023 07:31:47 PM MDT
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:1445 - OS UserName         : friverao
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:1446 - Annotation Type     : Method
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:1447 - Method Name         : org.isf.menu.manager.UserBrowsingManager.getMenu
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:1449 - Method Return Value : [New Bill, Edit Patient, Cashier's Filter, Types, Admission Type, New, New, Pharmaceuticals, New, New Patient, Users, New, Exams List, Discharge Type, Hospital, Edit, Pharmaceutical Stock, Examination, Edit, OPD, Edit, Examination, Groups, Edit, Examination, Charge, New Bill, Bill Manager, OPD Chart, Edit, Rectify, Examination, Edit Patient, Delivery Type, Delete, Delete, Delete, Operation, Merge, Report, Delete patient, Operation, Ward, Discharge, Delete, Edit Bill, Admission Chart, Admission/Patient, Delete, Disease List, Pharmaceutical Stock Ward, Edit Closed Bills, Excel, Launch Report , Disease, Delivery Result Type, Data, Laboratory, Malnutrition control, Operation List, Admission, DICOM Patient, Exams, Delete Bill, Bill, Pharmacy, Disease Type, Operation, Report, Exam Type, OPD, Vaccines, Therapy, Clinical sheet, Accounting, Receipt, Medicals Stock Mov Type, Vaccine, Worksheet, Price Lists, Medicals Type, Supplier, Operation Type, Statistics, Pregnant Treatment, Reports, SMS Manager, Users & Groups, Other Prices, Communication, Settings, Age Type, Help, Vaccine Type, DICOM Type]
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:1237 - Parameter Name : aUser
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:1238 - Parameter Type : org.isf.menu.model.User
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:1267 - The Parameter: aUser has 5 Attributes
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:716 - Attribute Name  : userName
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:717 - Attribute Type  : java.lang.String
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:718 - Attribute Value : admin
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:642 - Attribute Name : userGroupName
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:643 - Attribute Type : org.isf.menu.model.UserGroup
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:688 - The Attribute: userGroupName has 5 SubAttributes
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:716 - SubAttribute Name  : code
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:718 - SubAttribute Value : admin
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:716 - SubAttribute Name  : desc
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:718 - SubAttribute Value : User with all the privileges
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:716 - Attribute Name  : passwd
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:717 - Attribute Type  : java.lang.String
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:718 - Attribute Value : $2a$10$Y56cwhn32koDehBd3Dk4Iu9t9Ve9teKmIt2u84bF0aYe9jqm12p2y
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:716 - Attribute Name  : desc
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:717 - Attribute Type  : java.lang.String
+08/06/2023 07:31:47 PM MDT INFO  UserBrowsingManager:718 - Attribute Value : administrator
+08/06/2023 07:33:27 PM MDT INFO  ConfigurationProperties:91 - File txtPrinter.properties loaded.
+08/06/2023 07:33:27 PM MDT WARN  ConfigurationProperties:122 - TXT_CHAR_HEIGHT property not found: default is 10
+08/06/2023 07:33:27 PM MDT WARN  ConfigurationProperties:122 - TXT_CHAR_WIDTH property not found: default is 10
+08/06/2023 07:33:51 PM MDT INFO  VaccineTypeBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:33:51 PM MDT INFO  VaccineTypeBrowserManager:1442 - OS Current Time     : 08/06/2023 07:33:51 PM MDT
+08/06/2023 07:33:51 PM MDT INFO  VaccineTypeBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:33:51 PM MDT INFO  VaccineTypeBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:33:51 PM MDT INFO  VaccineTypeBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:33:51 PM MDT INFO  VaccineTypeBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:33:51 PM MDT INFO  VaccineTypeBrowserManager:1447 - Method Name         : org.isf.vactype.manager.VaccineTypeBrowserManager.getVaccineType
+08/06/2023 07:33:51 PM MDT INFO  VaccineTypeBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:33:51 PM MDT INFO  VaccineTypeBrowserManager:1449 - Method Return Value : [Bacillo, Child, Extrange Vaccine Type, NEW VACCINE TYPE, No pregnant, Pregnant, RARE NEW VACCINE TYPE, Rare Vaccine, WEIRDEST VACCINE EVER]
+08/06/2023 07:33:51 PM MDT INFO  VaccineTypeBrowserManager:1681 - The Method: getVaccineType DOEST NOT have any INPUT Parameters
+08/06/2023 07:33:51 PM MDT INFO  VaccineBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:33:51 PM MDT INFO  VaccineBrowserManager:1442 - OS Current Time     : 08/06/2023 07:33:51 PM MDT
+08/06/2023 07:33:51 PM MDT INFO  VaccineBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:33:51 PM MDT INFO  VaccineBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:33:51 PM MDT INFO  VaccineBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:33:51 PM MDT INFO  VaccineBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:33:51 PM MDT INFO  VaccineBrowserManager:1447 - Method Name         : org.isf.vaccine.manager.VaccineBrowserManager.getVaccine
+08/06/2023 07:33:51 PM MDT INFO  VaccineBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:33:51 PM MDT INFO  VaccineBrowserManager:1449 - Method Return Value : [BCG, CoVid19, DPT 1 - HepB + Hib 1, DPT 2 - HepB + Hib 1, DPT 3 - HepB + Hib 1, MEASLES, NEW POLYO VACCINE, POLIO 0 C, POLIO 1 C, POLIO 2 C, POLIO 3 C, Rare Vaccine, Rare Virus, TT VACCINE DOSE 1, TT VACCINE DOSE 2, TT VACCINE DOSE 2, TT VACCINE DOSE 3, TT VACCINE DOSE 3, TT VACCINE DOSE 4, TT VACCINE DOSE 4, TT VACCINE DOSE 5, TT VACCINE DOSE 5, VACCINE AGAINST SOMETHING UNEXPECTED]
+08/06/2023 07:33:51 PM MDT INFO  VaccineBrowserManager:1681 - The Method: getVaccine DOEST NOT have any INPUT Parameters
+08/06/2023 07:33:51 PM MDT INFO  PatVacManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:33:51 PM MDT INFO  PatVacManager:1442 - OS Current Time     : 08/06/2023 07:33:51 PM MDT
+08/06/2023 07:33:51 PM MDT INFO  PatVacManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:33:51 PM MDT INFO  PatVacManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:33:51 PM MDT INFO  PatVacManager:1445 - OS UserName         : friverao
+08/06/2023 07:33:51 PM MDT INFO  PatVacManager:1446 - Annotation Type     : Method
+08/06/2023 07:33:51 PM MDT INFO  PatVacManager:1447 - Method Name         : org.isf.patvac.manager.PatVacManager.getPatientVaccine
+08/06/2023 07:33:51 PM MDT INFO  PatVacManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:33:51 PM MDT INFO  PatVacManager:1449 - Method Return Value : [org.isf.patvac.model.PatientVaccine@aaf19ffe, org.isf.patvac.model.PatientVaccine@9b05538, org.isf.patvac.model.PatientVaccine@fe675b08, org.isf.patvac.model.PatientVaccine@fe84022a, org.isf.patvac.model.PatientVaccine@93062fff, org.isf.patvac.model.PatientVaccine@cc9b3cda]
+08/06/2023 07:33:51 PM MDT INFO  PatVacManager:1327 - Parameter Name  : minusOneWeek
+08/06/2023 07:33:51 PM MDT INFO  PatVacManager:1328 - Parameter Type  : java.lang.String
+08/06/2023 07:33:51 PM MDT INFO  PatVacManager:1329 - Parameter Value : true
+08/06/2023 07:34:03 PM MDT INFO  PatVacManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:34:03 PM MDT INFO  PatVacManager:1442 - OS Current Time     : 08/06/2023 07:34:03 PM MDT
+08/06/2023 07:34:03 PM MDT INFO  PatVacManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:34:03 PM MDT INFO  PatVacManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:34:03 PM MDT INFO  PatVacManager:1445 - OS UserName         : friverao
+08/06/2023 07:34:03 PM MDT INFO  PatVacManager:1446 - Annotation Type     : Method
+08/06/2023 07:34:03 PM MDT INFO  PatVacManager:1447 - Method Name         : org.isf.patvac.manager.PatVacManager.getProgYear
+08/06/2023 07:34:03 PM MDT INFO  PatVacManager:1448 - Method Return Type  : java.lang.Integer
+08/06/2023 07:34:03 PM MDT INFO  PatVacManager:1449 - Method Return Value : 13
+08/06/2023 07:34:03 PM MDT INFO  PatVacManager:1327 - Parameter Name  : year
+08/06/2023 07:34:03 PM MDT INFO  PatVacManager:1328 - Parameter Type  : java.lang.String
+08/06/2023 07:34:03 PM MDT INFO  PatVacManager:1329 - Parameter Value : 0
+08/06/2023 07:34:03 PM MDT INFO  PatientBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:34:03 PM MDT INFO  PatientBrowserManager:1442 - OS Current Time     : 08/06/2023 07:34:03 PM MDT
+08/06/2023 07:34:03 PM MDT INFO  PatientBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:34:03 PM MDT INFO  PatientBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:34:03 PM MDT INFO  PatientBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:34:03 PM MDT INFO  PatientBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:34:03 PM MDT INFO  PatientBrowserManager:1447 - Method Name         : org.isf.patient.manager.PatientBrowserManager.getPatient
+08/06/2023 07:34:03 PM MDT INFO  PatientBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:34:03 PM MDT INFO  PatientBrowserManager:1449 - Method Return Value : [Valentina Guzman Perez, Juan Perez Galvan, Benito Perez Galdos]
+08/06/2023 07:34:03 PM MDT INFO  PatientBrowserManager:1681 - The Method: getPatient DOEST NOT have any INPUT Parameters
+08/06/2023 07:34:03 PM MDT INFO  VaccineTypeBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:34:03 PM MDT INFO  VaccineTypeBrowserManager:1442 - OS Current Time     : 08/06/2023 07:34:03 PM MDT
+08/06/2023 07:34:03 PM MDT INFO  VaccineTypeBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:34:03 PM MDT INFO  VaccineTypeBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:34:03 PM MDT INFO  VaccineTypeBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:34:03 PM MDT INFO  VaccineTypeBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:34:03 PM MDT INFO  VaccineTypeBrowserManager:1447 - Method Name         : org.isf.vactype.manager.VaccineTypeBrowserManager.getVaccineType
+08/06/2023 07:34:03 PM MDT INFO  VaccineTypeBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:34:03 PM MDT INFO  VaccineTypeBrowserManager:1449 - Method Return Value : [Bacillo, Child, Extrange Vaccine Type, NEW VACCINE TYPE, No pregnant, Pregnant, RARE NEW VACCINE TYPE, Rare Vaccine, WEIRDEST VACCINE EVER]
+08/06/2023 07:34:03 PM MDT INFO  VaccineTypeBrowserManager:1681 - The Method: getVaccineType DOEST NOT have any INPUT Parameters
+08/06/2023 07:34:03 PM MDT INFO  VaccineBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:34:03 PM MDT INFO  VaccineBrowserManager:1442 - OS Current Time     : 08/06/2023 07:34:03 PM MDT
+08/06/2023 07:34:03 PM MDT INFO  VaccineBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:34:03 PM MDT INFO  VaccineBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:34:03 PM MDT INFO  VaccineBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:34:03 PM MDT INFO  VaccineBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:34:03 PM MDT INFO  VaccineBrowserManager:1447 - Method Name         : org.isf.vaccine.manager.VaccineBrowserManager.getVaccine
+08/06/2023 07:34:03 PM MDT INFO  VaccineBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:34:03 PM MDT INFO  VaccineBrowserManager:1449 - Method Return Value : [CoVid19, Rare Virus]
+08/06/2023 07:34:03 PM MDT INFO  VaccineBrowserManager:1327 - Parameter Name  : vaccineTypeCode
+08/06/2023 07:34:03 PM MDT INFO  VaccineBrowserManager:1328 - Parameter Type  : java.lang.String
+08/06/2023 07:34:03 PM MDT INFO  VaccineBrowserManager:1329 - Parameter Value : B
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:1442 - OS Current Time     : 08/06/2023 07:34:08 PM MDT
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:1445 - OS UserName         : friverao
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:1446 - Annotation Type     : Method
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:1447 - Method Name         : org.isf.patvac.manager.PatVacManager.updatePatientVaccine
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:1448 - Method Return Type  : java.lang.Boolean
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:1449 - Method Return Value : true
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:1237 - Parameter Name : patVac
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:1238 - Parameter Type : org.isf.patvac.model.PatientVaccine
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:1267 - The Parameter: patVac has 7 Attributes
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - Attribute Name  : code
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - Attribute Type  : int
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - Attribute Value : 20
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - Attribute Name  : progr
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - Attribute Type  : int
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - Attribute Value : 13
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - Attribute Name  : vaccineDate
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - Attribute Type  : java.time.LocalDateTime
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - Attribute Value : 2023-06-08T00:00
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:642 - Attribute Name : patient
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:643 - Attribute Type : org.isf.patient.model.Patient
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:688 - The Attribute: patient has 7 SubAttributes
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : code
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.Integer
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 135
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : firstName
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Benito
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : secondName
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Perez Galdos
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : name
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Benito Perez Galdos
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : birthDate
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.time.LocalDate
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 1973-06-07
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : age
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : int
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 50
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : agetype
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : sex
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : char
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : M
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : address
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 44 Rose Street
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : city
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Madrid, Spain
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : nextKin
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 123
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : telephone
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : +3912345
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : note
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : motherName
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Guadalupe
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : mother
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : char
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : A
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : fatherName
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Gumaro
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : father
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : char
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : A
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : bloodType
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : A+
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : hasInsurance
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : char
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Y
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : parentTogether
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : char
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Y
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : taxCode
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 123
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : maritalStatus
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : married
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : profession
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : medicine
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : deleted
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : N
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : lock
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : int
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 1
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : hashCode
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : int
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 3194
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:642 - Attribute Name : vaccine
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:643 - Attribute Type : org.isf.vaccine.model.Vaccine
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:688 - The Attribute: vaccine has 7 SubAttributes
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : code
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 001
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : description
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Rare Virus
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:642 - SubAttribute Name : vaccineType
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:643 - SubAttribute Type : org.isf.vactype.model.VaccineType
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:688 - The Attribute: vaccineType has 4 SubAttributes
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : code
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : B
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : description
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:34:08 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Bacillo
+08/06/2023 07:35:56 PM MDT INFO  ConfigurationProperties:91 - File sms.properties loaded.
+08/06/2023 07:35:56 PM MDT INFO  Webcam:1048 - WebcamDefaultDriver capture driver will be used
+08/06/2023 07:35:57 PM MDT WARN  Webcam:964 - No webcam has been detected!
+08/06/2023 07:36:23 PM MDT INFO  VaccineTypeBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:36:23 PM MDT INFO  VaccineTypeBrowserManager:1442 - OS Current Time     : 08/06/2023 07:36:23 PM MDT
+08/06/2023 07:36:23 PM MDT INFO  VaccineTypeBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:36:23 PM MDT INFO  VaccineTypeBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:36:23 PM MDT INFO  VaccineTypeBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:36:23 PM MDT INFO  VaccineTypeBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:36:23 PM MDT INFO  VaccineTypeBrowserManager:1447 - Method Name         : org.isf.vactype.manager.VaccineTypeBrowserManager.getVaccineType
+08/06/2023 07:36:23 PM MDT INFO  VaccineTypeBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:36:23 PM MDT INFO  VaccineTypeBrowserManager:1449 - Method Return Value : [Bacillo, Child, Extrange Vaccine Type, NEW VACCINE TYPE, No pregnant, Pregnant, RARE NEW VACCINE TYPE, Rare Vaccine, WEIRDEST VACCINE EVER]
+08/06/2023 07:36:23 PM MDT INFO  VaccineTypeBrowserManager:1681 - The Method: getVaccineType DOEST NOT have any INPUT Parameters
+08/06/2023 07:36:23 PM MDT INFO  VaccineBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:36:23 PM MDT INFO  VaccineBrowserManager:1442 - OS Current Time     : 08/06/2023 07:36:23 PM MDT
+08/06/2023 07:36:23 PM MDT INFO  VaccineBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:36:23 PM MDT INFO  VaccineBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:36:23 PM MDT INFO  VaccineBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:36:23 PM MDT INFO  VaccineBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:36:23 PM MDT INFO  VaccineBrowserManager:1447 - Method Name         : org.isf.vaccine.manager.VaccineBrowserManager.getVaccine
+08/06/2023 07:36:23 PM MDT INFO  VaccineBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:36:23 PM MDT INFO  VaccineBrowserManager:1449 - Method Return Value : [BCG, CoVid19, DPT 1 - HepB + Hib 1, DPT 2 - HepB + Hib 1, DPT 3 - HepB + Hib 1, MEASLES, NEW POLYO VACCINE, POLIO 0 C, POLIO 1 C, POLIO 2 C, POLIO 3 C, Rare Vaccine, Rare Virus, TT VACCINE DOSE 1, TT VACCINE DOSE 2, TT VACCINE DOSE 2, TT VACCINE DOSE 3, TT VACCINE DOSE 3, TT VACCINE DOSE 4, TT VACCINE DOSE 4, TT VACCINE DOSE 5, TT VACCINE DOSE 5, VACCINE AGAINST SOMETHING UNEXPECTED]
+08/06/2023 07:36:23 PM MDT INFO  VaccineBrowserManager:1681 - The Method: getVaccine DOEST NOT have any INPUT Parameters
+08/06/2023 07:36:23 PM MDT INFO  PatVacManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:36:23 PM MDT INFO  PatVacManager:1442 - OS Current Time     : 08/06/2023 07:36:23 PM MDT
+08/06/2023 07:36:23 PM MDT INFO  PatVacManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:36:23 PM MDT INFO  PatVacManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:36:23 PM MDT INFO  PatVacManager:1445 - OS UserName         : friverao
+08/06/2023 07:36:23 PM MDT INFO  PatVacManager:1446 - Annotation Type     : Method
+08/06/2023 07:36:23 PM MDT INFO  PatVacManager:1447 - Method Name         : org.isf.patvac.manager.PatVacManager.getPatientVaccine
+08/06/2023 07:36:23 PM MDT INFO  PatVacManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:36:23 PM MDT INFO  PatVacManager:1449 - Method Return Value : [org.isf.patvac.model.PatientVaccine@90a247ce, org.isf.patvac.model.PatientVaccine@47056fd5, org.isf.patvac.model.PatientVaccine@a05d79c5, org.isf.patvac.model.PatientVaccine@10151b1c, org.isf.patvac.model.PatientVaccine@fca0adc, org.isf.patvac.model.PatientVaccine@34b705d6]
+08/06/2023 07:36:23 PM MDT INFO  PatVacManager:1327 - Parameter Name  : minusOneWeek
+08/06/2023 07:36:23 PM MDT INFO  PatVacManager:1328 - Parameter Type  : java.lang.String
+08/06/2023 07:36:23 PM MDT INFO  PatVacManager:1329 - Parameter Value : true
+08/06/2023 07:36:27 PM MDT INFO  PatVacManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:36:27 PM MDT INFO  PatVacManager:1442 - OS Current Time     : 08/06/2023 07:36:27 PM MDT
+08/06/2023 07:36:27 PM MDT INFO  PatVacManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:36:27 PM MDT INFO  PatVacManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:36:27 PM MDT INFO  PatVacManager:1445 - OS UserName         : friverao
+08/06/2023 07:36:27 PM MDT INFO  PatVacManager:1446 - Annotation Type     : Method
+08/06/2023 07:36:27 PM MDT INFO  PatVacManager:1447 - Method Name         : org.isf.patvac.manager.PatVacManager.getProgYear
+08/06/2023 07:36:27 PM MDT INFO  PatVacManager:1448 - Method Return Type  : java.lang.Integer
+08/06/2023 07:36:27 PM MDT INFO  PatVacManager:1449 - Method Return Value : 13
+08/06/2023 07:36:27 PM MDT INFO  PatVacManager:1327 - Parameter Name  : year
+08/06/2023 07:36:27 PM MDT INFO  PatVacManager:1328 - Parameter Type  : java.lang.String
+08/06/2023 07:36:27 PM MDT INFO  PatVacManager:1329 - Parameter Value : 0
+08/06/2023 07:36:27 PM MDT INFO  PatientBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:36:27 PM MDT INFO  PatientBrowserManager:1442 - OS Current Time     : 08/06/2023 07:36:27 PM MDT
+08/06/2023 07:36:27 PM MDT INFO  PatientBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:36:27 PM MDT INFO  PatientBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:36:27 PM MDT INFO  PatientBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:36:27 PM MDT INFO  PatientBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:36:27 PM MDT INFO  PatientBrowserManager:1447 - Method Name         : org.isf.patient.manager.PatientBrowserManager.getPatient
+08/06/2023 07:36:27 PM MDT INFO  PatientBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:36:27 PM MDT INFO  PatientBrowserManager:1449 - Method Return Value : [Valentina Guzman Perez, Juan Perez Galvan, Benito Perez Galdos]
+08/06/2023 07:36:27 PM MDT INFO  PatientBrowserManager:1681 - The Method: getPatient DOEST NOT have any INPUT Parameters
+08/06/2023 07:36:27 PM MDT INFO  VaccineTypeBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:36:27 PM MDT INFO  VaccineTypeBrowserManager:1442 - OS Current Time     : 08/06/2023 07:36:27 PM MDT
+08/06/2023 07:36:27 PM MDT INFO  VaccineTypeBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:36:27 PM MDT INFO  VaccineTypeBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:36:27 PM MDT INFO  VaccineTypeBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:36:27 PM MDT INFO  VaccineTypeBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:36:27 PM MDT INFO  VaccineTypeBrowserManager:1447 - Method Name         : org.isf.vactype.manager.VaccineTypeBrowserManager.getVaccineType
+08/06/2023 07:36:27 PM MDT INFO  VaccineTypeBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:36:27 PM MDT INFO  VaccineTypeBrowserManager:1449 - Method Return Value : [Bacillo, Child, Extrange Vaccine Type, NEW VACCINE TYPE, No pregnant, Pregnant, RARE NEW VACCINE TYPE, Rare Vaccine, WEIRDEST VACCINE EVER]
+08/06/2023 07:36:27 PM MDT INFO  VaccineTypeBrowserManager:1681 - The Method: getVaccineType DOEST NOT have any INPUT Parameters
+08/06/2023 07:36:27 PM MDT INFO  VaccineBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:36:27 PM MDT INFO  VaccineBrowserManager:1442 - OS Current Time     : 08/06/2023 07:36:27 PM MDT
+08/06/2023 07:36:27 PM MDT INFO  VaccineBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:36:27 PM MDT INFO  VaccineBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:36:27 PM MDT INFO  VaccineBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:36:27 PM MDT INFO  VaccineBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:36:27 PM MDT INFO  VaccineBrowserManager:1447 - Method Name         : org.isf.vaccine.manager.VaccineBrowserManager.getVaccine
+08/06/2023 07:36:27 PM MDT INFO  VaccineBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:36:27 PM MDT INFO  VaccineBrowserManager:1449 - Method Return Value : [CoVid19, Rare Virus]
+08/06/2023 07:36:27 PM MDT INFO  VaccineBrowserManager:1327 - Parameter Name  : vaccineTypeCode
+08/06/2023 07:36:27 PM MDT INFO  VaccineBrowserManager:1328 - Parameter Type  : java.lang.String
+08/06/2023 07:36:27 PM MDT INFO  VaccineBrowserManager:1329 - Parameter Value : B
+08/06/2023 07:36:30 PM MDT INFO  VaccineBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:36:30 PM MDT INFO  VaccineBrowserManager:1442 - OS Current Time     : 08/06/2023 07:36:30 PM MDT
+08/06/2023 07:36:30 PM MDT INFO  VaccineBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:36:30 PM MDT INFO  VaccineBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:36:30 PM MDT INFO  VaccineBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:36:30 PM MDT INFO  VaccineBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:36:30 PM MDT INFO  VaccineBrowserManager:1447 - Method Name         : org.isf.vaccine.manager.VaccineBrowserManager.getVaccine
+08/06/2023 07:36:30 PM MDT INFO  VaccineBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:36:30 PM MDT INFO  VaccineBrowserManager:1449 - Method Return Value : [BCG, DPT 1 - HepB + Hib 1, DPT 2 - HepB + Hib 1, DPT 3 - HepB + Hib 1, MEASLES, NEW POLYO VACCINE, POLIO 0 C, POLIO 1 C, POLIO 2 C, POLIO 3 C, VACCINE AGAINST SOMETHING UNEXPECTED]
+08/06/2023 07:36:30 PM MDT INFO  VaccineBrowserManager:1327 - Parameter Name  : vaccineTypeCode
+08/06/2023 07:36:30 PM MDT INFO  VaccineBrowserManager:1328 - Parameter Type  : java.lang.String
+08/06/2023 07:36:30 PM MDT INFO  VaccineBrowserManager:1329 - Parameter Value : C
+08/06/2023 07:37:15 PM MDT INFO  VaccineTypeBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:37:15 PM MDT INFO  VaccineTypeBrowserManager:1442 - OS Current Time     : 08/06/2023 07:37:15 PM MDT
+08/06/2023 07:37:15 PM MDT INFO  VaccineTypeBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:37:15 PM MDT INFO  VaccineTypeBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:37:15 PM MDT INFO  VaccineTypeBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:37:15 PM MDT INFO  VaccineTypeBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:37:15 PM MDT INFO  VaccineTypeBrowserManager:1447 - Method Name         : org.isf.vactype.manager.VaccineTypeBrowserManager.getVaccineType
+08/06/2023 07:37:15 PM MDT INFO  VaccineTypeBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:37:15 PM MDT INFO  VaccineTypeBrowserManager:1449 - Method Return Value : [Bacillo, Child, Extrange Vaccine Type, NEW VACCINE TYPE, No pregnant, Pregnant, RARE NEW VACCINE TYPE, Rare Vaccine, WEIRDEST VACCINE EVER]
+08/06/2023 07:37:15 PM MDT INFO  VaccineTypeBrowserManager:1681 - The Method: getVaccineType DOEST NOT have any INPUT Parameters
+08/06/2023 07:37:15 PM MDT INFO  VaccineBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:37:15 PM MDT INFO  VaccineBrowserManager:1442 - OS Current Time     : 08/06/2023 07:37:15 PM MDT
+08/06/2023 07:37:15 PM MDT INFO  VaccineBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:37:15 PM MDT INFO  VaccineBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:37:15 PM MDT INFO  VaccineBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:37:15 PM MDT INFO  VaccineBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:37:15 PM MDT INFO  VaccineBrowserManager:1447 - Method Name         : org.isf.vaccine.manager.VaccineBrowserManager.getVaccine
+08/06/2023 07:37:15 PM MDT INFO  VaccineBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:37:15 PM MDT INFO  VaccineBrowserManager:1449 - Method Return Value : [BCG, CoVid19, DPT 1 - HepB + Hib 1, DPT 2 - HepB + Hib 1, DPT 3 - HepB + Hib 1, MEASLES, NEW POLYO VACCINE, POLIO 0 C, POLIO 1 C, POLIO 2 C, POLIO 3 C, Rare Vaccine, Rare Virus, TT VACCINE DOSE 1, TT VACCINE DOSE 2, TT VACCINE DOSE 2, TT VACCINE DOSE 3, TT VACCINE DOSE 3, TT VACCINE DOSE 4, TT VACCINE DOSE 4, TT VACCINE DOSE 5, TT VACCINE DOSE 5, VACCINE AGAINST SOMETHING UNEXPECTED]
+08/06/2023 07:37:15 PM MDT INFO  VaccineBrowserManager:1681 - The Method: getVaccine DOEST NOT have any INPUT Parameters
+08/06/2023 07:37:15 PM MDT INFO  PatVacManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:37:15 PM MDT INFO  PatVacManager:1442 - OS Current Time     : 08/06/2023 07:37:15 PM MDT
+08/06/2023 07:37:15 PM MDT INFO  PatVacManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:37:15 PM MDT INFO  PatVacManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:37:15 PM MDT INFO  PatVacManager:1445 - OS UserName         : friverao
+08/06/2023 07:37:15 PM MDT INFO  PatVacManager:1446 - Annotation Type     : Method
+08/06/2023 07:37:15 PM MDT INFO  PatVacManager:1447 - Method Name         : org.isf.patvac.manager.PatVacManager.getPatientVaccine
+08/06/2023 07:37:15 PM MDT INFO  PatVacManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:37:15 PM MDT INFO  PatVacManager:1449 - Method Return Value : [org.isf.patvac.model.PatientVaccine@abc853c3, org.isf.patvac.model.PatientVaccine@8fea0472, org.isf.patvac.model.PatientVaccine@4f87ce84, org.isf.patvac.model.PatientVaccine@7bdd6164, org.isf.patvac.model.PatientVaccine@7b925124, org.isf.patvac.model.PatientVaccine@57018d96]
+08/06/2023 07:37:15 PM MDT INFO  PatVacManager:1327 - Parameter Name  : minusOneWeek
+08/06/2023 07:37:15 PM MDT INFO  PatVacManager:1328 - Parameter Type  : java.lang.String
+08/06/2023 07:37:15 PM MDT INFO  PatVacManager:1329 - Parameter Value : true
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:1442 - OS Current Time     : 08/06/2023 07:37:26 PM MDT
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:1445 - OS UserName         : friverao
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:1446 - Annotation Type     : Method
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:1447 - Method Name         : org.isf.patvac.manager.PatVacManager.deletePatientVaccine
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:1448 - Method Return Type  : java.lang.Boolean
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:1449 - Method Return Value : true
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:1237 - Parameter Name : patVac
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:1238 - Parameter Type : org.isf.patvac.model.PatientVaccine
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:1267 - The Parameter: patVac has 7 Attributes
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - Attribute Name  : code
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - Attribute Type  : int
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - Attribute Value : 20
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - Attribute Name  : progr
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - Attribute Type  : int
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - Attribute Value : 13
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - Attribute Name  : vaccineDate
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - Attribute Type  : java.time.LocalDateTime
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - Attribute Value : 2023-06-08T00:00
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:642 - Attribute Name : patient
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:643 - Attribute Type : org.isf.patient.model.Patient
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:688 - The Attribute: patient has 7 SubAttributes
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : code
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.Integer
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 135
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : firstName
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Benito
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : secondName
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Perez Galdos
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : name
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Benito Perez Galdos
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : birthDate
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.time.LocalDate
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 1973-06-07
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : age
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : int
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 50
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : agetype
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : sex
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : char
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : M
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : address
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 44 Rose Street
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : city
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Madrid, Spain
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : nextKin
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 123
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : telephone
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : +3912345
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : note
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : motherName
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Guadalupe
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : mother
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : char
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : A
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : fatherName
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Gumaro
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : father
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : char
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : A
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : bloodType
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : A+
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : hasInsurance
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : char
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Y
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : parentTogether
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : char
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Y
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : taxCode
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 123
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : maritalStatus
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : divorced
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : profession
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : business
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : deleted
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : N
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : lock
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : int
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 2
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : hashCode
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : int
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 3194
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:642 - Attribute Name : vaccine
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:643 - Attribute Type : org.isf.vaccine.model.Vaccine
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:688 - The Attribute: vaccine has 7 SubAttributes
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : code
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : 001
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : description
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Rare Virus
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:642 - SubAttribute Name : vaccineType
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:643 - SubAttribute Type : org.isf.vactype.model.VaccineType
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:688 - The Attribute: vaccineType has 4 SubAttributes
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : code
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : B
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:716 - SubAttribute Name  : description
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:717 - SubAttribute Type  : java.lang.String
+08/06/2023 07:37:26 PM MDT INFO  PatVacManager:718 - SubAttribute Value : Bacillo
+08/06/2023 07:39:18 PM MDT INFO  VaccineTypeBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:39:18 PM MDT INFO  VaccineTypeBrowserManager:1442 - OS Current Time     : 08/06/2023 07:39:18 PM MDT
+08/06/2023 07:39:18 PM MDT INFO  VaccineTypeBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:39:18 PM MDT INFO  VaccineTypeBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:39:18 PM MDT INFO  VaccineTypeBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:39:18 PM MDT INFO  VaccineTypeBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:39:18 PM MDT INFO  VaccineTypeBrowserManager:1447 - Method Name         : org.isf.vactype.manager.VaccineTypeBrowserManager.getVaccineType
+08/06/2023 07:39:18 PM MDT INFO  VaccineTypeBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:39:18 PM MDT INFO  VaccineTypeBrowserManager:1449 - Method Return Value : [Bacillo, Child, Extrange Vaccine Type, NEW VACCINE TYPE, No pregnant, Pregnant, RARE NEW VACCINE TYPE, Rare Vaccine, WEIRDEST VACCINE EVER]
+08/06/2023 07:39:18 PM MDT INFO  VaccineTypeBrowserManager:1681 - The Method: getVaccineType DOEST NOT have any INPUT Parameters
+08/06/2023 07:39:18 PM MDT INFO  VaccineBrowserManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:39:18 PM MDT INFO  VaccineBrowserManager:1442 - OS Current Time     : 08/06/2023 07:39:18 PM MDT
+08/06/2023 07:39:18 PM MDT INFO  VaccineBrowserManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:39:18 PM MDT INFO  VaccineBrowserManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:39:18 PM MDT INFO  VaccineBrowserManager:1445 - OS UserName         : friverao
+08/06/2023 07:39:18 PM MDT INFO  VaccineBrowserManager:1446 - Annotation Type     : Method
+08/06/2023 07:39:18 PM MDT INFO  VaccineBrowserManager:1447 - Method Name         : org.isf.vaccine.manager.VaccineBrowserManager.getVaccine
+08/06/2023 07:39:18 PM MDT INFO  VaccineBrowserManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:39:18 PM MDT INFO  VaccineBrowserManager:1449 - Method Return Value : [BCG, CoVid19, DPT 1 - HepB + Hib 1, DPT 2 - HepB + Hib 1, DPT 3 - HepB + Hib 1, MEASLES, NEW POLYO VACCINE, POLIO 0 C, POLIO 1 C, POLIO 2 C, POLIO 3 C, Rare Vaccine, Rare Virus, TT VACCINE DOSE 1, TT VACCINE DOSE 2, TT VACCINE DOSE 2, TT VACCINE DOSE 3, TT VACCINE DOSE 3, TT VACCINE DOSE 4, TT VACCINE DOSE 4, TT VACCINE DOSE 5, TT VACCINE DOSE 5, VACCINE AGAINST SOMETHING UNEXPECTED]
+08/06/2023 07:39:18 PM MDT INFO  VaccineBrowserManager:1681 - The Method: getVaccine DOEST NOT have any INPUT Parameters
+08/06/2023 07:39:18 PM MDT INFO  PatVacManager:1441 - OS Name             : Windows Server 2016
+08/06/2023 07:39:18 PM MDT INFO  PatVacManager:1442 - OS Current Time     : 08/06/2023 07:39:18 PM MDT
+08/06/2023 07:39:18 PM MDT INFO  PatVacManager:1443 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+08/06/2023 07:39:18 PM MDT INFO  PatVacManager:1444 - OS Hostname         : WIN-BIBB4C8F4MJ
+08/06/2023 07:39:18 PM MDT INFO  PatVacManager:1445 - OS UserName         : friverao
+08/06/2023 07:39:18 PM MDT INFO  PatVacManager:1446 - Annotation Type     : Method
+08/06/2023 07:39:18 PM MDT INFO  PatVacManager:1447 - Method Name         : org.isf.patvac.manager.PatVacManager.getPatientVaccine
+08/06/2023 07:39:18 PM MDT INFO  PatVacManager:1448 - Method Return Type  : java.util.ArrayList
+08/06/2023 07:39:18 PM MDT INFO  PatVacManager:1449 - Method Return Value : [org.isf.patvac.model.PatientVaccine@2600fa37, org.isf.patvac.model.PatientVaccine@d5236697, org.isf.patvac.model.PatientVaccine@67f4c2fd, org.isf.patvac.model.PatientVaccine@cd93b70b, org.isf.patvac.model.PatientVaccine@b17ed3ab]
+08/06/2023 07:39:18 PM MDT INFO  PatVacManager:1327 - Parameter Name  : minusOneWeek
+08/06/2023 07:39:18 PM MDT INFO  PatVacManager:1328 - Parameter Type  : java.lang.String
+08/06/2023 07:39:18 PM MDT INFO  PatVacManager:1329 - Parameter Value : true
+08/06/2023 07:39:34 PM MDT INFO  ConfigurationProperties:91 - File sms.properties loaded.
+08/06/2023 07:39:34 PM MDT WARN  Webcam:964 - No webcam has been detected!
+08/06/2023 07:40:36 PM MDT INFO  MainMenu:315 - 
+
+=====================
+ Open Hospital closed 
+=====================
+

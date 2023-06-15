@@ -1,0 +1,28 @@
+31/03/2023 11:51:59 PM MST INFO  Login:1282 - OS Name             : Windows Server 2016
+31/03/2023 11:51:59 PM MST INFO  Login:1283 - OS Current Time     : 31/03/2023 11:51:59 PM MST
+31/03/2023 11:51:59 PM MST INFO  Login:1284 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+31/03/2023 11:51:59 PM MST INFO  Login:1285 - OS Hostname         : WIN-BIBB4C8F4MJ
+31/03/2023 11:51:59 PM MST INFO  Login:1286 - OS UserName         : friverao
+31/03/2023 11:51:59 PM MST INFO  Login:1287 - Annotation Type     : Method
+31/03/2023 11:51:59 PM MST INFO  Login:1288 - Method Name         : org.isf.menu.gui.Login.acceptPwd
+31/03/2023 11:51:59 PM MST INFO  Login:1289 - Method Return Type  : void
+31/03/2023 11:51:59 PM MST INFO  Login:1290 - Method Return Value : 
+31/03/2023 11:51:59 PM MST INFO  Login:1503 - The Method: acceptPwd DOEST NOT have any INPUT Parameters
+31/03/2023 11:52:29 PM MST WARN  Login:170 - Login failed: The password is incorrect; please retry.
+31/03/2023 11:52:30 PM MST INFO  Login:1282 - OS Name             : Windows Server 2016
+31/03/2023 11:52:30 PM MST INFO  Login:1283 - OS Current Time     : 31/03/2023 11:52:30 PM MST
+31/03/2023 11:52:30 PM MST INFO  Login:1284 - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.45
+31/03/2023 11:52:30 PM MST INFO  Login:1285 - OS Hostname         : WIN-BIBB4C8F4MJ
+31/03/2023 11:52:30 PM MST INFO  Login:1286 - OS UserName         : friverao
+31/03/2023 11:52:30 PM MST INFO  Login:1287 - Annotation Type     : Method
+31/03/2023 11:52:30 PM MST INFO  Login:1288 - Method Name         : org.isf.menu.gui.Login.acceptPwd
+31/03/2023 11:52:30 PM MST INFO  Login:1289 - Method Return Type  : void
+31/03/2023 11:52:30 PM MST INFO  Login:1290 - Method Return Value : 
+31/03/2023 11:52:30 PM MST INFO  Login:1503 - The Method: acceptPwd DOEST NOT have any INPUT Parameters
+31/03/2023 11:52:53 PM MST INFO  MainMenu:312 - Login failed.
+31/03/2023 11:52:53 PM MST INFO  MainMenu:315 - 
+
+=====================
+ Open Hospital closed 
+=====================
+

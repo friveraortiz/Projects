@@ -1,0 +1,100 @@
+[06/Jun/2023 19:20:30] [:] INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+[06/Jun/2023 19:20:30] [:] INFO - HHH000412: Hibernate ORM core version 5.6.11.Final
+[06/Jun/2023 19:20:31] [:] INFO - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[06/Jun/2023 19:20:31] [:] INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[06/Jun/2023 19:20:34] [:] INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Message FRL: Welcome to the Forensic-Ready Logger ...
+Message FRL: The UML Sequence Diagram Files were FIRST Created in: 10 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: acceptPwd() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 1630 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 213 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMenu() was Generated in : 1 milliseconds.
+[06/Jun/2023 19:21:05] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[06/Jun/2023 19:21:05] [admin:doctor] INFO - OS Current Time     : 06/06/2023 07:21:05 PM MDT
+[06/Jun/2023 19:21:05] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[06/Jun/2023 19:21:05] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[06/Jun/2023 19:21:05] [admin:doctor] INFO - OS UserName         : friverao
+[06/Jun/2023 19:21:05] [admin:doctor] INFO - Annotation Type     : Parameter
+[06/Jun/2023 19:21:05] [admin:doctor] INFO - Method Name         : org.isf.menu.manager.UserBrowsingManager.getMenu
+[06/Jun/2023 19:21:05] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[06/Jun/2023 19:21:05] [admin:doctor] INFO - Method Return Value : 
+Message FRL: The Security Log for the HEADER was generated in: 14 milliseconds
+[06/Jun/2023 19:21:05] [admin:doctor] INFO - Parameter Name  : aUser
+[06/Jun/2023 19:21:05] [admin:doctor] INFO - Parameter Type  :  org.isf.menu.model.User
+[06/Jun/2023 19:21:05] [admin:doctor] INFO - Parameter Value : doctor
+[06/Jun/2023 19:21:05] [admin:doctor] INFO - Attribute Name  : userName
+[06/Jun/2023 19:21:05] [admin:doctor] INFO - Attribute Type  : java.lang.String
+[06/Jun/2023 19:21:05] [admin:doctor] INFO - Attribute Value : doctor
+Message FRL: The Security Log for PARAMETER Annotation Type was generated in: 5 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccineType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccine() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientVaccine() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getProgYear() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatient() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccineType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccine() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccine() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newPatientVaccine() was Generated in : 0 milliseconds.
+[06/Jun/2023 19:21:57] [admin:doctor] INFO - 
+
+=====================
+ Open Hospital closed 
+=====================
+
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in: 574 milliseconds
+Message FRL: UML Sequence Diagram Text File created  : C:\Users\friverao\eclipse-workspace\Directories\Output\IncidentSequenceDiagram.txt
+Message FRL: UML Sequence Diagram Image File created : C:\Users\friverao\eclipse-workspace\Directories\Output\IncidentSequenceDiagram.png
+Message FRL: Good Bye to the Forensic-Ready Logger.
+
+
+[06/Jun/2023 19:30:16] [:] INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+[06/Jun/2023 19:30:16] [:] INFO - HHH000412: Hibernate ORM core version 5.6.11.Final
+[06/Jun/2023 19:30:17] [:] INFO - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[06/Jun/2023 19:30:17] [:] INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[06/Jun/2023 19:30:20] [:] INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Message FRL: Welcome to the Forensic-Ready Logger ...
+Message FRL: The UML Sequence Diagram Files were FIRST Created in: 5 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: acceptPwd() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 1119 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 175 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMenu() was Generated in : 0 milliseconds.
+[06/Jun/2023 19:30:36] [admin:admin] INFO - OS Name             : Windows Server 2016
+[06/Jun/2023 19:30:36] [admin:admin] INFO - OS Current Time     : 06/06/2023 07:30:36 PM MDT
+[06/Jun/2023 19:30:36] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[06/Jun/2023 19:30:36] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[06/Jun/2023 19:30:36] [admin:admin] INFO - OS UserName         : friverao
+[06/Jun/2023 19:30:36] [admin:admin] INFO - Annotation Type     : Parameter
+[06/Jun/2023 19:30:36] [admin:admin] INFO - Method Name         : org.isf.menu.manager.UserBrowsingManager.getMenu
+[06/Jun/2023 19:30:36] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[06/Jun/2023 19:30:36] [admin:admin] INFO - Method Return Value : 
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[06/Jun/2023 19:30:36] [admin:admin] INFO - Parameter Name  : aUser
+[06/Jun/2023 19:30:36] [admin:admin] INFO - Parameter Type  :  org.isf.menu.model.User
+[06/Jun/2023 19:30:36] [admin:admin] INFO - Parameter Value : admin
+[06/Jun/2023 19:30:36] [admin:admin] INFO - Attribute Name  : userName
+[06/Jun/2023 19:30:36] [admin:admin] INFO - Attribute Type  : java.lang.String
+[06/Jun/2023 19:30:36] [admin:admin] INFO - Attribute Value : admin
+Message FRL: The Security Log for PARAMETER Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccineType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccine() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientVaccine() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getProgYear() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatient() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccineType() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccine() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: updatePatientVaccine() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: deletePatientVaccine() was Generated in : 1 milliseconds.
+[06/Jun/2023 19:31:25] [admin:admin] INFO - 
+
+=====================
+ Open Hospital closed 
+=====================
+
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in: 608 milliseconds
+Message FRL: UML Sequence Diagram Text File created  : C:\Users\friverao\eclipse-workspace\Directories\Output\IncidentSequenceDiagram.txt
+Message FRL: UML Sequence Diagram Image File created : C:\Users\friverao\eclipse-workspace\Directories\Output\IncidentSequenceDiagram.png
+Message FRL: Good Bye to the Forensic-Ready Logger.

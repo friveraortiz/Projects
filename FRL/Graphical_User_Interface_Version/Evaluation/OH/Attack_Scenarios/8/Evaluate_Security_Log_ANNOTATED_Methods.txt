@@ -1,0 +1,772 @@
+[07/Jun/2023 17:32:41] [:] INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+[07/Jun/2023 17:32:41] [:] INFO - HHH000412: Hibernate ORM core version 5.6.11.Final
+[07/Jun/2023 17:32:41] [:] INFO - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[07/Jun/2023 17:32:42] [:] INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[07/Jun/2023 17:32:45] [:] INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Message FRL: Welcome to the Forensic-Ready Logger ...
+Message FRL: The UML Sequence Diagram Files were FIRST Created in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: acceptPwd() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 1089 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 203 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMenu() was Generated in : 0 milliseconds.
+[07/Jun/2023 17:33:07] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[07/Jun/2023 17:33:07] [admin:doctor] INFO - OS Current Time     : 07/06/2023 05:33:07 PM MDT
+[07/Jun/2023 17:33:07] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[07/Jun/2023 17:33:07] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[07/Jun/2023 17:33:07] [admin:doctor] INFO - OS UserName         : friverao
+[07/Jun/2023 17:33:07] [admin:doctor] INFO - Annotation Type     : Parameter
+[07/Jun/2023 17:33:07] [admin:doctor] INFO - Method Name         : org.isf.menu.manager.UserBrowsingManager.getMenu
+[07/Jun/2023 17:33:07] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[07/Jun/2023 17:33:07] [admin:doctor] INFO - Method Return Value : 
+Message FRL: The Security Log for the HEADER was generated in: 7 milliseconds
+[07/Jun/2023 17:33:07] [admin:doctor] INFO - Parameter Name  : aUser
+[07/Jun/2023 17:33:07] [admin:doctor] INFO - Parameter Type  :  org.isf.menu.model.User
+[07/Jun/2023 17:33:07] [admin:doctor] INFO - Parameter Value : doctor
+[07/Jun/2023 17:33:07] [admin:doctor] INFO - Attribute Name  : userName
+[07/Jun/2023 17:33:07] [admin:doctor] INFO - Attribute Type  : java.lang.String
+[07/Jun/2023 17:33:07] [admin:doctor] INFO - Attribute Value : doctor
+Message FRL: The Security Log for PARAMETER Annotation Type was generated in: 11 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getUserGroup() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: updateUserGroup() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: maternityControl() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: deleteWard() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getTherapyRows() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisits() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: deleteAllTherapies() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newTherapies() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getTherapyRows() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisits() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getExams() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getLaboratory() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getExams() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getExamRowByExamCode() was Generated in : 0 milliseconds.
+[07/Jun/2023 17:34:52] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[07/Jun/2023 17:34:52] [admin:doctor] INFO - OS Current Time     : 07/06/2023 05:34:52 PM MDT
+[07/Jun/2023 17:34:52] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[07/Jun/2023 17:34:52] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[07/Jun/2023 17:34:52] [admin:doctor] INFO - OS UserName         : friverao
+[07/Jun/2023 17:34:52] [admin:doctor] INFO - Annotation Type     : Method
+[07/Jun/2023 17:34:52] [admin:doctor] INFO - Method Name         : org.isf.exa.manager.ExamRowBrowsingManager.getExamRowByExamCode
+[07/Jun/2023 17:34:52] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[07/Jun/2023 17:34:52] [admin:doctor] INFO - Method Return Value : [NEGATIVE, POSITIVE]
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[07/Jun/2023 17:34:52] [admin:doctor] INFO - Parameter Name  : aExamCode
+[07/Jun/2023 17:34:52] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[07/Jun/2023 17:34:52] [admin:doctor] INFO - Parameter Value : 03.04
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newLaboratory2() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientsByOneOfFieldsLike() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientById() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentAdmission() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newLaboratory2() was Generated in : 1 milliseconds.
+[07/Jun/2023 17:35:08] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[07/Jun/2023 17:35:08] [admin:doctor] INFO - OS Current Time     : 07/06/2023 05:35:08 PM MDT
+[07/Jun/2023 17:35:08] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[07/Jun/2023 17:35:08] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[07/Jun/2023 17:35:08] [admin:doctor] INFO - OS UserName         : friverao
+[07/Jun/2023 17:35:08] [admin:doctor] INFO - Annotation Type     : ReturnType
+[07/Jun/2023 17:35:08] [admin:doctor] INFO - Method Name         : org.isf.lab.manager.LabManager.newLaboratory2
+[07/Jun/2023 17:35:08] [admin:doctor] INFO - Method Return Type  : java.lang.Boolean
+[07/Jun/2023 17:35:08] [admin:doctor] INFO - Method Return Value : true
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[07/Jun/2023 17:35:08] [admin:doctor] INFO - Parameter Name  : labList
+[07/Jun/2023 17:35:08] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[07/Jun/2023 17:35:08] [admin:doctor] INFO - Parameter Value : [-------------------------------------------
+Laboratory{code=17, material=urine, exam=3.4 URINE MICROSCOPY, registrationDate=2023-06-07T17:34, examDate=2023-06-07, result=POSITIVE, lock=0, note=null, patient=Valentina Guzman Perez, patName=Valentina Guzman Perez, InOutPatient=O, age=50, sex=F, hashCode=0}
+---------------------------------------------]
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 2 milliseconds
+[07/Jun/2023 17:35:08] [admin:doctor] INFO - Parameter Name  : labRowList
+[07/Jun/2023 17:35:08] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[07/Jun/2023 17:35:08] [admin:doctor] INFO - Parameter Value : [[]]
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getLaboratory() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAll() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: saveOrUpdate() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getExams() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getLaboratory() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getExams() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getExamRowByExamCode() was Generated in : 0 milliseconds.
+[07/Jun/2023 17:35:52] [admin:doctor] INFO - OS Name             : Windows Server 2016
+[07/Jun/2023 17:35:52] [admin:doctor] INFO - OS Current Time     : 07/06/2023 05:35:52 PM MDT
+[07/Jun/2023 17:35:52] [admin:doctor] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[07/Jun/2023 17:35:52] [admin:doctor] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[07/Jun/2023 17:35:52] [admin:doctor] INFO - OS UserName         : friverao
+[07/Jun/2023 17:35:52] [admin:doctor] INFO - Annotation Type     : Method
+[07/Jun/2023 17:35:52] [admin:doctor] INFO - Method Name         : org.isf.exa.manager.ExamRowBrowsingManager.getExamRowByExamCode
+[07/Jun/2023 17:35:52] [admin:doctor] INFO - Method Return Type  : java.util.ArrayList
+[07/Jun/2023 17:35:52] [admin:doctor] INFO - Method Return Value : []
+Message FRL: The Security Log for the HEADER was generated in: 3 milliseconds
+[07/Jun/2023 17:35:52] [admin:doctor] INFO - Parameter Name  : aExamCode
+[07/Jun/2023 17:35:52] [admin:doctor] INFO - Parameter Type  : java.lang.String
+[07/Jun/2023 17:35:52] [admin:doctor] INFO - Parameter Value : 01.03
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 6 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicalType() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: deleteMedical() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPendingBills() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospitalCurrencyCod() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospitalCurrencyCod() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPrices() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getItems() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBill() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newBill() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPrices() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPendingBills() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospitalCurrencyCod() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPrices() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getItems() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientById() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: updateBill() was Generated in : 1 milliseconds.
+[07/Jun/2023 17:37:12] [admin:doctor] INFO - File txtPrinter.properties loaded.
+[07/Jun/2023 17:37:12] [admin:doctor] WARN - TXT_CHAR_HEIGHT property not found: default is 10
+[07/Jun/2023 17:37:12] [admin:doctor] WARN - TXT_CHAR_WIDTH property not found: default is 10
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisitsWard() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospital([]) was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientsByOneOfFieldsLike() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientById() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newVisit() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisitsWard() was Generated in : 0 milliseconds.
+[07/Jun/2023 17:37:45] [admin:doctor] INFO - 
+
+=====================
+ Open Hospital closed 
+=====================
+
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in: 2629 milliseconds
+Message FRL: UML Sequence Diagram Text File created  : C:\Users\friverao\eclipse-workspace\Directories\Output\IncidentSequenceDiagram.txt
+Message FRL: UML Sequence Diagram Image File created : C:\Users\friverao\eclipse-workspace\Directories\Output\IncidentSequenceDiagram.png
+Message FRL: Good Bye to the Forensic-Ready Logger.
+
+
+
+[07/Jun/2023 17:49:01] [:] INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+[07/Jun/2023 17:49:01] [:] INFO - HHH000412: Hibernate ORM core version 5.6.11.Final
+[07/Jun/2023 17:49:02] [:] INFO - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[07/Jun/2023 17:49:03] [:] INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[07/Jun/2023 17:49:06] [:] INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Message FRL: Welcome to the Forensic-Ready Logger ...
+Message FRL: The UML Sequence Diagram Files were FIRST Created in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: acceptPwd() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 1140 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in : 224 milliseconds
+Message FRL: Good Bye to the Forensic-Ready Logger.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMenu() was Generated in : 1 milliseconds.
+[07/Jun/2023 17:49:52] [admin:admin] INFO - OS Name             : Windows Server 2016
+[07/Jun/2023 17:49:52] [admin:admin] INFO - OS Current Time     : 07/06/2023 05:49:52 PM MDT
+[07/Jun/2023 17:49:52] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[07/Jun/2023 17:49:52] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[07/Jun/2023 17:49:52] [admin:admin] INFO - OS UserName         : friverao
+[07/Jun/2023 17:49:52] [admin:admin] INFO - Annotation Type     : Parameter
+[07/Jun/2023 17:49:52] [admin:admin] INFO - Method Name         : org.isf.menu.manager.UserBrowsingManager.getMenu
+[07/Jun/2023 17:49:52] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[07/Jun/2023 17:49:52] [admin:admin] INFO - Method Return Value : 
+Message FRL: The Security Log for the HEADER was generated in: 13 milliseconds
+[07/Jun/2023 17:49:52] [admin:admin] INFO - Parameter Name  : aUser
+[07/Jun/2023 17:49:52] [admin:admin] INFO - Parameter Type  :  org.isf.menu.model.User
+[07/Jun/2023 17:49:52] [admin:admin] INFO - Parameter Value : admin
+[07/Jun/2023 17:49:52] [admin:admin] INFO - Attribute Name  : userName
+[07/Jun/2023 17:49:52] [admin:admin] INFO - Attribute Type  : java.lang.String
+[07/Jun/2023 17:49:52] [admin:admin] INFO - Attribute Value : admin
+Message FRL: The Security Log for PARAMETER Annotation Type was generated in: 11 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getTherapyRows() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisits() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: deleteAllTherapies() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newTherapies() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getTherapyRows() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisits() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicalType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: updateMedical() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedical() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDiseaseIpdOut() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentAdmission() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOperationAdm([]) was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDiseaseIpdIn() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards([]) was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmissionType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDischargeType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDeliveryType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPregnantTreatmentType() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDeliveryResultType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getNextYProg() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getUsedWardBed() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newAdmissionReturnKey() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDeliveryType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getUser() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getUserGroup() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getUserGroup() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newUser() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getExams() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getLaboratory() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getExams() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientAll() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getExamRowByExamCode() was Generated in : 1 milliseconds.
+[07/Jun/2023 17:53:57] [admin:admin] INFO - OS Name             : Windows Server 2016
+[07/Jun/2023 17:53:57] [admin:admin] INFO - OS Current Time     : 07/06/2023 05:53:57 PM MDT
+[07/Jun/2023 17:53:57] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[07/Jun/2023 17:53:57] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[07/Jun/2023 17:53:57] [admin:admin] INFO - OS UserName         : friverao
+[07/Jun/2023 17:53:57] [admin:admin] INFO - Annotation Type     : Method
+[07/Jun/2023 17:53:57] [admin:admin] INFO - Method Name         : org.isf.exa.manager.ExamRowBrowsingManager.getExamRowByExamCode
+[07/Jun/2023 17:53:57] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[07/Jun/2023 17:53:57] [admin:admin] INFO - Method Return Value : [NEGATIVE, POSITIVE]
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[07/Jun/2023 17:53:57] [admin:admin] INFO - Parameter Name  : aExamCode
+[07/Jun/2023 17:53:57] [admin:admin] INFO - Parameter Type  : java.lang.String
+[07/Jun/2023 17:53:57] [admin:admin] INFO - Parameter Value : 03.04
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: updateLaboratory() was Generated in : 1 milliseconds.
+[07/Jun/2023 17:54:02] [admin:admin] INFO - OS Name             : Windows Server 2016
+[07/Jun/2023 17:54:02] [admin:admin] INFO - OS Current Time     : 07/06/2023 05:54:02 PM MDT
+[07/Jun/2023 17:54:02] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[07/Jun/2023 17:54:02] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[07/Jun/2023 17:54:02] [admin:admin] INFO - OS UserName         : friverao
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Annotation Type     : ReturnType
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Method Name         : org.isf.lab.manager.LabManager.updateLaboratory
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Method Return Type  : java.lang.Boolean
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Method Return Value : true
+Message FRL: The Security Log for the HEADER was generated in: 4 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Parameter Name : laboratory
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Parameter Type : org.isf.lab.model.Laboratory
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Add Log 1         : true
+[07/Jun/2023 17:54:02] [admin:admin] INFO - The Parameter: laboratory has 14 Attributes
+Message FRL: The Security Log for a METHOD, PARAMETER OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Name  : code
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Type  : java.lang.Integer
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Value : 17
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Name  : material
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Value : urine
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Name : exam
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Type : org.isf.exa.model.Exam
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - The Attribute: exam has 14 SubAttributes
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : code
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : 03.04
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 2 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : description
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : 3.4 URINE MICROSCOPY
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : procedure
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.Integer
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : 1
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : defaultResult
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : NEGATIVE
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name : examtype
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type : org.isf.exatype.model.ExamType
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - The Attribute: examtype has 7 SubAttributes
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 9 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : code
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : PA
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : description
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : 3.Parasitology
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : lock
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.Integer
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : 1
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 2 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Name  : labDate
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Type  : java.time.LocalDateTime
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Value : 2023-06-07T17:54:02.185
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Name  : examDate
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Type  : java.time.LocalDate
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Value : 2023-06-07
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Name  : result
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Value : NEGATIVE
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Name  : note
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Name : patient
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Type : org.isf.patient.model.Patient
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - The Attribute: patient has 14 SubAttributes
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : code
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.Integer
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : 125
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : firstName
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : Valentina
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 2 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : secondName
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : Guzman Perez
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : name
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : Valentina Guzman Perez
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 3 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : birthDate
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.time.LocalDate
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : 1973-04-25
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : age
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : int
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : 50
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : agetype
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : sex
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : char
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : F
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 5 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : address
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : 9 Grafton Street
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 9 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : city
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : Dublin, Ireland
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : nextKin
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : 1
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : telephone
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : +39123456
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : note
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : motherName
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : Maria
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : mother
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : char
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : A
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : fatherName
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : Juan
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : father
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : char
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : A
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : bloodType
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : 0+
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : hasInsurance
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : char
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : Y
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : parentTogether
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : char
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : Y
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : taxCode
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : maritalStatus
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : married
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : profession
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : medicine
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Name  : deleted
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - SubAttribute Value : N
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Name  : patName
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Value : Valentina Guzman Perez
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Name  : inOutPatient
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Value : O
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Name  : age
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Type  : java.lang.Integer
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Value : 50
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Name  : sex
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Attribute Value : F
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Parameter Name  : labRow
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Parameter Type  : java.lang.String
+[07/Jun/2023 17:54:02] [admin:admin] INFO - Parameter Value : []
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getLaboratory() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPendingBills() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospitalCurrencyCod() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospitalCurrencyCod() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPrices() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getItems() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBill() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newBill() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPrices() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPendingBills() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospitalCurrencyCod() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPrices() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getItems() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOthers() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientById() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmissionType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicalType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicalType() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: newMedical() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDiseaseIpdOut() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentAdmission() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOperationAdm([]) was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getOperationRowByAdmission([org.isf.admission.model.Admission@c24]) was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDiseaseIpdIn() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentAdmission() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards([]) was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmissionType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDischargeType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDeliveryType() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPregnantTreatmentType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getDeliveryResultType() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: updateAdmission() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getExams() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getLaboratory() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getExams() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPatientAll() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getExamRowByExamCode() was Generated in : 1 milliseconds.
+[07/Jun/2023 17:59:08] [admin:admin] INFO - OS Name             : Windows Server 2016
+[07/Jun/2023 17:59:08] [admin:admin] INFO - OS Current Time     : 07/06/2023 05:59:08 PM MDT
+[07/Jun/2023 17:59:08] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[07/Jun/2023 17:59:08] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[07/Jun/2023 17:59:08] [admin:admin] INFO - OS UserName         : friverao
+[07/Jun/2023 17:59:08] [admin:admin] INFO - Annotation Type     : Method
+[07/Jun/2023 17:59:08] [admin:admin] INFO - Method Name         : org.isf.exa.manager.ExamRowBrowsingManager.getExamRowByExamCode
+[07/Jun/2023 17:59:08] [admin:admin] INFO - Method Return Type  : java.util.ArrayList
+[07/Jun/2023 17:59:08] [admin:admin] INFO - Method Return Value : [NEGATIVE, POSITIVE]
+Message FRL: The Security Log for the HEADER was generated in: 3 milliseconds
+[07/Jun/2023 17:59:08] [admin:admin] INFO - Parameter Name  : aExamCode
+[07/Jun/2023 17:59:08] [admin:admin] INFO - Parameter Type  : java.lang.String
+[07/Jun/2023 17:59:08] [admin:admin] INFO - Parameter Value : 03.04
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getExams() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getLaboratory() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: deleteLaboratory() was Generated in : 1 milliseconds.
+[07/Jun/2023 17:59:49] [admin:admin] INFO - OS Name             : Windows Server 2016
+[07/Jun/2023 17:59:49] [admin:admin] INFO - OS Current Time     : 07/06/2023 05:59:49 PM MDT
+[07/Jun/2023 17:59:49] [admin:admin] INFO - OS IP Address       : WIN-BIBB4C8F4MJ/193.1.132.43
+[07/Jun/2023 17:59:49] [admin:admin] INFO - OS Hostname         : WIN-BIBB4C8F4MJ
+[07/Jun/2023 17:59:49] [admin:admin] INFO - OS UserName         : friverao
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Annotation Type     : ReturnType
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Method Name         : org.isf.lab.manager.LabManager.deleteLaboratory
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Method Return Type  : java.lang.Boolean
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Method Return Value : true
+Message FRL: The Security Log for the HEADER was generated in: 2 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Parameter Name : laboratory
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Parameter Type : org.isf.lab.model.Laboratory
+Message FRL: The Security Log for a METHOD OR RETURN TYPE Annotation Type was generated in: 1 milliseconds
+Add Log 1         : true
+[07/Jun/2023 17:59:49] [admin:admin] INFO - The Parameter: laboratory has 14 Attributes
+Message FRL: The Security Log for a METHOD, PARAMETER OR RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Name  : code
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Type  : java.lang.Integer
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Value : 17
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Name  : material
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Value : urine
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Name : exam
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Type : org.isf.exa.model.Exam
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - The Attribute: exam has 14 SubAttributes
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : code
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : 03.04
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 3 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : description
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : 3.4 URINE MICROSCOPY
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : procedure
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.Integer
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : 1
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : defaultResult
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : NEGATIVE
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name : examtype
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type : org.isf.exatype.model.ExamType
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - The Attribute: examtype has 7 SubAttributes
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : code
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : PA
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : description
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : 3.Parasitology
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : lock
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.Integer
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : 1
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Name  : labDate
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Type  : java.time.LocalDateTime
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Value : 2023-06-07T17:54:02
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Name  : examDate
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Type  : java.time.LocalDate
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Value : 2023-06-07
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Name  : result
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Value : NEGATIVE
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Name  : lock
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Type  : int
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Value : 1
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Name  : note
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Name : patient
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Type : org.isf.patient.model.Patient
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - The Attribute: patient has 14 SubAttributes
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : code
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.Integer
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : 125
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : firstName
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : Valentina
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : secondName
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : Guzman Perez
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : name
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : Valentina Guzman Perez
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : birthDate
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.time.LocalDate
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : 1973-04-25
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : age
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : int
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : 50
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : agetype
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : sex
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : char
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : F
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : address
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : 9 Grafton Street
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : city
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : Dublin, Ireland
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : nextKin
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : 1
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : telephone
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : +39123456
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : note
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : motherName
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : Maria
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : mother
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : char
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : A
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : fatherName
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : Juan
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : father
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : char
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : A
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 5 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : bloodType
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : 0+
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : hasInsurance
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : char
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : Y
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : parentTogether
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : char
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : Y
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : taxCode
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : 
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : maritalStatus
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : married
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : profession
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : medicine
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Name  : deleted
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - SubAttribute Value : N
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Name  : patName
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Value : Valentina Guzman Perez
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Name  : inOutPatient
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Value : O
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 1 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Name  : age
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Type  : java.lang.Integer
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Value : 50
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Name  : sex
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Type  : java.lang.String
+[07/Jun/2023 17:59:49] [admin:admin] INFO - Attribute Value : F
+Message FRL: The Security Log for a METHOD or a RETURN TYPE Annotation Type was generated in: 0 milliseconds
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getUserGroup() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: updateUserGroup() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccineType() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVaccine() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: deleteVaccine() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getExams() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getLaboratory() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getHospitalCurrencyCod() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getUsers() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBills() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBills() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBills() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: deleteBill() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBills() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBills() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getCurrentUser() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getBills() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPayments() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getPregnantTreatmentType() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getTherapyRows() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisits() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: loadAdmittedPatients() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getMedicals() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getTherapyRows() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getVisits() was Generated in : 1 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getAdmittedPatients() was Generated in : 2 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: getWards() was Generated in : 0 milliseconds.
+[07/Jun/2023 18:07:07] [admin:admin] INFO - File sms.properties loaded.
+[07/Jun/2023 18:07:07] [admin:admin] INFO - WebcamDefaultDriver capture driver will be used
+[07/Jun/2023 18:07:09] [admin:admin] WARN - No webcam has been detected!
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: isNamePresent() was Generated in : 0 milliseconds.
+Message FRL: The UML Sequence Diagram for the METHOD EXCHANGE: savePatient() was Generated in : 1 milliseconds.
+[07/Jun/2023 18:08:12] [admin:admin] INFO - 
+
+=====================
+ Open Hospital closed 
+=====================
+
+Message FRL: The UML Sequence Diagram Files were FINALLY Created in: 2309 milliseconds
+Message FRL: UML Sequence Diagram Text File created  : C:\Users\friverao\eclipse-workspace\Directories\Output\IncidentSequenceDiagram.txt
+Message FRL: UML Sequence Diagram Image File created : C:\Users\friverao\eclipse-workspace\Directories\Output\IncidentSequenceDiagram.png
+Message FRL: Good Bye to the Forensic-Ready Logger.

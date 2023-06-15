@@ -1,0 +1,6 @@
+Parameter,1,org.isf.menu.manager.UserBrowsingManager.getMenu,org.isf.menu.manager.UserBrowsingManager,getMenu,aUser.userName = doctor,userName,=,doctor;
+Parameter,2,org.isf.menu.manager.UserBrowsingManager.getMenu,org.isf.menu.manager.UserBrowsingManager,getMenu,aUser.userName = admin,userName,=,admin;
+Method,3,org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients,org.isf.admission.manager.AdmissionBrowserManager,loadAdmittedPatients,Method = org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients,Method,=,org.isf.admission.manager.AdmissionBrowserManager.loadAdmittedPatients;
+Method,4,org.isf.therapy.manager.TherapyManager.getTherapyRows,org.isf.therapy.manager.TherapyManager,getTherapyRows,Method = org.isf.therapy.manager.TherapyManager.getTherapyRows,Method,=,org.isf.therapy.manager.TherapyManager.getTherapyRows;
+ReturnType,5,org.isf.therapy.manager.TherapyManager.deleteAllTherapies,org.isf.therapy.manager.TherapyManager,deleteAllTherapies,boolean = true,boolean,=,true;
+ReturnType,6,org.isf.therapy.manager.TherapyManager.newTherapies,org.isf.therapy.manager.TherapyManager,newTherapies,boolean = true,boolean,=,true;

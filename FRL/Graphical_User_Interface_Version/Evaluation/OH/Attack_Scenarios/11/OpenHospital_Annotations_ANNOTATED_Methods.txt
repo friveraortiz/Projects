@@ -1,0 +1,4 @@
+Parameter,1,org.isf.menu.manager.UserBrowsingManager.getMenu,org.isf.menu.manager.UserBrowsingManager,getMenu,aUser.userName = doctor,userName,=,doctor;
+Parameter,2,org.isf.menu.manager.UserBrowsingManager.getMenu,org.isf.menu.manager.UserBrowsingManager,getMenu,aUser.userName = admin,userName,=,admin;
+Method,3,org.isf.visits.manager.VisitManager.newVisit,org.isf.visits.manager.VisitManager,newVisit,Method = org.isf.visits.manager.VisitManager.newVisit,Method,=,org.isf.visits.manager.VisitManager.newVisit;
+Method,4,org.isf.visits.manager.VisitManager.deleteVisit,org.isf.visits.manager.VisitManager,deleteVisit,Method = org.isf.visits.manager.VisitManager.deleteVisit,Method,=,org.isf.visits.manager.VisitManager.deleteVisit;

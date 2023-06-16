@@ -1,0 +1,96 @@
+@startuml
+skinparam backgroundColor #EEEBDC
+skinparam sequence {
+ArrowColor DarkBlue
+ActorBorderColor DarkBlue
+LifeLineBorderColor blue
+LifeLineBackgroundColor DarkBlue
+ParticipantBorderColor DarkBlue
+ParticipantBackgroundColor DarkBlue
+ParticipantFontName Impact
+ParticipantFontSize 17
+ParticipantFontColor #A9DCDF
+ActorBackgroundColor DarkBlue
+ActorFontColor DarkBlue
+ActorFontSize 17
+ActorFontName Aapex
+}
+== Connects to the HRMApplication ==
+actor User_1 order 1
+participant controller.UserController order 2
+note left of User_1 #lightskyblue 
+gui.LoginFrame
+end note
+User_1 ->controller.UserController: 1.validateUser()
+||20||
+participant controller.UserController order 3
+participant model.UserDatabase order 4
+controller.UserController ->model.UserDatabase: 2.validateUser([0: ocarter null null])
+||20||
+actor User_1 order 1
+participant controller.UserController order 5
+note left of User_1 #lightskyblue 
+gui.LoginFrame
+end note
+User_1 ->controller.UserController: 3.getUserLevel()
+||20||
+participant controller.UserController order 6
+participant model.UserDatabase order 7
+controller.UserController ->model.UserDatabase: 4.getUserLevel([0: ocarter null null])
+||20||
+actor User_1 order 1
+participant controller.ModuleController order 8
+note left of User_1 #lightskyblue 
+gui.MainFrame
+end note
+User_1 ->controller.ModuleController: 5.saveModules()
+||20||
+participant controller.ModuleController order 9
+participant model.ModuleDatabase order 10
+controller.ModuleController ->model.ModuleDatabase: 6.saveModules([])
+||20||
+actor User_1 order 1
+participant controller.TravelRequestController order 11
+note left of User_1 #lightskyblue 
+gui.TravelRequestFormPanel
+end note
+User_1 ->controller.TravelRequestController: 7.maxNumTravelRequest()
+||20||
+participant controller.TravelRequestController order 12
+participant model.TravelRequestDatabase order 13
+controller.TravelRequestController ->model.TravelRequestDatabase: 8.maxNumTravelRequest([])
+||20||
+actor User_1 order 1
+participant controller.TravelRequestController order 14
+note left of User_1 #lightskyblue 
+gui.TravelRequestFrame
+end note
+User_1 ->controller.TravelRequestController: 9.load()
+||20||
+participant controller.TravelRequestController order 15
+participant model.TravelRequestDatabase order 16
+controller.TravelRequestController ->model.TravelRequestDatabase: 10.load([ocarter, Employee])
+||20||
+actor User_1 order 1
+participant controller.TravelRequestController order 17
+note left of User_1 #lightskyblue 
+gui.TravelRequestFormPanel
+end note
+User_1 ->controller.TravelRequestController: 11.maxNumTravelRequest()
+||20||
+participant controller.TravelRequestController order 18
+participant model.TravelRequestDatabase order 19
+controller.TravelRequestController ->model.TravelRequestDatabase: 12.maxNumTravelRequest([])
+||20||
+actor User_1 order 1
+participant controller.TravelRequestController order 20
+note left of User_1 #lightskyblue 
+gui.TravelRequestFormPanel
+end note
+User_1 ->controller.TravelRequestController: 13.maxNumTravelRequest()
+||20||
+participant controller.TravelRequestController order 21
+participant model.TravelRequestDatabase order 22
+controller.TravelRequestController ->model.TravelRequestDatabase: 14.maxNumTravelRequest([])
+||20||
+@enduml

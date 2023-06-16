@@ -1,0 +1,84 @@
+15/06/2022 07:58:31 PM IST INFO  UserController:648 - OS Name             : Mac OS X
+15/06/2022 07:58:31 PM IST INFO  UserController:649 - OS Current Time     : 15/06/2022 07:58:31 PM IST
+15/06/2022 07:58:31 PM IST INFO  UserController:650 - OS IP Address       : Fanny-MacBook.local/192.186.1.122
+15/06/2022 07:58:31 PM IST INFO  UserController:651 - OS Hostname         : Fanny-MacBook.local
+15/06/2022 07:58:31 PM IST INFO  UserController:652 - OS UserName         : fanny
+15/06/2022 07:58:31 PM IST INFO  UserController:653 - Annotation Type     : ReturnType
+15/06/2022 07:58:31 PM IST INFO  UserController:654 - Method Name         : controller.UserController.getUserLevel
+15/06/2022 07:58:31 PM IST INFO  UserController:655 - Method Return Type  : model.UserLevel
+15/06/2022 07:58:31 PM IST INFO  UserController:656 - Method Return Value : Manager
+15/06/2022 07:58:31 PM IST INFO  UserController:574 - Attribute Name      : userName
+15/06/2022 07:58:31 PM IST INFO  UserController:575 - Attribute Type      : class java.lang.String
+15/06/2022 07:58:31 PM IST INFO  UserController:576 - Attribute Value     : ajones
+15/06/2022 07:58:31 PM IST INFO  UserController:574 - Attribute Name      : password
+15/06/2022 07:58:31 PM IST INFO  UserController:575 - Attribute Type      : class java.lang.String
+15/06/2022 07:58:31 PM IST INFO  UserController:576 - Attribute Value     : 123
+15/06/2022 08:02:25 PM IST INFO  UserController:648 - OS Name             : Mac OS X
+15/06/2022 08:02:25 PM IST INFO  UserController:649 - OS Current Time     : 15/06/2022 08:02:25 PM IST
+15/06/2022 08:02:25 PM IST INFO  UserController:650 - OS IP Address       : Fanny-MacBook.local/192.186.1.122
+15/06/2022 08:02:25 PM IST INFO  UserController:651 - OS Hostname         : Fanny-MacBook.local
+15/06/2022 08:02:25 PM IST INFO  UserController:652 - OS UserName         : fanny
+15/06/2022 08:02:25 PM IST INFO  UserController:653 - Annotation Type     : ReturnType
+15/06/2022 08:02:25 PM IST INFO  UserController:654 - Method Name         : controller.UserController.getUserLevel
+15/06/2022 08:02:25 PM IST INFO  UserController:655 - Method Return Type  : model.UserLevel
+15/06/2022 08:02:25 PM IST INFO  UserController:656 - Method Return Value : Manager
+15/06/2022 08:02:25 PM IST INFO  UserController:574 - Attribute Name      : userName
+15/06/2022 08:02:25 PM IST INFO  UserController:575 - Attribute Type      : class java.lang.String
+15/06/2022 08:02:25 PM IST INFO  UserController:576 - Attribute Value     : ajones
+15/06/2022 08:02:25 PM IST INFO  UserController:574 - Attribute Name      : password
+15/06/2022 08:02:25 PM IST INFO  UserController:575 - Attribute Type      : class java.lang.String
+15/06/2022 08:02:25 PM IST INFO  UserController:576 - Attribute Value     : 123
+15/06/2022 08:03:08 PM IST INFO  TravelRequestDatabase:648 - OS Name             : Mac OS X
+15/06/2022 08:03:08 PM IST INFO  TravelRequestDatabase:649 - OS Current Time     : 15/06/2022 08:03:08 PM IST
+15/06/2022 08:03:08 PM IST INFO  TravelRequestDatabase:650 - OS IP Address       : Fanny-MacBook.local/192.186.1.122
+15/06/2022 08:03:08 PM IST INFO  TravelRequestDatabase:651 - OS Hostname         : Fanny-MacBook.local
+15/06/2022 08:03:08 PM IST INFO  TravelRequestDatabase:652 - OS UserName         : fanny
+15/06/2022 08:03:08 PM IST INFO  TravelRequestDatabase:653 - Annotation Type     : Parameter
+15/06/2022 08:03:08 PM IST INFO  TravelRequestDatabase:654 - Method Name         : model.TravelRequestDatabase.save
+15/06/2022 08:03:08 PM IST INFO  TravelRequestDatabase:655 - Method Return Type  : 
+15/06/2022 08:03:08 PM IST INFO  TravelRequestDatabase:656 - Method Return Value : Manager
+15/06/2022 08:03:08 PM IST INFO  TravelRequestDatabase:614 - Attribute Name      : currency
+15/06/2022 08:03:08 PM IST INFO  TravelRequestDatabase:615 - Attribute Type      : class model.Currency
+15/06/2022 08:03:08 PM IST INFO  TravelRequestDatabase:616 - Attribute Value     : Euros
+15/06/2022 08:03:08 PM IST INFO  TravelRequestController:648 - OS Name             : Mac OS X
+15/06/2022 08:03:08 PM IST INFO  TravelRequestController:649 - OS Current Time     : 15/06/2022 08:03:08 PM IST
+15/06/2022 08:03:08 PM IST INFO  TravelRequestController:650 - OS IP Address       : Fanny-MacBook.local/192.186.1.122
+15/06/2022 08:03:08 PM IST INFO  TravelRequestController:651 - OS Hostname         : Fanny-MacBook.local
+15/06/2022 08:03:08 PM IST INFO  TravelRequestController:652 - OS UserName         : fanny
+15/06/2022 08:03:08 PM IST INFO  TravelRequestController:653 - Annotation Type     : Parameter
+15/06/2022 08:03:08 PM IST INFO  TravelRequestController:654 - Method Name         : controller.TravelRequestController.save
+15/06/2022 08:03:08 PM IST INFO  TravelRequestController:655 - Method Return Type  : 
+15/06/2022 08:03:08 PM IST INFO  TravelRequestController:656 - Method Return Value : 
+15/06/2022 08:03:08 PM IST INFO  TravelRequestController:614 - Attribute Name      : totalFunding
+15/06/2022 08:03:08 PM IST INFO  TravelRequestController:615 - Attribute Type      : float
+15/06/2022 08:03:08 PM IST INFO  TravelRequestController:616 - Attribute Value     : 1200.0
+15/06/2022 08:05:55 PM IST INFO  UserController:648 - OS Name             : Mac OS X
+15/06/2022 08:05:55 PM IST INFO  UserController:649 - OS Current Time     : 15/06/2022 08:05:55 PM IST
+15/06/2022 08:05:55 PM IST INFO  UserController:650 - OS IP Address       : Fanny-MacBook.local/192.186.1.122
+15/06/2022 08:05:55 PM IST INFO  UserController:651 - OS Hostname         : Fanny-MacBook.local
+15/06/2022 08:05:55 PM IST INFO  UserController:652 - OS UserName         : fanny
+15/06/2022 08:05:55 PM IST INFO  UserController:653 - Annotation Type     : ReturnType
+15/06/2022 08:05:55 PM IST INFO  UserController:654 - Method Name         : controller.UserController.getUserLevel
+15/06/2022 08:05:55 PM IST INFO  UserController:655 - Method Return Type  : model.UserLevel
+15/06/2022 08:05:55 PM IST INFO  UserController:656 - Method Return Value : Manager
+15/06/2022 08:05:55 PM IST INFO  UserController:574 - Attribute Name      : userName
+15/06/2022 08:05:55 PM IST INFO  UserController:575 - Attribute Type      : class java.lang.String
+15/06/2022 08:05:55 PM IST INFO  UserController:576 - Attribute Value     : ajones
+15/06/2022 08:05:55 PM IST INFO  UserController:574 - Attribute Name      : password
+15/06/2022 08:05:55 PM IST INFO  UserController:575 - Attribute Type      : class java.lang.String
+15/06/2022 08:05:55 PM IST INFO  UserController:576 - Attribute Value     : 123
+15/06/2022 08:10:06 PM IST INFO  UserController:648 - OS Name             : Mac OS X
+15/06/2022 08:10:06 PM IST INFO  UserController:649 - OS Current Time     : 15/06/2022 08:10:06 PM IST
+15/06/2022 08:10:06 PM IST INFO  UserController:650 - OS IP Address       : Fanny-MacBook.local/192.186.1.122
+15/06/2022 08:10:06 PM IST INFO  UserController:651 - OS Hostname         : Fanny-MacBook.local
+15/06/2022 08:10:06 PM IST INFO  UserController:652 - OS UserName         : fanny
+15/06/2022 08:10:06 PM IST INFO  UserController:653 - Annotation Type     : ReturnType
+15/06/2022 08:10:06 PM IST INFO  UserController:654 - Method Name         : controller.UserController.getUserLevel
+15/06/2022 08:10:06 PM IST INFO  UserController:655 - Method Return Type  : model.UserLevel
+15/06/2022 08:10:06 PM IST INFO  UserController:656 - Method Return Value : Manager
+15/06/2022 08:10:06 PM IST INFO  UserController:574 - Attribute Name      : userName
+15/06/2022 08:10:06 PM IST INFO  UserController:575 - Attribute Type      : class java.lang.String
+15/06/2022 08:10:06 PM IST INFO  UserController:576 - Attribute Value     : ajones
+15/06/2022 08:10:06 PM IST INFO  UserController:574 - Attribute Name      : password
+15/06/2022 08:10:06 PM IST INFO  UserController:575 - Attribute Type      : class java.lang.String
+15/06/2022 08:10:06 PM IST INFO  UserController:576 - Attribute Value     : 123

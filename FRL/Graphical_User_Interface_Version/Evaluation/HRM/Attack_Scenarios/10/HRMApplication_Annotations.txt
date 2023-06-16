@@ -1,0 +1,3 @@
+ReturnType,4,controller.UserController.getUserLevel,controller.UserController,getUserLevel,model.UserLevel = Employee,UserLevel,=,Employee;
+Parameter,7,model.TravelRequestDatabase.load,model.TravelRequestDatabase,load,model.UserLevel userLevelP.UserLevel = Manager,userLevelP,=,Employee;
+Parameter,10,model.TravelRequestDatabase.save,model.TravelRequestDatabase,save,model.TravelRequest travelRequest.status = Pending,status,=,Pending;

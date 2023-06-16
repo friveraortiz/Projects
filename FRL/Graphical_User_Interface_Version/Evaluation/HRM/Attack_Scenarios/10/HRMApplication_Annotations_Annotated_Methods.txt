@@ -1,0 +1,2 @@
+ReturnType,4,controller.UserController.getUserLevel,controller.UserController,getUserLevel,model.UserLevel = Employee,UserLevel,=,Employee;
+Parameter,7,model.TravelRequestDatabase.load,model.TravelRequestDatabase,load,model.UserLevel userLevelP.UserLevel = Employee,userLevelP,=,Employee;

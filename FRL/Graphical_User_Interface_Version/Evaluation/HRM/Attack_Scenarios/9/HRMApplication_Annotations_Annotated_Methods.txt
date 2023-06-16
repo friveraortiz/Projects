@@ -1,0 +1,3 @@
+Parameter,4,controller.TravelRequestController.save,controller.TravelRequestController,save,gui.TravelRequestFormEvent ev.totalFunding >= 1000,totalFunding,>=,1000;
+ReturnType,5,controller.UserController.getUserLevel,controller.UserController,getUserLevel,model.UserLevel = Manager,UserLevel,=,Manager;
+Parameter,10,model.TravelRequestDatabase.save,model.TravelRequestDatabase,save,model.TravelRequest travelRequest.currency = Euros,currency,=,Euros;

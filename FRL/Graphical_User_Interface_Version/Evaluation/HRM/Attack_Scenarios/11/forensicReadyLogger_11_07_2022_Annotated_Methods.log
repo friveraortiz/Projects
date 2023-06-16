@@ -1,0 +1,45 @@
+11/07/2022 11:22:25 AM IST INFO  UserController:821 - OS Name             : Mac OS X
+11/07/2022 11:22:25 AM IST INFO  UserController:822 - OS Current Time     : 11/07/2022 11:22:25 AM IST
+11/07/2022 11:22:25 AM IST INFO  UserController:823 - OS IP Address       : Fanny-MacBook.local/192.186.1.122
+11/07/2022 11:22:25 AM IST INFO  UserController:824 - OS Hostname         : Fanny-MacBook.local
+11/07/2022 11:22:25 AM IST INFO  UserController:825 - OS UserName         : fanny
+11/07/2022 11:22:25 AM IST INFO  UserController:826 - Annotation Type     : Method
+11/07/2022 11:22:25 AM IST INFO  UserController:827 - Method Name         : controller.UserController.validateUser
+11/07/2022 11:22:25 AM IST INFO  UserController:828 - Method Return Type  : java.lang.Boolean
+11/07/2022 11:22:25 AM IST INFO  UserController:829 - Method Return Value : false
+11/07/2022 11:22:25 AM IST INFO  UserController:712 - Attribute Name      : userName
+11/07/2022 11:22:25 AM IST INFO  UserController:713 - Attribute Type      : class java.lang.String
+11/07/2022 11:22:25 AM IST INFO  UserController:714 - Attribute Value     : ajones
+11/07/2022 11:22:25 AM IST INFO  UserController:712 - Attribute Name      : password
+11/07/2022 11:22:25 AM IST INFO  UserController:713 - Attribute Type      : class java.lang.String
+11/07/2022 11:22:25 AM IST INFO  UserController:714 - Attribute Value     : 12345
+11/07/2022 11:22:47 AM IST INFO  UserController:821 - OS Name             : Mac OS X
+11/07/2022 11:22:47 AM IST INFO  UserController:822 - OS Current Time     : 11/07/2022 11:22:47 AM IST
+11/07/2022 11:22:47 AM IST INFO  UserController:823 - OS IP Address       : Fanny-MacBook.local/192.186.1.122
+11/07/2022 11:22:47 AM IST INFO  UserController:824 - OS Hostname         : Fanny-MacBook.local
+11/07/2022 11:22:47 AM IST INFO  UserController:825 - OS UserName         : fanny
+11/07/2022 11:22:47 AM IST INFO  UserController:826 - Annotation Type     : Method
+11/07/2022 11:22:47 AM IST INFO  UserController:827 - Method Name         : controller.UserController.validateUser
+11/07/2022 11:22:47 AM IST INFO  UserController:828 - Method Return Type  : java.lang.Boolean
+11/07/2022 11:22:47 AM IST INFO  UserController:829 - Method Return Value : false
+11/07/2022 11:22:47 AM IST INFO  UserController:712 - Attribute Name      : userName
+11/07/2022 11:22:47 AM IST INFO  UserController:713 - Attribute Type      : class java.lang.String
+11/07/2022 11:22:47 AM IST INFO  UserController:714 - Attribute Value     : ajones
+11/07/2022 11:22:47 AM IST INFO  UserController:712 - Attribute Name      : password
+11/07/2022 11:22:47 AM IST INFO  UserController:713 - Attribute Type      : class java.lang.String
+11/07/2022 11:22:47 AM IST INFO  UserController:714 - Attribute Value     : 12345
+11/07/2022 11:22:57 AM IST INFO  UserController:821 - OS Name             : Mac OS X
+11/07/2022 11:22:57 AM IST INFO  UserController:822 - OS Current Time     : 11/07/2022 11:22:57 AM IST
+11/07/2022 11:22:57 AM IST INFO  UserController:823 - OS IP Address       : Fanny-MacBook.local/192.186.1.122
+11/07/2022 11:22:57 AM IST INFO  UserController:824 - OS Hostname         : Fanny-MacBook.local
+11/07/2022 11:22:57 AM IST INFO  UserController:825 - OS UserName         : fanny
+11/07/2022 11:22:57 AM IST INFO  UserController:826 - Annotation Type     : Method
+11/07/2022 11:22:57 AM IST INFO  UserController:827 - Method Name         : controller.UserController.validateUser
+11/07/2022 11:22:57 AM IST INFO  UserController:828 - Method Return Type  : java.lang.Boolean
+11/07/2022 11:22:57 AM IST INFO  UserController:829 - Method Return Value : false
+11/07/2022 11:22:57 AM IST INFO  UserController:712 - Attribute Name      : userName
+11/07/2022 11:22:57 AM IST INFO  UserController:713 - Attribute Type      : class java.lang.String
+11/07/2022 11:22:57 AM IST INFO  UserController:714 - Attribute Value     : ajones
+11/07/2022 11:22:57 AM IST INFO  UserController:712 - Attribute Name      : password
+11/07/2022 11:22:57 AM IST INFO  UserController:713 - Attribute Type      : class java.lang.String
+11/07/2022 11:22:57 AM IST INFO  UserController:714 - Attribute Value     : 12345

@@ -1,0 +1,4 @@
+Method,1,model.UserDatabase.load,model.UserDatabase,load,Method = model.UserDatabase.load,Method,=,model.UserDatabase.load;
+Method,2,model.UserDatabase.validateUser,model.UserDatabase,validateUser,Method = model.UserDatabase.validateUser,Method,=,model.UserDatabase.validateUser;
+Method,3,model.UserDatabase.getUserLevel,model.UserDatabase,getUserLevel,Method = model.UserDatabase.getUserLevel,Method,=,model.UserDatabase.getUserLevel;
+Method,4,model.ModuleDatabase.saveModules,model.ModuleDatabase,saveModules,Method = model.ModuleDatabase.saveModules,Method,=,ModuleDatabase.saveModules;

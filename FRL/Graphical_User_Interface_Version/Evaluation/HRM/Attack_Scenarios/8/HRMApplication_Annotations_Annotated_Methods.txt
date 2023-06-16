@@ -1,0 +1,2 @@
+ReturnType,5,controller.UserController.getUserLevel,controller.UserController,getUserLevel,model.UserLevel = Manager,UserLevel,=,Manager;
+Parameter,10,model.TravelRequestDatabase.save,model.TravelRequestDatabase,save,model.TravelRequest travelRequest.status = Rejected,status,=,Rejected;

@@ -1,2 +1,0 @@
-ReturnType,4,controller.UserController.getUserLevel,controller.UserController,getUserLevel,model.UserLevel = Manager,UserLevel,=,Manager;
-Method,6,model.EmployeeDatabase.load,model.EmployeeDatabase,load,Method = model.EmployeeDatabase.load,Method,=,model.EmployeeDatabase.load;

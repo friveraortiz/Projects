@@ -1,2 +1,0 @@
-ReturnType,7,controller.UserController.getUserLevel,controller.UserController,getUserLevel,model.UserLevel = Admin,UserLevel,=,Admin;
-Method,9,model.EmployeeDatabase.delete,model.EmployeeDatabase,delete,Method = model.EmployeeDatabase.delete,Method,=,model.EmployeeDatabase.delete;

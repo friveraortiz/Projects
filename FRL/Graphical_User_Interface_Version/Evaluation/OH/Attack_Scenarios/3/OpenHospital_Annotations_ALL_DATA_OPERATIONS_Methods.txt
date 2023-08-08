@@ -1,5 +1,0 @@
-Method,1,org.isf.menu.gui.Login.acceptPwd,org.isf.menu.gui.Login,acceptPwd,Method = org.isf.menu.gui.Login.acceptPwd,Method,=,org.isf.menu.gui.Login.acceptPwd;
-Method,2,org.isf.menu.manager.UserBrowsingManager.getMenu,org.isf.menu.manager.UserBrowsingManager,getMenu,Method = org.isf.menu.manager.UserBrowsingManager.getMenu,Method,=,org.isf.menu.manager.UserBrowsingManager.getMenu;
-Method,3,org.isf.ward.manager.WardBrowserManager.getWards,org.isf.ward.manager.WardBrowserManager,getWards,Method = org.isf.ward.manager.WardBrowserManager.getWards,Method,=,org.isf.ward.manager.WardBrowserManager.getWards;
-Method,4,org.isf.patient.manager.PatientBrowserManager.isNamePresent,org.isf.patient.manager.PatientBrowserManager,isNamePresent,Method = org.isf.patient.manager.PatientBrowserManager.isNamePresent,Method,=,org.isf.patient.manager.PatientBrowserManager.isNamePresent;
-Method,5,org.isf.patient.manager.PatientBrowserManager.savePatient,org.isf.patient.manager.PatientBrowserManager,savePatient,Method = org.isf.patient.manager.PatientBrowserManager.savePatient,Method,=,org.isf.patient.manager.PatientBrowserManager.savePatient;

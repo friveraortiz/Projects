@@ -1,1 +1,0 @@
-Method,1,org.isf.menu.gui.Login.acceptPwd,org.isf.menu.gui.Login,acceptPwd,Method = org.isf.menu.gui.Login.acceptPwd,Method,=,org.isf.menu.gui.Login.acceptPwd;

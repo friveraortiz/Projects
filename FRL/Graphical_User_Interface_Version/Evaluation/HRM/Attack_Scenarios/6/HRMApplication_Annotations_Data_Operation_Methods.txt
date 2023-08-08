@@ -1,6 +1,0 @@
-Method,1,model.UserDatabase.load,model.UserDatabase,load,Method = model.UserDatabase.load,Method,=,model.UserDatabase.load;
-Method,2,model.UserDatabase.delete,model.UserDatabase,delete,Method = model.UserDatabase.delete,Method,=,model.UserDatabase.delete;
-Method,3,model.UserDatabase.validateUser,model.UserDatabase,validateUser,Method = model.UserDatabase.validateUser,Method,=,model.UserDatabase.validateUser;
-Method,4,model.UserDatabase.getUserLevel,model.UserDatabase,getUserLevel,Method = model.UserDatabase.getUserLevel,Method,=,model.UserDatabase.getUserLevel;
-Method,5,model.UserDatabase.validateDeleteUser,model.UserDatabase,validateDeleteUser,Method = model.UserDatabase.validateDeleteUser,Method,=,model.UserDatabase.validateDeleteUser;
-Method,6,model.ModuleDatabase.saveModules,model.ModuleDatabase,saveModules,Method = model.ModuleDatabase.saveModules,Method,=,model.ModuleDatabase.saveModules;

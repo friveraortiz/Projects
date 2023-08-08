@@ -1,8 +1,0 @@
-Method,1,controller.ModuleController.saveModules,controller.ModuleController,saveModules,Method = controller.ModuleController.saveModules,Method,=,ModuleController.saveModules;
-Method,2,controller.UserController.getUserLevel,controller.UserController,getUserLevel,Method = controller.UserController.getUserLevel,Method,=,controller.UserController.getUserLevel;
-Method,3,controller.UserController.load,controller.UserController,load,Method = controller.UserController.load,Method,=,controller.UserController.load;
-Method,4,controller.UserController.validateUser,controller.UserController,validateUser,Method = controller.UserController.validateUser,Method,=,controller.UserController.validateUser;
-Method,5,model.ModuleDatabase.saveModules,model.ModuleDatabase,saveModules,Method = model.ModuleDatabase.saveModules,Method,=,ModuleDatabase.saveModules;
-Method,6,model.UserDatabase.getUserLevel,model.UserDatabase,getUserLevel,Method = model.UserDatabase.getUserLevel,Method,=,model.UserDatabase.getUserLevel;
-Method,7,model.UserDatabase.load,model.UserDatabase,load,Method = model.UserDatabase.load,Method,=,model.UserDatabase.load;
-Method,8,model.UserDatabase.validateUser,model.UserDatabase,validateUser,Method = model.UserDatabase.validateUser,Method,=,model.UserDatabase.validateUser;

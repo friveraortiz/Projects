@@ -1,4 +1,0 @@
-Method,1,controller.UserController.getUserLevel,controller.UserController,getUserLevel,Method = controller.UserController.getUserLevel,Method,=,controller.UserController.getUserLevel;
-Method,2,controller.UserController.save,controller.UserController,save,Method = controller.UserController.save,Method,=,controller.UserController.save;
-Parameter,3,model.TravelRequestDatabase.save,model.TravelRequestDatabase,save,model.TravelRequest travelRequest.status = Pending,status,=,Pending;
-Parameter,4,model.TravelRequestDatabase.save,model.TravelRequestDatabase,save,model.TravelRequest travelRequest.status = Approved,status,=,Approved;

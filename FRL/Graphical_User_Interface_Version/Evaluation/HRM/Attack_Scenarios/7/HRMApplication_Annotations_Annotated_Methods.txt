@@ -1,2 +1,0 @@
-ReturnType,2,controller.UserController.getUserLevel,controller.UserController,getUserLevel,model.UserLevel = Admin,UserLevel,=,Admin;
-Method,3,controller.UserController.load,controller.UserController,load,Method = controller.UserController.load,Method,=,controller.UserController.load;

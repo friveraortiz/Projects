@@ -1,5 +1,0 @@
-Method,1,model.UserDatabase.validateUser,model.UserDatabase,validateUser,Method = model.UserDatabase.validateUser,Method,=,model.UserDatabase.validateUser;
-Method,2,model.UserDatabase.getUserLevel,model.UserDatabase,getUserLevel,Method = model.UserDatabase.getUserLevel,Method,=,model.UserDatabase.getUserLevel;
-Method,3,model.TravelRequestDatabase.load,model.TravelRequestDatabase,load,Method = model.TravelRequestDatabase.load,Method,=,model.TravelRequestDatabase.load;
-Method,4,model.TravelRequestDatabase.maxNumTravelRequest,model.TravelRequestDatabase,maxNumTravelRequest,Method = model.TravelRequestDatabase.maxNumTravelRequest,Method,=,model.TravelRequestDatabase.maxNumTravelRequest;
-Method,5,model.ModuleDatabase.saveModules,model.ModuleDatabase,saveModules,Method = model.ModuleDatabase.saveModules,Method,=,ModuleDatabase.saveModules;
